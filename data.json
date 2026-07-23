@@ -24,8 +24,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -84,8 +84,8 @@
     "gpf": 8.0,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite",
@@ -322,8 +322,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -444,9 +444,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "numeros que tem tando em uma categori"
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -751,8 +750,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -819,8 +818,8 @@
     "gpf": 4.67,
     "conc": "Parfum",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -880,8 +879,8 @@
     "gpf": 4.67,
     "conc": "Parfum",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -939,8 +938,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -1118,8 +1117,8 @@
     "gpf": 8.0,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -1237,8 +1236,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite",
@@ -1296,8 +1295,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -1419,8 +1418,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -1602,8 +1601,8 @@
     "gpf": 6.0,
     "conc": "Parfum",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -1780,8 +1779,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -1845,8 +1844,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -2027,8 +2026,8 @@
     "gpf": 5.33,
     "conc": "EDT",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -2286,8 +2285,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -2349,8 +2348,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -2545,8 +2544,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -2611,8 +2610,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -2860,8 +2859,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -3042,8 +3041,8 @@
     "gpf": 5.33,
     "conc": "EDT",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -3102,8 +3101,8 @@
     "gpf": 5.33,
     "conc": "EDT",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -3163,8 +3162,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite",
@@ -3228,8 +3227,8 @@
     "gpf": 9.33,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite",
@@ -3359,8 +3358,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -3423,8 +3422,8 @@
     "gpf": 9.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -3553,8 +3552,8 @@
     "gpf": 8.67,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite",
@@ -3685,8 +3684,8 @@
     "gpf": 5.33,
     "conc": "EDT",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -3938,8 +3937,8 @@
     "gpf": 4.67,
     "conc": "EDC",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -4076,8 +4075,8 @@
     "gpf": 5.33,
     "conc": "EDT",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -4348,8 +4347,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -4412,8 +4411,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -4476,8 +4475,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite",
@@ -4539,8 +4538,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -4666,8 +4665,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -4729,8 +4728,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -4864,8 +4863,8 @@
     "gpf": 8.0,
     "conc": "Parfum",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite",
@@ -4934,8 +4933,8 @@
     "gpf": 8.0,
     "conc": "Parfum",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite",
@@ -5006,8 +5005,8 @@
     "gpf": 9.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -5075,8 +5074,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -5142,8 +5141,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -5493,8 +5492,8 @@
     "gpf": 4.67,
     "conc": "EDT",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -5557,8 +5556,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -5621,8 +5620,8 @@
     "gpf": 8.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -5747,8 +5746,8 @@
     "gpf": 8.0,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite",
@@ -5812,8 +5811,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -5940,8 +5939,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite",
@@ -6072,8 +6071,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Versátil"
@@ -6135,8 +6134,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -6202,8 +6201,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -6270,8 +6269,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -6340,8 +6339,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -6408,8 +6407,8 @@
     "gpf": 6.67,
     "conc": "EDT",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -6476,8 +6475,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -6547,8 +6546,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -6616,8 +6615,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -6681,8 +6680,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -6751,8 +6750,8 @@
     "gpf": 5.33,
     "conc": "Extrait",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -6815,8 +6814,8 @@
     "gpf": 10,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -6882,8 +6881,8 @@
     "gpf": 8.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -6953,8 +6952,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -7023,8 +7022,8 @@
     "gpf": 2.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -7088,8 +7087,8 @@
     "gpf": 3.33,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -7151,8 +7150,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -7218,8 +7217,8 @@
     "gpf": 10,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -7348,8 +7347,8 @@
     "gpf": 8.0,
     "conc": "Extrait",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -7418,8 +7417,8 @@
     "gpf": 7.33,
     "conc": "Extrait",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -7489,8 +7488,8 @@
     "gpf": 10,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -7625,8 +7624,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -7691,8 +7690,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -7758,8 +7757,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -7822,8 +7821,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -7883,8 +7882,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -7948,8 +7947,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -8012,8 +8011,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -8080,8 +8079,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -8147,8 +8146,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -8210,8 +8209,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -8481,8 +8480,8 @@
     "gpf": 6.67,
     "conc": "EDT",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -8551,8 +8550,8 @@
     "gpf": 10,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite",
@@ -8615,8 +8614,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -8686,8 +8685,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -8752,8 +8751,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -8820,8 +8819,8 @@
     "gpf": 8.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -8888,8 +8887,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -8954,8 +8953,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -9018,10 +9017,12 @@
     "gpf": 7.33,
     "conc": "Parfum",
     "clima": [
-      "Versátil (todos)"
+      "Versátil"
     ],
     "periodo": [
-      "Versátil (Dia e Noite)"
+      "Dia",
+      "Noite",
+      "Versátil"
     ],
     "perfil": [
       "Fresh",
@@ -9080,8 +9081,8 @@
     "gpf": 10,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite",
@@ -9144,12 +9145,11 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia",
-      "Tarde"
+      "Dia"
     ],
     "perfil": [
       "Cítrico Aromático Mineral"
@@ -9203,8 +9203,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -9319,18 +9319,18 @@
     "gpf": 5.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Aromatico Citrico"
     ],
-    "fam": "Aromatico",
+    "fam": "Aromático",
     "acordes": [
       "Bergamota",
       "Maca",
@@ -9496,8 +9496,8 @@
     "gpf": 10,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -9555,8 +9555,8 @@
     "gpf": 2.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -9614,8 +9614,7 @@
     "gpf": 2.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Calor Extremo"
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -9736,8 +9735,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -9794,8 +9793,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -9852,8 +9851,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -9910,8 +9909,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -9971,9 +9970,9 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Versátil",
       "Ameno",
-      "Calor"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
@@ -10034,8 +10033,8 @@
     "gpf": 5.33,
     "conc": "Parfum",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -10095,8 +10094,8 @@
     "gpf": 6.0,
     "conc": "Parfum",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -10218,8 +10217,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -10277,8 +10276,8 @@
     "gpf": 10,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -10336,7 +10335,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Outono, Inverno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -10394,10 +10394,12 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera, Outono"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia e Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Luxury Clean"
@@ -10451,10 +10453,12 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Outono, Inverno, Primavera"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia e Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Oriental Amadeirado"
@@ -10509,7 +10513,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -10565,7 +10570,7 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Outono, Primavera"
+      "Ameno"
     ],
     "periodo": [
       "Noite"
@@ -10621,7 +10626,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -10678,7 +10684,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Inverno, Outono"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -10736,10 +10743,12 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Outono, Primavera, Inverno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia e Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Oriental Especiado"
@@ -10792,10 +10801,12 @@
     "gpf": 7.33,
     "conc": "Extrait",
     "clima": [
-      "Inverno, Outono"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia e Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Oriental Amadeirado"
@@ -10849,7 +10860,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Inverno, Outono"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -10906,10 +10918,12 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Outono, Primavera, Inverno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia e Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Oriental Especiado"
@@ -10963,7 +10977,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Outono, Primavera, Inverno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -11021,7 +11036,7 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Inverno"
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -11079,7 +11094,8 @@
     "gpf": 10,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera, Outono"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -11137,7 +11153,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Inverno, Outono"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -11195,7 +11212,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Primavera, Verão, Outono"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -11251,7 +11269,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Inverno, Outono"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -11307,7 +11326,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -11364,10 +11384,12 @@
     "gpf": 10,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera, Outono"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia e Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Cítrico Aromático"
@@ -11422,10 +11444,11 @@
     "gpf": 9.33,
     "conc": "Extrait",
     "clima": [
-      "Qualquer"
+      "Versátil"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Aromático",
@@ -11594,7 +11617,7 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Qualquer"
+      "Versátil"
     ],
     "periodo": [
       "Dia"
@@ -11641,7 +11664,7 @@
     "veredito": "",
     "compat": 6.0,
     "preco": 1100.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 8.4,
     "score": 8.17,
     "rankDNA": 1,
@@ -11652,7 +11675,8 @@
     "gpf": 4.67,
     "conc": "Extrait",
     "clima": [
-      "Verão, Primavera"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -11700,7 +11724,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 850.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 9.47,
     "score": 10,
     "rankDNA": 1,
@@ -11711,7 +11735,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera, Outono"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -11757,7 +11782,7 @@
     "veredito": "",
     "compat": 6.0,
     "preco": 260.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 8.7,
     "score": 8.09,
     "rankDNA": 1,
@@ -11768,7 +11793,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Inverno, Outono"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -11776,7 +11802,7 @@
     "perfil": [
       "Oriental Gourmand"
     ],
-    "fam": "Impactante",
+    "fam": "Oriental",
     "acordes": [
       "Doce",
       "Âmbar",
@@ -11814,7 +11840,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 220.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 8.6,
     "score": 9.91,
     "rankDNA": 2,
@@ -11825,15 +11851,17 @@
     "gpf": 10,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera, Outono"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia e Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Aromático Frutado"
     ],
-    "fam": "Impactante",
+    "fam": "Gourmand",
     "acordes": [
       "Frutado",
       "Doce",
@@ -11871,7 +11899,7 @@
     "veredito": "",
     "compat": 8.0,
     "preco": 280.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 8.5,
     "score": 8.19,
     "rankDNA": 1,
@@ -11882,7 +11910,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Inverno, Outono"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -11890,7 +11919,7 @@
     "perfil": [
       "Couro Amadeirado"
     ],
-    "fam": "Leather",
+    "fam": "Couro",
     "acordes": [
       "Couro",
       "Especiado Quente",
@@ -11927,7 +11956,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 290.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 9.6,
     "score": 10,
     "rankDNA": 1,
@@ -11938,7 +11967,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -12053,7 +12083,7 @@
     "veredito": "",
     "compat": 8.0,
     "preco": 290.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 8.8,
     "score": 10,
     "rankDNA": 1,
@@ -12064,15 +12094,17 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Primavera, Outono, Inverno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia e Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Floral Frutado"
     ],
-    "fam": "Impactante",
+    "fam": "Gourmand",
     "acordes": [
       "Floral Branco",
       "Frutado",
@@ -12110,7 +12142,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 350.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 9.3,
     "score": 9.11,
     "rankDNA": 1,
@@ -12121,7 +12153,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Inverno, Outono"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -12129,7 +12162,7 @@
     "perfil": [
       "Amadeirado Oriental"
     ],
-    "fam": "Leather",
+    "fam": "Couro",
     "acordes": [
       "Amadeirado",
       "Especiado Quente",
@@ -12166,7 +12199,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 240.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 9.4,
     "score": 10,
     "rankDNA": 2,
@@ -12177,7 +12210,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -12221,7 +12255,7 @@
     "veredito": "",
     "compat": 8.0,
     "preco": 220.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 7.6,
     "score": 10,
     "rankDNA": 2,
@@ -12232,10 +12266,11 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Primavera, Outono"
+      "Ameno"
     ],
     "periodo": [
-      "Dia e Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Oriental Baunilha"
@@ -12278,7 +12313,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 380.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 10.0,
     "score": 10,
     "rankDNA": 1,
@@ -12289,7 +12324,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -12334,7 +12370,7 @@
     "veredito": "",
     "compat": 6.0,
     "preco": 320.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 8.7,
     "score": 10,
     "rankDNA": 6,
@@ -12345,7 +12381,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Outono, Inverno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -12392,7 +12429,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 230.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 9.0,
     "score": 10,
     "rankDNA": 1,
@@ -12403,7 +12440,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Inverno, Outono"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -12507,7 +12545,7 @@
     "veredito": "",
     "compat": 8.0,
     "preco": 220.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 9.1,
     "score": 10,
     "rankDNA": 1,
@@ -12518,10 +12556,12 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Primavera, Outono, Inverno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia e Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Oriental Fougère"
@@ -12565,7 +12605,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 180.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 9.7,
     "score": 10,
     "rankDNA": 1,
@@ -12576,15 +12616,17 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Outono, Inverno, Primavera"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia e Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Floral Amadeirado"
     ],
-    "fam": "Sofisticado",
+    "fam": "Luxury Clean",
     "acordes": [
       "Íris",
       "Atalcado",
@@ -12624,7 +12666,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 280.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 10.0,
     "score": 9.71,
     "rankDNA": 1,
@@ -12635,7 +12677,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera, Outono"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -12680,7 +12723,7 @@
     "veredito": "",
     "compat": 8.0,
     "preco": 240.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 8.8,
     "score": 9.61,
     "rankDNA": 1,
@@ -12691,10 +12734,12 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera, Outono"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia e Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Oriental Frutado"
@@ -12736,7 +12781,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 187.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 9.3,
     "score": 10,
     "rankDNA": 1,
@@ -12747,7 +12792,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Inverno, Outono"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -12791,7 +12837,7 @@
     "veredito": "",
     "compat": 6.0,
     "preco": 260.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 8.8,
     "score": 8.15,
     "rankDNA": 6,
@@ -12802,7 +12848,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -12849,7 +12896,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 290.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 9.3,
     "score": 9.72,
     "rankDNA": 1,
@@ -12860,7 +12907,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -12917,7 +12965,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -13026,7 +13075,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -13083,8 +13133,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -13147,8 +13197,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -13200,7 +13250,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 2800.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 8.0,
     "score": 8.44,
     "rankDNA": 4,
@@ -13211,7 +13261,8 @@
     "gpf": 7.33,
     "conc": "Extrait",
     "clima": [
-      "Verão, Primavera, Outono"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -13257,7 +13308,7 @@
     "veredito": "",
     "compat": 8.0,
     "preco": 1800.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 7.86,
     "score": 8.68,
     "rankDNA": 2,
@@ -13268,7 +13319,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Inverno, Outono, Primavera"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -13314,7 +13366,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 180.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 8.7,
     "score": 10,
     "rankDNA": 1,
@@ -13370,7 +13422,7 @@
     "veredito": "",
     "compat": 8.0,
     "preco": 160.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 8.4,
     "score": 9.86,
     "rankDNA": 1,
@@ -13381,7 +13433,7 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor Extremo"
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -13425,7 +13477,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 190.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 9.1,
     "score": 9.31,
     "rankDNA": 1,
@@ -13436,7 +13488,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Ameno, Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -13481,7 +13534,7 @@
     "veredito": "",
     "compat": 6.0,
     "preco": 210.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 8.0,
     "score": 9.73,
     "rankDNA": 1,
@@ -13537,7 +13590,7 @@
     "veredito": "",
     "compat": 4.0,
     "preco": 200.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 8.0,
     "score": 7.48,
     "rankDNA": 1,
@@ -13593,7 +13646,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 320.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 9.1,
     "score": 9.29,
     "rankDNA": 1,
@@ -13604,7 +13657,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -13651,7 +13705,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 380.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 9.4,
     "score": 9.52,
     "rankDNA": 1,
@@ -13662,10 +13716,12 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Outono, Inverno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia e Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Amadeirado Couro"
@@ -13708,7 +13764,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 340.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 9.4,
     "score": 10,
     "rankDNA": 3,
@@ -13719,7 +13775,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera, Outono"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -13764,7 +13821,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 350.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 9.3,
     "score": 9.52,
     "rankDNA": 1,
@@ -13775,7 +13832,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Inverno, Outono"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -13820,7 +13878,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 350.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 8.7,
     "score": 9.45,
     "rankDNA": 1,
@@ -13831,7 +13889,8 @@
     "gpf": 10,
     "conc": "EDP",
     "clima": [
-      "Inverno, Outono"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -13878,7 +13937,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 280.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 9.1,
     "score": 9.73,
     "rankDNA": 1,
@@ -13889,7 +13948,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Outono, Inverno, Primavera"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -13934,7 +13994,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 350.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 9.0,
     "score": 9.29,
     "rankDNA": 2,
@@ -13945,7 +14005,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Outono, Inverno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -13992,7 +14053,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 260.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 9.4,
     "score": 10,
     "rankDNA": 1,
@@ -14003,7 +14064,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Verão, Primavera, Outono"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -14048,7 +14110,7 @@
     "veredito": "",
     "compat": 8.0,
     "preco": 220.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 8.27,
     "score": 8.53,
     "rankDNA": 1,
@@ -14059,7 +14121,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Inverno, Outono"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -14117,7 +14180,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -14171,7 +14235,8 @@
     "gpf": 7.33,
     "conc": "Extrait",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -14227,10 +14292,11 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Frutado, Musgoso, Amadeirado"
@@ -14281,7 +14347,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -14335,7 +14402,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -14389,7 +14457,8 @@
     "gpf": 6.0,
     "conc": "Extrait",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -14443,7 +14512,7 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor Intenso"
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -14497,7 +14566,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -14552,10 +14622,12 @@
     "gpf": 6.67,
     "conc": "Extrait",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Frutado, Tropical, Amadeirado"
@@ -14606,7 +14678,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -14660,7 +14733,7 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor Intenso"
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -14714,7 +14787,8 @@
     "gpf": 3.33,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -14770,10 +14844,11 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Aromático, Especiado, Fresco"
@@ -14823,7 +14898,7 @@
     "gpf": 4.67,
     "conc": "Oil",
     "clima": [
-      "Calor Intenso"
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -14879,7 +14954,8 @@
     "gpf": 1.33,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -14934,10 +15010,11 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Cítrico, Especiado, Almiscarado"
@@ -14987,7 +15064,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -15041,10 +15119,11 @@
     "gpf": 4.0,
     "conc": "Extrait",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia/Tarde"
+      "Dia"
     ],
     "perfil": [
       "Cítrico, Almiscarado, Frutado"
@@ -15093,7 +15172,7 @@
     "gpf": 5.33,
     "conc": "Extrait",
     "clima": [
-      "Calor Intenso"
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -15148,7 +15227,8 @@
     "gpf": 7.33,
     "conc": "Extrait",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -15202,10 +15282,12 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Doce, Tropical, Frutado"
@@ -15257,10 +15339,11 @@
     "gpf": 6.0,
     "conc": "Extrait",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Frutado, Musgoso, Amadeirado"
@@ -15311,7 +15394,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -15366,7 +15450,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -15420,7 +15505,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -15474,7 +15560,7 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor Intenso"
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -15529,7 +15615,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -15584,7 +15671,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Frio / Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -15639,7 +15727,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Frio / Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -15698,7 +15787,8 @@
       "Versátil"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Mineral, Couro, Especiado, Metálico"
@@ -15749,7 +15839,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -15803,7 +15894,8 @@
     "gpf": 4.0,
     "conc": "Extrait",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -15858,7 +15950,7 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor Intenso"
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -15916,7 +16008,8 @@
       "Versátil"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Doce, Cítrico, Lactônico, Baunilha"
@@ -16027,10 +16120,12 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Frutado, Especiado, Doce, Amadeirado"
@@ -16082,7 +16177,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -16137,7 +16233,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -16193,10 +16290,12 @@
     "gpf": 4.0,
     "conc": "Parfum",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Cítrico, Couro, Baunilha, Especiado"
@@ -16247,7 +16346,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -16358,7 +16458,7 @@
     "gpf": 6.67,
     "conc": "Extrait",
     "clima": [
-      "Calor Intenso"
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -16414,7 +16514,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -16473,7 +16574,8 @@
       "Ameno"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Verde, Atalcado, Amadeirado"
@@ -16524,7 +16626,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Frio/Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -16578,7 +16681,8 @@
     "gpf": 2.67,
     "conc": "EDP",
     "clima": [
-      "Frio/Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -16637,7 +16741,8 @@
       "Versátil"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Frutado, Ambarado, Limpo"
@@ -16794,7 +16899,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Frio/Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -16905,7 +17011,8 @@
       "Versátil"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Baunilha, Atalcado, Coco"
@@ -17061,8 +17168,8 @@
     "gpf": 7.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -17183,12 +17290,11 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia",
-      "Social"
+      "Dia"
     ],
     "perfil": [
       "Frutado",
@@ -17245,7 +17351,8 @@
       "Ameno"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Íris, Cacau, Amadeirado"
@@ -17447,12 +17554,12 @@
     "preco": 3500.0,
     "exp": "Blind Buy",
     "nota": 7.2,
-    "score": null,
+    "score": 8.45,
     "rankDNA": 4,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": null,
+    "sdt": 8.93,
     "gpf": 4.67,
     "conc": "Extrait",
     "clima": [
@@ -17482,7 +17589,9 @@
     "vers": 8.0,
     "link": null,
     "fotoInspiracao": "fotos/308.jpg",
-    "resumo": "Destaque: Íris pallida pura com amêndoas. Veredito: Qualidade Tier S+. O ápice da limpeza executiva; essencial para autoridade discreta."
+    "resumo": "Destaque: Íris pallida pura com amêndoas. Veredito: Qualidade Tier S+. O ápice da limpeza executiva; essencial para autoridade discreta.",
+    "ind": 10,
+    "dap": 10.0
   },
   {
     "id": 309,
@@ -17502,19 +17611,20 @@
     "preco": 3500.0,
     "exp": "Blind Buy",
     "nota": 7.46,
-    "score": null,
+    "score": 8.25,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": null,
+    "sdt": 6.93,
     "gpf": 4.67,
     "conc": "Extrait",
     "clima": [
       "Ameno"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Baunilha, Resinoso, Especiado"
@@ -17537,7 +17647,9 @@
     "vers": 8.0,
     "link": null,
     "fotoInspiracao": "fotos/309.jpg",
-    "resumo": "Destaque: Baunilha seca com resinas e especiarias. Veredito: Qualidade Tier S. Conforto executivo absoluto; baunilha madura e equilibrada."
+    "resumo": "Destaque: Baunilha seca com resinas e especiarias. Veredito: Qualidade Tier S. Conforto executivo absoluto; baunilha madura e equilibrada.",
+    "ind": 10,
+    "dap": 5.0
   },
   {
     "id": 310,
@@ -17564,7 +17676,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Frio/Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -17623,7 +17736,8 @@
       "Ameno"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Rosa, Oud, Amadeirado"
@@ -17675,7 +17789,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Frio/Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -17843,7 +17958,8 @@
       "Ameno"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Baunilha, Resinoso, Especiado"
@@ -17898,7 +18014,8 @@
       "Ameno"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Baunilha, Amadeirado, Resinoso"
@@ -17949,7 +18066,8 @@
     "gpf": 4.67,
     "conc": "Extrait",
     "clima": [
-      "Frio/Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -18007,7 +18125,8 @@
       "Ameno"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Rosa, Oud, Amadeirado"
@@ -18112,7 +18231,8 @@
     "gpf": 2.67,
     "conc": "EDP",
     "clima": [
-      "Frio/Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -18276,7 +18396,8 @@
     "gpf": 6.0,
     "conc": "Extrait",
     "clima": [
-      "Frio/Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -18385,7 +18506,8 @@
     "gpf": 6.0,
     "conc": "Extrait",
     "clima": [
-      "Frio/Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -18430,13 +18552,13 @@
     "preco": 280.0,
     "exp": "Blind Buy",
     "nota": 9.2,
-    "score": null,
+    "score": 10,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": null,
-    "gpf": 5.33,
+    "sdt": 10,
+    "gpf": 10,
     "conc": "EDP",
     "clima": [
       "Versátil"
@@ -18464,7 +18586,9 @@
     "simil": null,
     "vers": 10.0,
     "link": null,
-    "resumo": "Destaque: Musk branco puro e sândalo cremoso. Veredito: Qualidade Tier S. O ápice da limpeza executiva; essencial para conforto diário e aura de asseio."
+    "resumo": "Destaque: Musk branco puro e sândalo cremoso. Veredito: Qualidade Tier S. O ápice da limpeza executiva; essencial para conforto diário e aura de asseio.",
+    "ind": 10,
+    "dap": 10.0
   },
   {
     "id": 328,
@@ -18496,7 +18620,8 @@
       "Ameno"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Especiado Doce, Atalcado, Fresco"
@@ -18552,7 +18677,8 @@
       "Ameno"
     ],
     "periodo": [
-      "Dia/Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Íris, Cacau, Amadeirado"
@@ -18594,13 +18720,13 @@
     "preco": 450.0,
     "exp": "Blind Buy",
     "nota": 9.1,
-    "score": null,
+    "score": 10,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": null,
-    "gpf": 4.67,
+    "sdt": 10,
+    "gpf": 10,
     "conc": "Extrait",
     "clima": [
       "Versátil"
@@ -18629,7 +18755,9 @@
     "vers": 8.0,
     "link": null,
     "fotoInspiracao": "fotos/308.jpg",
-    "resumo": "Destaque: Fidelidade extrema à manteiga de íris e amêndoas. Veredito: Qualidade Tier S. Uma das raras tentativas de clonar o Extrait 6."
+    "resumo": "Destaque: Fidelidade extrema à manteiga de íris e amêndoas. Veredito: Qualidade Tier S. Uma das raras tentativas de clonar o Extrait 6.",
+    "ind": 10,
+    "dap": 10.0
   },
   {
     "id": 332,
@@ -18656,8 +18784,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -18717,7 +18845,7 @@
       "Versátil"
     ],
     "periodo": [
-      "Tarde",
+      "Dia",
       "Noite"
     ],
     "perfil": [
@@ -18888,7 +19016,7 @@
       "Versátil"
     ],
     "periodo": [
-      "Tarde",
+      "Dia",
       "Noite"
     ],
     "perfil": [
@@ -18941,7 +19069,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -18998,7 +19127,7 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
       "Dia"
@@ -19110,15 +19239,16 @@
     "gpf": 4.67,
     "conc": "Extrait",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Abacaxi, Musgo de Carvalho, Toranja, Cedro."
     ],
-    "fam": "Chypre",
+    "fam": "Amadeirado",
     "acordes": [
       "Amadeirado",
       "Musgoso",
@@ -19222,7 +19352,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -19333,7 +19464,8 @@
     "gpf": 4.0,
     "conc": "Oil",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -19447,10 +19579,11 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Sândalo, Couro, Papiro, Cedro."
@@ -19505,10 +19638,12 @@
     "gpf": 4.0,
     "conc": "Extrait",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Baunilha, Gengibre, Bergamota, Cardamomo."
@@ -19563,15 +19698,16 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Marinho Amadeirado"
     ],
-    "fam": "Marinho",
+    "fam": "Fresh",
     "acordes": [
       "Marinho",
       "Citrico",
@@ -19624,7 +19760,8 @@
     "gpf": 4.0,
     "conc": "Oil",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -19681,15 +19818,16 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Abacaxi, Bétula, Bergamota, Almíscar."
     ],
-    "fam": "Chypre",
+    "fam": "Amadeirado",
     "acordes": [
       "Frutado",
       "Amadeirado",
@@ -19739,10 +19877,11 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Flor de Laranjeira, Bergamota, Ambrofix, Patchouli."
@@ -19796,10 +19935,12 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Cítrico, Gengibre, Âmbar, Notas Atalcadas."
@@ -19853,7 +19994,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Noite"
@@ -19911,10 +20053,11 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Sálvia, Junípero, Âmbar Cinzento, Sândalo."
@@ -19967,7 +20110,8 @@
     "gpf": 4.0,
     "conc": "EDC",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -20025,7 +20169,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -20082,7 +20227,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -20137,7 +20283,8 @@
     "gpf": 4.67,
     "conc": "Extrait",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -20194,10 +20341,11 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Maçã, Manga, Cardamomo, Patchouli."
@@ -20306,7 +20454,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Noite"
@@ -20363,10 +20512,11 @@
     "gpf": 4.0,
     "conc": "Oil",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Couro, Folha de Violeta, Noz-moscada, Cedro."
@@ -20475,10 +20625,11 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Maçã Verde, Gengibre, Sálvia, Âmbar."
@@ -20532,7 +20683,8 @@
     "gpf": 4.67,
     "conc": "Extrait",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -20646,10 +20798,12 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Manga, Gengibre, Notas Amadeiradas, Âmbar."
@@ -20702,15 +20856,17 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Framboesa, Leite, Tuberosa, Flor de Laranjeira."
     ],
-    "fam": "Floral",
+    "fam": "Gourmand",
     "acordes": [
       "Frutado",
       "Floral Branco",
@@ -20759,7 +20915,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -20929,7 +21086,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -20987,10 +21145,11 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Gengibre, Junípero, Lavanda, Patchouli."
@@ -21043,7 +21202,8 @@
     "gpf": 4.0,
     "conc": "Oil",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -21099,10 +21259,11 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Maçã, Lavanda, Baunilha, Cardamomo."
@@ -21212,7 +21373,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -21267,10 +21429,11 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Frutas, Baunilha, Almíscar Branco, Âmbar."
@@ -21381,10 +21544,11 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Pera, Bergamota, Ambrofix, Almíscar."
@@ -21439,10 +21603,11 @@
     "gpf": 4.67,
     "conc": "Parfum",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Lavanda, Incenso, Gerânio, Notas Amadeiradas."
@@ -21497,10 +21662,11 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Açafrão, Madeira de Âmbar, Resina de Abeto, Jasmim."
@@ -21552,7 +21718,8 @@
     "gpf": 4.67,
     "conc": "Extrait",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -21662,7 +21829,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -21775,7 +21943,7 @@
     "gpf": 4.0,
     "conc": "Oil",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
       "Dia"
@@ -21831,7 +21999,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -21995,7 +22164,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -22053,10 +22223,12 @@
     "gpf": 4.67,
     "conc": "Extrait",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Pêssego, Tuberosa, Baunilha, Gardênia."
@@ -22111,7 +22283,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -22222,7 +22395,7 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
       "Dia"
@@ -22278,7 +22451,8 @@
     "gpf": 4.0,
     "conc": "Parfum",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -22336,10 +22510,11 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Amêndoa Amarga, Baunilha, Lavanda, Heliotrópio."
@@ -22393,7 +22568,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -22450,7 +22626,8 @@
     "gpf": 4.0,
     "conc": "EDC",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -22506,7 +22683,8 @@
     "gpf": 4.67,
     "conc": "Parfum",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -22562,10 +22740,11 @@
     "gpf": 4.67,
     "conc": "Parfum",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Notas Marinhas, Lavanda, Sabonete, Almíscar."
@@ -22786,7 +22965,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -22844,10 +23024,11 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Baunilha, Coco, Notas Atalcadas, Almíscar."
@@ -22901,7 +23082,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -22958,7 +23140,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -23070,7 +23253,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -23126,7 +23310,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -23182,7 +23367,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -23239,10 +23425,12 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Tâmaras, Bergamota, Pralinê, Sálvia."
@@ -23296,10 +23484,11 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Notas Verdes, Madeiras, Frutas Vermelhas."
@@ -23408,7 +23597,8 @@
     "gpf": 4.0,
     "conc": "Oil",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -23520,7 +23710,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -23577,10 +23768,11 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Couro Mineral, Camurça, Açafrão, Immortelle."
@@ -23689,7 +23881,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -23745,10 +23938,12 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Limão, Couro, Baunilha, Rosa."
@@ -23913,10 +24108,12 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Patchouli, Rosa, Pimenta Preta, Figo."
@@ -24023,7 +24220,8 @@
     "gpf": 4.0,
     "conc": "Oil",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -24080,10 +24278,11 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Maçã, Lavanda, Bergamota, Âmbar."
@@ -24138,15 +24337,16 @@
     "gpf": 4.0,
     "conc": "Extrait",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Hibisco, Rosa, Couro, Baunilha."
     ],
-    "fam": "Floral",
+    "fam": "Oriental",
     "acordes": [
       "Floral",
       "Frutado",
@@ -24196,10 +24396,11 @@
     "gpf": 4.67,
     "conc": "Parfum",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Notas Marinhas, Algas, Âmbar Cinzento, Almíscar."
@@ -24251,7 +24452,8 @@
     "gpf": 4.67,
     "conc": "Oil",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -24308,10 +24510,11 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Rosa, Musgo de Carvalho, Patchouli, Bergamota."
@@ -24364,7 +24567,7 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
       "Dia"
@@ -24422,10 +24625,12 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Íris, Cacau, Sândalo, Pimenta Preta."
@@ -24478,7 +24683,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -24535,10 +24741,11 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Noite"
+      "Dia",
+      "Noite"
     ],
     "perfil": [
       "Vetiver, Sálvia, Cardamomo, Baunilha."
@@ -24591,7 +24798,8 @@
     "gpf": 4.67,
     "conc": "Oil",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -24803,7 +25011,7 @@
     "veredito": "",
     "compat": 9.0,
     "preco": 850.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 8.7,
     "score": 8.73,
     "rankDNA": 1,
@@ -24814,7 +25022,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -25038,8 +25247,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -25088,7 +25297,7 @@
     "veredito": "",
     "compat": 6.0,
     "preco": 280.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 7.9,
     "score": 6.71,
     "rankDNA": 1,
@@ -25099,7 +25308,8 @@
     "gpf": 3.33,
     "conc": "EDP",
     "clima": [
-      "Ameno / Calor Moderado"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -25143,7 +25353,7 @@
     "veredito": "",
     "compat": 10.0,
     "preco": 320.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 8.2,
     "score": 10,
     "rankDNA": 1,
@@ -25154,10 +25364,12 @@
     "gpf": 2.67,
     "conc": "EDP",
     "clima": [
-      "Calor / Versátil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Versátil"
+      "Dia",
+      "Versátil"
     ],
     "perfil": [
       "Cítrico Especiado"
@@ -25204,7 +25416,7 @@
     "veredito": "",
     "compat": 7.0,
     "preco": 330.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 8.0,
     "score": 9.88,
     "rankDNA": 2,
@@ -25215,10 +25427,12 @@
     "gpf": 2.67,
     "conc": "Extrait",
     "clima": [
-      "Ameno / Versatil"
+      "Ameno",
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Versatil"
+      "Dia",
+      "Versátil"
     ],
     "perfil": [
       "Frutado Amadeirado"
@@ -25264,7 +25478,7 @@
     "veredito": "",
     "compat": 6.0,
     "preco": 200.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 6.0,
     "score": 8.63,
     "rankDNA": 6,
@@ -25275,10 +25489,12 @@
     "gpf": 2.67,
     "conc": "EDP",
     "clima": [
-      "Ameno / Versatil"
+      "Ameno",
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Versatil"
+      "Dia",
+      "Versátil"
     ],
     "perfil": [
       "Citrico Ambarado"
@@ -25321,7 +25537,7 @@
     "veredito": "",
     "compat": 5.0,
     "preco": 230.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 5.87,
     "score": 7.0,
     "rankDNA": 1,
@@ -25332,7 +25548,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -25382,7 +25599,7 @@
     "veredito": "",
     "compat": 5.0,
     "preco": 320.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 7.7,
     "score": 9.18,
     "rankDNA": 2,
@@ -25393,7 +25610,8 @@
     "gpf": 2.67,
     "conc": "Extrait",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -25455,13 +25673,13 @@
     "gpf": 2.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Baunilha Cremosa"
@@ -25507,7 +25725,7 @@
     "veredito": "",
     "compat": 5.0,
     "preco": 170.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 6.13,
     "score": 6.9,
     "rankDNA": 1,
@@ -25518,10 +25736,12 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Noite / Versatil"
+      "Noite",
+      "Versátil"
     ],
     "perfil": [
       "Amadeirado Especiado"
@@ -25568,7 +25788,7 @@
     "veredito": "",
     "compat": 6.0,
     "preco": 230.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 7.7,
     "score": 8.03,
     "rankDNA": 1,
@@ -25579,7 +25799,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -25633,7 +25854,7 @@
     "veredito": "",
     "compat": 7.0,
     "preco": 220.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 7.4,
     "score": 8.41,
     "rankDNA": 3,
@@ -25644,10 +25865,12 @@
     "gpf": 3.33,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia / Versatil"
+      "Dia",
+      "Versátil"
     ],
     "perfil": [
       "Citrico Cha"
@@ -25694,7 +25917,7 @@
     "veredito": "",
     "compat": 7.0,
     "preco": 290.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 6.53,
     "score": 7.74,
     "rankDNA": 1,
@@ -25705,10 +25928,12 @@
     "gpf": 4.0,
     "conc": "Extrait",
     "clima": [
-      "Ameno / Calor"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia / Versatil"
+      "Dia",
+      "Versátil"
     ],
     "perfil": [
       "Citrico Ambarado"
@@ -25753,7 +25978,7 @@
     "veredito": "",
     "compat": 4.0,
     "preco": 350.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 6.8,
     "score": 6.25,
     "rankDNA": 5,
@@ -25764,7 +25989,8 @@
     "gpf": 1.33,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -25812,7 +26038,7 @@
     "veredito": "",
     "compat": 3.0,
     "preco": 180.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 6.9,
     "score": 6.37,
     "rankDNA": 1,
@@ -25871,7 +26097,7 @@
     "veredito": "",
     "compat": 5.0,
     "preco": 250.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 7.1,
     "score": 7.47,
     "rankDNA": 1,
@@ -25882,7 +26108,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -25935,7 +26162,7 @@
     "veredito": "",
     "compat": 8.0,
     "preco": 250.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 8.25,
     "score": 10,
     "rankDNA": 1,
@@ -25946,10 +26173,12 @@
     "gpf": 3.33,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia / Versatil"
+      "Dia",
+      "Versátil"
     ],
     "perfil": [
       "Verde Fougere"
@@ -25998,7 +26227,7 @@
     "veredito": "",
     "compat": 6.0,
     "preco": 190.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 5.87,
     "score": 7.05,
     "rankDNA": 1,
@@ -26009,10 +26238,12 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Versatil"
+      "Ameno",
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Versatil"
+      "Dia",
+      "Versátil"
     ],
     "perfil": [
       "Amadeirado Floral"
@@ -26058,7 +26289,7 @@
     "veredito": "",
     "compat": 5.0,
     "preco": 200.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 7.2,
     "score": 7.37,
     "rankDNA": 1,
@@ -26069,7 +26300,8 @@
     "gpf": 4.0,
     "conc": "EDT",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -26120,7 +26352,7 @@
     "veredito": "",
     "compat": 9.0,
     "preco": 800.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 7.9,
     "score": 8.42,
     "rankDNA": 6,
@@ -26131,15 +26363,17 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia / Versatil"
+      "Dia",
+      "Versátil"
     ],
     "perfil": [
       "Citrico Aromatico"
     ],
-    "fam": "Citrico",
+    "fam": "Fresh",
     "acordes": [
       "Citrico",
       "Especiado",
@@ -26182,7 +26416,7 @@
     "veredito": "",
     "compat": 7.0,
     "preco": 750.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 7.2,
     "score": 7.1,
     "rankDNA": 4,
@@ -26193,10 +26427,12 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
-      "Dia / Versatil"
+      "Dia",
+      "Versátil"
     ],
     "perfil": [
       "Amadeirado Especiado"
@@ -26243,7 +26479,7 @@
     "veredito": "",
     "compat": 8.0,
     "preco": 900.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 7.27,
     "score": 8.39,
     "rankDNA": 2,
@@ -26254,15 +26490,17 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia / Versatil"
+      "Dia",
+      "Versátil"
     ],
     "perfil": [
       "Citrico Aromatico"
     ],
-    "fam": "Citrico",
+    "fam": "Fresh",
     "acordes": [
       "Citrico",
       "Herbal",
@@ -26304,7 +26542,7 @@
     "veredito": "",
     "compat": 6.0,
     "preco": 1200.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 6.27,
     "score": 7.39,
     "rankDNA": 3,
@@ -26315,15 +26553,17 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Calor"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia / Versatil"
+      "Dia",
+      "Versátil"
     ],
     "perfil": [
       "Citrico Especiado"
     ],
-    "fam": "Citrico",
+    "fam": "Aromático",
     "acordes": [
       "Citrico",
       "Especiado",
@@ -26365,7 +26605,7 @@
     "veredito": "",
     "compat": 6.0,
     "preco": 450.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 5.6,
     "score": 7.33,
     "rankDNA": 1,
@@ -26376,10 +26616,12 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia / Versatil"
+      "Dia",
+      "Versátil"
     ],
     "perfil": [
       "Citrico Aromatico"
@@ -26425,7 +26667,7 @@
     "veredito": "",
     "compat": 6.0,
     "preco": 1800.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 6.7,
     "score": 7.44,
     "rankDNA": 2,
@@ -26436,15 +26678,17 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Versatil"
+      "Ameno",
+      "Versátil"
     ],
     "periodo": [
-      "Dia / Versatil"
+      "Dia",
+      "Versátil"
     ],
     "perfil": [
       "Verde Amadeirado"
     ],
-    "fam": "Verde",
+    "fam": "Amadeirado",
     "acordes": [
       "Citrico",
       "Verde",
@@ -26484,7 +26728,7 @@
     "veredito": "",
     "compat": 3.0,
     "preco": 1400.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 5.6,
     "score": 5.71,
     "rankDNA": 2,
@@ -26503,7 +26747,7 @@
     "perfil": [
       "Frutado Gourmand"
     ],
-    "fam": "Frutado",
+    "fam": "Oriental",
     "acordes": [
       "Frutado",
       "Doce",
@@ -26541,7 +26785,7 @@
     "veredito": "",
     "compat": 2.0,
     "preco": 500.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 4.53,
     "score": 5.09,
     "rankDNA": 2,
@@ -26552,7 +26796,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Dia"
@@ -26597,7 +26842,7 @@
     "veredito": "",
     "compat": 4.0,
     "preco": 550.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 5.33,
     "score": 5.47,
     "rankDNA": 2,
@@ -26608,7 +26853,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -26655,7 +26901,7 @@
     "veredito": "",
     "compat": 3.0,
     "preco": 750.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 5.9,
     "score": 5.91,
     "rankDNA": 2,
@@ -26714,7 +26960,7 @@
     "veredito": "",
     "compat": 4.0,
     "preco": 550.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 6.3,
     "score": 6.18,
     "rankDNA": 2,
@@ -26725,7 +26971,8 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -26733,7 +26980,7 @@
     "perfil": [
       "Ambarado Resinoso"
     ],
-    "fam": "Ambarado",
+    "fam": "Oriental",
     "acordes": [
       "Couro",
       "Incenso",
@@ -26775,7 +27022,7 @@
     "veredito": "",
     "compat": 8.0,
     "preco": 2500.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 8.65,
     "score": 8.49,
     "rankDNA": 2,
@@ -26786,15 +27033,17 @@
     "gpf": 4.33,
     "conc": "EDP",
     "clima": [
-      "Calor / Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Dia / Versatil"
+      "Dia",
+      "Versátil"
     ],
     "perfil": [
       "Verde Fougere"
     ],
-    "fam": "Verde",
+    "fam": "Aromático",
     "acordes": [
       "Verde",
       "Citrico",
@@ -26836,7 +27085,7 @@
     "veredito": "",
     "compat": 7.0,
     "preco": 200.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 8.0,
     "score": 9.75,
     "rankDNA": 3,
@@ -26850,7 +27099,8 @@
       "Calor"
     ],
     "periodo": [
-      "Dia / Versatil"
+      "Dia",
+      "Versátil"
     ],
     "perfil": [
       "Citrico Frutado"
@@ -26895,7 +27145,7 @@
     "veredito": "",
     "compat": 5.0,
     "preco": 1300.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 6.25,
     "score": 7.19,
     "rankDNA": 2,
@@ -26906,7 +27156,8 @@
     "gpf": 4.0,
     "conc": "Extrait",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -26914,7 +27165,7 @@
     "perfil": [
       "Frutado Ambarado"
     ],
-    "fam": "Frutado",
+    "fam": "Gourmand",
     "acordes": [
       "Frutado",
       "Floral",
@@ -26955,7 +27206,7 @@
     "veredito": "",
     "compat": 5.0,
     "preco": 180.0,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 7.45,
     "score": 7.47,
     "rankDNA": 1,
@@ -26966,7 +27217,8 @@
     "gpf": 3.33,
     "conc": "EDP",
     "clima": [
-      "Ameno / Frio"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -26974,7 +27226,7 @@
     "perfil": [
       "Frutado Ambarado"
     ],
-    "fam": "Frutado",
+    "fam": "Gourmand",
     "acordes": [
       "Frutado",
       "Floral",
@@ -27015,7 +27267,7 @@
     "veredito": "",
     "compat": 3.0,
     "preco": 3500.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 6.65,
     "score": 6.23,
     "rankDNA": 2,
@@ -27075,7 +27327,7 @@
     "veredito": "",
     "compat": 3.0,
     "preco": 200.0,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 7.15,
     "score": 6.77,
     "rankDNA": 1,
@@ -27146,10 +27398,11 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Quente a Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Diurno"
+      "Dia"
     ],
     "perfil": [
       "Frutado Doce"
@@ -27204,7 +27457,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Quente a Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -27387,8 +27641,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Versátil",
-      "Ameno"
+      "Ameno",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
@@ -27450,8 +27704,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -27514,8 +27768,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -27579,8 +27833,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -27717,8 +27971,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -27837,8 +28091,8 @@
     "gpf": 10,
     "conc": "Extrait",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -27902,8 +28156,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -27973,8 +28227,8 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -28041,13 +28295,13 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Amadeirado Floral Almiscarado"
@@ -28170,8 +28424,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -28230,13 +28484,13 @@
     "gpf": 6.0,
     "conc": "Deo Parfum",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Citrico Aromatico"
@@ -28297,13 +28551,13 @@
     "gpf": 10,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Citrico Aromatico"
@@ -28488,7 +28742,7 @@
     ],
     "periodo": [
       "Noite",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Baunilha Amadeirada Picante"
@@ -28548,7 +28802,7 @@
     ],
     "periodo": [
       "Noite",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Baunilha Especiada Amadeirada"
@@ -28604,13 +28858,13 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Amadeirado Resinoso"
@@ -28667,13 +28921,13 @@
     "gpf": 4.67,
     "conc": "Oil",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Amadeirado Marinho"
@@ -28728,13 +28982,13 @@
     "gpf": 4.67,
     "conc": "Extrait",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Ambarado Marinho"
@@ -28789,13 +29043,13 @@
     "gpf": 6.0,
     "conc": "Extrait",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Floral Amadeirado Almiscarado"
@@ -28853,13 +29107,13 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Citrico Vetiver"
@@ -28913,13 +29167,13 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Citrico Amadeirado"
@@ -28974,13 +29228,13 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Floral Amadeirado"
@@ -29103,7 +29357,7 @@
     ],
     "periodo": [
       "Noite",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Baunilha Amadeirada"
@@ -29160,8 +29414,8 @@
     "gpf": 2.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -29220,13 +29474,13 @@
     "gpf": 2.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Citrico Cha"
@@ -29416,7 +29670,7 @@
     "perfil": [
       "Aromatico Especiado"
     ],
-    "fam": "Aromatico",
+    "fam": "Aromático",
     "acordes": [
       "Cardamomo",
       "Lavanda",
@@ -29534,7 +29788,7 @@
     ],
     "periodo": [
       "Noite",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Amadeirado Aromatico"
@@ -29599,16 +29853,16 @@
     "clima": [
       "Ameno",
       "Frio",
-      "Versatil"
+      "Versátil"
     ],
     "periodo": [
       "Noite",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Aromatico Especiado"
     ],
-    "fam": "Aromatico",
+    "fam": "Aromático",
     "acordes": [
       "Laranja",
       "Gengibre",
@@ -29665,7 +29919,7 @@
     "clima": [
       "Ameno",
       "Frio",
-      "Versatil"
+      "Versátil"
     ],
     "periodo": [
       "Dia",
@@ -29727,8 +29981,8 @@
     "gpf": 4.67,
     "conc": "EDT",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -29786,8 +30040,8 @@
     "gpf": 4.67,
     "conc": "EDT",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -29845,8 +30099,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -29904,13 +30158,13 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Citrico Floral"
@@ -29964,13 +30218,13 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Floral Citrico"
@@ -30024,8 +30278,7 @@
     "gpf": 5.0,
     "conc": "EDT",
     "clima": [
-      "Calor",
-      "Muito Calor"
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -30084,12 +30337,12 @@
     "clima": [
       "Ameno",
       "Frio",
-      "Versatil"
+      "Versátil"
     ],
     "periodo": [
       "Dia",
       "Noite",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Aromatico Amadeirado"
@@ -30143,11 +30396,11 @@
     "conc": "EDP",
     "clima": [
       "Ameno",
-      "Versatil"
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Chypre Floral"
@@ -30206,7 +30459,7 @@
     ],
     "periodo": [
       "Noite",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Amadeirado Aromatico"
@@ -30262,13 +30515,13 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Citrico Aromatico"
@@ -30322,11 +30575,11 @@
     "conc": "EDP",
     "clima": [
       "Ameno",
-      "Versatil"
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Jasmim Amadeirado"
@@ -30440,13 +30693,13 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Citrico Aromatico"
@@ -30502,18 +30755,18 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Aromatico Amadeirado"
     ],
-    "fam": "Aromatico",
+    "fam": "Aromático",
     "acordes": [
       "Lavanda",
       "Salvia",
@@ -30564,18 +30817,18 @@
     "gpf": 6.0,
     "conc": "EDT",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Aromatico Especiado"
     ],
-    "fam": "Aromatico",
+    "fam": "Aromático",
     "acordes": [
       "Gengibre",
       "Limao",
@@ -30626,8 +30879,7 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Muito Calor"
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -30692,7 +30944,7 @@
     "clima": [
       "Ameno",
       "Frio",
-      "Versatil"
+      "Versátil"
     ],
     "periodo": [
       "Dia",
@@ -30755,7 +31007,7 @@
     "clima": [
       "Ameno",
       "Frio",
-      "Versatil"
+      "Versátil"
     ],
     "periodo": [
       "Dia",
@@ -30818,13 +31070,13 @@
     "gpf": 4.67,
     "conc": "Oil",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Citrico Aromatico"
@@ -30887,18 +31139,18 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Aromatico Amadeirado"
     ],
-    "fam": "Aromatico",
+    "fam": "Aromático",
     "acordes": [
       "Lavanda",
       "Menta",
@@ -31013,11 +31265,11 @@
     "clima": [
       "Ameno",
       "Frio",
-      "Versatil"
+      "Versátil"
     ],
     "periodo": [
       "Noite",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Baunilha Mentolada"
@@ -31133,18 +31385,18 @@
     "gpf": 9.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Citrico Aquatico"
     ],
-    "fam": "Aromatico",
+    "fam": "Aromático",
     "acordes": [
       "Limao",
       "Menta",
@@ -31323,7 +31575,7 @@
     ],
     "periodo": [
       "Noite",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Baunilha Esfumacada"
@@ -31381,12 +31633,12 @@
     "gpf": 5.33,
     "conc": "Extrait",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Tropical Frutado"
@@ -31448,13 +31700,13 @@
     "gpf": 6.0,
     "conc": "EDT",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Citrico Amadeirado"
@@ -31512,8 +31764,8 @@
     "gpf": 6.33,
     "conc": "EDT",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -31823,11 +32075,11 @@
     "clima": [
       "Ameno",
       "Frio",
-      "Versatil"
+      "Versátil"
     ],
     "periodo": [
       "Noite",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Oriental Frutado"
@@ -31883,13 +32135,13 @@
     "gpf": 10,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Citrico Aromatico"
@@ -32120,13 +32372,13 @@
     "gpf": 2.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Baunilha Atalcada"
@@ -32179,13 +32431,13 @@
     "gpf": 7.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Citrico Cha"
@@ -32238,13 +32490,13 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
-      "Versatil"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
-      "Versatil"
+      "Versátil"
     ],
     "perfil": [
       "Aromatico Aquatico"
@@ -32421,8 +32673,8 @@
     "gpf": 3.33,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -32725,8 +32977,8 @@
     "gpf": 6.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -32786,8 +33038,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -33102,7 +33354,7 @@
     "veredito": "",
     "compat": 8.0,
     "preco": null,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 8.35,
     "score": 10,
     "rankDNA": 3,
@@ -33113,8 +33365,8 @@
     "gpf": 7.67,
     "conc": "Extrait",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -33161,7 +33413,7 @@
     "veredito": "",
     "compat": 6.0,
     "preco": null,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 6.8,
     "score": 7.4,
     "rankDNA": 5,
@@ -33172,8 +33424,8 @@
     "gpf": 6.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -33221,7 +33473,7 @@
     "veredito": "",
     "compat": 9.0,
     "preco": null,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 8.55,
     "score": 10,
     "rankDNA": 1,
@@ -33232,8 +33484,8 @@
     "gpf": 7.67,
     "conc": "EDC",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -33282,7 +33534,7 @@
     "veredito": "",
     "compat": 9.0,
     "preco": null,
-    "exp": "Não",
+    "exp": "Blind Buy",
     "nota": 8.1,
     "score": 10,
     "rankDNA": 2,
@@ -33293,8 +33545,8 @@
     "gpf": 7.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -33341,7 +33593,7 @@
     "veredito": "",
     "compat": 6.0,
     "preco": null,
-    "exp": "Sim",
+    "exp": "Sample First",
     "nota": 7.0,
     "score": 6.97,
     "rankDNA": 6,
@@ -33352,8 +33604,8 @@
     "gpf": 6.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -33411,10 +33663,10 @@
     "gpf": 4.67,
     "conc": "EDC",
     "clima": [
-      "Calor Intenso"
+      "Calor"
     ],
     "periodo": [
-      "Manhã"
+      "Dia"
     ],
     "perfil": [
       "Cítrico Aromático"
@@ -33466,8 +33718,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -33530,8 +33782,8 @@
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -33593,7 +33845,7 @@
     "gpf": 3.33,
     "conc": "EDP",
     "clima": [
-      "Calor Intenso"
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -33649,8 +33901,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -33710,8 +33962,8 @@
     "gpf": 5.33,
     "conc": "Parfum",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -33773,8 +34025,8 @@
     "gpf": 5.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -33837,8 +34089,8 @@
     "gpf": 5.33,
     "conc": "EDC",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -33902,8 +34154,8 @@
     "gpf": 6.33,
     "conc": "Oil",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -34031,8 +34283,8 @@
     "gpf": 6.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -34226,8 +34478,8 @@
     "gpf": 6.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -34288,8 +34540,8 @@
     "gpf": 6.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -34350,8 +34602,8 @@
     "gpf": 4.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -34477,8 +34729,8 @@
     "gpf": 5.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -34539,8 +34791,8 @@
     "gpf": 6.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -34664,8 +34916,8 @@
     "gpf": 5.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -34728,8 +34980,8 @@
     "gpf": 4.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -34855,8 +35107,8 @@
     "gpf": 3.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -35047,8 +35299,8 @@
     "gpf": 6.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -35113,8 +35365,8 @@
     "gpf": 6.33,
     "conc": "EDC",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -35236,8 +35488,8 @@
     "gpf": 5.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -35360,8 +35612,8 @@
     "gpf": 4.33,
     "conc": "Parfum",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -35424,8 +35676,8 @@
     "gpf": 5.67,
     "conc": "Parfum",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -35552,8 +35804,8 @@
     "gpf": 6.33,
     "conc": "Extrait",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -35871,8 +36123,8 @@
     "gpf": 3.67,
     "conc": "Parfum",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -35935,8 +36187,8 @@
     "gpf": 5.0,
     "conc": "Parfum",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -35998,8 +36250,8 @@
     "gpf": 7.0,
     "conc": "Parfum",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -36064,8 +36316,8 @@
     "gpf": 5.0,
     "conc": "Parfum",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -36129,8 +36381,8 @@
     "gpf": 6.33,
     "conc": "Extrait",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -36196,8 +36448,8 @@
     "gpf": 6.33,
     "conc": "Parfum",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -36317,8 +36569,8 @@
     "gpf": 6.33,
     "conc": "Parfum",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -36383,8 +36635,8 @@
     "gpf": 5.67,
     "conc": "Parfum",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -36513,8 +36765,8 @@
     "gpf": 6.33,
     "conc": "Parfum",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -36638,8 +36890,8 @@
     "gpf": 6.33,
     "conc": "Extrait",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -36829,8 +37081,8 @@
     "gpf": 5.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -36892,8 +37144,8 @@
     "gpf": 7.0,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -36958,8 +37210,8 @@
     "gpf": 5.0,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -37023,8 +37275,8 @@
     "gpf": 7.0,
     "conc": "Extrait",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -37090,8 +37342,8 @@
     "gpf": 6.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -37275,8 +37527,8 @@
     "gpf": 6.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -37402,8 +37654,8 @@
     "gpf": 2.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -37463,8 +37715,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -37656,8 +37908,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -37720,7 +37972,7 @@
     "gpf": 4.33,
     "conc": "EDP",
     "clima": [
-      "Calor Intenso"
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -37730,7 +37982,7 @@
       "Frutado",
       "Gourmand"
     ],
-    "fam": "Floral",
+    "fam": "Gourmand",
     "acordes": [
       "Coco",
       "Abacaxi",
@@ -37784,8 +38036,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -37909,8 +38161,8 @@
     "gpf": 6.47,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -37973,8 +38225,8 @@
     "gpf": 3.33,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -38038,8 +38290,8 @@
     "gpf": 6.0,
     "conc": "Extrait",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -38161,8 +38413,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -38289,8 +38541,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -38353,8 +38605,8 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno",
+      "Calor",
       "Versátil"
     ],
     "periodo": [
@@ -38656,9 +38908,9 @@
     "gpf": 6.0,
     "conc": "EDP",
     "clima": [
-      "Versátil",
       "Ameno",
-      "Calor"
+      "Calor",
+      "Versátil"
     ],
     "periodo": [
       "Dia",
@@ -38716,8 +38968,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite"
@@ -39033,8 +39285,8 @@
     "gpf": 7.33,
     "conc": "EDP",
     "clima": [
-      "Frio",
-      "Ameno"
+      "Ameno",
+      "Frio"
     ],
     "periodo": [
       "Noite",
@@ -39105,10 +39357,11 @@
     "gpf": 4.67,
     "conc": "EDT",
     "clima": [
-      "Ameno a Quente"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Outono/Inverno preferível"
+      "Versátil"
     ],
     "perfil": [
       "Gourmand",
@@ -39165,17 +39418,18 @@
     "gpf": 2.0,
     "conc": "EDP",
     "clima": [
-      "Ameno a Quente"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Outono/Inverno preferível"
+      "Versátil"
     ],
     "perfil": [
       "Floral",
       "Frutado",
       "Gourmand"
     ],
-    "fam": "Floral",
+    "fam": "Gourmand",
     "acordes": [
       "Amora-Preta-Praline",
       "Violeta-Magnólia",
@@ -39225,7 +39479,7 @@
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
-      "Quente"
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -39286,10 +39540,11 @@
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
-      "Quente a Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
-      "Primavera/Verão preferível"
+      "Versátil"
     ],
     "perfil": [
       "Fresh",
@@ -39338,7 +39593,7 @@
     "gpf": 4.0,
     "conc": "Colônia",
     "clima": [
-      "Qualquer Clima"
+      "Versátil"
     ],
     "periodo": [
       "Dia"
@@ -39386,8 +39641,8 @@
     "exp": "Sample First",
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -39443,8 +39698,8 @@
     "exp": "Sample First",
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -39722,8 +39977,8 @@
     "exp": "Sample First",
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -39835,8 +40090,8 @@
     "exp": "Blind Buy",
     "conc": "EDT",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia"
@@ -40268,7 +40523,7 @@
       "Frutado",
       "Doce"
     ],
-    "fam": "Floral",
+    "fam": "Gourmand",
     "acordes": [
       "Frutas",
       "Floral",
@@ -41228,8 +41483,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
@@ -41290,8 +41545,8 @@
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Calor",
-      "Ameno"
+      "Ameno",
+      "Calor"
     ],
     "periodo": [
       "Dia",
