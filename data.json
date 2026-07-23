@@ -41703,5 +41703,1074 @@
     "vers": 6,
     "link": null,
     "resumo": "Contratipo do MYSLF Le Parfum (YSL). Boa execução nacional, mas o DNA MYSLF já está saturado na base (Me and I e Dubai Nights Midnight superam em Nota Final)."
+  },
+  {
+    "id": 682,
+    "nome": "Emir Rich Santal (Paris Corner)",
+    "dna": "Santal 33 (Le Labo)",
+    "cat": "Amadeirado Sofisticado",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Árabe",
+    "status": "Em Avaliação",
+    "veredito": "",
+    "resumo": "Woody aromático especiado, dupe respeitado do Santal 33. Cardamomo/violeta/papiro no topo, íris e âmbar no coração, couro-sândalo-cedro no fundo. Boa lacuna olfativa, ótimo custo-benefício.",
+    "compat": 7,
+    "preco": 300,
+    "exp": "Blind Buy",
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Especiado",
+      "Sofisticado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Amadeirado",
+      "Atalcado",
+      "Couro",
+      "Especiado"
+    ],
+    "notas": [
+      "Cardamomo",
+      "Violeta",
+      "Íris",
+      "Sândalo"
+    ],
+    "fix": 8,
+    "projI": 8,
+    "projD": 7,
+    "qual": 8,
+    "cb": 8,
+    "simil": 7,
+    "vers": 6,
+    "ind": 8.75,
+    "dap": 5.0,
+    "gpf": 10,
+    "sdt": 7.5,
+    "nota": 7.45,
+    "score": 7.33
+  },
+  {
+    "id": 683,
+    "nome": "Imperial Pastèque (The Dua Brand)",
+    "dna": "Millésime Impérial (Creed)",
+    "cat": "Fresh Impactante",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Em Avaliação",
+    "veredito": "",
+    "resumo": "Fresh frutado-aquático, dupe do Millésime Impérial com melancia salgada. Bem construído, mas território cítrico-aquático já coberto na coleção.",
+    "compat": 6,
+    "preco": 250,
+    "exp": "Blind Buy",
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Fresh",
+      "Frutado",
+      "Aquático"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Frutado",
+      "Aquático",
+      "Salgado"
+    ],
+    "notas": [
+      "Melancia",
+      "Melão",
+      "Floral Branco",
+      "Almíscar"
+    ],
+    "fix": 6,
+    "projI": 7,
+    "projD": 6,
+    "qual": 6,
+    "cb": 6,
+    "simil": 8,
+    "vers": 7,
+    "ind": 10.0,
+    "dap": 10.0,
+    "gpf": 9.67,
+    "sdt": 9.93,
+    "nota": 6.65,
+    "score": 7.26
+  },
+  {
+    "id": 684,
+    "nome": "L'Homme Idéal Platine Privé (Guerlain)",
+    "dna": "L'Homme Idéal Platine Privé (Guerlain)",
+    "cat": "Fresh Sofisticado",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Em Avaliação",
+    "veredito": "",
+    "resumo": "Cítrico-amendoado autoral: grapefruit e bergamota luminosos, amêndoa verde e néroli no coração, almíscar-vetiver no fundo. Assinatura Guerlain refinada e moderna.",
+    "compat": 9,
+    "preco": 500,
+    "exp": "Blind Buy",
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Amendoado",
+      "Fresh"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítricos",
+      "Amendoado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Grapefruit",
+      "Bergamota",
+      "Amêndoa Verde",
+      "Néroli"
+    ],
+    "fix": 8,
+    "projI": 8,
+    "projD": 8,
+    "qual": 10,
+    "cb": 8,
+    "simil": null,
+    "vers": 8,
+    "ind": 10.0,
+    "dap": 5.0,
+    "gpf": 6.0,
+    "sdt": 7.2,
+    "nota": 8.8,
+    "score": 8.33
+  },
+  {
+    "id": 685,
+    "nome": "Loewe Solo Elixir (Loewe)",
+    "dna": "Loewe Solo Elixir (Loewe)",
+    "cat": "Oriental Sofisticado",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Em Avaliação",
+    "veredito": "",
+    "resumo": "Oriental aromático floral: lavanda, jasmim sambac e mandarina no topo, íris-noz-moscada-canela no coração, olíbano-labdanum-patchouli-benjoim no fundo. Sofisticado e quente sem pesar.",
+    "compat": 8,
+    "preco": 400,
+    "exp": "Blind Buy",
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Oriental",
+      "Aromático",
+      "Especiado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Aromático",
+      "Floral",
+      "Âmbar",
+      "Resinoso"
+    ],
+    "notas": [
+      "Lavanda",
+      "Jasmim Sambac",
+      "Noz-Moscada",
+      "Labdanum"
+    ],
+    "fix": 8,
+    "projI": 8,
+    "projD": 7,
+    "qual": 8,
+    "cb": 8,
+    "simil": null,
+    "vers": 7,
+    "ind": 10.0,
+    "dap": 10.0,
+    "gpf": 5.67,
+    "sdt": 9.13,
+    "nota": 7.8,
+    "score": 8.16
+  },
+  {
+    "id": 686,
+    "nome": "Spicebomb (Viktor & Rolf)",
+    "dna": "Spicebomb (Viktor & Rolf)",
+    "cat": "Oriental Impactante",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Designer",
+    "status": "Em Avaliação",
+    "veredito": "",
+    "resumo": "Oriental especiado statement. Pimenta e cardamomo vibrantes, tabaco e âmbar quentes no fundo. Qualidade sólida, lacuna positiva de tabaco sofisticado.",
+    "compat": 7,
+    "preco": 350,
+    "exp": "Blind Buy",
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Oriental",
+      "Especiado",
+      "Sofisticado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Especiado",
+      "Ambarado"
+    ],
+    "notas": [
+      "Pimenta",
+      "Cardamomo",
+      "Tabaco",
+      "Âmbar"
+    ],
+    "fix": 8,
+    "projI": 9,
+    "projD": 8,
+    "qual": 8,
+    "cb": 8,
+    "simil": null,
+    "vers": 7,
+    "ind": 7.5,
+    "dap": 5.0,
+    "gpf": 5.67,
+    "sdt": 6.13,
+    "nota": 7.8,
+    "score": 7.16
+  },
+  {
+    "id": 688,
+    "nome": "Bvlgari Pour Homme EDP (Bvlgari)",
+    "dna": "Bvlgari Pour Homme EDP (Bvlgari)",
+    "cat": "Fresh Confortável",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Descartado",
+    "veredito": "",
+    "resumo": "Fresh aromático clássico: bergamota-lavanda no topo, cedro-almíscar no fundo. Redundante com o território fresh aromático já bem coberto na coleção.",
+    "compat": 6,
+    "preco": 300,
+    "exp": "Blind Buy",
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Fresh",
+      "Aromático"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítricos",
+      "Aromático"
+    ],
+    "notas": [
+      "Bergamota",
+      "Lavanda",
+      "Cedro",
+      "Almíscar"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 6,
+    "qual": 7,
+    "cb": 7,
+    "simil": null,
+    "vers": 8,
+    "ind": 3.75,
+    "dap": 3.75,
+    "gpf": 5.67,
+    "sdt": 4.13,
+    "nota": 7.2,
+    "score": 6.15
+  },
+  {
+    "id": 689,
+    "nome": "Jazz Club (Maison Margiela)",
+    "dna": "Jazz Club (Maison Margiela)",
+    "cat": "Oriental Impactante",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Designer",
+    "status": "Em Avaliação",
+    "veredito": "",
+    "resumo": "Oriental tabaco-couro statement, rum e âmbar no fundo. Lacuna positiva de tabaco sofisticado, boa qualidade, uso mais pontual/noturno.",
+    "compat": 7,
+    "preco": 500,
+    "exp": "Sample First",
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Oriental",
+      "Tabaco",
+      "Sofisticado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Tabaco",
+      "Ambarado"
+    ],
+    "notas": [
+      "Rum",
+      "Tabaco",
+      "Couro",
+      "Âmbar"
+    ],
+    "fix": 8,
+    "projI": 8,
+    "projD": 8,
+    "qual": 9,
+    "cb": 7,
+    "simil": null,
+    "vers": 6,
+    "ind": 10.0,
+    "dap": 8.75,
+    "gpf": 6.0,
+    "sdt": 8.7,
+    "nota": 7.73,
+    "score": 7.73
+  },
+  {
+    "id": 690,
+    "nome": "Rey (Maison Asrar)",
+    "dna": "MYSLF (Yves Saint Laurent - YSL)",
+    "cat": "Fresh Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Em Avaliação",
+    "veredito": "",
+    "resumo": "Contratipo do MYSLF com toque mais adocicado/gourmand e melhor performance. Bergamota-gerânio-grapefruit no topo, tonka-aromático-pimenta-preta no coração, almíscar-baunilha-âmbar no fundo.",
+    "compat": 8,
+    "preco": 250,
+    "exp": "Blind Buy",
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Fresh",
+      "Cítrico",
+      "Aromático"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítricos",
+      "Aromático",
+      "Almíscar"
+    ],
+    "notas": [
+      "Bergamota",
+      "Gerânio",
+      "Grapefruit",
+      "Tonka"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 7,
+    "qual": 7,
+    "cb": 8,
+    "simil": 8,
+    "vers": 7,
+    "ind": 10.0,
+    "dap": 3.75,
+    "gpf": 10,
+    "sdt": 7.5,
+    "nota": 7.45,
+    "score": 7.53
+  },
+  {
+    "id": 691,
+    "nome": "Nardo Oud (Orientica Premium)",
+    "dna": "Aventus Absolu (Creed)",
+    "cat": "Oriental Sofisticado",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Em Avaliação",
+    "veredito": "",
+    "resumo": "Frutado-couro sofisticado: abacaxi no topo, vetiver-groselha-rosa no coração, couro-madeira seca-âmbar no fundo. Boa performance, lacuna positiva de oud/frutado sofisticado.",
+    "compat": 8,
+    "preco": 300,
+    "exp": "Blind Buy",
+    "conc": "Extrait",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Oriental",
+      "Frutado",
+      "Couro"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Frutado",
+      "Couro",
+      "Ambarado"
+    ],
+    "notas": [
+      "Abacaxi",
+      "Vetiver",
+      "Groselha",
+      "Couro"
+    ],
+    "fix": 8,
+    "projI": 8,
+    "projD": 8,
+    "qual": 8,
+    "cb": 8,
+    "simil": 6,
+    "vers": 7,
+    "ind": 8.75,
+    "dap": 10.0,
+    "gpf": 10,
+    "sdt": 9.5,
+    "nota": 7.35,
+    "score": 8.1
+  },
+  {
+    "id": 692,
+    "nome": "La Di Da For Him (Arabiyat Prestige)",
+    "dna": "MYSLF (Yves Saint Laurent - YSL)",
+    "cat": "Fresh Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Em Avaliação",
+    "veredito": "",
+    "resumo": "Contratipo do MYSLF, com secundária referência a Emporio Armani Stronger With You. Grapefruit-bergamota-gerânio no topo, tonka-pimenta-preta no coração, almíscar-baunilha-âmbar no fundo.",
+    "compat": 7,
+    "preco": 250,
+    "exp": "Blind Buy",
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Fresh",
+      "Cítrico",
+      "Especiado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítricos",
+      "Especiado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Grapefruit",
+      "Bergamota",
+      "Gerânio",
+      "Tonka"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 7,
+    "qual": 7,
+    "cb": 7,
+    "simil": 6,
+    "vers": 7,
+    "ind": 10.0,
+    "dap": 0.0,
+    "gpf": 10,
+    "sdt": 6.0,
+    "nota": 6.75,
+    "score": 6.66
+  },
+  {
+    "id": 693,
+    "nome": "Ra'ed Luxe (Lattafa)",
+    "dna": "Ra'ed Luxe (Lattafa)",
+    "cat": "Oriental Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Em Avaliação",
+    "veredito": "",
+    "resumo": "Composição própria da Lattafa, sem dupe declarado. Melancia-junípero-abacaxi no topo, lavanda-cardamomo-canela no coração, gelo-baunilha-sândalo-âmbar no fundo. Fresco com toque especiado.",
+    "compat": 8,
+    "preco": 150,
+    "exp": "Blind Buy",
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Oriental",
+      "Especiado",
+      "Fresco"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Frutado",
+      "Especiado",
+      "Ambarado"
+    ],
+    "notas": [
+      "Melancia",
+      "Lavanda",
+      "Cardamomo",
+      "Baunilha"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 6,
+    "qual": 7,
+    "cb": 9,
+    "simil": null,
+    "vers": 7,
+    "ind": 6.25,
+    "dap": 10.0,
+    "gpf": 5.67,
+    "sdt": 7.63,
+    "nota": 7.67,
+    "score": 7.74
+  },
+  {
+    "id": 694,
+    "nome": "Not Vanilla (Becquer)",
+    "dna": "Not Vanilla (Becquer)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Nacional",
+    "status": "Descartado",
+    "veredito": "",
+    "resumo": "Gourmand confortável: baunilha-âmbar-patchouli-almíscar. Redundante com o gourmand já bem representado, prioridade baixa.",
+    "compat": 6,
+    "preco": 200,
+    "exp": "Blind Buy",
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Gourmand",
+      "Confortável"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Doce",
+      "Ambarado"
+    ],
+    "notas": [
+      "Baunilha",
+      "Âmbar",
+      "Patchouli",
+      "Almíscar"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 6,
+    "qual": 6,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "ind": 5.0,
+    "dap": 8.75,
+    "gpf": 6.0,
+    "sdt": 6.7,
+    "nota": 6.0,
+    "score": 6.17
+  },
+  {
+    "id": 695,
+    "nome": "Honour Man (Amouage)",
+    "dna": "Honour Man (Amouage)",
+    "cat": "Amadeirado Sofisticado",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Em Avaliação",
+    "veredito": "",
+    "resumo": "Woody-especiado premium: pimenta-rosa e preta no topo, gerânio-noz-moscada-elemi no coração, patchouli-incenso-cedro-vetiver-tonka-almíscar no fundo. Sofisticado, quase austero.",
+    "compat": 8,
+    "preco": 600,
+    "exp": "Blind Buy",
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Especiado",
+      "Sofisticado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Especiado",
+      "Amadeirado",
+      "Incensado"
+    ],
+    "notas": [
+      "Pimenta Rosa",
+      "Pimenta Preta",
+      "Gerânio",
+      "Elemi"
+    ],
+    "fix": 9,
+    "projI": 8,
+    "projD": 7,
+    "qual": 9,
+    "cb": 6,
+    "simil": null,
+    "vers": 7,
+    "ind": 10.0,
+    "dap": 5.0,
+    "gpf": 5.67,
+    "sdt": 7.13,
+    "nota": 7.8,
+    "score": 7.76
+  },
+  {
+    "id": 696,
+    "nome": "Jubilation XXV (Amouage)",
+    "dna": "Jubilation XXV (Amouage)",
+    "cat": "Oriental Sofisticado",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Em Avaliação",
+    "veredito": "",
+    "resumo": "Oriental incensado épico: amora-olíbano-labdanum-laranja no topo, mel-cinamomo-cravo-rosa-orquídea no coração, oud-mirra-patchouli-âmbar-musgo no fundo. Denso, luxuoso, statement puro.",
+    "compat": 7,
+    "preco": 600,
+    "exp": "Sample First",
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Oriental",
+      "Incensado",
+      "Especiado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Incensado",
+      "Frutado",
+      "Resinoso"
+    ],
+    "notas": [
+      "Amora",
+      "Olíbano",
+      "Labdanum",
+      "Mel"
+    ],
+    "fix": 9,
+    "projI": 8,
+    "projD": 8,
+    "qual": 9,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "ind": 10.0,
+    "dap": 10.0,
+    "gpf": 6.0,
+    "sdt": 9.2,
+    "nota": 7.6,
+    "score": 7.91
+  },
+  {
+    "id": 697,
+    "nome": "Rialto (Gritti)",
+    "dna": "Rialto (Gritti)",
+    "cat": "Floral Amadeirado Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Nicho",
+    "status": "Em Avaliação",
+    "veredito": "",
+    "resumo": "Clássico veneziano floral-amadeirado: bergamota-limão no topo, flor de laranja-jasmim no coração, cedro-musgo no fundo. Preenche lacuna entre Fresh Sofisticado e Amadeirado Natural. Preço elevado, recomenda amostra.",
+    "compat": 7,
+    "preco": 600,
+    "exp": "Sample First",
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Floral",
+      "Amadeirado",
+      "Sofisticado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Cítricos",
+      "Floral",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Limão",
+      "Flor de Laranja",
+      "Jasmim"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 6,
+    "qual": 8,
+    "cb": 6,
+    "simil": null,
+    "vers": 7,
+    "ind": 10.0,
+    "dap": 5.0,
+    "gpf": 5.0,
+    "sdt": 7.0,
+    "nota": 7.27,
+    "score": 7.19
+  },
+  {
+    "id": 698,
+    "nome": "Montblanc Black Meisterstück (Montblanc)",
+    "dna": "Montblanc Black Meisterstück (Montblanc)",
+    "cat": "Tobacco Sofisticado",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Em Avaliação",
+    "veredito": "",
+    "resumo": "Statement tabaco-couro: pimenta-preta-cardamomo no topo, café-tabaco-couro no coração, oud-vetiver-âmbar no fundo. Redundante com Man In Black (Bvlgari) já na coleção.",
+    "compat": 6,
+    "preco": 500,
+    "exp": "Sample First",
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Tabaco",
+      "Couro",
+      "Amadeirado"
+    ],
+    "fam": "Tobacco",
+    "acordes": [
+      "Especiado",
+      "Tabaco",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Pimenta Preta",
+      "Cardamomo",
+      "Café",
+      "Tabaco"
+    ],
+    "fix": 8,
+    "projI": 8,
+    "projD": 7,
+    "qual": 8,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "ind": 10.0,
+    "dap": 3.75,
+    "gpf": 5.67,
+    "sdt": 6.63,
+    "nota": 7.07,
+    "score": 6.73
+  },
+  {
+    "id": 699,
+    "nome": "Jbeil (Rasasi)",
+    "dna": "Torino 21 (Xerjoff)",
+    "cat": "Floral Amadeirado Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Árabe",
+    "status": "Interesse",
+    "veredito": "",
+    "resumo": "Contratipo árabe do Torino 21: bergamota-limão-pimenta-rosa no topo, flor de laranja-jasmim no coração, cedro-musgo no fundo. Excelente custo-benefício, Blind Buy seguro.",
+    "compat": 7,
+    "preco": 270,
+    "exp": "Blind Buy",
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Floral",
+      "Amadeirado",
+      "Sofisticado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Cítricos",
+      "Floral",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Limão",
+      "Pimenta Rosa",
+      "Flor de Laranja"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 6,
+    "qual": 8,
+    "cb": 8,
+    "simil": null,
+    "vers": 7,
+    "ind": 8.75,
+    "dap": 5.0,
+    "gpf": 10,
+    "sdt": 7.5,
+    "nota": 7.8,
+    "score": 8.5
+  },
+  {
+    "id": 736,
+    "nome": "Bois Blanc (Arabiyat Prestige)",
+    "dna": "Bois Impérial (Essential Parfums)",
+    "cat": "Oriental Amadeirado Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Árabe",
+    "status": "Interesse",
+    "veredito": "",
+    "resumo": "Dupe do Bois Impérial: grapefruit-pimenta-rosa-elemi no topo, lírio-do-vale-âmbar-violeta no coração, patchouli-âmbar-cinza no fundo. Similaridade excelente (8,5/10), ótimo custo-benefício.",
+    "compat": 7,
+    "preco": 270,
+    "exp": "Blind Buy",
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Oriental",
+      "Amadeirado",
+      "Sofisticado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Cítricos",
+      "Floral",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Grapefruit",
+      "Pimenta Rosa",
+      "Lírio-do-Vale",
+      "Âmbar"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 6,
+    "qual": 8,
+    "cb": 8,
+    "simil": 8.5,
+    "vers": 7,
+    "ind": 8.75,
+    "dap": 5.0,
+    "gpf": 10,
+    "sdt": 7.5,
+    "nota": 7.97,
+    "score": 8.57
+  },
+  {
+    "id": 737,
+    "nome": "Bamboo Reflection (Arabiyat Prestige)",
+    "dna": "Torino 21 (Xerjoff)",
+    "cat": "Aromático Aquático Fresco",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "",
+    "resumo": "Contratipo do Torino 21 com twist aquático tipo mojito. Aquático-limão-bergamota-verde no topo, lavanda-jasmim-lírio-artemísia no coração, amadeirado-almíscar no fundo. Compatibilidade moderada.",
+    "compat": 6,
+    "preco": 240,
+    "exp": "Sample First",
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Aromático",
+      "Aquático",
+      "Fresco"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Aquático",
+      "Cítricos",
+      "Verde"
+    ],
+    "notas": [
+      "Notas Aquáticas",
+      "Limão",
+      "Bergamota",
+      "Lavanda"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7,
+    "cb": 7,
+    "simil": 7,
+    "vers": 6,
+    "ind": 7.5,
+    "dap": 10.0,
+    "gpf": 9.67,
+    "sdt": 8.93,
+    "nota": 6.75,
+    "score": 7.5
   }
 ]
