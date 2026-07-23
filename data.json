@@ -39931,5 +39931,1522 @@
     "nota": 8.27,
     "score": 8.48,
     "resumo": "Íris atalcada, limpa e sofisticada — encaixe quase perfeito com sua textura favorita (Atalcada/Sabonete). Descontinuado, mas ainda encontrável. Um dos fortes candidatos da leva."
+  },
+  {
+    "id": 711,
+    "nome": "Royal Oud (Creed)",
+    "dna": "Royal Oud (Creed)",
+    "cat": "Amadeirado Refinado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Padrão-ouro do oud ocidentalizado — nicho caro, mas referência do território.",
+    "compat": 6,
+    "preco": 650,
+    "exp": "Sample First",
+    "nota": 7.87,
+    "score": 7.0,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 4.37,
+    "gpf": 4.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Oriental",
+      "Refinado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Amadeirado",
+      "Especiado",
+      "Cítricos",
+      "Almíscar"
+    ],
+    "notas": [
+      "Pimenta Rosa",
+      "Limão",
+      "Bergamota",
+      "Cedro",
+      "Oud",
+      "Sândalo"
+    ],
+    "fix": 8,
+    "projI": 6,
+    "projD": 5,
+    "qual": 9.5,
+    "cb": 6,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "DNA original do Oud Royalle (Azza). Oud europeu refinado, cítrico na saída e amadeirado-resinoso no fundo."
+  },
+  {
+    "id": 712,
+    "nome": "Oud Royalle (Azza Parfums)",
+    "dna": "Royal Oud (Creed)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Porta de entrada nacional racional para o DNA Royal Oud — sample first pela performance inconsistente.",
+    "compat": 6,
+    "preco": 65,
+    "exp": "Sample First",
+    "nota": 7.8,
+    "score": 6.72,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 4.17,
+    "gpf": 3.33,
+    "conc": "Parfum",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Oriental",
+      "Sedutor"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Amadeirado",
+      "Especiado",
+      "Cítricos",
+      "Almíscar"
+    ],
+    "notas": [
+      "Bergamota",
+      "Pimenta Rosa",
+      "Cardamomo",
+      "Cedro",
+      "Oud",
+      "Incenso"
+    ],
+    "fix": 6.5,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 10,
+    "simil": 8,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo nacional do Royal Oud (Creed). Ótimo custo-benefício mas com relatos de performance inconsistente entre lotes."
+  },
+  {
+    "id": 713,
+    "nome": "Viking (Creed)",
+    "dna": "Viking (Creed)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "O Creed mais alinhado ao arquétipo do usuário — cítrico-aromático-amadeirado.",
+    "compat": 8,
+    "preco": 650,
+    "exp": "Sample First",
+    "nota": 8.07,
+    "score": 7.76,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 4.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Aromático",
+      "Cítrico",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítricos",
+      "Aromático",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Limão",
+      "Pimenta Rosa",
+      "Lavanda",
+      "Sândalo",
+      "Vetiver"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 5,
+    "qual": 9.5,
+    "cb": 6,
+    "simil": null,
+    "vers": 8,
+    "link": null,
+    "resumo": "DNA original do The Barbarian (In The Box). O Creed mais alinhado ao arquétipo Terre d'Hermès EDTF do usuário."
+  },
+  {
+    "id": 714,
+    "nome": "The Barbarian (In The Box)",
+    "dna": "Viking (Creed)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Contratipo nacional competente do Viking — versátil e bem posicionado em preço.",
+    "compat": 8,
+    "preco": 260,
+    "exp": "Sample First",
+    "nota": 6.95,
+    "score": 7.55,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.67,
+    "gpf": 3.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Aromático",
+      "Floral",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítricos",
+      "Floral",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Limão",
+      "Hortelã",
+      "Cravo",
+      "Rosa da Bulgária",
+      "Vetiver"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 8,
+    "simil": 7,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo nacional do Viking (Creed). Versátil e bem posicionado em preço; performance divergente entre fontes pede sample first."
+  },
+  {
+    "id": 715,
+    "nome": "Azure (Al Haramain)",
+    "dna": "Azure (Al Haramain)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Descoberta própria da Al Haramain, ótimo custo-benefício, sem clone declarado.",
+    "compat": 7,
+    "preco": 220,
+    "exp": "Sample First",
+    "nota": 8.2,
+    "score": 8.01,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.37,
+    "gpf": 4.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Frutas",
+      "Especiado",
+      "Amadeirado",
+      "Floral"
+    ],
+    "notas": [
+      "Maçã",
+      "Gengibre",
+      "Grapefruit",
+      "Gerânio",
+      "Tonka",
+      "Cedro"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 8,
+    "cb": 10,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Composição própria da linha French Collection da Al Haramain, sem clone declarado. Frutado-especiado-amadeirado com ótimo custo-benefício."
+  },
+  {
+    "id": 716,
+    "nome": "Hawas Sapphire (Rasasi)",
+    "dna": "Hawas Sapphire (Rasasi)",
+    "cat": "Floral Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Fora do eixo de preferência do usuário — floral-frutado-doce, confiança baixa (lançamento recente).",
+    "compat": 4,
+    "preco": 180,
+    "exp": "Sample First",
+    "nota": 5.4,
+    "score": 6.28,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.37,
+    "gpf": 4.33,
+    "conc": "EDP",
+    "clima": [
+      "Calor"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Floral",
+      "Frutado",
+      "Doce"
+    ],
+    "fam": "Floral",
+    "acordes": [
+      "Frutas",
+      "Floral",
+      "Doce",
+      "Almíscar"
+    ],
+    "notas": [
+      "Goiaba",
+      "Cassis",
+      "Bergamota",
+      "Flor de Laranjeira",
+      "Sândalo",
+      "Fava Tonka"
+    ],
+    "fix": 6,
+    "projI": 5,
+    "projD": 4,
+    "qual": 5.5,
+    "cb": 6,
+    "simil": null,
+    "vers": 4,
+    "link": null,
+    "resumo": "Lançamento 2026 sem inspiração declarada. Floral-frutado-doce, foge do arquétipo do usuário. Confiança baixa (poucos dados ainda)."
+  },
+  {
+    "id": 717,
+    "nome": "Teas Me (Aromatix X French Avenue)",
+    "dna": "Gris Charnel (BDK Parfums)",
+    "cat": "Oriental Confortável",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Bom perfume mas redundante com Liam Grey (Lattafa) já possuído — mesmo território de chá preto.",
+    "compat": 7,
+    "preco": 180,
+    "exp": "Sample First",
+    "nota": 7.8,
+    "score": 7.75,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.7,
+    "gpf": 6.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Oriental",
+      "Especiado",
+      "Amadeirado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Especiado",
+      "Chá",
+      "Amadeirado",
+      "Baunilha"
+    ],
+    "notas": [
+      "Limão",
+      "Gengibre",
+      "Chá Preto",
+      "Cardamomo",
+      "Olíbano",
+      "Fava Tonka"
+    ],
+    "fix": 7.5,
+    "projI": 6,
+    "projD": 5,
+    "qual": 8,
+    "cb": 8,
+    "simil": 8,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo de Gris Charnel (BDK), mesmo território de chá preto/cardamomo do Liam Grey já possuído — sobreposição parcial de DNA."
+  },
+  {
+    "id": 718,
+    "nome": "Miami Vibes (Ryziger Parfums)",
+    "dna": "Miami Vibes (Ryziger Parfums)",
+    "cat": "Gourmand Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Marca nova sem lastro independente de reviews — preço alto e fora do arquétipo do usuário.",
+    "compat": 3,
+    "preco": 1300,
+    "exp": "Sample First",
+    "nota": 3.93,
+    "score": 5.08,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.8,
+    "gpf": 4.0,
+    "conc": "Extrait",
+    "clima": [
+      "Calor"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Gourmand",
+      "Frutado",
+      "Doce"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Frutas",
+      "Doce",
+      "Amadeirado",
+      "Âmbar"
+    ],
+    "notas": [
+      "Piña Colada",
+      "Mojito",
+      "Amêndoa",
+      "Rosa Búlgara",
+      "Fava Tonka",
+      "Sândalo"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 5,
+    "cb": 2,
+    "simil": null,
+    "vers": 3,
+    "link": null,
+    "resumo": "Marca de nicho influencer-driven (2026), sem histórico independente consolidado. Gourmand tropical-doce, distante do arquétipo do usuário; preço alto para o risco."
+  },
+  {
+    "id": 719,
+    "nome": "Ezodus (Nuancielo)",
+    "dna": "Stronger With You Tobacco (Giorgio Armani)",
+    "cat": "Oriental Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Contratipo nacional barato de Stronger With You Tobacco — fixação elogiada.",
+    "compat": 4,
+    "preco": 27,
+    "exp": "Blind Buy",
+    "nota": 7.7,
+    "score": 6.74,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.37,
+    "gpf": 4.33,
+    "conc": "Deo Parfum",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Especiado",
+      "Doce"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Especiado",
+      "Tabaco",
+      "Baunilha",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Pimenta Rosa",
+      "Cardamomo",
+      "Tabaco",
+      "Canela",
+      "Baunilha",
+      "Âmbar"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 10,
+    "simil": 8,
+    "vers": 5,
+    "link": null,
+    "resumo": "Contratipo de Stronger With You Tobacco (Armani). Especiado-adocicado, fixação elogiada; foge um pouco da limpeza que o usuário busca."
+  },
+  {
+    "id": 720,
+    "nome": "Stronger With You Tobacco (Giorgio Armani)",
+    "dna": "Stronger With You Tobacco (Giorgio Armani)",
+    "cat": "Oriental Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Original oriental especiado-adocicado de tabaco.",
+    "compat": 4,
+    "preco": 550,
+    "exp": "Sample First",
+    "nota": 7.27,
+    "score": 6.77,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.5,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Especiado",
+      "Doce"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Especiado",
+      "Tabaco",
+      "Baunilha",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Pimenta Rosa",
+      "Cardamomo",
+      "Tabaco",
+      "Canela",
+      "Baunilha",
+      "Âmbar"
+    ],
+    "fix": 8,
+    "projI": 6,
+    "projD": 5,
+    "qual": 8.5,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "DNA original do Ezodus (Nuancielo). Oriental especiado-adocicado de tabaco e baunilha."
+  },
+  {
+    "id": 721,
+    "nome": "Bade'e Al Oud (Lattafa)",
+    "dna": "Bade'e Al Oud (Lattafa)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Oud árabe clássico e potente — mesmo eixo do Oud Royalle/Royal Oud.",
+    "compat": 5,
+    "preco": 140,
+    "exp": "Sample First",
+    "nota": 7.27,
+    "score": 6.45,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 4.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Oriental",
+      "Especiado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Especiado",
+      "Amadeirado",
+      "Âmbar",
+      "Almíscar"
+    ],
+    "notas": [
+      "Pimenta Rosa",
+      "Incenso",
+      "Oud",
+      "Âmbar",
+      "Cedro",
+      "Baunilha"
+    ],
+    "fix": 8,
+    "projI": 8,
+    "projD": 6,
+    "qual": 7,
+    "cb": 9,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "resumo": "Criação própria da linha Bade'e Al Oud (Lattafa). Oud oriental potente, mesmo eixo do Oud Royalle/Royal Oud já avaliados."
+  },
+  {
+    "id": 722,
+    "nome": "Fruttato Oud (In The Box)",
+    "dna": "Oud Maracujá (Maison Crivelli)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Fragrância desafiadora frutado-couro-oud — não recomendada para iniciantes.",
+    "compat": 4,
+    "preco": 250,
+    "exp": "Sample First",
+    "nota": 7.0,
+    "score": 6.99,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.17,
+    "gpf": 3.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Frutado",
+      "Couro"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Frutas",
+      "Amadeirado",
+      "Couro",
+      "Resinoso"
+    ],
+    "notas": [
+      "Maracujá",
+      "Rosa Turca",
+      "Açafrão",
+      "Oud",
+      "Couro",
+      "Baunilha"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 8,
+    "simil": 7,
+    "vers": 4,
+    "link": null,
+    "resumo": "Contratipo de Oud Maracujá (Maison Crivelli). Fragrância desafiadora (frutado-couro-oud), a própria marca avisa que não é para iniciantes."
+  },
+  {
+    "id": 723,
+    "nome": "Aswaar (Riiffs)",
+    "dna": "Ani X (Nishane)",
+    "cat": "Oriental Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Contratipo de Ani X por marca emergente — saída ótima, fundo baunilhado foge do padrão do usuário.",
+    "compat": 6,
+    "preco": 180,
+    "exp": "Sample First",
+    "nota": 7.25,
+    "score": 6.97,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.73,
+    "gpf": 3.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Oriental",
+      "Cítrico",
+      "Amadeirado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Cítricos",
+      "Especiado",
+      "Floral",
+      "Baunilha"
+    ],
+    "notas": [
+      "Limão",
+      "Gengibre",
+      "Bergamota",
+      "Cardamomo",
+      "Rosa",
+      "Baunilha"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7,
+    "cb": 9,
+    "simil": 7,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo de Ani X (Nishane), marca emergente Riiffs. Saída cítrico-especiada ótima, fundo baunilha puxa pra fora da limpeza atalcada preferida."
+  },
+  {
+    "id": 724,
+    "nome": "Ani X (Nishane)",
+    "dna": "Ani X (Nishane)",
+    "cat": "Oriental Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Best-seller de nicho, vanilla cítrico-especiada aclamada.",
+    "compat": 6,
+    "preco": 900,
+    "exp": "Sample First",
+    "nota": 7.87,
+    "score": 7.37,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.87,
+    "gpf": 4.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Oriental",
+      "Cítrico",
+      "Amadeirado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Cítricos",
+      "Especiado",
+      "Floral",
+      "Baunilha"
+    ],
+    "notas": [
+      "Limão",
+      "Gengibre",
+      "Bergamota",
+      "Cardamomo",
+      "Rosa",
+      "Baunilha"
+    ],
+    "fix": 8,
+    "projI": 6,
+    "projD": 5,
+    "qual": 9.5,
+    "cb": 6,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "DNA original do Aswaar (Riiffs). Vanilla cítrico-especiada aclamada, um dos best-sellers da Nishane."
+  },
+  {
+    "id": 725,
+    "nome": "Spirito Ignite (French Avenue)",
+    "dna": "Gardez (Mind Games)",
+    "cat": "Couro Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Melhor achado do lote — textura de íris atalcada muito alinhada ao gosto do usuário.",
+    "compat": 7,
+    "preco": 220,
+    "exp": "Sample First",
+    "nota": 7.55,
+    "score": 8.22,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "Extrait",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Couro",
+      "Floral",
+      "Amadeirado"
+    ],
+    "fam": "Couro",
+    "acordes": [
+      "Íris",
+      "Couro",
+      "Floral",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Íris",
+      "Pimenta Rosa",
+      "Couro",
+      "Magnólia",
+      "Violeta",
+      "Vetiver"
+    ],
+    "fix": 7.5,
+    "projI": 6,
+    "projD": 5,
+    "qual": 8,
+    "cb": 8,
+    "simil": 7,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo de Gardez (Mind Games). Textura de íris atalcada muito alinhada ao arquétipo do usuário — melhor achado do lote."
+  },
+  {
+    "id": 726,
+    "nome": "Gardez (Mind Games)",
+    "dna": "Gardez (Mind Games)",
+    "cat": "Couro Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Original de nicho com contraste floral-couro premiado, inspirado em xadrez.",
+    "compat": 7,
+    "preco": 950,
+    "exp": "Sample First",
+    "nota": 7.87,
+    "score": 8.45,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.0,
+    "gpf": 5.0,
+    "conc": "Extrait",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Couro",
+      "Floral",
+      "Amadeirado"
+    ],
+    "fam": "Couro",
+    "acordes": [
+      "Íris",
+      "Couro",
+      "Floral",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Damasco",
+      "Folha de Amora",
+      "Íris",
+      "Jasmim Sambac",
+      "Couro Negro",
+      "Cedro"
+    ],
+    "fix": 8,
+    "projI": 6,
+    "projD": 5,
+    "qual": 9,
+    "cb": 6,
+    "simil": null,
+    "vers": 8,
+    "link": null,
+    "resumo": "DNA original do Spirito Ignite (French Avenue). Fragrância de nicho inspirada em xadrez, contraste floral-couro premiado."
+  },
+  {
+    "id": 727,
+    "nome": "Spirito Mystic (French Avenue)",
+    "dna": "Prodigy (Mind Games)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Feminino-leaning — mais indicado ao negócio de decants do que à coleção pessoal.",
+    "compat": 3,
+    "preco": 220,
+    "exp": "Sample First",
+    "nota": 6.65,
+    "score": 5.95,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.87,
+    "gpf": 4.33,
+    "conc": "Extrait",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Floral",
+      "Doce"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Floral",
+      "Atalcado",
+      "Baunilha",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Rosa",
+      "Bergamota",
+      "Cardamomo",
+      "Sândalo",
+      "Fava Tonka",
+      "Baunilha"
+    ],
+    "fix": 7,
+    "projI": 5,
+    "projD": 4,
+    "qual": 7.5,
+    "cb": 8,
+    "simil": 6,
+    "vers": 4,
+    "link": null,
+    "resumo": "Contratipo de Prodigy (Mind Games). Rosa-atalcado feminino-leaning; fora do eixo pessoal do usuário, mais indicado ao negócio de decants."
+  },
+  {
+    "id": 728,
+    "nome": "Prodigy (Mind Games)",
+    "dna": "Prodigy (Mind Games)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Original de nicho rosa-atalcado, feminino-leaning.",
+    "compat": 3,
+    "preco": 950,
+    "exp": "Sample First",
+    "nota": 7.27,
+    "score": 6.34,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.0,
+    "gpf": 5.0,
+    "conc": "Extrait",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Floral",
+      "Doce"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Floral",
+      "Atalcado",
+      "Baunilha",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Rosa",
+      "Bergamota",
+      "Cardamomo",
+      "Sândalo",
+      "Fava Tonka",
+      "Patchouli"
+    ],
+    "fix": 8,
+    "projI": 5,
+    "projD": 4,
+    "qual": 9,
+    "cb": 6,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "resumo": "DNA original do Spirito Mystic (French Avenue). Rosa-atalcado de nicho, feminino-leaning."
+  },
+  {
+    "id": 729,
+    "nome": "Nitro Elixir (Dumont Paris)",
+    "dna": "Nitro Elixir (Dumont Paris)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Gourmand cítrico-especiado de assinatura própria (praliné), sem clone único declarado.",
+    "compat": 4,
+    "preco": 260,
+    "exp": "Sample First",
+    "nota": 7.13,
+    "score": 7.14,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.37,
+    "gpf": 4.33,
+    "conc": "Extrait",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Gourmand",
+      "Cítrico",
+      "Doce"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Cítricos",
+      "Doce",
+      "Floral",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Cardamomo",
+      "Maçã",
+      "Praliné",
+      "Flor de Laranjeira",
+      "Tonka"
+    ],
+    "fix": 7.5,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7,
+    "cb": 8,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Composição própria da Dumont Paris, sem clone único declarado (comunidade compara a MYSLF/Reflection Man). Gourmand cítrico-especiado com praliné de assinatura."
+  },
+  {
+    "id": 730,
+    "nome": "Extradose Homme (Arabiyat Prestige)",
+    "dna": "Born In Roma Extradose (Valentino)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Bem avaliado como versão 'mais rica' do Born in Roma Extradose — bom custo-benefício.",
+    "compat": 5,
+    "preco": 200,
+    "exp": "Sample First",
+    "nota": 7.65,
+    "score": 6.81,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 4.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Amadeirado",
+      "Couro"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Especiado",
+      "Couro",
+      "Baunilha",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Pimenta Rosa",
+      "Couro",
+      "Fava Tonka",
+      "Âmbar",
+      "Patchouli"
+    ],
+    "fix": 8,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 9,
+    "simil": 7,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo de Born In Roma Extradose (Valentino). Bem avaliado como versão 'mais rica' do original, bom p/ escritório e noite."
+  },
+  {
+    "id": 731,
+    "nome": "Born In Roma Extradose (Valentino)",
+    "dna": "Born In Roma Extradose (Valentino)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Original oriental-couro quente da linha Born in Roma.",
+    "compat": 5,
+    "preco": 650,
+    "exp": "Sample First",
+    "nota": 7.53,
+    "score": 6.84,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.0,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Amadeirado",
+      "Couro"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Especiado",
+      "Couro",
+      "Baunilha",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Pimenta Rosa",
+      "Couro",
+      "Fava Tonka",
+      "Âmbar",
+      "Patchouli"
+    ],
+    "fix": 8.5,
+    "projI": 6,
+    "projD": 5,
+    "qual": 8.5,
+    "cb": 6,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "DNA original do Extradose Homme (Arabiyat Prestige). Oriental-couro quente da linha Born in Roma."
+  },
+  {
+    "id": 732,
+    "nome": "Buongiorno (Acqua di Parma)",
+    "dna": "Buongiorno (Acqua di Parma)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Original renomado mas de fixação mediana — território fresco muito alinhado ao gosto do usuário.",
+    "compat": 8,
+    "preco": 950,
+    "exp": "Sample First",
+    "nota": 7.4,
+    "score": 7.73,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.57,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Fresh",
+      "Cítrico",
+      "Aromático"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítricos",
+      "Aromático",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Limão",
+      "Alecrim",
+      "Manjericão",
+      "Lavanda",
+      "Cedro",
+      "Âmbar"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8.5,
+    "cb": 6,
+    "simil": null,
+    "vers": 8,
+    "link": null,
+    "resumo": "DNA original do Giorno di Sole (Azza). Cítrico-aromático fresco de 2025, co-destilação de manjericão e petitgrain — perfil muito próximo do arquétipo do usuário, mas com fixação mediana segundo reviews."
+  },
+  {
+    "id": 733,
+    "nome": "Giorno di Sole (Azza Parfums)",
+    "dna": "Buongiorno (Acqua di Parma)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Lacuna genuína e bem alinhada ao gosto, mas ainda sem lastro de reviews — vale sample.",
+    "compat": 8,
+    "preco": 70,
+    "exp": "Sample First",
+    "nota": 7.25,
+    "score": 7.68,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.57,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Fresh",
+      "Cítrico",
+      "Aromático"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítricos",
+      "Aromático",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Limão",
+      "Alecrim",
+      "Manjericão",
+      "Lavanda",
+      "Cedro",
+      "Âmbar"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 6,
+    "vers": 8,
+    "link": null,
+    "resumo": "Contratipo do Buongiorno (Acqua di Parma), lançamento recente da Azza sem histórico de reviews consolidado ainda. DNA inédito na base — cítrico-aromático fresco muito próximo do arquétipo Terre d'Hermès EDTF do usuário."
+  },
+  {
+    "id": 734,
+    "nome": "MYSLF Le Parfum (Yves Saint Laurent - YSL)",
+    "dna": "MYSLF Le Parfum (Yves Saint Laurent - YSL)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Flanker sólido da linha MYSLF, mas o guarda-chuva já está bem coberto na base do usuário.",
+    "compat": 5,
+    "preco": 550,
+    "exp": "Sample First",
+    "nota": 7.27,
+    "score": 7.14,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.0,
+    "gpf": 5.0,
+    "conc": "Parfum",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Floral",
+      "Âmbar"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Floral",
+      "Amadeirado",
+      "Âmbar",
+      "Especiado"
+    ],
+    "notas": [
+      "Pimenta Preta",
+      "Flor de Laranjeira",
+      "Âmbar",
+      "Baunilha",
+      "Madeiras",
+      "Patchouli"
+    ],
+    "fix": 8,
+    "projI": 6,
+    "projD": 5,
+    "qual": 8.5,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "DNA original do Yourself Le Parfum (Azza). Flanker de maior concentração da linha MYSLF, floral-amadeirado-âmbar com baunilha bourbon."
+  },
+  {
+    "id": 735,
+    "nome": "Yourself Le Parfum (Azza Parfums)",
+    "dna": "MYSLF Le Parfum (Yves Saint Laurent - YSL)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Bom contratipo, porém redundante — o guarda-chuva MYSLF já tem representantes melhores na base.",
+    "compat": 5,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.65,
+    "score": 7.21,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.93,
+    "gpf": 4.67,
+    "conc": "Parfum",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Floral",
+      "Âmbar"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Floral",
+      "Amadeirado",
+      "Âmbar",
+      "Especiado"
+    ],
+    "notas": [
+      "Pimenta Preta",
+      "Flor de Laranjeira",
+      "Âmbar",
+      "Baunilha de Bourbon",
+      "Madeiras",
+      "Patchouli"
+    ],
+    "fix": 7.5,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo do MYSLF Le Parfum (YSL). Boa execução nacional, mas o DNA MYSLF já está saturado na base (Me and I e Dubai Nights Midnight superam em Nota Final)."
   }
 ]
