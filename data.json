@@ -13693,61 +13693,64 @@
   {
     "id": 236,
     "nome": "Vulcan Black (French Avenue)",
-    "dna": "Santal 33 + Tobacco Vanille",
-    "cat": "Amadeirado Sofisticado",
+    "dna": "Deified (Xerjoff)",
+    "cat": "Couro Sedutor",
     "ocasiao": [
-      "Trabalho",
       "Social/Noite",
-      "Evento Formal"
+      "Assinatura/Casual"
     ],
     "origem": "Árabe",
     "status": "Curiosidade",
-    "veredito": "",
-    "compat": 10.0,
-    "preco": 380.0,
-    "exp": "Blind Buy",
-    "nota": 9.4,
-    "score": 9.52,
-    "rankDNA": 1,
-    "flagDNA": true,
+    "veredito": "Correção de DNA — na verdade é contratipo do Deified (Xerjoff), com alta fidelidade.",
+    "compat": 6,
+    "preco": 380,
+    "exp": "Sample First",
+    "nota": 8.15,
+    "score": 8.29,
+    "rankDNA": null,
+    "flagDNA": false,
     "melhorNac": false,
-    "melhorAr": true,
-    "sdt": 7.7,
-    "gpf": 6.0,
+    "melhorAr": false,
+    "sdt": 8.57,
+    "gpf": 5.33,
     "conc": "EDP",
     "clima": [
       "Ameno",
       "Frio"
     ],
     "periodo": [
-      "Dia",
-      "Noite"
+      "Noite",
+      "Versátil"
     ],
     "perfil": [
-      "Amadeirado Couro"
-    ],
-    "fam": "Amadeirado",
-    "acordes": [
-      "Sândalo",
       "Couro",
-      "Tabaco",
-      "Especiado"
+      "Especiado",
+      "Frutado"
+    ],
+    "fam": "Couro",
+    "acordes": [
+      "Couro",
+      "Especiado",
+      "Frutado",
+      "Amadeirado"
     ],
     "notas": [
-      "Sândalo",
+      "Açafrão",
+      "Maçã",
+      "Canela",
       "Couro",
-      "Tabaco",
-      "Cardamomo"
+      "Rosa",
+      "Patchouli"
     ],
-    "fix": 10.0,
-    "projI": 8.0,
-    "projD": 6.0,
-    "qual": 10.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 6.0,
-    "link": "https://www.thekingofparfums.com.br/",
-    "resumo": "Elegância bruta e refinada. Sândalo cremoso com nuances de couro e tabaco. Transmite seriedade e estabilidade executiva. Veredito: Blind Buy Seguro."
+    "fix": 10,
+    "projI": 8,
+    "projD": 6,
+    "qual": 8,
+    "cb": 8,
+    "simil": 9,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo de alta fidelidade do Deified (Xerjoff/Tony Iommi) — pirâmide praticamente idêntica (açafrão, maçã, canela / couro, rosa / papiro, patchouli, musgo, almíscar). Correção de DNA: não é dupe de Santal 33 nem de Tobacco Vanille."
   },
   {
     "id": 237,
@@ -42772,5 +42775,192 @@
     "sdt": 8.93,
     "nota": 6.75,
     "score": 7.5
+  },
+  {
+    "id": 738,
+    "nome": "Deified (Xerjoff)",
+    "dna": "Deified (Xerjoff)",
+    "cat": "Couro Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Original de nicho da Xerjoff, colaboração com Tony Iommi — DNA do Vulcan Black.",
+    "compat": 6,
+    "preco": 950,
+    "exp": "Sample First",
+    "nota": 7.6,
+    "score": 8.0,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.57,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Couro",
+      "Especiado",
+      "Frutado"
+    ],
+    "fam": "Couro",
+    "acordes": [
+      "Couro",
+      "Especiado",
+      "Frutado",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Açafrão",
+      "Canela",
+      "Maçã",
+      "Couro",
+      "Rosa",
+      "Patchouli"
+    ],
+    "fix": 9,
+    "projI": 8,
+    "projD": 6,
+    "qual": 9,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "DNA original do Vulcan Black (French Avenue). Colaboração Xerjoff x Tony Iommi (Black Sabbath), couro-especiado com abertura frutada-adocicada de maçã e canela."
+  },
+  {
+    "id": 739,
+    "nome": "Emper Stallion 53 (Emper)",
+    "dna": "Santal 33 (Le Labo)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Alta fidelidade ao DNA, ótimo custo-benefício — o achado real da pesquisa de dupes de Santal 33.",
+    "compat": 7,
+    "preco": 170,
+    "exp": "Sample First",
+    "nota": 7.4,
+    "score": 7.55,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.63,
+    "gpf": 5.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Atalcado",
+      "Especiado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Amadeirado",
+      "Atalcado",
+      "Especiado",
+      "Couro"
+    ],
+    "notas": [
+      "Violeta",
+      "Cardamomo",
+      "Íris",
+      "Âmbar",
+      "Sândalo",
+      "Couro"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7,
+    "cb": 9,
+    "simil": 7,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo de Santal 33 (Le Labo) com boa fidelidade — cobre cardamomo, violeta, íris, sândalo e couro do original. A nota de papiro no fundo pode polarizar. Fixação bem avaliada pela comunidade."
+  },
+  {
+    "id": 740,
+    "nome": "Sandal Oud (Al Wataniah)",
+    "dna": "Santal 33 (Le Labo)",
+    "cat": "Oriental Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Fidelidade duvidosa ao DNA declarado — mais floral-frutado que o Santal 33 original.",
+    "compat": 5,
+    "preco": 230,
+    "exp": "Sample First",
+    "nota": 6.2,
+    "score": 7.25,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.13,
+    "gpf": 5.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Floral",
+      "Frutado",
+      "Amadeirado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Floral",
+      "Frutado",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "notas": [
+      "Neroli",
+      "Jasmim",
+      "Pêssego",
+      "Rosa",
+      "Canela",
+      "Sândalo"
+    ],
+    "fix": 7.5,
+    "projI": 6,
+    "projD": 5,
+    "qual": 6.5,
+    "cb": 8,
+    "simil": 4,
+    "vers": 6,
+    "link": null,
+    "resumo": "Vendido como 'irmão gêmeo' do Santal 33, mas a pirâmide diverge bastante do original (sem cardamomo, sem íris, sem violeta — em vez disso neroli, pêssego, rosa e canela). Fidelidade questionável; mais um perfume floral-frutado-amadeirado próprio do que um dupe fiel."
   }
 ]
