@@ -42962,5 +42962,1261 @@
     "vers": 6,
     "link": null,
     "resumo": "Vendido como 'irmão gêmeo' do Santal 33, mas a pirâmide diverge bastante do original (sem cardamomo, sem íris, sem violeta — em vez disso neroli, pêssego, rosa e canela). Fidelidade questionável; mais um perfume floral-frutado-amadeirado próprio do que um dupe fiel."
+  },
+  {
+    "id": 741,
+    "nome": "Emir Noir (Rasasi)",
+    "dna": "Emir Noir (Rasasi)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Chypre cítrico-amadeirado sofisticado, compatibilidade moderada com o arquétipo do usuário.",
+    "compat": 6,
+    "preco": 200,
+    "exp": "Sample First",
+    "nota": 7.53,
+    "score": 7.84,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Cítrico",
+      "Chypre"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Cítricos",
+      "Frutado",
+      "Floral",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Abacaxi",
+      "Toranja",
+      "Bergamota",
+      "Jasmim",
+      "Musgo de Carvalho",
+      "Cedro"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 9,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Criação própria da Rasasi, sem clone declarado. Chypre cítrico-frutado-amadeirado com musgo de carvalho no fundo, dando um toque clássico e sofisticado."
+  },
+  {
+    "id": 742,
+    "nome": "Layali (Rasasi)",
+    "dna": "Layali (Rasasi)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Feminino, sem alinhamento com o arquétipo pessoal — bom candidato para os decants.",
+    "compat": 3,
+    "preco": 249,
+    "exp": "Sample First",
+    "nota": 6.87,
+    "score": 6.3,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Floral",
+      "Amadeirado",
+      "Almiscarado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Cítricos",
+      "Floral",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Laranja",
+      "Gengibre",
+      "Fava Tonka",
+      "Jasmim",
+      "Oud",
+      "Almíscar"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7,
+    "cb": 8,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "resumo": "Lançamento feminino 2026 da Rasasi. Floral-amadeirado-almiscarado com oud no fundo; sem clone declarado. Mais relevante para o negócio de decants do que para a coleção pessoal."
+  },
+  {
+    "id": 743,
+    "nome": "Tuberoza (Nishane)",
+    "dna": "Tuberoza (Nishane)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Floral branco de nicho, referência para a Maryam.",
+    "compat": 3,
+    "preco": 900,
+    "exp": "Sample First",
+    "nota": 7.27,
+    "score": 7.06,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.87,
+    "gpf": 4.33,
+    "conc": "Extrait",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Floral",
+      "Oriental",
+      "Sedutor"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Floral",
+      "Cítrico",
+      "Amadeirado",
+      "Ambarado"
+    ],
+    "notas": [
+      "Ylang-Ylang",
+      "Flor de Laranjeira",
+      "Tuberosa",
+      "Gardênia",
+      "Sândalo",
+      "Almíscar"
+    ],
+    "fix": 8,
+    "projI": 6,
+    "projD": 5,
+    "qual": 9,
+    "cb": 6,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "resumo": "DNA original da Maryam (Rasasi). Floral branco clássico de tuberosa e gardênia, lançado em 2014 pela Nishane."
+  },
+  {
+    "id": 744,
+    "nome": "Maryam (Rasasi)",
+    "dna": "Tuberoza (Nishane)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Contratipo de alta fidelidade — mesma observação: feminino, fora do eixo pessoal.",
+    "compat": 3,
+    "preco": 220,
+    "exp": "Sample First",
+    "nota": 7.6,
+    "score": 7.11,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Floral",
+      "Oriental",
+      "Amadeirado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Floral",
+      "Cítrico",
+      "Amadeirado",
+      "Ambarado"
+    ],
+    "notas": [
+      "Ylang-Ylang",
+      "Flor de Laranjeira",
+      "Tuberosa",
+      "Gardênia",
+      "Jasmim",
+      "Sândalo"
+    ],
+    "fix": 7.5,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 8,
+    "simil": 9,
+    "vers": 5,
+    "link": null,
+    "resumo": "Contratipo de alta fidelidade da Tuberoza (Nishane) — pirâmide praticamente idêntica (ylang-ylang, flor de laranjeira, artemísia / tuberosa, gardênia, jasmim, cravo-francês / sândalo, âmbar, almíscar, vetiver). Feminino, mais relevante para os decants."
+  },
+  {
+    "id": 745,
+    "nome": "Murade (Rasasi)",
+    "dna": "Murade (Rasasi)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Um dos mais interessantes do lote — a raiz de íris no fundo acerta a textura favorita do usuário.",
+    "compat": 7,
+    "preco": 200,
+    "exp": "Sample First",
+    "nota": 7.8,
+    "score": 8.06,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Cítrico",
+      "Atalcado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado",
+      "Atalcado"
+    ],
+    "notas": [
+      "Toranja",
+      "Bergamota",
+      "Gengibre",
+      "Almíscar",
+      "Cedro",
+      "Raiz de Íris"
+    ],
+    "fix": 7.5,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 9,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Criação própria da Rasasi, sem clone declarado. Amadeirado aromático com raiz de íris no fundo — textura atalcada muito alinhada ao gosto do usuário."
+  },
+  {
+    "id": 746,
+    "nome": "Najme (Rasasi)",
+    "dna": "Najme (Rasasi)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Dados conflitantes entre fontes — confiança baixa, sample first recomendado.",
+    "compat": 6,
+    "preco": 200,
+    "exp": "Sample First",
+    "nota": 6.53,
+    "score": 7.29,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Floral",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Limão de Amalfi",
+      "Tangerina",
+      "Hortelã",
+      "Rosa",
+      "Almíscar",
+      "Cedro"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6,
+    "cb": 8,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "ATENÇÃO: fontes conflitantes. Duas lojas brasileiras descrevem como cítrico-aromático-floral (notas acima); um vídeo cita 'versão feminina do Naxos (Xerjoff)'; o Fragrantica lista uma pirâmide totalmente diferente (lavanda, sálvia, tabaco, baunilha), possivelmente por indexação cruzada com outro produto. Confiança Baixa — recomendo sample first antes de confiar na descrição."
+  },
+  {
+    "id": 747,
+    "nome": "Dream Catcher (Pendora Scents / Paris Corner)",
+    "dna": "The One for Men (Dolce & Gabbana)",
+    "cat": "Oriental Elegante",
+    "ocasiao": [
+      "Social/Noite",
+      "Trabalho"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Contratipo sólido do The One, validação de comunidade limitada.",
+    "compat": 6,
+    "preco": 180,
+    "exp": "Sample First",
+    "nota": 7.33,
+    "score": 7.71,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.57,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Oriental",
+      "Especiado",
+      "Cítrico"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Cítrico",
+      "Especiado",
+      "Oriental",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Toranja",
+      "Coentro",
+      "Gengibre",
+      "Cardamomo",
+      "Âmbar",
+      "Tabaco"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7,
+    "cb": 9,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo árabe (Paris Corner, Tier S) do The One for Men (D&G). Boa fidelidade segundo lojas, mas sem muita validação de comunidade independente para este SKU específico."
+  },
+  {
+    "id": 748,
+    "nome": "1 And Only (DUA Fragrances)",
+    "dna": "The One for Men (Dolce & Gabbana)",
+    "cat": "Oriental Elegante",
+    "ocasiao": [
+      "Social/Noite",
+      "Trabalho"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Melhor validação de comunidade entre os dois dupes do The One — recomendo priorizar este.",
+    "compat": 6,
+    "preco": 180,
+    "exp": "Sample First",
+    "nota": 7.95,
+    "score": 8.02,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.57,
+    "gpf": 5.33,
+    "conc": "Extrait",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Oriental",
+      "Especiado",
+      "Cítrico"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Cítrico",
+      "Especiado",
+      "Oriental",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Coentro",
+      "Manjericão",
+      "Toranja",
+      "Gengibre",
+      "Cardamomo",
+      "Tabaco"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 5,
+    "qual": 8,
+    "cb": 8,
+    "simil": 9,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo indie (DUA/The Dua Brand, EUA) do The One for Men, recriando a formulação original de 2008. Alta fidelidade validada por reviews reais (Parfumo/Fragrantica): 'D&G turbinado', melhor fixação que o original atual."
+  },
+  {
+    "id": 749,
+    "nome": "Nourin (House of Watan)",
+    "dna": "Nourin (House of Watan)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Sem validação independente — trate com ceticismo até haver mais dados de terceiros.",
+    "compat": 4,
+    "preco": 220,
+    "exp": "Sample First",
+    "nota": 5.2,
+    "score": 6.23,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Especiado",
+      "Doce"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Especiado",
+      "Resinoso",
+      "Doce",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Pimenta Preta",
+      "Pimenta Rosa",
+      "Olíbano",
+      "Açafrão",
+      "Baunilha Bourbon",
+      "Cedro"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 5,
+    "cb": 6,
+    "simil": null,
+    "vers": 4,
+    "link": null,
+    "resumo": "ATENÇÃO: marca DTC sem presença em Fragrantica/Parfumo — toda a informação vem do site/blog da própria marca, incluindo a comparação com D&G The One Luminous Night. Confiança Baixa, sem validação independente de comunidade."
+  },
+  {
+    "id": 750,
+    "nome": "Tam Dao (Diptyque)",
+    "dna": "Tam Dao (Diptyque)",
+    "cat": "Amadeirado Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Referência de sândalo cremoso — um dos destaques da pesquisa de fragrâncias com sândalo central.",
+    "compat": 6,
+    "preco": 1100,
+    "exp": "Sample First",
+    "nota": 8.07,
+    "score": 8.15,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.5,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Cremoso",
+      "Sofisticado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Amadeirado",
+      "Cítrico",
+      "Especiado",
+      "Ambarado"
+    ],
+    "notas": [
+      "Lima",
+      "Coentro",
+      "Gengibre Indiano",
+      "Sândalo de Goa",
+      "Cedro",
+      "Âmbar"
+    ],
+    "fix": 8,
+    "projI": 5,
+    "projD": 4,
+    "qual": 9.5,
+    "cb": 6,
+    "simil": null,
+    "vers": 8,
+    "link": null,
+    "resumo": "Considerado por muitos o melhor sândalo dominante disponível hoje (Mysore real está protegido/escasso). Cremoso, sofisticado, unissex."
+  },
+  {
+    "id": 751,
+    "nome": "Santal Majuscule (Serge Lutens)",
+    "dna": "Santal Majuscule (Serge Lutens)",
+    "cat": "Amadeirado Sofisticado",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "O mais radical dos sândalos pesquisados — conceito puro, textura seca e única.",
+    "compat": 6,
+    "preco": 1000,
+    "exp": "Sample First",
+    "nota": 7.47,
+    "score": 7.84,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.5,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Seco",
+      "Sofisticado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Amadeirado",
+      "Floral",
+      "Doce"
+    ],
+    "notas": [
+      "Sândalo",
+      "Rosa",
+      "Cacau"
+    ],
+    "fix": 8,
+    "projI": 4,
+    "projD": 3,
+    "qual": 9,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Composição minimalista de só 3 notas oficiais: sândalo, rosa e cacau. Textura seca, quase serragem polida, diferente do sândalo cremoso do Tam Dao. Reviews recentes (9/10) chamam de 'melhor sândalo da Serge Lutens'."
+  },
+  {
+    "id": 752,
+    "nome": "Vibrant Leather (Zara)",
+    "dna": "Aventus (Creed)",
+    "cat": "Amadeirado Fumaçado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Fidelidade razoável, mas fixação é o ponto fraco típico da Zara.",
+    "compat": 5,
+    "preco": 130,
+    "exp": "Sample First",
+    "nota": 6.25,
+    "score": 6.51,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.3,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Fumaçado",
+      "Amadeirado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Frutas",
+      "Fumaçado",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Abacaxi",
+      "Bergamota",
+      "Fumaça",
+      "Almíscar",
+      "Carvalho",
+      "Âmbar"
+    ],
+    "fix": 5,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 9,
+    "simil": 5,
+    "vers": 5,
+    "link": null,
+    "resumo": "Contratipo barato do Aventus. Reputação Zara de fixação fraca (2-4h) se aplica aqui — bom pra testar o DNA, não pra confiar como uso do dia todo."
+  },
+  {
+    "id": 753,
+    "nome": "Vibrant Leather Oud (Zara)",
+    "dna": "Oud Wood (Tom Ford)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Fidelidade não totalmente confirmada por fonte independente — sample first.",
+    "compat": 5,
+    "preco": 130,
+    "exp": "Sample First",
+    "nota": 5.95,
+    "score": 6.39,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Oriental",
+      "Especiado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Amadeirado",
+      "Especiado",
+      "Oriental",
+      "Ambarado"
+    ],
+    "notas": [
+      "Cardamomo",
+      "Oud",
+      "Sândalo",
+      "Baunilha",
+      "Âmbar",
+      "Cedro"
+    ],
+    "fix": 5,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6,
+    "cb": 9,
+    "simil": 5,
+    "vers": 4,
+    "link": null,
+    "resumo": "Contratipo barato do Oud Wood (Tom Ford). Dados de comunidade mais escassos que os outros da lista — confiança moderada."
+  },
+  {
+    "id": 754,
+    "nome": "Rich Warm Addictive (Zara)",
+    "dna": "Tobacco Vanille (Tom Ford)",
+    "cat": "Oriental Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Perfil doce fora do eixo pessoal, mais uma curiosidade de baixo custo.",
+    "compat": 4,
+    "preco": 130,
+    "exp": "Sample First",
+    "nota": 6.35,
+    "score": 6.41,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Doce",
+      "Tabaco"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Tabaco",
+      "Doce",
+      "Especiado",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Tabaco",
+      "Baunilha",
+      "Cacau",
+      "Especiarias",
+      "Fava Tonka",
+      "Frutas Secas"
+    ],
+    "fix": 5,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 9,
+    "simil": 6,
+    "vers": 4,
+    "link": null,
+    "resumo": "Contratipo barato do Tobacco Vanille. Perfil doce-tabaco intenso, foge do arquétipo do usuário; fixação fraca é o ponto de atenção de sempre com a Zara."
+  },
+  {
+    "id": 755,
+    "nome": "Zara Seoul (Zara)",
+    "dna": "Invictus (Paco Rabanne)",
+    "cat": "Aromático Luminoso",
+    "ocasiao": [
+      "Casual",
+      "Trabalho"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Fidelidade fraca e fixação muito curta — mais um 'perfume jovem e barato' do que um dupe sério.",
+    "compat": 5,
+    "preco": 100,
+    "exp": "Sample First",
+    "nota": 5.15,
+    "score": 6.18,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.3,
+    "gpf": 4.0,
+    "conc": "EDT",
+    "clima": [
+      "Calor"
+    ],
+    "periodo": [
+      "Dia"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aquático",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Aquático",
+      "Amadeirado",
+      "Doce"
+    ],
+    "notas": [
+      "Tangerina",
+      "Noz-moscada",
+      "Maçã",
+      "Madeira"
+    ],
+    "fix": 3,
+    "projI": 5,
+    "projD": 3,
+    "qual": 5,
+    "cb": 8,
+    "simil": 4,
+    "vers": 5,
+    "link": null,
+    "resumo": "Reviews de comunidade são bem honestas: 'longe de ser um dupe' do Invictus, mais doce e fresco que fiel. Fixação muito fraca (2-3h confirmadas por múltiplos usuários)."
+  },
+  {
+    "id": 756,
+    "nome": "Sunrise On The Red Sand Dunes (Zara)",
+    "dna": "Imagination (Louis Vuitton)",
+    "cat": "Amadeirado Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Casual",
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "O melhor encaixe pro perfil do usuário entre os Zaras — mas já há representante melhor na Coleção Real (Dream On Infinite).",
+    "compat": 7,
+    "preco": 130,
+    "exp": "Sample First",
+    "nota": 6.8,
+    "score": 7.63,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Floral",
+      "Ambarado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Cítrico",
+      "Floral",
+      "Ambarado",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Gengibre",
+      "Tangerina",
+      "Flores",
+      "Âmbar"
+    ],
+    "fix": 5,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 9,
+    "simil": 6,
+    "vers": 6,
+    "link": null,
+    "resumo": "O contratipo Zara mais alinhado ao arquétipo do usuário — cítrico-âmbar, mesmo DNA do Dream On Infinite (Nuancielo) que ele já possui. Bom pra comparação direta, mas fixação Zara ainda é limitação."
+  },
+  {
+    "id": 757,
+    "nome": "One Million (Paco Rabanne)",
+    "dna": "One Million (Paco Rabanne)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Clássico do gênero especiado-clubber, fora do eixo pessoal do usuário.",
+    "compat": 3,
+    "preco": 400,
+    "exp": "Sample First",
+    "nota": 6.53,
+    "score": 6.47,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.93,
+    "gpf": 4.67,
+    "conc": "EDT",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Especiado",
+      "Doce",
+      "Couro"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Cítrico",
+      "Especiado",
+      "Couro",
+      "Doce"
+    ],
+    "notas": [
+      "Toranja",
+      "Hortelã",
+      "Canela",
+      "Couro",
+      "Âmbar",
+      "Patchouli"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 6,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "resumo": "Clássico oriental especiado-doce de 2008 (Paco Rabanne). Criado por não existir na base — DNA da UOMO (Zara)."
+  },
+  {
+    "id": 758,
+    "nome": "UOMO (Zara)",
+    "dna": "One Million (Paco Rabanne)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Fidelidade não totalmente confirmada — nomenclatura regional ambígua, verificar SKU real disponível no Brasil.",
+    "compat": 3,
+    "preco": 130,
+    "exp": "Sample First",
+    "nota": 6.1,
+    "score": 5.97,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.93,
+    "gpf": 4.67,
+    "conc": "EDT",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Especiado",
+      "Doce",
+      "Couro"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Cítrico",
+      "Especiado",
+      "Couro",
+      "Doce"
+    ],
+    "notas": [
+      "Toranja",
+      "Canela",
+      "Couro",
+      "Âmbar"
+    ],
+    "fix": 4,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6,
+    "cb": 9,
+    "simil": 6,
+    "vers": 4,
+    "link": null,
+    "resumo": "ATENÇÃO: nomenclatura regional inconsistente entre fontes — em Portugal 'UOMO' é citado como dupe do One Million, mas em fontes espanholas o dupe do One Million aparece com o nome 'Collection'. Pode haver variação de SKU entre mercados/anos. Confirmar nome exato disponível no Brasil antes de comprar."
+  },
+  {
+    "id": 759,
+    "nome": "Night Pour Homme III (Zara)",
+    "dna": "L'Homme (Yves Saint Laurent - YSL)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Fidelidade não totalmente confirmada — mas o DNA (L'Homme YSL) é bem alinhado ao perfil do usuário.",
+    "compat": 6,
+    "preco": 130,
+    "exp": "Sample First",
+    "nota": 6.25,
+    "score": 6.14,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 4.8,
+    "gpf": 4.0,
+    "conc": "EDT",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Cítrico",
+      "Amadeirado",
+      "Especiado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Bergamota",
+      "Gengibre",
+      "Cedro",
+      "Almíscar"
+    ],
+    "fix": 5,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 9,
+    "simil": 5,
+    "vers": 5,
+    "link": null,
+    "resumo": "Contratipo barato do L'Homme (YSL), clássico amadeirado-cítrico. Dados de comunidade mais escassos — confiança moderada."
+  },
+  {
+    "id": 760,
+    "nome": "Lisboa (Zara)",
+    "dna": "Acqua di Gio EDT (Giorgio Armani)",
+    "cat": "Aromático Luminoso",
+    "ocasiao": [
+      "Casual",
+      "Trabalho"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Boa fidelidade ao original, mas fixação é o ponto fraco clássico da Zara.",
+    "compat": 5,
+    "preco": 100,
+    "exp": "Sample First",
+    "nota": 5.95,
+    "score": 6.33,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.8,
+    "gpf": 4.0,
+    "conc": "EDT",
+    "clima": [
+      "Calor"
+    ],
+    "periodo": [
+      "Dia"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aquático",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Aquático",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Limão",
+      "Jasmim",
+      "Madeira",
+      "Almíscar"
+    ],
+    "fix": 3,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6,
+    "cb": 8,
+    "simil": 6,
+    "vers": 5,
+    "link": null,
+    "resumo": "Reviews de comunidade confirmam boa semelhança com Acqua di Gio EDT, mas fixação muito curta (2-3h) — reaplicação necessária ao longo do dia."
+  },
+  {
+    "id": 761,
+    "nome": "Energetically New York (Zara)",
+    "dna": "Santal 33 (Le Labo)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Uma das melhores opções de entrada pro DNA Santal 33 pelo preço — mais um representante pra comparar com Emper Stallion 53.",
+    "compat": 7,
+    "preco": 150,
+    "exp": "Sample First",
+    "nota": 6.9,
+    "score": 7.26,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Floral",
+      "Especiado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Especiado",
+      "Floral",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Cardamomo",
+      "Jasmim",
+      "Sândalo",
+      "Camurça"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 9,
+    "simil": 6,
+    "vers": 6,
+    "link": null,
+    "resumo": "Colaboração Zara x Jo Malone (Vibrant Cities Collection). Reviews de comunidade confirmam lembrança clara ao Santal 33, embora 'mais sour e sintético' que o original — reputação de boa fixação para o padrão Zara (multiplos relatos de longa duração)."
   }
 ]
