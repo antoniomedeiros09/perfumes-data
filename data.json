@@ -42621,10 +42621,17 @@
     "origem": "Árabe",
     "status": "Interesse",
     "veredito": "",
-    "resumo": "Contratipo árabe do Torino 21: bergamota-limão-pimenta-rosa no topo, flor de laranja-jasmim no coração, cedro-musgo no fundo. Excelente custo-benefício, Blind Buy seguro.",
     "compat": 7,
     "preco": 270,
     "exp": "Blind Buy",
+    "nota": 7.8,
+    "score": 8.75,
+    "rankDNA": null,
+    "flagDNA": null,
+    "melhorNac": null,
+    "melhorAr": null,
+    "sdt": 8.5,
+    "gpf": 5.0,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -42640,15 +42647,18 @@
     ],
     "fam": "Amadeirado",
     "acordes": [
-      "Cítricos",
+      "Aromático",
+      "Cítrico",
       "Floral",
-      "Amadeirado"
+      "Almíscar"
     ],
     "notas": [
-      "Bergamota",
+      "Hortelã",
       "Limão",
-      "Pimenta Rosa",
-      "Flor de Laranja"
+      "Manjericão",
+      "Tomilho",
+      "Alecrim",
+      "Jasmim"
     ],
     "fix": 8,
     "projI": 7,
@@ -42657,12 +42667,8 @@
     "cb": 8,
     "simil": null,
     "vers": 7,
-    "ind": 8.75,
-    "dap": 5.0,
-    "gpf": 10,
-    "sdt": 7.5,
-    "nota": 7.8,
-    "score": 8.5
+    "link": null,
+    "resumo": "Contratipo árabe do Torino 21: bergamota-limão-pimenta-rosa no topo, flor de laranja-jasmim no coração, cedro-musgo no fundo. Excelente custo-benefício, Blind Buy seguro. [Notas corrigidas para bater com o Torino 21 (Xerjoff) real.]"
   },
   {
     "id": 736,
@@ -42966,7 +42972,7 @@
   {
     "id": 741,
     "nome": "Emir Noir (Rasasi)",
-    "dna": "Emir Noir (Rasasi)",
+    "dna": "Hacivat (Nishane)",
     "cat": "Amadeirado Elegante",
     "ocasiao": [
       "Trabalho",
@@ -42974,18 +42980,18 @@
     ],
     "origem": "Árabe",
     "status": "Curiosidade",
-    "veredito": "Chypre cítrico-amadeirado sofisticado, compatibilidade moderada com o arquétipo do usuário.",
-    "compat": 6,
+    "veredito": "Correção confirmada — dupe de alta fidelidade de um dos chypres cítricos mais aclamados do nicho.",
+    "compat": 7,
     "preco": 200,
     "exp": "Sample First",
-    "nota": 7.53,
-    "score": 7.84,
+    "nota": 8.05,
+    "score": 8.2,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": 8.8,
-    "gpf": 4.0,
+    "sdt": 8.53,
+    "gpf": 2.67,
     "conc": "EDP",
     "clima": [
       "Ameno"
@@ -42994,57 +43000,57 @@
       "Versátil"
     ],
     "perfil": [
-      "Amadeirado",
       "Cítrico",
-      "Chypre"
+      "Chypre",
+      "Amadeirado"
     ],
     "fam": "Amadeirado",
     "acordes": [
       "Cítricos",
       "Frutado",
-      "Floral",
-      "Amadeirado"
+      "Amadeirado",
+      "Chypre"
     ],
     "notas": [
       "Abacaxi",
       "Toranja",
       "Bergamota",
-      "Jasmim",
-      "Musgo de Carvalho",
-      "Cedro"
+      "Cedro",
+      "Patchouli",
+      "Jasmim"
     ],
     "fix": 7,
     "projI": 7,
     "projD": 5,
-    "qual": 7.5,
+    "qual": 8,
     "cb": 9,
-    "simil": null,
+    "simil": 9,
     "vers": 6,
     "link": null,
-    "resumo": "Criação própria da Rasasi, sem clone declarado. Chypre cítrico-frutado-amadeirado com musgo de carvalho no fundo, dando um toque clássico e sofisticado."
+    "resumo": "CORRIGIDO: contratipo de alta fidelidade do Hacivat (Nishane) — pirâmide quase idêntica (abacaxi, toranja, bergamota / cedro, patchouli, jasmim / musgo de carvalho, madeira seca). Hacivat é considerado por muitos superior ao próprio Aventus — DNA de altíssima qualidade."
   },
   {
     "id": 742,
     "nome": "Layali (Rasasi)",
-    "dna": "Layali (Rasasi)",
-    "cat": "Amadeirado Sedutor",
+    "dna": "God of Fire (Stephane Humbert Lucas 777)",
+    "cat": "Oriental Sedutor",
     "ocasiao": [
       "Social/Noite"
     ],
     "origem": "Árabe",
     "status": "Curiosidade",
-    "veredito": "Feminino, sem alinhamento com o arquétipo pessoal — bom candidato para os decants.",
-    "compat": 3,
+    "veredito": "Match parcial-forte confirmado — não é 100% fiel, mas a relação de DNA procede.",
+    "compat": 5,
     "preco": 249,
     "exp": "Sample First",
-    "nota": 6.87,
-    "score": 6.3,
+    "nota": 6.8,
+    "score": 7.25,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": 6.8,
-    "gpf": 4.0,
+    "sdt": 8.67,
+    "gpf": 3.33,
     "conc": "EDP",
     "clima": [
       "Ameno"
@@ -43053,34 +43059,34 @@
       "Noite"
     ],
     "perfil": [
-      "Floral",
-      "Amadeirado",
-      "Almiscarado"
+      "Frutado",
+      "Oriental",
+      "Amadeirado"
     ],
-    "fam": "Amadeirado",
+    "fam": "Oriental",
     "acordes": [
-      "Cítricos",
-      "Floral",
+      "Frutado",
+      "Oriental",
       "Amadeirado",
       "Almíscar"
     ],
     "notas": [
       "Laranja",
       "Gengibre",
-      "Fava Tonka",
       "Jasmim",
       "Oud",
-      "Almíscar"
+      "Almíscar",
+      "Fava Tonka"
     ],
     "fix": 7,
     "projI": 7,
     "projD": 5,
-    "qual": 7,
+    "qual": 7.5,
     "cb": 8,
-    "simil": null,
+    "simil": 6,
     "vers": 5,
     "link": null,
-    "resumo": "Lançamento feminino 2026 da Rasasi. Floral-amadeirado-almiscarado com oud no fundo; sem clone declarado. Mais relevante para o negócio de decants do que para a coleção pessoal."
+    "resumo": "CORRIGIDO PARCIALMENTE: match real com o God of Fire (SHL 777) em gengibre, limão, jasmim, oud, almíscar e fava tonka (≈cumarina), mas troca manga por laranja e adiciona notas aquáticas/violeta que não existem no original — fidelidade boa, não perfeita."
   },
   {
     "id": 743,
@@ -43203,7 +43209,7 @@
   {
     "id": 745,
     "nome": "Murade (Rasasi)",
-    "dna": "Murade (Rasasi)",
+    "dna": "Vibrato (Sospiro)",
     "cat": "Amadeirado Elegante",
     "ocasiao": [
       "Trabalho",
@@ -43211,18 +43217,18 @@
     ],
     "origem": "Árabe",
     "status": "Curiosidade",
-    "veredito": "Um dos mais interessantes do lote — a raiz de íris no fundo acerta a textura favorita do usuário.",
-    "compat": 7,
+    "veredito": "Correção confirmada — dupe de alta fidelidade do Vibrato, um dos melhores encaixes de DNA pro perfil do usuário.",
+    "compat": 8,
     "preco": 200,
     "exp": "Sample First",
-    "nota": 7.8,
-    "score": 8.06,
+    "nota": 8.0,
+    "score": 8.46,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": 7.93,
-    "gpf": 4.67,
+    "sdt": 8.23,
+    "gpf": 3.67,
     "conc": "EDP",
     "clima": [
       "Ameno"
@@ -43232,34 +43238,34 @@
       "Versátil"
     ],
     "perfil": [
-      "Amadeirado",
       "Cítrico",
-      "Atalcado"
+      "Atalcado",
+      "Amadeirado"
     ],
     "fam": "Amadeirado",
     "acordes": [
       "Cítrico",
-      "Aromático",
+      "Atalcado",
       "Amadeirado",
-      "Atalcado"
+      "Floral"
     ],
     "notas": [
       "Toranja",
       "Bergamota",
       "Gengibre",
+      "Notas Atalcadas",
       "Almíscar",
-      "Cedro",
       "Raiz de Íris"
     ],
     "fix": 7.5,
     "projI": 7,
     "projD": 5,
-    "qual": 7.5,
+    "qual": 8,
     "cb": 9,
-    "simil": null,
+    "simil": 8,
     "vers": 7,
     "link": null,
-    "resumo": "Criação própria da Rasasi, sem clone declarado. Amadeirado aromático com raiz de íris no fundo — textura atalcada muito alinhada ao gosto do usuário."
+    "resumo": "CORRIGIDO: contratipo de alta fidelidade do Vibrato (Sospiro) — pirâmide bate quase nota-a-nota (toranja, bergamota, jasmim, magnólia / gengibre, herbal, atalcado / almíscar, cedro, âmbar, raiz de íris, patchouli). Excelente alinhamento com o arquétipo do usuário (cítrico-amadeirado-atalcado)."
   },
   {
     "id": 746,
@@ -44218,5 +44224,246 @@
     "vers": 6,
     "link": null,
     "resumo": "Colaboração Zara x Jo Malone (Vibrant Cities Collection). Reviews de comunidade confirmam lembrança clara ao Santal 33, embora 'mais sour e sintético' que o original — reputação de boa fixação para o padrão Zara (multiplos relatos de longa duração)."
+  },
+  {
+    "id": 762,
+    "nome": "Nara (Stella Dustin)",
+    "dna": "Nara (Stella Dustin)",
+    "cat": "Oriental Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Trabalho"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Confirme com o vendedor se é a versão masculina ou a 'Dynasty Nara' feminina antes de comprar — nomes muito parecidos, produtos diferentes.",
+    "compat": 5,
+    "preco": 200,
+    "exp": "Sample First",
+    "nota": 7.13,
+    "score": 7.35,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Oriental",
+      "Gourmand",
+      "Floral"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Aromático",
+      "Floral",
+      "Gourmand",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Maçã",
+      "Lavanda",
+      "Violeta",
+      "Baunilha",
+      "Cardamomo",
+      "Sândalo"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 9,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "ATENÇÃO: existe também uma 'Dynasty Nara' (feminina, declaradamente inspirada em Omnia Amethyste da Bvlgari) — produto diferente deste. Esta é a versão MASCULINA, sem clone declarado: maçã, lavanda, bergamota / gerânio, violeta, jasmim / baunilha, cardamomo, sândalo, pimenta, patchouli, guaiac. Oriental floral-gourmand."
+  },
+  {
+    "id": 763,
+    "nome": "Fleurie Violette (Riiffs)",
+    "dna": "Vanilla Powder (Matiere Premiere)",
+    "cat": "Oriental Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Verificar se não é duplicata do id 567 antes de registrar definitivamente — mesma marca, mesmo DNA.",
+    "compat": 5,
+    "preco": 180,
+    "exp": "Sample First",
+    "nota": 7.15,
+    "score": 7.4,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Gourmand",
+      "Floral"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Floral",
+      "Gourmand",
+      "Amadeirado",
+      "Doce"
+    ],
+    "notas": [
+      "Rosa",
+      "Flores Brancas",
+      "Baunilha",
+      "Coco",
+      "Fava Tonka",
+      "Almíscar"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 8,
+    "simil": 8,
+    "vers": 5,
+    "link": null,
+    "resumo": "ATENÇÃO: possível duplicata do Fleure (Riiffs) já cadastrado na base (id 567, mesmo DNA Vanilla Powder). Além disso, há uma segunda listagem do 'Fleurie Violette' com pirâmide totalmente diferente (abacaxi, jacinto / pimenta rosa, jasmim, íris / baunilha, almíscar, vetiver, patchouli, âmbar) sem DNA declarado — provável reformulação ou erro de catálogo. Usei a versão confirmada por reviews reais no Fragrantica."
+  },
+  {
+    "id": 764,
+    "nome": "Freeze (Riiffs)",
+    "dna": "Freeze (Riiffs)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Casual",
+      "Trabalho"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Polarizador segundo a comunidade — vale sample antes de qualquer compra maior.",
+    "compat": 5,
+    "preco": 180,
+    "exp": "Sample First",
+    "nota": 6.33,
+    "score": 6.82,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.8,
+    "gpf": 4.0,
+    "conc": "Extrait",
+    "clima": [
+      "Calor"
+    ],
+    "periodo": [
+      "Dia"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Fresh"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Hortelã",
+      "Limão",
+      "Bergamota",
+      "Toranja",
+      "Gengibre",
+      "Cedro"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 5.5,
+    "cb": 8,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Criação própria da Riiffs, sem clone declarado. Reviews de comunidade (Fragrantica/Parfumo) são bem divididas: de 'praia em um frasco' a 'cheiro de produto de limpeza' — polarizador. Perfil cítrico-mentolado-gelado, unissex."
+  },
+  {
+    "id": 765,
+    "nome": "Sama (Nusuk)",
+    "dna": "Pacific Rock Moss (Goldfield & Banks)",
+    "cat": "Aromático Luminoso",
+    "ocasiao": [
+      "Casual",
+      "Trabalho"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Bom contratipo tecnicamente, mas cai exatamente na categoria que você costuma evitar (oceânico).",
+    "compat": 3,
+    "preco": 150,
+    "exp": "Sample First",
+    "nota": 6.8,
+    "score": 6.5,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.3,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Calor"
+    ],
+    "periodo": [
+      "Dia"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aquático",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Aquático",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Limão",
+      "Sálvia",
+      "Gerânio",
+      "Almíscar",
+      "Musgo"
+    ],
+    "fix": 5,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 9,
+    "simil": 6,
+    "vers": 6,
+    "link": null,
+    "resumo": "ATENÇÃO: perfil aromático-aquático — bate na sua zona de alerta pessoal de DNAs oceânicos (risco de enjoo, conforme seu arquétipo). Contratipo bem avaliado do Pacific Rock Moss (Goldfield & Banks): 'watered down mas honesto pelo preço' segundo reviews comparativas diretas."
   }
 ]
