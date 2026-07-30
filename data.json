@@ -44465,5 +44465,303 @@
     "vers": 6,
     "link": null,
     "resumo": "ATENÇÃO: perfil aromático-aquático — bate na sua zona de alerta pessoal de DNAs oceânicos (risco de enjoo, conforme seu arquétipo). Contratipo bem avaliado do Pacific Rock Moss (Goldfield & Banks): 'watered down mas honesto pelo preço' segundo reviews comparativas diretas."
+  },
+  {
+    "id": 766,
+    "nome": "Avalon (Al Haramain)",
+    "dna": "Aventus (Creed)",
+    "cat": "Amadeirado Fumaçado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Clone honesto pelo preço, mas não é sério pra uso do dia a dia — fixação curta.",
+    "compat": 6,
+    "preco": 50,
+    "exp": "Blind Buy",
+    "nota": 6.45,
+    "score": 6.98,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.3,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Fumaçado",
+      "Amadeirado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Frutado",
+      "Fumaçado",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Abacaxi",
+      "Fumaça de Bétula",
+      "Bergamota",
+      "Almíscar"
+    ],
+    "fix": 4,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6,
+    "cb": 10,
+    "simil": 6,
+    "vers": 5,
+    "link": null,
+    "resumo": "Contratipo clássico e baratíssimo do Aventus (Creed) — confirmado por comunidade como um dos 'smokey batch' históricos. Fixação fraca (típico do preço), mas ótimo pra testar o DNA sem compromisso."
+  },
+  {
+    "id": 767,
+    "nome": "Amber Empire (French Avenue)",
+    "dna": "Blonde Amber (Clive Christian)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Contratipo razoável, mas o perfil doce-resinoso foge bastante do seu eixo pessoal.",
+    "compat": 4,
+    "preco": 200,
+    "exp": "Sample First",
+    "nota": 6.95,
+    "score": 6.99,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "Extrait",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Doce",
+      "Amadeirado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Oriental",
+      "Doce",
+      "Amadeirado",
+      "Âmbar"
+    ],
+    "notas": [
+      "Baunilha",
+      "Licor",
+      "Cashmere Wood",
+      "Âmbar",
+      "Cana-de-açúcar",
+      "Cedro"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 5,
+    "qual": 6.5,
+    "cb": 9,
+    "simil": 7,
+    "vers": 5,
+    "link": null,
+    "resumo": "Contratipo do Blonde Amber (Clive Christian) — fidelidade estimada em ~80% segundo comparações diretas de comunidade, com reviews divergentes (de '100% Blonde Amber' a 'perde a complexidade do original')."
+  },
+  {
+    "id": 768,
+    "nome": "Blonde Amber (Clive Christian)",
+    "dna": "Blonde Amber (Clive Christian)",
+    "cat": "Oriental Sofisticado",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Referência de altíssima qualidade no gênero oriental-âmbar, mas fora do orçamento do dia a dia.",
+    "compat": 4,
+    "preco": 1600,
+    "exp": "Sample First",
+    "nota": 7.67,
+    "score": 7.62,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "Extrait",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Doce",
+      "Frutado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Oriental",
+      "Doce",
+      "Frutado",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Rum",
+      "Cardamomo",
+      "Pimenta Rosa",
+      "Tabaco Branco",
+      "Sândalo",
+      "Baunilha"
+    ],
+    "fix": 9.5,
+    "projI": 8,
+    "projD": 6,
+    "qual": 9.5,
+    "cb": 6,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "resumo": "DNA original do Amber Empire (French Avenue). Art Deco opulento, 219 ingredientes, fixação extraordinária (12h+). Ultra-luxo — preço correspondente."
+  },
+  {
+    "id": 769,
+    "nome": "Patchouli 01 (Swiss Arabian)",
+    "dna": "Patchouli 01 (Swiss Arabian)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Perfil interessante, mas cheque o Fakhar Platin que você já possui antes de comprar — pode ser redundante.",
+    "compat": 6,
+    "preco": 200,
+    "exp": "Sample First",
+    "nota": 7.47,
+    "score": 7.66,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.8,
+    "gpf": 4.0,
+    "conc": "Extrait",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Especiado",
+      "Frutado",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Especiado",
+      "Frutado",
+      "Amadeirado",
+      "Aromático"
+    ],
+    "notas": [
+      "Pimenta Rosa",
+      "Lavanda",
+      "Cardamomo",
+      "Groselha Preta",
+      "Abacaxi",
+      "Patchouli"
+    ],
+    "fix": 8,
+    "projI": 8,
+    "projD": 6,
+    "qual": 7,
+    "cb": 9,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Composição própria da linha Heritage (2026). Fougère oriental moderno, projeção muito forte. Comunidade aponta 90% de similaridade com o Fakhar Platin (Lattafa) — já presente na Coleção Real do usuário."
+  },
+  {
+    "id": 770,
+    "nome": "Dynasty (Orientica Premium / Royal Collection)",
+    "dna": "Paragon (Initio Parfums Privés)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Bom contratipo de um DNA de nicho pouco explorado na sua base — vale a pena testar.",
+    "compat": 6,
+    "preco": 250,
+    "exp": "Sample First",
+    "nota": 7.4,
+    "score": 7.67,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.3,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Frutado",
+      "Aromático",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Elemi",
+      "Frutas Vermelhas",
+      "Bergamota",
+      "Patchouli",
+      "Vetiver",
+      "Framboesa"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 9,
+    "simil": 7,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo do Paragon (Initio Parfums Privés), confirmado por review de comunidade que compara diretamente ('cheiro muito parecido' após sentir o original). Frutado-aromático-amadeirado, boa reputação de qualidade dentro do portfólio Orientica."
   }
 ]
