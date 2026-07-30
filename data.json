@@ -361,25 +361,25 @@
   {
     "id": 8,
     "nome": "Costa Amalfi (Riifs)",
-    "dna": "Imagination (Louis Vuitton)",
+    "dna": "Afternoon Swim (Louis Vuitton)",
     "cat": "Fresh Confortável",
     "ocasiao": [
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Descartado",
-    "veredito": "",
+    "status": "Em Avaliação",
+    "veredito": "DNA corrigido para Afternoon Swim (Louis Vuitton) — não é Imagination nem Mandarino di Amalfi.",
     "compat": 10.0,
     "preco": 320.0,
     "exp": "Blind Buy",
     "nota": 7.9,
-    "score": 8.22,
+    "score": 8.54,
     "rankDNA": 6,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": 7.43,
-    "gpf": 4.67,
+    "sdt": 8.7,
+    "gpf": 6.0,
     "conc": "EDP",
     "clima": [
       "Calor",
@@ -397,16 +397,18 @@
     ],
     "fam": "Fresh",
     "acordes": [
-      "Cítricos",
-      "Frutas",
-      "Notas Marinhas",
-      "Ambroxan"
+      "Cítrico",
+      "Aromático",
+      "Aquático",
+      "Amadeirado"
     ],
     "notas": [
-      "Bergamota",
-      "Mandarina",
-      "Grapefruit",
-      "Ambroxan"
+      "Mandarina Verde",
+      "Casca de Limão",
+      "Yuzu",
+      "Gengibre",
+      "Sálvia Esclareia",
+      "Cedro"
     ],
     "fix": 6.0,
     "projI": 6.0,
@@ -416,8 +418,7 @@
     "simil": 8.0,
     "vers": 10.0,
     "link": "https://www.romaaroma.com.br/produtos/riiffs-costa-de-amalfi/",
-    "fotoInspiracao": "fotos/6_insp.jpg",
-    "resumo": "Cítrico aquático extremamente agradável e casual com vibe verão sofisticada italiana. Combina BEM com seu gosto por perfumes frescos confortáveis e versáteis."
+    "resumo": "Correção de DNA: a hipótese testada não bateu com nenhuma das duas opções originais. O match mais consistente na comunidade é com o Afternoon Swim (Louis Vuitton) — inclusive citado textualmente em reviews ('inspired by Afternoon Swim') — não com Imagination nem diretamente com Mandarino di Amalfi (Tom Ford), embora exista uma zona cinzenta entre os três (a própria DUA vende um 'tribrid' combinando os três DNAs de Amalfi). Overlap real de notas com Mandarino di Amalfi: apenas limão, sálvia esclareia e âmbar/cedro — divergência significativa no restante da pirâmide."
   },
   {
     "id": 10,
@@ -44763,5 +44764,428 @@
     "vers": 6,
     "link": null,
     "resumo": "Contratipo do Paragon (Initio Parfums Privés), confirmado por review de comunidade que compara diretamente ('cheiro muito parecido' após sentir o original). Frutado-aromático-amadeirado, boa reputação de qualidade dentro do portfólio Orientica."
+  },
+  {
+    "id": 771,
+    "nome": "Belo Pomelo (Phebo)",
+    "dna": "Belo Pomelo (Phebo)",
+    "cat": "Fresh Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Boa textura de íris pro seu gosto, mas fixação é o ponto fraco confirmado pela comunidade.",
+    "compat": 6,
+    "preco": 180,
+    "exp": "Sample First",
+    "nota": 7.14,
+    "score": 7.34,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.57,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Floral",
+      "Especiado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Floral",
+      "Especiado",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Pomelo",
+      "Toranja",
+      "Pimenta Rosa",
+      "Íris",
+      "Açafrão",
+      "Âmbar"
+    ],
+    "fix": 4,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7.5,
+    "cb": 9,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Criação própria da Phebo (linha Biblioteca Olfativa), assinada por Christian Alori. Cítrico-floral com íris e violeta no coração e açafrão dando contraste — boa textura atalcada, mas fixação decepcionante segundo vários reviews."
+  },
+  {
+    "id": 772,
+    "nome": "Aqua Universalis Cologne Forte (Maison Francis Kurkdjian)",
+    "dna": "Aqua Universalis Cologne Forte (Maison Francis Kurkdjian)",
+    "cat": "Luxury Clean Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Casual",
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Referência clean luxury, mas caro para o que entrega em fixação.",
+    "compat": 6,
+    "preco": 1400,
+    "exp": "Sample First",
+    "nota": 7.4,
+    "score": 7.77,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Floral",
+      "Almíscar"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Floral",
+      "Almíscar",
+      "Luxury Clean"
+    ],
+    "notas": [
+      "Bergamota",
+      "Ervilha-de-cheiro",
+      "Flor de Laranjeira Selvagem",
+      "Almíscar Branco"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 9,
+    "cb": 6,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Original MFK, referência do gênero 'clean luxury' floral-almiscarado. Fixação e sillage divididas entre reviews ('smells like bed sheets/laundry' vs 'smells cheap')."
+  },
+  {
+    "id": 773,
+    "nome": "Acqua Bravata (DUA Fragrances)",
+    "dna": "Aqua Universalis Cologne Forte (Maison Francis Kurkdjian)",
+    "cat": "Luxury Clean Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "O dupe mais preciso encontrado — inclusive supera o original em performance.",
+    "compat": 6,
+    "preco": 150,
+    "exp": "Sample First",
+    "nota": 8.05,
+    "score": 7.97,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "Extrait",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Floral",
+      "Almíscar"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Floral",
+      "Almíscar",
+      "Luxury Clean"
+    ],
+    "notas": [
+      "Bergamota",
+      "Limão",
+      "Flores Brancas",
+      "Almíscar"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 9,
+    "simil": 9,
+    "vers": 7,
+    "link": null,
+    "resumo": "Dupe #1 da MFK Aqua Universalis Cologne Forte — apontado como a recriação mais precisa disponível, com 7-8h de fixação (superior ao original)."
+  },
+  {
+    "id": 774,
+    "nome": "Fleur Blanche (Zoha Aroma)",
+    "dna": "Aqua Universalis Cologne Forte (Maison Francis Kurkdjian)",
+    "cat": "Luxury Clean Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Segunda opção sólida de dupe, um pouco atrás do Acqua Bravata em fidelidade.",
+    "compat": 6,
+    "preco": 150,
+    "exp": "Sample First",
+    "nota": 7.0,
+    "score": 7.46,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Floral",
+      "Almíscar"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Floral",
+      "Almíscar",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Limão Siciliano",
+      "Jasmim Branco",
+      "Falsa Laranjeira",
+      "Almíscar",
+      "Âmbar"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 9,
+    "simil": 7,
+    "vers": 6,
+    "link": null,
+    "resumo": "Dupe #2 da MFK Aqua Universalis Cologne Forte — casa dedicada de clones (Zoha Aroma), boa fidelidade mas um degrau abaixo do Acqua Bravata segundo comparações."
+  },
+  {
+    "id": 775,
+    "nome": "Pomelo Assoluto (Gritti)",
+    "dna": "Pomelo Assoluto (Gritti)",
+    "cat": "Fresh Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Casual",
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Sem dupes disponíveis ainda — preço alto e reviews mistas sobre custo-benefício ('para 200+ EUR eu esperava mais').",
+    "compat": 6,
+    "preco": 1300,
+    "exp": "Sample First",
+    "nota": 5.93,
+    "score": 7.11,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "Extrait",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aquático",
+      "Floral"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Aquático",
+      "Floral",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Pomelo",
+      "Toranja",
+      "Chá Verde",
+      "Magnólia",
+      "Cardamomo",
+      "Âmbar"
+    ],
+    "fix": 5,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 4,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Versão 'noir' intensificada do bestseller Pomelo Sorrento. NÃO encontrei nenhum dupe consolidado ainda — é lançamento muito recente (2025) e de nicho caro (~260 EUR), sem clones dedicados na comunidade até o momento."
+  },
+  {
+    "id": 776,
+    "nome": "Tiger Eye Power (The Fragrance)",
+    "dna": "Tygar (Bvlgari)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Ótima saída cítrico-especiada, mas pode ser redundante com o Murade que você já tem — mesma família de DNA (Tygar/Vibrato).",
+    "compat": 7,
+    "preco": 250,
+    "exp": "Sample First",
+    "nota": 7.45,
+    "score": 7.98,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.3,
+    "gpf": 4.0,
+    "conc": "Extrait",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Especiado",
+      "Floral"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Especiado",
+      "Floral",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Toranja",
+      "Açafrão",
+      "Gengibre",
+      "Jasmim",
+      "Íris",
+      "Rosa"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 5,
+    "qual": 8,
+    "cb": 9,
+    "simil": 6,
+    "vers": 7,
+    "link": null,
+    "resumo": "Comunidade aponta forte relação com o 'DNA Tygar' (Bvlgari), mas numa versão mais maximalista/floral-especiada. IMPORTANTE: esse mesmo território (toranja+gengibre+jasmim+âmbar+patchouli+almíscar) é o do Vibrato (Sospiro) — DNA que seu Murade (Rasasi) já cobre na sua base. Vale checar redundância antes de priorizar."
+  },
+  {
+    "id": 777,
+    "nome": "Zodiac Solmaris (Paris Corner)",
+    "dna": "Zodiac Solmaris (Paris Corner)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Cai exatamente na categoria que você evita (oceânico), e a fixação é fraca — baixa prioridade.",
+    "compat": 3,
+    "preco": 130,
+    "exp": "Sample First",
+    "nota": 5.54,
+    "score": 5.78,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.17,
+    "gpf": 3.33,
+    "conc": "EDP",
+    "clima": [
+      "Calor"
+    ],
+    "periodo": [
+      "Dia"
+    ],
+    "perfil": [
+      "Aquático",
+      "Amadeirado",
+      "Salgado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Aquático",
+      "Amadeirado",
+      "Especiado",
+      "Terroso"
+    ],
+    "notas": [
+      "Sal Marinho",
+      "Gengibre",
+      "Algas",
+      "Cedro",
+      "Musgo de Carvalho",
+      "Vetiver"
+    ],
+    "fix": 3,
+    "projI": 7,
+    "projD": 3,
+    "qual": 5,
+    "cb": 8,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "resumo": "ATENÇÃO: perfil aquático-oceânico — bate direto na sua zona de alerta pessoal (risco de enjoo, conforme seu arquétipo). Sem clone declarado; comunidade compara vagamente a Le Sel d'Issey, Nautica Voyage e Eau de Lacoste L.12 White, mas nenhum de forma consistente. Fixação fraca confirmada por múltiplos reviews (2-3h)."
   }
 ]
