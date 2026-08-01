@@ -45187,5 +45187,125 @@
     "vers": 5,
     "link": null,
     "resumo": "ATENÇÃO: perfil aquático-oceânico — bate direto na sua zona de alerta pessoal (risco de enjoo, conforme seu arquétipo). Sem clone declarado; comunidade compara vagamente a Le Sel d'Issey, Nautica Voyage e Eau de Lacoste L.12 White, mas nenhum de forma consistente. Fixação fraca confirmada por múltiplos reviews (2-3h)."
+  },
+  {
+    "id": 778,
+    "nome": "Cedar Chic (Carolina Herrera)",
+    "dna": "Cedar Chic (Carolina Herrera)",
+    "cat": "Luxury Clean Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Casual"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Referência de nicho para o gênero clean-aldeídico moderno.",
+    "compat": 6,
+    "preco": 900,
+    "exp": "Sample First",
+    "nota": 7.53,
+    "score": 7.92,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Floral",
+      "Almíscar"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Aldeídos",
+      "Cítrico",
+      "Floral",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Aldeídos",
+      "Bergamota",
+      "Flor de Laranjeira",
+      "Cedro",
+      "Almíscar Branco"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 4,
+    "qual": 9,
+    "cb": 6,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "DNA original do Cedrus Blanc (Rayhaan). Linha Herrera Confidential (2025), perfil 'camisa branca' — aldeídos-bergamota limpos, flor de laranjeira, cedro-almíscar. Reviews muito elogiosas ('o mais viciante clean scent')."
+  },
+  {
+    "id": 779,
+    "nome": "Cedrus Blanc (Rayhaan)",
+    "dna": "Cedar Chic (Carolina Herrera)",
+    "cat": "Luxury Clean Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Alta fidelidade confirmada — ótima porta de entrada barata pro DNA Cedar Chic.",
+    "compat": 6,
+    "preco": 130,
+    "exp": "Sample First",
+    "nota": 7.7,
+    "score": 7.88,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Floral",
+      "Almíscar"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Aldeídos",
+      "Cítrico",
+      "Floral",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Aldeídos",
+      "Bergamota",
+      "Laranja",
+      "Cedro",
+      "Almíscar Branco"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7.5,
+    "cb": 9,
+    "simil": 8,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo de alta fidelidade do Cedar Chic (Carolina Herrera), confirmado por múltiplas fontes de comunidade (incluindo hashtags diretas). Pirâmide praticamente idêntica: aldeídos-bergamota, flor de laranjeira, cedro-almíscar branco."
   }
 ]
