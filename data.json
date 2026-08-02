@@ -39754,11 +39754,19 @@
       "Evento Formal"
     ],
     "origem": "Nicho",
-    "status": "Em Avaliação",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 4,
     "preco": 1500,
     "exp": "Sample First",
+    "nota": 6.93,
+    "score": 6.63,
+    "rankDNA": null,
+    "flagDNA": null,
+    "melhorNac": null,
+    "melhorAr": null,
+    "sdt": 8.8,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Ameno"
@@ -39792,13 +39800,9 @@
     "simil": null,
     "vers": 4,
     "link": null,
-    "ind": 10.0,
-    "dap": 10.0,
-    "gpf": 4.0,
-    "sdt": 8.8,
-    "nota": 6.93,
-    "score": 6.63,
-    "resumo": "Rosa hiper-realista, especiaria e patchouli terroso. Sofisticado, mas fora do seu arquétipo cítrico/madeira — mais indicado como peça de nicho pontual."
+    "resumo": "Rosa hiper-realista, especiaria e patchouli terroso. Sofisticado, mas fora do seu arquétipo cítrico/madeira — mais indicado como peça de nicho pontual.",
+    "ind": 10,
+    "dap": 10
   },
   {
     "id": 704,
@@ -40089,11 +40093,19 @@
       "Assinatura/Casual"
     ],
     "origem": "Designer",
-    "status": "Em Avaliação",
+    "status": "Interesse",
     "veredito": "",
     "compat": 9,
     "preco": 400,
     "exp": "Blind Buy",
+    "nota": 7.47,
+    "score": 7.27,
+    "rankDNA": null,
+    "flagDNA": null,
+    "melhorNac": null,
+    "melhorAr": null,
+    "sdt": 6.43,
+    "gpf": 4.67,
     "conc": "EDT",
     "clima": [
       "Ameno",
@@ -40128,13 +40140,9 @@
     "simil": null,
     "vers": 8,
     "link": null,
-    "ind": 10.0,
-    "dap": 3.75,
-    "gpf": 4.67,
-    "sdt": 6.43,
-    "nota": 7.47,
-    "score": 7.27,
-    "resumo": "Cítrico-amadeirado limpo e elegante — bate direto no seu arquétipo de Terre d'Hermès. Fixação mediana, mas encaixe de gosto muito forte."
+    "resumo": "Cítrico-amadeirado limpo e elegante — bate direto no seu arquétipo de Terre d'Hermès. Fixação mediana, mas encaixe de gosto muito forte.",
+    "ind": 10,
+    "dap": 3.75
   },
   {
     "id": 710,
@@ -40146,11 +40154,19 @@
       "Assinatura/Casual"
     ],
     "origem": "Designer",
-    "status": "Em Avaliação",
+    "status": "Interesse",
     "veredito": "",
     "compat": 10,
     "preco": 700,
     "exp": "Blind Buy",
+    "nota": 8.27,
+    "score": 8.48,
+    "rankDNA": null,
+    "flagDNA": null,
+    "melhorNac": null,
+    "melhorAr": null,
+    "sdt": 7.57,
+    "gpf": 5.33,
     "conc": "EDT",
     "clima": [
       "Ameno"
@@ -40185,13 +40201,9 @@
     "simil": null,
     "vers": 8,
     "link": null,
-    "ind": 10.0,
-    "dap": 6.25,
-    "gpf": 5.33,
-    "sdt": 7.57,
-    "nota": 8.27,
-    "score": 8.48,
-    "resumo": "Íris atalcada, limpa e sofisticada — encaixe quase perfeito com sua textura favorita (Atalcada/Sabonete). Descontinuado, mas ainda encontrável. Um dos fortes candidatos da leva."
+    "resumo": "Íris atalcada, limpa e sofisticada — encaixe quase perfeito com sua textura favorita (Atalcada/Sabonete). Descontinuado, mas ainda encontrável. Um dos fortes candidatos da leva.",
+    "ind": 10,
+    "dap": 6.25
   },
   {
     "id": 711,
@@ -40262,7 +40274,7 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Porta de entrada nacional racional para o DNA Royal Oud — sample first pela performance inconsistente.",
     "compat": 6,
     "preco": 65,
@@ -40383,7 +40395,7 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Em Avaliação",
     "veredito": "Contratipo nacional competente do Viking — versátil e bem posicionado em preço.",
     "compat": 8,
     "preco": 260,
@@ -40686,7 +40698,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Contratipo nacional barato de Stronger With You Tobacco — fixação elogiada.",
     "compat": 4,
     "preco": 27,
@@ -40867,12 +40879,12 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Fragrância desafiadora frutado-couro-oud — não recomendada para iniciantes.",
     "compat": 4,
     "preco": 250,
     "exp": "Sample First",
-    "nota": 7.0,
+    "nota": 7,
     "score": 6.99,
     "rankDNA": null,
     "flagDNA": false,
@@ -40928,7 +40940,7 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Contratipo de Ani X por marca emergente — saída ótima, fundo baunilhado foge do padrão do usuário.",
     "compat": 6,
     "preco": 180,
@@ -41048,7 +41060,7 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Melhor achado do lote — textura de íris atalcada muito alinhada ao gosto do usuário.",
     "compat": 7,
     "preco": 220,
@@ -41170,7 +41182,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Feminino-leaning — mais indicado ao negócio de decants do que à coleção pessoal.",
     "compat": 3,
     "preco": 220,
@@ -41352,7 +41364,7 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Bem avaliado como versão 'mais rica' do Born in Roma Extradose — bom custo-benefício.",
     "compat": 5,
     "preco": 200,
@@ -41474,7 +41486,7 @@
       "Casual"
     ],
     "origem": "Nicho",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Original renomado mas de fixação mediana — território fresco muito alinhado ao gosto do usuário.",
     "compat": 8,
     "preco": 950,
@@ -41536,7 +41548,7 @@
       "Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Lacuna genuína e bem alinhada ao gosto, mas ainda sem lastro de reviews — vale sample.",
     "compat": 8,
     "preco": 70,
@@ -41659,7 +41671,7 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Bom contratipo, porém redundante — o guarda-chuva MYSLF já tem representantes melhores na base.",
     "compat": 5,
     "preco": 60,
@@ -42695,12 +42707,19 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "",
-    "resumo": "Dupe do Bois Impérial: grapefruit-pimenta-rosa-elemi no topo, lírio-do-vale-âmbar-violeta no coração, patchouli-âmbar-cinza no fundo. Similaridade excelente (8,5/10), ótimo custo-benefício.",
     "compat": 7,
     "preco": 270,
     "exp": "Blind Buy",
+    "nota": 7.97,
+    "score": 8.57,
+    "rankDNA": null,
+    "flagDNA": null,
+    "melhorNac": null,
+    "melhorAr": null,
+    "sdt": 7.5,
+    "gpf": 10,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -42733,12 +42752,10 @@
     "cb": 8,
     "simil": 8.5,
     "vers": 7,
+    "link": null,
+    "resumo": "Dupe do Bois Impérial: grapefruit-pimenta-rosa-elemi no topo, lírio-do-vale-âmbar-violeta no coração, patchouli-âmbar-cinza no fundo. Similaridade excelente (8,5/10), ótimo custo-benefício.",
     "ind": 8.75,
-    "dap": 5.0,
-    "gpf": 10,
-    "sdt": 7.5,
-    "nota": 7.97,
-    "score": 8.57
+    "dap": 5
   },
   {
     "id": 737,
@@ -42750,12 +42767,19 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "",
-    "resumo": "Contratipo do Torino 21 com twist aquático tipo mojito. Aquático-limão-bergamota-verde no topo, lavanda-jasmim-lírio-artemísia no coração, amadeirado-almíscar no fundo. Compatibilidade moderada.",
     "compat": 6,
     "preco": 240,
     "exp": "Sample First",
+    "nota": 6.75,
+    "score": 7.5,
+    "rankDNA": null,
+    "flagDNA": null,
+    "melhorNac": null,
+    "melhorAr": null,
+    "sdt": 8.93,
+    "gpf": 9.67,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -42789,12 +42813,10 @@
     "cb": 7,
     "simil": 7,
     "vers": 6,
+    "link": null,
+    "resumo": "Contratipo do Torino 21 com twist aquático tipo mojito. Aquático-limão-bergamota-verde no topo, lavanda-jasmim-lírio-artemísia no coração, amadeirado-almíscar no fundo. Compatibilidade moderada.",
     "ind": 7.5,
-    "dap": 10.0,
-    "gpf": 9.67,
-    "sdt": 8.93,
-    "nota": 6.75,
-    "score": 7.5
+    "dap": 10
   },
   {
     "id": 738,
@@ -42869,7 +42891,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Alta fidelidade ao DNA, ótimo custo-benefício — o achado real da pesquisa de dupes de Santal 33.",
     "compat": 7,
     "preco": 170,
@@ -42931,7 +42953,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Fidelidade duvidosa ao DNA declarado — mais floral-frutado que o Santal 33 original.",
     "compat": 5,
     "preco": 230,
@@ -42993,7 +43015,7 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Correção confirmada — dupe de alta fidelidade de um dos chypres cítricos mais aclamados do nicho.",
     "compat": 7,
     "preco": 200,
@@ -43352,7 +43374,7 @@
       "Trabalho"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Contratipo sólido do The One, validação de comunidade limitada.",
     "compat": 6,
     "preco": 180,
@@ -43414,7 +43436,7 @@
       "Trabalho"
     ],
     "origem": "Nicho",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Melhor validação de comunidade entre os dois dupes do The One — recomendo priorizar este.",
     "compat": 6,
     "preco": 180,
@@ -43775,7 +43797,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Perfil doce fora do eixo pessoal, mais uma curiosidade de baixo custo.",
     "compat": 4,
     "preco": 130,
@@ -44074,7 +44096,7 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Fidelidade não totalmente confirmada — mas o DNA (L'Homme YSL) é bem alinhado ao perfil do usuário.",
     "compat": 6,
     "preco": 130,
@@ -44086,7 +44108,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 4.8,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDT",
     "clima": [
       "Ameno"
@@ -44191,7 +44213,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Uma das melhores opções de entrada pro DNA Santal 33 pelo preço — mais um representante pra comparar com Emper Stallion 53.",
     "compat": 7,
     "preco": 150,
@@ -44203,7 +44225,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 6.8,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Ameno"
@@ -44249,7 +44271,7 @@
       "Trabalho"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Confirme com o vendedor se é a versão masculina ou a 'Dynasty Nara' feminina antes de comprar — nomes muito parecidos, produtos diferentes.",
     "compat": 5,
     "preco": 200,
@@ -44370,7 +44392,7 @@
       "Trabalho"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Polarizador segundo a comunidade — vale sample antes de qualquer compra maior.",
     "compat": 5,
     "preco": 180,
@@ -44382,7 +44404,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 7.8,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "Extrait",
     "clima": [
       "Calor"
@@ -44430,7 +44452,7 @@
       "Trabalho"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Bom contratipo tecnicamente, mas cai exatamente na categoria que você costuma evitar (oceânico).",
     "compat": 3,
     "preco": 150,
@@ -44442,7 +44464,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 8.3,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Calor"
@@ -44547,7 +44569,7 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Contratipo razoável, mas o perfil doce-resinoso foge bastante do seu eixo pessoal.",
     "compat": 4,
     "preco": 200,
@@ -44668,7 +44690,7 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Perfil interessante, mas cheque o Fakhar Platin que você já possui antes de comprar — pode ser redundante.",
     "compat": 6,
     "preco": 200,
@@ -44680,7 +44702,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 7.8,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "Extrait",
     "clima": [
       "Ameno"
@@ -44728,7 +44750,7 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Bom contratipo de um DNA de nicho pouco explorado na sua base — vale a pena testar.",
     "compat": 6,
     "preco": 250,
@@ -44740,7 +44762,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 8.3,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Ameno"
@@ -44788,7 +44810,7 @@
       "Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Em Avaliação",
     "veredito": "Boa textura de íris pro seu gosto, mas fixação é o ponto fraco confirmado pela comunidade.",
     "compat": 6,
     "preco": 180,
@@ -44910,7 +44932,7 @@
       "Casual"
     ],
     "origem": "Nicho",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "O dupe mais preciso encontrado — inclusive supera o original em performance.",
     "compat": 6,
     "preco": 150,
@@ -44969,12 +44991,12 @@
       "Casual"
     ],
     "origem": "Nicho",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Segunda opção sólida de dupe, um pouco atrás do Acqua Bravata em fidelidade.",
     "compat": 6,
     "preco": 150,
     "exp": "Sample First",
-    "nota": 7.0,
+    "nota": 7,
     "score": 7.46,
     "rankDNA": null,
     "flagDNA": false,
@@ -45092,7 +45114,7 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Ótima saída cítrico-especiada, mas pode ser redundante com o Murade que você já tem — mesma família de DNA (Tygar/Vibrato).",
     "compat": 7,
     "preco": 250,
@@ -45104,7 +45126,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 8.3,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "Extrait",
     "clima": [
       "Ameno"
@@ -45151,7 +45173,7 @@
       "Casual"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Cai exatamente na categoria que você evita (oceânico), e a fixação é fraca — baixa prioridade.",
     "compat": 3,
     "preco": 130,
@@ -45211,7 +45233,7 @@
       "Casual"
     ],
     "origem": "Designer",
-    "status": "Curiosidade",
+    "status": "Em Avaliação",
     "veredito": "Referência de nicho para o gênero clean-aldeídico moderno.",
     "compat": 6,
     "preco": 900,
@@ -45271,7 +45293,7 @@
       "Casual"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Alta fidelidade confirmada — ótima porta de entrada barata pro DNA Cedar Chic.",
     "compat": 6,
     "preco": 130,
@@ -45330,7 +45352,7 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Bom contratipo nacional barato, ainda que o DNA em si (couro/especiado noturno) não seja o núcleo do seu gosto.",
     "compat": 5,
     "preco": 60,
@@ -45341,8 +45363,8 @@
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": 5.0,
-    "gpf": 5.0,
+    "sdt": 5,
+    "gpf": 5,
     "conc": "EDP",
     "clima": [
       "Frio",
@@ -45391,7 +45413,7 @@
       "Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Um dos melhores encaixes do lote pro seu gosto — cítrico-aromático limpo, barato.",
     "compat": 7,
     "preco": 60,
@@ -45453,7 +45475,7 @@
       "Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "DNA corrigido — dupe confirmado do Dior Homme Sport 2017.",
     "compat": 6,
     "preco": 60,
@@ -45465,7 +45487,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 7.8,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Ameno"
@@ -45630,7 +45652,7 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Perfil amadeirado-couro intenso e viril, moderadamente alinhado ao seu gosto (mais 'statement' que limpo).",
     "compat": 5,
     "preco": 150,
@@ -45641,8 +45663,8 @@
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": 8.0,
-    "gpf": 5.0,
+    "sdt": 8,
+    "gpf": 5,
     "conc": "Parfum",
     "clima": [
       "Ameno",
@@ -45751,7 +45773,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Bem fora do seu eixo pessoal — perfil tropical doce, mais indicado pros decants.",
     "compat": 2,
     "preco": 200,
@@ -45763,7 +45785,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 8.8,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Calor"
@@ -45812,7 +45834,7 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Bom achado — dupe nacional confirmado, ótimo custo-benefício frente ao original.",
     "compat": 6,
     "preco": 180,
@@ -45923,5 +45945,66 @@
     "vers": 6,
     "link": null,
     "resumo": "Flanker limitado do Aventus (2023, reformulado em 2025) — mais especiado e cítrico-forward, com noz-moscada, canela e cardamomo somando-se ao pineapple clássico; fundo com musgo de carvalho, vetiver e patchouli substitui parcialmente o registro fumaçado do original. Reviews divididas: alguns acham 'irmão mais sombrio e intrigante' do Aventus, outros acham mal-blendado. DNA do Supremacy Collector's Edition (Afnan), que você já possui."
+  },
+  {
+    "id": 790,
+    "nome": "Seville (Rayhaan)",
+    "dna": "Althaïr (Parfums de Marly)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Interesse",
+    "veredito": "Contratipo do Althaïr (PDM); performance sólida, abertura pode incomodar em alguns lotes.",
+    "compat": 5,
+    "preco": 130,
+    "exp": "Sample First",
+    "nota": 7.0,
+    "score": 7.93,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Especiado",
+      "Gourmand"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Especiado",
+      "Gourmand",
+      "Oriental",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Canela",
+      "Flor de Laranjeira",
+      "Cardamomo",
+      "Bergamota",
+      "Baunilha",
+      "Praliné"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7,
+    "cb": 9,
+    "simil": 6,
+    "vers": 6,
+    "link": null,
+    "resumo": "Comunidade aponta relação com o DNA do Althaïr (Parfums de Marly) — praliné, especiarias e madeiras orientais. Alguns relatos mencionam abertura sintética/áspera, mas com bom desenvolvimento depois. Performance forte (7-10h)."
   }
 ]
