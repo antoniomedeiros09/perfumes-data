@@ -6046,7 +6046,7 @@
     "vers": 8,
     "link": null,
     "resumo": "Aventus-style refinado com boa performance e assinatura sofisticada sem agressividade excessiva. Combina MUITO com seu gosto por perfumes elegantes, versáteis e de presença confortável.",
-    "fotoInspiracao": "fotos/101_insp.jpg"
+    "fotoInspiracao": "fotos/789.jpg"
   },
   {
     "id": 102,
@@ -42172,10 +42172,17 @@
     "origem": "Árabe",
     "status": "Em Avaliação",
     "veredito": "",
-    "resumo": "Frutado-couro sofisticado: abacaxi no topo, vetiver-groselha-rosa no coração, couro-madeira seca-âmbar no fundo. Boa performance, lacuna positiva de oud/frutado sofisticado.",
     "compat": 8,
     "preco": 300,
     "exp": "Blind Buy",
+    "nota": 7.35,
+    "score": 8.1,
+    "rankDNA": null,
+    "flagDNA": null,
+    "melhorNac": null,
+    "melhorAr": null,
+    "sdt": 9.5,
+    "gpf": 10,
     "conc": "Extrait",
     "clima": [
       "Ameno",
@@ -42209,12 +42216,11 @@
     "cb": 8,
     "simil": 6,
     "vers": 7,
+    "link": null,
+    "resumo": "Frutado-couro sofisticado: abacaxi no topo, vetiver-groselha-rosa no coração, couro-madeira seca-âmbar no fundo. Boa performance, lacuna positiva de oud/frutado sofisticado.",
     "ind": 8.75,
     "dap": 10.0,
-    "gpf": 10,
-    "sdt": 9.5,
-    "nota": 7.35,
-    "score": 8.1
+    "fotoInspiracao": "fotos/789.jpg"
   },
   {
     "id": 692,
@@ -45856,5 +45862,66 @@
     "vers": 7,
     "link": null,
     "resumo": "Contratipo nacional do Pomelo Assoluto (Gritti), confirmado por review de comunidade ('ótima opção mais econômica'). Cítrico-aquático-floral, boa fidelidade declarada."
+  },
+  {
+    "id": 789,
+    "nome": "Aventus Absolu (Creed)",
+    "dna": "Aventus Absolu (Creed)",
+    "cat": "Amadeirado Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Flanker especiado do Aventus, com reviews divididas sobre a qualidade do blend.",
+    "compat": 6,
+    "preco": 1600,
+    "exp": "Sample First",
+    "nota": 6.67,
+    "score": 7.15,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.87,
+    "gpf": 4.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Chypre",
+      "Frutado",
+      "Especiado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Cítricos",
+      "Frutado",
+      "Especiado",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Toranja",
+      "Bergamota",
+      "Groselha Preta",
+      "Abacaxi",
+      "Gengibre",
+      "Cardamomo"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 6,
+    "qual": 7,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Flanker limitado do Aventus (2023, reformulado em 2025) — mais especiado e cítrico-forward, com noz-moscada, canela e cardamomo somando-se ao pineapple clássico; fundo com musgo de carvalho, vetiver e patchouli substitui parcialmente o registro fumaçado do original. Reviews divididas: alguns acham 'irmão mais sombrio e intrigante' do Aventus, outros acham mal-blendado. DNA do Supremacy Collector's Edition (Afnan), que você já possui."
   }
 ]
