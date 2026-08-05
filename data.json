@@ -69,13 +69,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Em Avaliação",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 8.0,
     "preco": 199.9,
     "exp": "Blind Buy",
     "nota": 7.9,
-    "score": 7.09,
+    "score": 9.09,
     "rankDNA": 7,
     "flagDNA": false,
     "melhorNac": false,
@@ -116,7 +116,17 @@
     "simil": 8.0,
     "vers": 6.0,
     "link": "https://www.nuancielo.com.br/domus",
-    "resumo": "Contratipo de Althaïr (Parfums de Marly) — a canela é a nota que mais se destaca, dando o calor especiado sobre a baunilha de fundo, sobre um acorde de baunilha predominante. Melhor em clima frio a ameno, para social/noite."
+    "resumo": "Contratipo de Althaïr (Parfums de Marly) — a canela é a nota que mais se destaca, dando o calor especiado sobre a baunilha de fundo, sobre um acorde de baunilha predominante. Melhor em clima frio a ameno, para social/noite.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "122",
+      "495",
+      "128",
+      "490",
+      "672",
+      "790"
+    ]
   },
   {
     "id": 3,
@@ -367,13 +377,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Em Avaliação",
+    "status": "Interesse",
     "veredito": "DNA corrigido para Afternoon Swim (Louis Vuitton) — não é Imagination nem Mandarino di Amalfi.",
     "compat": 10.0,
     "preco": 320.0,
     "exp": "Blind Buy",
     "nota": 7.9,
-    "score": 8.54,
+    "score": 9.54,
     "rankDNA": 6,
     "flagDNA": false,
     "melhorNac": false,
@@ -410,15 +420,27 @@
       "Sálvia Esclareia",
       "Cedro"
     ],
-    "fix": 6.0,
+    "fix": 6,
     "projI": 6.0,
     "projD": 6.0,
-    "qual": 6.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 10.0,
+    "qual": 6,
+    "cb": 10,
+    "simil": 8,
+    "vers": 10,
     "link": "https://www.romaaroma.com.br/produtos/riiffs-costa-de-amalfi/",
-    "resumo": "Contratipo de Afternoon Swim (Louis Vuitton) — a sálvia esclareia é a nota que mais se destaca, dando o toque aromático sobre a mandarina verde de abertura, sobre um acorde aquático predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Contratipo de Afternoon Swim (Louis Vuitton) — a sálvia esclareia é a nota que mais se destaca, dando o toque aromático sobre a mandarina verde de abertura, sobre um acorde aquático predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "132",
+      "137",
+      "204",
+      "376",
+      "451",
+      "489",
+      "592",
+      "650",
+      "680"
+    ]
   },
   {
     "id": 10,
@@ -435,7 +457,7 @@
     "compat": 10.0,
     "preco": 209.0,
     "exp": "Blind Buy",
-    "nota": 7.6,
+    "nota": 8.28,
     "score": 10,
     "rankDNA": 1,
     "flagDNA": true,
@@ -470,15 +492,24 @@
       "Alecrim",
       "Sálvia"
     ],
-    "fix": 6.0,
+    "fix": 7,
     "projI": 6.0,
     "projD": 6.0,
-    "qual": 6.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "qual": 7.5,
+    "cb": 10,
+    "simil": 8.5,
+    "vers": 8,
     "link": null,
-    "resumo": "Contratipo de Torino 21 (Xerjoff) — a hortelã é a nota que mais se destaca, dando o frescor gelado à abertura cítrica, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Contratipo de Torino 21 (Xerjoff) — a hortelã é a nota que mais se destaca, dando o frescor gelado à abertura cítrica, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "623",
+      "699",
+      "82",
+      "707",
+      "737"
+    ]
   },
   {
     "id": 11,
@@ -490,13 +521,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "",
     "compat": 6.0,
     "preco": 117.88,
     "exp": "Blind Buy",
-    "nota": 8.2,
-    "score": 8.23,
+    "nota": 8.0,
+    "score": 8.46,
     "rankDNA": 8,
     "flagDNA": false,
     "melhorNac": false,
@@ -531,15 +562,27 @@
       "Patchouli",
       "Musgo de Carvalho"
     ],
-    "fix": 10.0,
+    "fix": 8,
     "projI": 8.0,
     "projD": 10.0,
-    "qual": 8.0,
-    "cb": 8.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "qual": 8,
+    "cb": 8,
+    "simil": 8,
+    "vers": 8,
     "link": "https://mobile.comprasparaguai.com.br/perfume-rasasi-hawas-black-eau-de-parfum-masculino-100ml_60791/",
-    "resumo": "Contratipo de Hacivat (Nishane) — o abacaxi domina a abertura frutada antes de assentar no musgo de carvalho do fundo, sobre um acorde de musgo predominante. Melhor em clima ameno, para trabalho ou social/noite."
+    "resumo": "Contratipo de Hacivat (Nishane) — o abacaxi domina a abertura frutada antes de assentar no musgo de carvalho do fundo, sobre um acorde de musgo predominante. Melhor em clima ameno, para trabalho ou social/noite.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "12",
+      "13",
+      "225",
+      "246",
+      "265",
+      "340",
+      "606",
+      "741"
+    ]
   },
   {
     "id": 12,
@@ -553,13 +596,13 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "",
     "compat": 8.0,
     "preco": 390.0,
     "exp": "Blind Buy",
-    "nota": 8.2,
-    "score": 8.66,
+    "nota": 8.25,
+    "score": 8.98,
     "rankDNA": 5,
     "flagDNA": false,
     "melhorNac": false,
@@ -594,15 +637,27 @@
       "Patchouli",
       "Musgo de Carvalho"
     ],
-    "fix": 10.0,
+    "fix": 8,
     "projI": 8.0,
     "projD": 6.0,
-    "qual": 8.0,
-    "cb": 8.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "qual": 7.5,
+    "cb": 10,
+    "simil": 8,
+    "vers": 8,
     "link": null,
-    "resumo": "Contratipo de Hacivat (Nishane) — o abacaxi domina a abertura frutada antes de assentar no musgo de carvalho do fundo, sobre um acorde de musgo predominante. Melhor em clima ameno, para trabalho ou social/noite."
+    "resumo": "Contratipo de Hacivat (Nishane) — o abacaxi domina a abertura frutada antes de assentar no musgo de carvalho do fundo, sobre um acorde de musgo predominante. Melhor em clima ameno, para trabalho ou social/noite.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "11",
+      "13",
+      "225",
+      "246",
+      "265",
+      "340",
+      "606",
+      "741"
+    ]
   },
   {
     "id": 13,
@@ -663,7 +718,19 @@
     "simil": 10.0,
     "vers": 8.0,
     "link": "https://www.azzaparfums.com.br/produtos/hannishe-inspiracao-olfativa-hacivat-nishane/",
-    "resumo": "Contratipo de Hacivat (Nishane) — o abacaxi domina a abertura frutada antes de assentar no musgo de carvalho do fundo, sobre um acorde de musgo predominante. Melhor em clima ameno, para trabalho, social/noite ou assinatura/casual."
+    "resumo": "Contratipo de Hacivat (Nishane) — o abacaxi domina a abertura frutada antes de assentar no musgo de carvalho do fundo, sobre um acorde de musgo predominante. Melhor em clima ameno, para trabalho, social/noite ou assinatura/casual.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "11",
+      "12",
+      "225",
+      "246",
+      "265",
+      "340",
+      "606",
+      "741"
+    ]
   },
   {
     "id": 14,
@@ -677,17 +744,17 @@
     "origem": "Árabe",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 10.0,
-    "preco": 251.0,
+    "compat": 10,
+    "preco": 251,
     "exp": "Blind Buy",
-    "nota": 8.1,
+    "nota": 8.0,
     "score": 10,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": true,
     "sdt": 7.7,
-    "gpf": 6.0,
+    "gpf": 6,
     "conc": "EDP",
     "clima": [
       "Calor",
@@ -716,15 +783,26 @@
       "Frutas Vermelhas",
       "Almíscar"
     ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 8.0,
-    "simil": 8.0,
-    "vers": 10.0,
+    "fix": 4,
+    "projI": 6,
+    "projD": 6,
+    "qual": 8,
+    "cb": 10,
+    "simil": 8,
+    "vers": 8,
     "link": "https://mobile.comprasparaguai.com.br/perfume-rayhaan-pacific-aura-eau-de-parfum-masculino-100ml_64178/",
-    "resumo": "Contratipo de Pacific Chill (Louis Vuitton) — as frutas vermelhas são a nota que mais se destaca, um twist incomum sobre a mandarina de abertura, sobre um acorde verde predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Começa com Mandarina e Hortelã, passa por Frutas Vermelhas no coração até assentar em Almíscar. Fixação consistente (5-7h), projeção estável do início ao fim. Boa fidelidade ao original, com pequenas diferenças perceptíveis de perto.",
+    "prioridade": true,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "15",
+      "26",
+      "139",
+      "341",
+      "482",
+      "618",
+      "781"
+    ]
   },
   {
     "id": 15,
@@ -736,13 +814,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 10.0,
     "preco": null,
     "exp": "Blind Buy",
-    "nota": 8.7,
-    "score": 10,
+    "nota": 7.0,
+    "score": 9.1,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": true,
@@ -783,15 +861,25 @@
       "Fig",
       "Ambrette"
     ],
-    "fix": 6.0,
+    "fix": 5,
     "projI": 8.0,
     "projD": 6.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 8.0,
+    "qual": 7,
+    "cb": 8,
+    "simil": 7,
+    "vers": 7,
     "link": null,
-    "resumo": "Contratipo de Pacific Chill (Louis Vuitton) — o fig (figo) é a nota que mais se destaca, dando o toque verde-cremoso incomum à composição, sobre um acorde verde predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Contratipo de Pacific Chill (Louis Vuitton) — o fig (figo) é a nota que mais se destaca, dando o toque verde-cremoso incomum à composição, sobre um acorde verde predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "14",
+      "26",
+      "139",
+      "341",
+      "482",
+      "618",
+      "781"
+    ]
   },
   {
     "id": 16,
@@ -929,8 +1017,8 @@
     "compat": 8.0,
     "preco": 279.0,
     "exp": "Blind Buy",
-    "nota": 8.3,
-    "score": 10,
+    "nota": 7.0,
+    "score": 9.55,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -964,15 +1052,23 @@
       "Baunilha",
       "Lavanda"
     ],
-    "fix": 10.0,
+    "fix": 5,
     "projI": 8.0,
     "projD": 10.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 6.0,
+    "qual": 7,
+    "cb": 10,
+    "simil": 6,
+    "vers": 6,
     "link": null,
-    "resumo": "Contratipo de Naxos (Xerjoff) — o mel é a nota que mais se destaca, dando a doçura densa característica sobre o tabaco de fundo, sobre um acorde de tabaco predominante. Melhor em clima frio a ameno, para social/noite ou evento formal."
+    "resumo": "Contratipo de Naxos (Xerjoff) — o mel é a nota que mais se destaca, dando a doçura densa característica sobre o tabaco de fundo, sobre um acorde de tabaco predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "77",
+      "85",
+      "517",
+      "660"
+    ]
   },
   {
     "id": 20,
@@ -1164,13 +1260,13 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Em Avaliação",
+    "status": "Interesse",
     "veredito": "",
     "compat": 6.0,
     "preco": 730.0,
     "exp": "Sample First",
-    "nota": 7.9,
-    "score": 7.15,
+    "nota": 7.1,
+    "score": 7.82,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
@@ -1203,15 +1299,25 @@
       "Cardamomo",
       "Couro"
     ],
-    "fix": 10.0,
+    "fix": 10,
     "projI": 8.0,
     "projD": 10.0,
-    "qual": 8.0,
-    "cb": 8.0,
-    "simil": 8.0,
-    "vers": 6.0,
+    "qual": 8,
+    "cb": 6,
+    "simil": 7,
+    "vers": 5,
     "link": null,
-    "resumo": "Contratipo de Santal 33 (Le Labo) — o cardamomo é a nota que mais se destaca, dando o calor especiado sobre o sândalo de fundo, sobre um acorde de couro predominante. Melhor em clima ameno a frio, para trabalho ou social/noite."
+    "resumo": "Contratipo de Santal 33 (Le Labo) — o cardamomo é a nota que mais se destaca, dando o calor especiado sobre o sândalo de fundo, sobre um acorde de couro predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "346",
+      "464",
+      "497",
+      "682",
+      "739",
+      "740",
+      "761"
+    ]
   },
   {
     "id": 24,
@@ -1344,13 +1450,13 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Em Avaliação",
+    "status": "Interesse",
     "veredito": "",
     "compat": 8.0,
     "preco": 233.0,
     "exp": "Blind Buy",
-    "nota": 7.4,
-    "score": 7.98,
+    "nota": 7.55,
+    "score": 8.68,
     "rankDNA": 7,
     "flagDNA": false,
     "melhorNac": false,
@@ -1385,15 +1491,25 @@
       "Frutas Vermelhas",
       "Almíscar"
     ],
-    "fix": 10.0,
+    "fix": 6,
     "projI": 8.0,
     "projD": 10.0,
-    "qual": 8.0,
-    "cb": 8.0,
-    "simil": 6.0,
-    "vers": 6.0,
+    "qual": 8,
+    "cb": 10,
+    "simil": 6,
+    "vers": 7,
     "link": null,
-    "resumo": "Contratipo de Pacific Chill (Louis Vuitton) — a hortelã é a nota que mais se destaca, dando o frescor herbal sobre a mandarina de abertura, sobre um acorde frutado predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Contratipo de Pacific Chill (Louis Vuitton) — a hortelã é a nota que mais se destaca, dando o frescor herbal sobre a mandarina de abertura, sobre um acorde frutado predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "14",
+      "15",
+      "139",
+      "341",
+      "482",
+      "618",
+      "781"
+    ]
   },
   {
     "id": 27,
@@ -2834,7 +2950,13 @@
     "vers": 8.0,
     "link": "https://www.dolcegabbana.com",
     "resumo": "Original designer (2008) — o cardamomo é a nota que mais se destaca, dando o calor especiado sobre o grapefruit de abertura, sobre um acorde ambarado predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
-    "fotoInspiracao": null
+    "fotoInspiracao": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "83",
+      "747",
+      "748"
+    ]
   },
   {
     "id": 52,
@@ -4464,7 +4586,7 @@
     "origem": "Nicho",
     "status": "Em Avaliação",
     "veredito": "",
-    "compat": 10.0,
+    "compat": 10,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 8.53,
@@ -4504,16 +4626,24 @@
       "Lavanda",
       "Baunilha"
     ],
-    "fix": 10.0,
-    "projI": 8.0,
-    "projD": 10.0,
-    "qual": 10.0,
-    "cb": 6.0,
+    "fix": 10,
+    "projI": 8,
+    "projD": 10,
+    "qual": 10,
+    "cb": 6,
     "simil": null,
-    "vers": 8.0,
+    "vers": 8,
     "link": "https://xerjoff.com",
     "resumo": "Original de nicho — o mel é a nota que mais se destaca, dando a doçura densa sobre o tabaco de fundo, sobre um acorde de tabaco predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
-    "fotoInspiracao": null
+    "prioridade": false,
+    "fotoInspiracao": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "19",
+      "85",
+      "517",
+      "660"
+    ]
   },
   {
     "id": 78,
@@ -4715,13 +4845,13 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Em Avaliação",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 10.0,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 8.9,
-    "score": 9.41,
+    "score": 10,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
@@ -4765,6 +4895,15 @@
     "vers": 10.0,
     "link": "https://fragranceworld.ae",
     "resumo": "Contratipo de Torino 21 (Xerjoff) — a hortelã é a nota que mais se destaca, dando o frescor gelado à abertura cítrica, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "10",
+      "623",
+      "699",
+      "707",
+      "737"
+    ],
     "fotoInspiracao": "fotos/75.jpg"
   },
   {
@@ -4784,8 +4923,8 @@
     "compat": 8.0,
     "preco": null,
     "exp": "Blind Buy",
-    "nota": 8.7,
-    "score": 9.59,
+    "nota": 7.95,
+    "score": 9.32,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": true,
@@ -4827,16 +4966,23 @@
       "Cedro",
       "Âmbar"
     ],
-    "fix": 6.0,
+    "fix": 6,
     "projI": 6.0,
     "projD": 4.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 8.0,
+    "qual": 8,
+    "cb": 10,
+    "simil": 7,
+    "vers": 8,
     "link": null,
     "resumo": "Contratipo de The One for Men (Dolce & Gabbana) — o coentro é a nota que mais se destaca, dando o toque verde-especiado à abertura cítrica, sobre um acorde de tabaco predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
-    "fotoInspiracao": "fotos/51.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/51.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "51",
+      "747",
+      "748"
+    ]
   },
   {
     "id": 84,
@@ -4925,8 +5071,8 @@
     "compat": 8.0,
     "preco": null,
     "exp": "Blind Buy",
-    "nota": 9.6,
-    "score": 10,
+    "nota": 6.9,
+    "score": 9.79,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": true,
@@ -4969,16 +5115,24 @@
       "Baunilha",
       "Fava Tonka"
     ],
-    "fix": 12.0,
+    "fix": 8,
     "projI": 8.0,
     "projD": 10.0,
-    "qual": 10.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 6.0,
+    "qual": 7,
+    "cb": 8,
+    "simil": 6,
+    "vers": 6,
     "link": null,
     "resumo": "Contratipo de Naxos (Xerjoff) — o cashmeran é a nota que mais se destaca, dando a textura almiscarada-macia característica sob o mel de abertura, sobre um acorde de mel predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
-    "fotoInspiracao": "fotos/77.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/77.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "19",
+      "77",
+      "517",
+      "660"
+    ]
   },
   {
     "id": 86,
@@ -4994,10 +5148,10 @@
     "origem": "Nacional",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 10.0,
+    "compat": 10,
     "preco": null,
     "exp": "Blind Buy",
-    "nota": 10.0,
+    "nota": 10,
     "score": 10,
     "rankDNA": 1,
     "flagDNA": true,
@@ -5041,15 +5195,22 @@
       "Almíscar",
       "Pinho"
     ],
-    "fix": 10.0,
-    "projI": 6.0,
-    "projD": 6.0,
-    "qual": 10.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 10.0,
+    "fix": 10,
+    "projI": 6,
+    "projD": 6,
+    "qual": 10,
+    "cb": 10,
+    "simil": 10,
+    "vers": 10,
     "link": null,
-    "resumo": "Contratipo de Himalaya (Creed) — o pinho é a nota que mais se destaca, dando a faceta mineral-fresca característica da montanha, sobre um acorde amadeirado predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual."
+    "resumo": "Abre em Bergamota e Grapefruit, coração em Limão e fecha em Pinho. Fixação excepcional, acima de 10h, projeção estável do início ao fim. Fidelidade muito alta ao original, difícil distinguir lado a lado. Destaque pra Grapefruit, pouco comum nesse tipo de composição.",
+    "prioridade": true,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "300",
+      "360",
+      "601"
+    ]
   },
   {
     "id": 87,
@@ -5061,13 +5222,13 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
-    "compat": 6.0,
+    "compat": 6,
     "preco": null,
     "exp": "Blind Buy",
-    "nota": 9.3,
-    "score": 10,
+    "nota": 8.05,
+    "score": 8.73,
     "rankDNA": 5,
     "flagDNA": false,
     "melhorNac": false,
@@ -5106,15 +5267,27 @@
       "Couro",
       "Baunilha"
     ],
-    "fix": 12.0,
-    "projI": 10.0,
-    "projD": 10.0,
-    "qual": 10.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 4.0,
+    "fix": 10,
+    "projI": 10,
+    "projD": 10,
+    "qual": 9,
+    "cb": 10,
+    "simil": 7,
+    "vers": 4,
     "link": null,
-    "resumo": "Contratipo de Oud Maracujá (Maison Crivelli) — o maracujá é a nota que mais se destaca, dando o contraste frutado incomum sobre o oud de fundo, sobre um acorde de oud predominante. Melhor em clima ameno a frio, para social/noite ou evento formal."
+    "resumo": "Abre em Maracujá e Açafrão, coração em Rosa, fundo de Baunilha. Fidelidade muito alta ao original, difícil distinguir lado a lado.",
+    "prioridade": false,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "177",
+      "211",
+      "247",
+      "266",
+      "270",
+      "361",
+      "668",
+      "722"
+    ]
   },
   {
     "id": 88,
@@ -5861,7 +6034,7 @@
     "origem": "Nacional",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 10.0,
+    "compat": 10,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 8.6,
@@ -5905,15 +6078,16 @@
       "Coco",
       "Almíscar"
     ],
-    "fix": 10.0,
-    "projI": 8.0,
-    "projD": 10.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "fix": 10,
+    "projI": 8,
+    "projD": 10,
+    "qual": 8,
+    "cb": 10,
+    "simil": 8,
+    "vers": 8,
     "link": "https://lab8oficial.com.br/produtos/strategy-100ml-ztgql/",
-    "resumo": "Contratipo de Queening (Mind Games) — o açafrão é a nota que mais se destaca, dando o toque especiado incomum sobre a base de baunilha e coco, sobre um acorde de baunilha predominante. Melhor em clima ameno a frio, para social/noite ou assinatura/casual."
+    "resumo": "Abre em Maçã e Cipreste, evolui pro coração de Íris, fundo de Almíscar. Fixação excepcional, acima de 10h, projeção que cresce ao longo do uso em vez de desaparecer. Boa fidelidade ao original, com pequenas diferenças perceptíveis de perto.",
+    "prioridade": true
   },
   {
     "id": 100,
@@ -7144,7 +7318,7 @@
     "compat": 6.0,
     "preco": 288.0,
     "exp": "Blind Buy",
-    "nota": 9.4,
+    "nota": 9.3,
     "score": 10,
     "rankDNA": 2,
     "flagDNA": false,
@@ -7185,15 +7359,25 @@
       "Guaiac Wood",
       "Almíscar"
     ],
-    "fix": 10.0,
+    "fix": 10,
     "projI": 8.0,
     "projD": 10.0,
-    "qual": 10.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 6.0,
+    "qual": 10,
+    "cb": 10,
+    "simil": 9,
+    "vers": 7,
     "link": "https://www.mercadolivre.com.br",
-    "resumo": "Contratipo de Althaïr (Parfums de Marly) — o pralinê é a nota que mais se destaca, dando o toque gourmand sobre a canela e cardamomo de abertura, sobre um acorde de baunilha predominante. Melhor em clima ameno a frio, para social/noite ou assinatura/casual."
+    "resumo": "Contratipo de Althaïr (Parfums de Marly) — o pralinê é a nota que mais se destaca, dando o toque gourmand sobre a canela e cardamomo de abertura, sobre um acorde de baunilha predominante. Melhor em clima ameno a frio, para social/noite ou assinatura/casual.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "495",
+      "2",
+      "128",
+      "490",
+      "672",
+      "790"
+    ]
   },
   {
     "id": 123,
@@ -7547,13 +7731,13 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Em Avaliação",
+    "status": "Interesse",
     "veredito": "",
     "compat": 6.0,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 8.3,
-    "score": 8.14,
+    "score": 9.14,
     "rankDNA": 4,
     "flagDNA": false,
     "melhorNac": false,
@@ -7599,6 +7783,16 @@
     "vers": 6.0,
     "link": "https://www.mercadolivre.com.br",
     "resumo": "Contratipo de Althaïr (Parfums de Marly) — o guaiac wood é a nota que mais se destaca, dando o toque amadeirado-fumaçado sobre a canela e baunilha, sobre um acorde de camurça predominante. Melhor em clima frio a ameno, para social/noite.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "122",
+      "495",
+      "2",
+      "490",
+      "672",
+      "790"
+    ],
     "fotoInspiracao": "fotos/122_insp.jpg"
   },
   {
@@ -7810,13 +8004,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 8.0,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 7.9,
-    "score": 9.43,
+    "score": 8.43,
     "rankDNA": 5,
     "flagDNA": false,
     "melhorNac": false,
@@ -7851,15 +8045,27 @@
       "Almíscar",
       "Âmbar Cinzento"
     ],
-    "fix": 6.0,
+    "fix": 6,
     "projI": 6.0,
     "projD": 6.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 6.0,
+    "qual": 8,
+    "cb": 10,
+    "simil": 8,
+    "vers": 6,
     "link": "https://www.mercadolivre.com.br",
-    "resumo": "Contratipo de Afternoon Swim (Louis Vuitton) — o âmbar cinzento é a nota que mais se destaca, dando o fundo seco sobre a abertura cítrica-marinha, sobre um acorde marinho predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Contratipo de Afternoon Swim (Louis Vuitton) — o âmbar cinzento é a nota que mais se destaca, dando o fundo seco sobre a abertura cítrica-marinha, sobre um acorde marinho predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "8",
+      "137",
+      "204",
+      "376",
+      "451",
+      "489",
+      "592",
+      "650",
+      "680"
+    ]
   },
   {
     "id": 133,
@@ -8135,13 +8341,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 10.0,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 8.2,
-    "score": 10,
+    "score": 9.64,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
@@ -8175,16 +8381,28 @@
       "Gengibre",
       "Âmbar Cinzento"
     ],
-    "fix": 6.0,
+    "fix": 6,
     "projI": 6.0,
     "projD": 6.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "qual": 8,
+    "cb": 10,
+    "simil": 8,
+    "vers": 8,
     "link": "https://www.azzaparfums.com.br/produtos/sunset-swim-inspiracao-olfativa-afternoon-swim/",
     "resumo": "Contratipo de Afternoon Swim (Louis Vuitton) — o gengibre é a nota que mais se destaca, dando o toque picante à abertura cítrica-marinha, sobre um acorde marinho predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/132_insp.jpg"
+    "fotoInspiracao": "fotos/132_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "8",
+      "132",
+      "204",
+      "376",
+      "451",
+      "489",
+      "592",
+      "650",
+      "680"
+    ]
   },
   {
     "id": 138,
@@ -8198,9 +8416,9 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
-    "compat": 10.0,
+    "compat": 10,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 8.6,
@@ -8245,16 +8463,23 @@
       "Ambroxan",
       "Âmbar Cinzento"
     ],
-    "fix": 10.0,
-    "projI": 6.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "fix": 10,
+    "projI": 6,
+    "projD": 6,
+    "qual": 8,
+    "cb": 10,
+    "simil": 8,
+    "vers": 8,
     "link": "https://www.azzaparfums.com.br/produtos/immensity-of-seas-inspiracao-olfativa-limmensite/",
-    "resumo": "Contratipo de L'Immensité (Louis Vuitton) — o gengibre é a nota que mais se destaca, dando o toque picante sobre a base aquática-ambarada, sobre um acorde marinho predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/166_insp.jpg"
+    "resumo": "Abre em Gengibre e Bergamota, coração em Toranja e fecha em Âmbar Cinzento. Fixação excepcional, acima de 10h, projeção estável do início ao fim. Boa fidelidade ao original, com pequenas diferenças perceptíveis de perto.",
+    "prioridade": true,
+    "fotoInspiracao": "fotos/166_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "166",
+      "267",
+      "378"
+    ]
   },
   {
     "id": 139,
@@ -8266,13 +8491,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "",
     "compat": 8.0,
     "preco": null,
     "exp": "Blind Buy",
-    "nota": 7.9,
-    "score": 8.4,
+    "nota": 6.4,
+    "score": 8.37,
     "rankDNA": 6,
     "flagDNA": false,
     "melhorNac": false,
@@ -8314,15 +8539,25 @@
       "Tâmara",
       "Ambreta"
     ],
-    "fix": 6.0,
+    "fix": 6,
     "projI": 6.0,
     "projD": 6.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 6.0,
+    "qual": 6,
+    "cb": 8,
+    "simil": 6,
+    "vers": 6,
     "link": "https://www.azzaparfums.com.br/produtos/ocean-chill-inspiracao-olfativa-pacific-chill/",
-    "resumo": "Contratipo de Pacific Chill (Louis Vuitton) — o figo é a nota que mais se destaca, dando o toque verde-cremoso incomum sobre a cidra de abertura, sobre um acorde de figo predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Contratipo de Pacific Chill (Louis Vuitton) — o figo é a nota que mais se destaca, dando o toque verde-cremoso incomum sobre a cidra de abertura, sobre um acorde de figo predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "14",
+      "15",
+      "26",
+      "341",
+      "482",
+      "618",
+      "781"
+    ]
   },
   {
     "id": 140,
@@ -8336,13 +8571,13 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 10.0,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 8.2,
-    "score": 10,
+    "score": 9.6,
     "rankDNA": 4,
     "flagDNA": false,
     "melhorNac": false,
@@ -8387,7 +8622,17 @@
     "simil": 8.0,
     "vers": 8.0,
     "link": "https://www.azzaparfums.com.br/produtos/yourself-inspiracao-olfativa-myslf-ysl/",
-    "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — o patchouli da Indonésia é a nota que mais se destaca, dando profundidade terrosa sob a flor de laranjeira de abertura, sobre um acorde de flor de laranjeira predominante. Melhor em clima ameno, para trabalho ou social/noite."
+    "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — o patchouli da Indonésia é a nota que mais se destaca, dando profundidade terrosa sob a flor de laranjeira de abertura, sobre um acorde de flor de laranjeira predominante. Melhor em clima ameno, para trabalho ou social/noite.",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "227",
+      "242",
+      "351",
+      "456",
+      "620",
+      "690",
+      "809"
+    ]
   },
   {
     "id": 141,
@@ -8674,13 +8919,13 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 6.0,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 8.3,
-    "score": 9.07,
+    "score": 10,
     "rankDNA": 4,
     "flagDNA": false,
     "melhorNac": true,
@@ -8728,7 +8973,17 @@
     "simil": 8.0,
     "vers": 6.0,
     "link": "https://www.jaessencedelavie.com.br/perfume-chevalier-compartilhavel/",
-    "resumo": "Contratipo de Layton (Parfums de Marly) — a maçã domina a abertura frutada antes de assentar no sândalo e patchouli do fundo, sobre um acorde amadeirado predominante. Melhor em clima frio a ameno, para social/noite ou evento formal."
+    "resumo": "Contratipo de Layton (Parfums de Marly) — a maçã domina a abertura frutada antes de assentar no sândalo e patchouli do fundo, sobre um acorde amadeirado predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "181",
+      "183",
+      "279",
+      "328",
+      "525",
+      "626"
+    ]
   },
   {
     "id": 146,
@@ -9308,13 +9563,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 10.0,
     "preco": null,
     "exp": "Sample First",
-    "nota": 7.75,
-    "score": 10,
+    "nota": 7.25,
+    "score": 9.37,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -9350,15 +9605,22 @@
       "Ambergris",
       "Almiscar"
     ],
-    "fix": 7.0,
+    "fix": 7,
     "projI": 7.0,
     "projD": 6.0,
-    "qual": 8.0,
-    "cb": 8.0,
-    "simil": 8.0,
-    "vers": 7.0,
+    "qual": 8,
+    "cb": 8,
+    "simil": 6,
+    "vers": 7,
     "link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Thunder-130938.html",
-    "resumo": "Contratipo de MYSLF L'Absolu (Yves Saint Laurent - YSL) — o âmbar-cinzento é a nota que mais se destaca, dando profundidade à flor de laranjeira de abertura, sobre um acorde de flor de laranjeira predominante. Melhor em clima ameno a frio, para trabalho ou social/noite."
+    "resumo": "Contratipo de MYSLF L'Absolu (Yves Saint Laurent - YSL) — o âmbar-cinzento é a nota que mais se destaca, dando profundidade à flor de laranjeira de abertura, sobre um acorde de flor de laranjeira predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "577",
+      "635",
+      "806"
+    ]
   },
   {
     "id": 157,
@@ -9886,7 +10148,14 @@
     "simil": 10.0,
     "vers": 10.0,
     "link": null,
-    "resumo": "Contratipo de L'Immensité (Louis Vuitton) — a sálvia é a nota que mais se destaca, dando o toque aromático-fresco sobre a base ambarada, sobre um acorde ambarado predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Contratipo de L'Immensité (Louis Vuitton) — a sálvia é a nota que mais se destaca, dando o toque aromático-fresco sobre a base ambarada, sobre um acorde ambarado predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "138",
+      "267",
+      "378"
+    ]
   },
   {
     "id": 167,
@@ -10444,17 +10713,17 @@
     "origem": "Árabe",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 10.0,
-    "preco": 320.0,
+    "compat": 10,
+    "preco": 320,
     "exp": "Sample First",
-    "nota": 9.0,
+    "nota": 8.8,
     "score": 10,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
     "melhorAr": true,
     "sdt": 9.2,
-    "gpf": 6.0,
+    "gpf": 6,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -10481,16 +10750,28 @@
       "Couro",
       "Açafrão"
     ],
-    "fix": 12.0,
-    "projI": 8.0,
-    "projD": 8.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 6.0,
+    "fix": 10,
+    "projI": 8,
+    "projD": 8,
+    "qual": 8,
+    "cb": 10,
+    "simil": 10,
+    "vers": 6,
     "link": "https://megaelectronicos.com.py/produto/1489798/perfume-masculino-arabe-fragance-world-azzure-aoud-edp-100ml",
-    "resumo": "Contratipo de Oud Maracujá (Maison Crivelli) — o maracujá é a nota que mais se destaca, dando o contraste tropical sobre o oud de fundo, sobre um acorde de oud predominante. Melhor em clima ameno a frio, para social/noite ou evento formal.",
-    "fotoInspiracao": "fotos/87_insp.jpg"
+    "resumo": "A melhor representação do Oud Maracujá. O contraste entre o tropicalismo ácido e a base animalica cria um \"Statement\" exótico.",
+    "prioridade": true,
+    "fotoInspiracao": "fotos/87_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "87",
+      "211",
+      "247",
+      "266",
+      "270",
+      "361",
+      "668",
+      "722"
+    ]
   },
   {
     "id": 178,
@@ -10673,13 +10954,13 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 10.0,
     "preco": 240.0,
     "exp": "Blind Buy",
-    "nota": 8.8,
-    "score": 10,
+    "nota": 8.95,
+    "score": 9.57,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -10710,15 +10991,25 @@
       "Baunilha",
       "Sândalo"
     ],
-    "fix": 10.0,
+    "fix": 10,
     "projI": 8.0,
     "projD": 6.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 6.0,
+    "qual": 8.5,
+    "cb": 10,
+    "simil": 10,
+    "vers": 6,
     "link": "https://www.essenciaarabe.com.br/produtos/detour-noir-al-haramain-eau-de-parfum-100ml/",
     "resumo": "Contratipo de Layton (Parfums de Marly) — a maçã domina a abertura frutada antes de assentar na baunilha do fundo, sobre um acorde de baunilha predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "183",
+      "279",
+      "145",
+      "328",
+      "525",
+      "626"
+    ],
     "fotoInspiracao": "fotos/145_insp.jpg"
   },
   {
@@ -10790,13 +11081,13 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 10.0,
     "preco": 450.0,
     "exp": "Blind Buy",
-    "nota": 9.2,
-    "score": 10,
+    "nota": 8.75,
+    "score": 9.98,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -10828,15 +11119,25 @@
       "Baunilha",
       "Guaiac Wood"
     ],
-    "fix": 12.0,
+    "fix": 10,
     "projI": 8.0,
     "projD": 8.0,
-    "qual": 10.0,
-    "cb": 8.0,
-    "simil": 10.0,
-    "vers": 6.0,
+    "qual": 10,
+    "cb": 8,
+    "simil": 9,
+    "vers": 6,
     "link": "https://www.thekingofparfums.com.br/produtos/al-haramain-amber-oud-exclusif-bleu-60ml/",
     "resumo": "Contratipo de Layton (Parfums de Marly) — o guaiac wood é a nota que mais se destaca, dando o toque amadeirado-fumaçado sobre a baunilha de fundo, sobre um acorde de baunilha predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "181",
+      "279",
+      "145",
+      "328",
+      "525",
+      "626"
+    ],
     "fotoInspiracao": "fotos/145_insp.jpg"
   },
   {
@@ -11258,13 +11559,13 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 6.0,
     "preco": 350.0,
     "exp": "Sample First",
     "nota": 8.7,
-    "score": 9.24,
+    "score": 10,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -11303,7 +11604,14 @@
     "simil": 10.0,
     "vers": 4.0,
     "link": "https://www.thekingofparfums.com.br/produtos/arabiyat-prestige-najma-mawal-edp-100ml/",
-    "resumo": "Contratipo de Ombre Nomade (Louis Vuitton) — a framboesa é a nota que mais se destaca, dando o contraste frutado sobre o oud e incenso, sobre um acorde de oud predominante. Melhor em clima frio a ameno, para social/noite ou evento formal."
+    "resumo": "Contratipo de Ombre Nomade (Louis Vuitton) — a framboesa é a nota que mais se destaca, dando o contraste frutado sobre o oud e incenso, sobre um acorde de oud predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "393",
+      "458",
+      "619"
+    ]
   },
   {
     "id": 192,
@@ -11956,13 +12264,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 10.0,
     "preco": 290.0,
     "exp": "Blind Buy",
-    "nota": 9.6,
-    "score": 10,
+    "nota": 8.1,
+    "score": 9.29,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -11992,16 +12300,28 @@
       "Gengibre",
       "Âmbar Cinzento"
     ],
-    "fix": 6.0,
+    "fix": 6,
     "projI": 6.0,
     "projD": 4.0,
-    "qual": 10.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 10.0,
+    "qual": 8.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 8,
     "link": "https://www.thekingofparfums.com.br/produtos/rayhaan-adonis-icarus-edp-100ml/",
     "resumo": "Contratipo de Afternoon Swim (Louis Vuitton) — o gengibre é a nota que mais se destaca, dando o toque picante à abertura cítrica-marinha, sobre um acorde marinho predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/132_insp.jpg"
+    "fotoInspiracao": "fotos/132_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "8",
+      "132",
+      "137",
+      "376",
+      "451",
+      "489",
+      "592",
+      "650",
+      "680"
+    ]
   },
   {
     "id": 205,
@@ -12204,8 +12524,8 @@
     "compat": 10.0,
     "preco": 240.0,
     "exp": "Blind Buy",
-    "nota": 9.4,
-    "score": 10,
+    "nota": 7.73,
+    "score": 9.75,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -12235,16 +12555,23 @@
       "Sândalo",
       "Baunilha"
     ],
-    "fix": 10.0,
+    "fix": 6.5,
     "projI": 8.0,
     "projD": 6.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 10.0,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 6.5,
+    "vers": 10,
     "link": "https://www.thekingofparfums.com.br/produtos/riiffs-taif-edp-100ml/",
     "resumo": "Contratipo de Ingenious Ginger (Goldfield & Banks) — o gengibre é a nota que mais se destaca, dando o calor especiado que dá nome ao original, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/401.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/401.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "401",
+      "454",
+      "666"
+    ]
   },
   {
     "id": 209,
@@ -12370,13 +12697,13 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 6.0,
     "preco": 320.0,
     "exp": "Sample First",
-    "nota": 8.7,
-    "score": 10,
+    "nota": 7.75,
+    "score": 8.71,
     "rankDNA": 6,
     "flagDNA": false,
     "melhorNac": false,
@@ -12407,16 +12734,28 @@
       "Saffron",
       "Turkish Rose"
     ],
-    "fix": 12.0,
+    "fix": 10,
     "projI": 8.0,
     "projD": 8.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 4.0,
+    "qual": 8,
+    "cb": 10,
+    "simil": 7,
+    "vers": 4,
     "link": "https://www.thekingofparfums.com.br/produtos/maison-alhambra-the-memory-of-oud-edp-100ml/",
     "resumo": "Contratipo de Oud Maracujá (Maison Crivelli) — a rosa turca é a nota que mais se destaca, dando o contraste floral sobre o oud e maracujá, sobre um acorde de oud predominante. Melhor em clima ameno a frio, para social/noite ou evento formal.",
-    "fotoInspiracao": "fotos/87_insp.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/87_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "87",
+      "177",
+      "247",
+      "266",
+      "270",
+      "361",
+      "668",
+      "722"
+    ]
   },
   {
     "id": 212,
@@ -13172,7 +13511,19 @@
     "vers": 8.0,
     "link": null,
     "resumo": "Contratipo de Hacivat (Nishane) — o abacaxi domina a abertura frutada antes de assentar no musgo de carvalho do fundo, sobre um acorde de musgo predominante. Melhor em clima ameno, para trabalho, social/noite ou assinatura/casual.",
-    "fotoInspiracao": "fotos/11_insp.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/11_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "11",
+      "12",
+      "13",
+      "246",
+      "265",
+      "340",
+      "606",
+      "741"
+    ]
   },
   {
     "id": 227,
@@ -13188,7 +13539,7 @@
     "origem": "Nacional",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 8.0,
+    "compat": 8,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 9.4,
@@ -13227,21 +13578,32 @@
       "Ambroxan",
       "Patchouli"
     ],
-    "fix": 10.0,
-    "projI": 6.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 10.0,
+    "fix": 10,
+    "projI": 6,
+    "projD": 6,
+    "qual": 8,
+    "cb": 10,
+    "simil": 10,
+    "vers": 10,
     "link": null,
-    "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — a flor de laranjeira é a nota que mais se destaca, dando o coração floral-limpo sobre o ambroxan de fundo, sobre um acorde de ambroxan predominante. Melhor em clima ameno, para trabalho ou social/noite.",
-    "fotoInspiracao": "fotos/140_insp.jpg"
+    "resumo": "Fragrância moderna e \"clean\" que transita perfeitamente entre o casual e o formal. Flor de laranjeira masculina e sofisticada.",
+    "prioridade": true,
+    "fotoInspiracao": "fotos/140_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "140",
+      "242",
+      "351",
+      "456",
+      "620",
+      "690",
+      "809"
+    ]
   },
   {
     "id": 228,
     "nome": "Bal d'Afrique Absolu (Byredo)",
-    "dna": "Bal d'Afrique (Byredo)",
+    "dna": "Bal d'Afrique Absolu (Byredo)",
     "cat": "Luxury Clean Sofisticado",
     "ocasiao": [
       "Trabalho",
@@ -13251,7 +13613,7 @@
     ],
     "origem": "Nicho",
     "status": "Em Avaliação",
-    "veredito": "",
+    "veredito": "Corrigido: não é dupe do Bal d'Afrique, é outro original da própria Byredo (2025).",
     "compat": 10.0,
     "preco": 2800.0,
     "exp": "Blind Buy",
@@ -13296,7 +13658,14 @@
     "vers": 8.0,
     "link": "https://www.byredo.com/",
     "resumo": "Original de nicho — a calêndula é a nota que mais se destaca, dando o toque floral incomum sobre a bergamota de abertura, sobre um acorde amadeirado predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/228.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/228.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "455",
+      "513",
+      "679"
+    ]
   },
   {
     "id": 229,
@@ -13368,8 +13737,8 @@
     "origem": "Nacional",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 10.0,
-    "preco": 180.0,
+    "compat": 10,
+    "preco": 180,
     "exp": "Blind Buy",
     "nota": 8.7,
     "score": 10,
@@ -13402,15 +13771,16 @@
       "Vetiver",
       "Almíscar"
     ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 8.0,
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8,
+    "cb": 10,
+    "simil": 10,
+    "vers": 8,
     "link": "https://intheboxperfumes.com.br/",
-    "resumo": "Contratipo de Aventus Cologne (Creed) — o gengibre é a nota que mais se destaca, dando o toque picante-fresco à mandarina de abertura, sobre um acorde fresco predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Cítrico vibrante e almiscarado. Perfeito para o ambiente corporativo brasileiro em dias quentes. Transmite vigor e asseio. Veredito: Blind Buy Seguro.",
+    "prioridade": true
   },
   {
     "id": 231,
@@ -14101,7 +14471,17 @@
     "simil": 10.0,
     "vers": 10.0,
     "link": "https://www.thekingofparfums.com.br/",
-    "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — a flor de laranjeira é a nota que mais se destaca, dando o coração floral-limpo sobre o patchouli de fundo, sobre um acorde ambarado predominante. Melhor em clima ameno, para trabalho ou social/noite."
+    "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — a flor de laranjeira é a nota que mais se destaca, dando o coração floral-limpo sobre o patchouli de fundo, sobre um acorde ambarado predominante. Melhor em clima ameno, para trabalho ou social/noite.",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "140",
+      "227",
+      "351",
+      "456",
+      "620",
+      "690",
+      "809"
+    ]
   },
   {
     "id": 243,
@@ -14284,12 +14664,12 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 10.0,
     "preco": 210.0,
     "exp": "Blind Buy",
-    "nota": 9.3,
+    "nota": 9.1,
     "score": 10,
     "rankDNA": 2,
     "flagDNA": false,
@@ -14318,16 +14698,28 @@
       "Abacaxi",
       "Musgo"
     ],
-    "fix": 12.0,
+    "fix": 10,
     "projI": 10.0,
     "projD": 8.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 8.0,
+    "qual": 8,
+    "cb": 10,
+    "simil": 10,
+    "vers": 8,
     "link": null,
     "resumo": "Contratipo de Hacivat (Nishane) — o abacaxi domina a abertura frutada antes de assentar no musgo do fundo, sobre um acorde de musgo predominante. Melhor em clima ameno, para trabalho ou social/noite.",
-    "fotoInspiracao": "fotos/11_insp.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/11_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "11",
+      "12",
+      "13",
+      "225",
+      "265",
+      "340",
+      "606",
+      "741"
+    ]
   },
   {
     "id": 247,
@@ -14344,7 +14736,7 @@
     "compat": 6.0,
     "preco": 230.0,
     "exp": "Sample First",
-    "nota": 8.5,
+    "nota": 8.3,
     "score": 10,
     "rankDNA": 4,
     "flagDNA": false,
@@ -14373,16 +14765,28 @@
       "Maracujá",
       "Oud"
     ],
-    "fix": 12.0,
+    "fix": 10,
     "projI": 10.0,
     "projD": 10.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 6.0,
+    "qual": 8,
+    "cb": 10,
+    "simil": 8,
+    "vers": 6,
     "link": null,
     "resumo": "Contratipo de Oud Maracujá (Maison Crivelli) — o maracujá é a nota que mais se destaca, dando o contraste tropical sobre o oud de fundo, sobre um acorde de oud predominante. Melhor em clima ameno a frio, para social/noite.",
-    "fotoInspiracao": "fotos/87_insp.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/87_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "87",
+      "177",
+      "211",
+      "266",
+      "270",
+      "361",
+      "668",
+      "722"
+    ]
   },
   {
     "id": 248,
@@ -15336,7 +15740,7 @@
     "compat": 10.0,
     "preco": 450.0,
     "exp": "Blind Buy",
-    "nota": 9.9,
+    "nota": 8.7,
     "score": 10,
     "rankDNA": 3,
     "flagDNA": false,
@@ -15365,16 +15769,28 @@
       "Abacaxi",
       "Musgo"
     ],
-    "fix": 12.0,
+    "fix": 8,
     "projI": 10.0,
     "projD": 10.0,
-    "qual": 10.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 8.0,
+    "qual": 9,
+    "cb": 10,
+    "simil": 8,
+    "vers": 8,
     "link": null,
     "resumo": "Contratipo de Hacivat (Nishane) — o abacaxi domina a abertura frutada antes de assentar no patchouli do fundo, sobre um acorde de patchouli predominante. Melhor em clima ameno, para trabalho, social/noite ou assinatura/casual.",
-    "fotoInspiracao": "fotos/11_insp.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/11_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "11",
+      "12",
+      "13",
+      "225",
+      "246",
+      "340",
+      "606",
+      "741"
+    ]
   },
   {
     "id": 266,
@@ -15388,17 +15804,17 @@
     "origem": "Árabe",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 6.0,
-    "preco": 320.0,
+    "compat": 6,
+    "preco": 320,
     "exp": "Sample First",
-    "nota": 8.5,
+    "nota": 8.3,
     "score": 10,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 9.2,
-    "gpf": 6.0,
+    "gpf": 6,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -15420,16 +15836,28 @@
       "Maracujá",
       "Oud"
     ],
-    "fix": 12.0,
-    "projI": 10.0,
-    "projD": 10.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 6.0,
+    "fix": 10,
+    "projI": 10,
+    "projD": 10,
+    "qual": 8,
+    "cb": 10,
+    "simil": 8,
+    "vers": 6,
     "link": null,
-    "resumo": "Contratipo de Oud Maracujá (Maison Crivelli) — o açafrão é a nota que mais se destaca, dando o toque especiado sobre o maracujá e oud, sobre um acorde de oud predominante. Melhor em clima ameno a frio, para social/noite.",
-    "fotoInspiracao": "fotos/87_insp.jpg"
+    "resumo": "Contraste artístico entre o maracujá azedo e o oud profundo. Exótico, potente e extremamente sofisticado para eventos noturnos.",
+    "prioridade": true,
+    "fotoInspiracao": "fotos/87_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "87",
+      "177",
+      "211",
+      "247",
+      "270",
+      "361",
+      "668",
+      "722"
+    ]
   },
   {
     "id": 267,
@@ -15444,10 +15872,10 @@
     "origem": "Árabe",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 10.0,
-    "preco": 350.0,
+    "compat": 10,
+    "preco": 350,
     "exp": "Blind Buy",
-    "nota": 9.7,
+    "nota": 7.15,
     "score": 10,
     "rankDNA": 2,
     "flagDNA": false,
@@ -15476,16 +15904,23 @@
       "Gengibre",
       "Toranja"
     ],
-    "fix": 10.0,
-    "projI": 8.0,
-    "projD": 6.0,
-    "qual": 10.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 8.0,
+    "fix": 6,
+    "projI": 8,
+    "projD": 6,
+    "qual": 7,
+    "cb": 10,
+    "simil": 5,
+    "vers": 8,
     "link": null,
-    "resumo": "Contratipo de L'Immensité (Louis Vuitton) — a toranja é a nota que mais se destaca, dando o frescor cítrico sobre o ambroxan de fundo, sobre um acorde de ambroxan predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/166_insp.jpg"
+    "resumo": "Considerado o melhor clone da Louis Vuitton. Gengibre, toranja e ambroxan em perfeita harmonia. Performance superior ao original.",
+    "prioridade": true,
+    "fotoInspiracao": "fotos/166_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "138",
+      "166",
+      "378"
+    ]
   },
   {
     "id": 268,
@@ -15554,8 +15989,8 @@
     "origem": "Árabe",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 10.0,
-    "preco": 320.0,
+    "compat": 10,
+    "preco": 320,
     "exp": "Blind Buy",
     "nota": 8.7,
     "score": 10,
@@ -15586,15 +16021,16 @@
       "Coco",
       "Lima"
     ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 8.0,
+    "fix": 6,
+    "projI": 6,
+    "projD": 6,
+    "qual": 8,
+    "cb": 10,
+    "simil": 10,
+    "vers": 8,
     "link": null,
     "resumo": "Contratipo de Virgin Island Water (Creed) — o rum é a nota que mais se destaca, dando o toque licoroso-tropical sobre o coco de abertura, sobre um acorde de coco predominante. Melhor em clima calor, para assinatura/casual.",
+    "prioridade": true,
     "fotoInspiracao": "fotos/117_insp.jpg"
   },
   {
@@ -15607,13 +16043,13 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 8.0,
     "preco": 223.0,
     "exp": "Blind Buy",
-    "nota": 8.8,
-    "score": 10,
+    "nota": 8.05,
+    "score": 9.32,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -15642,16 +16078,28 @@
       "Maracujá",
       "Oud"
     ],
-    "fix": 10.0,
+    "fix": 10,
     "projI": 10.0,
     "projD": 8.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 6.0,
+    "qual": 8,
+    "cb": 10,
+    "simil": 7,
+    "vers": 6,
     "link": null,
     "resumo": "Contratipo de Oud Maracujá (Maison Crivelli) — o couro é a nota que mais se destaca, dando o toque seco sobre o maracujá e oud, sobre um acorde de oud predominante. Melhor em clima ameno a frio, para social/noite ou evento formal.",
-    "fotoInspiracao": "fotos/87_insp.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/87_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "87",
+      "177",
+      "211",
+      "247",
+      "266",
+      "361",
+      "668",
+      "722"
+    ]
   },
   {
     "id": 271,
@@ -16157,12 +16605,22 @@
     "vers": 8.0,
     "link": null,
     "resumo": "Contratipo de Layton (Parfums de Marly) — o cardamomo é a nota que mais se destaca, dando o calor especiado sobre a maçã e baunilha, sobre um acorde de baunilha predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "181",
+      "183",
+      "145",
+      "328",
+      "525",
+      "626"
+    ],
     "fotoInspiracao": "fotos/145_insp.jpg"
   },
   {
     "id": 280,
     "nome": "Lynked Freedom (Afnan)",
-    "dna": "MYSLF (Yves Saint Laurent - YSL)",
+    "dna": "MYSLF (Yves Saint Laurent - YSL) / The Most Wanted Parfum (Azzaro)",
     "cat": "Aromático Executivo",
     "ocasiao": [
       "Trabalho",
@@ -16170,9 +16628,9 @@
     ],
     "origem": "Árabe",
     "status": "Forte Interesse",
-    "veredito": "",
-    "compat": 10.0,
-    "preco": 320.0,
+    "veredito": "Corrigido de dupe puro de MYSLF para hibrido MYSLF/TMWP - confirmado por reviews reais.",
+    "compat": 10,
+    "preco": 320,
     "exp": "Blind Buy",
     "nota": 8.3,
     "score": 10,
@@ -16180,8 +16638,8 @@
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": 8.93,
-    "gpf": 4.67,
+    "sdt": 9.07,
+    "gpf": 5.33,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -16195,24 +16653,29 @@
     ],
     "fam": "Aromático",
     "acordes": [
-      "Bergamota",
-      "Flor de Laranjeira",
-      "Caramelo",
-      "Vetiver"
+      "Citrico",
+      "Aromatico",
+      "Oriental",
+      "Ambarado"
     ],
     "notas": [
-      "Flor de Laranjeira",
+      "Bergamota",
+      "Toranja",
+      "Salvia",
+      "Lavanda",
+      "Cardamomo",
       "Caramelo"
     ],
-    "fix": 8.0,
-    "projI": 6.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 8.0,
-    "simil": 8.0,
-    "vers": 10.0,
+    "fix": 8,
+    "projI": 6,
+    "projD": 6,
+    "qual": 8,
+    "cb": 8,
+    "simil": 8,
+    "vers": 10,
     "link": null,
-    "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — o caramelo é a nota que mais se destaca, dando o toque gourmand sobre a flor de laranjeira de abertura, sobre um acorde de vetiver predominante. Melhor em clima ameno, para trabalho ou social/noite.",
+    "resumo": "Hibrido de MYSLF (YSL) / The Most Wanted Parfum (Azzaro) - confirmado por reviews de comunidade que descrevem a abertura como MYSLF e o fundo evoluindo pro territorio do TMWP. O caramelo e a nota que mais se destaca no fundo, dando o toque gourmand-ambarado. Melhor em clima ameno, para trabalho ou social/noite.",
+    "prioridade": true,
     "fotoInspiracao": "fotos/242_insp.jpg"
   },
   {
@@ -17002,8 +17465,8 @@
     "origem": "Nacional",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 10.0,
-    "preco": 180.0,
+    "compat": 10,
+    "preco": 180,
     "exp": "Blind Buy",
     "nota": 9.1,
     "score": 10,
@@ -17012,7 +17475,7 @@
     "melhorNac": true,
     "melhorAr": false,
     "sdt": 7.3,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Versátil"
@@ -17034,15 +17497,16 @@
       "Baunilha",
       "Musk"
     ],
-    "fix": 10.0,
-    "projI": 8.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 8.0,
+    "fix": 10,
+    "projI": 8,
+    "projD": 6,
+    "qual": 8,
+    "cb": 10,
+    "simil": 10,
+    "vers": 8,
     "link": null,
-    "resumo": "Contratipo de Vanilla Powder (Matière Première) — as notas atalcadas são o destaque, dando a textura macia sobre o coco de fundo, sobre um acorde de coco predominante. Melhor em clima ameno a frio, para social/noite ou assinatura/casual.",
+    "resumo": "Baunilha seca e atalcada. Preenche a lacuna de conforto executivo moderno.",
+    "prioridade": true,
     "fotoInspiracao": "fotos/31.jpg"
   },
   {
@@ -17162,10 +17626,10 @@
     "origem": "Árabe",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 8.0,
+    "compat": 8,
     "preco": null,
     "exp": "Blind Buy",
-    "nota": 8.0,
+    "nota": 8,
     "score": 9.76,
     "rankDNA": 2,
     "flagDNA": false,
@@ -17206,16 +17670,23 @@
       "Almíscar",
       "Âmbar Cinzento"
     ],
-    "fix": 8.0,
-    "projI": 7.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 8.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "fix": 8,
+    "projI": 7,
+    "projD": 6,
+    "qual": 8,
+    "cb": 8,
+    "simil": 8,
+    "vers": 8,
     "link": "https://www.bidayaparfums.com/fragrance/gris/",
     "resumo": "Contratipo de Himalaya (Creed) — o zimbro é a nota que mais se destaca, dando a faceta mineral-fresca característica da montanha, sobre um acorde amadeirado predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/86_insp.jpg"
+    "prioridade": true,
+    "fotoInspiracao": "fotos/86_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "86",
+      "360",
+      "601"
+    ]
   },
   {
     "id": 301,
@@ -17598,7 +18069,13 @@
     "resumo": "Original de nicho — a íris pallida domina a composição, dando o toque atalcado clássico sobre a amêndoa e o sândalo, sobre um acorde de íris predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
     "fotoInspiracao": null,
     "ind": 10,
-    "dap": 10.0
+    "dap": 10.0,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "313",
+      "314",
+      "331"
+    ]
   },
   {
     "id": 309,
@@ -17879,7 +18356,14 @@
     "vers": 8.0,
     "link": null,
     "resumo": "Contratipo de Iris Pallida Extrait 6 (Guerlain) — a amêndoa é a nota que mais se destaca, dando o toque gourmand sobre a íris pallida, sobre um acorde de camurça predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
-    "fotoInspiracao": "fotos/308.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/308.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "308",
+      "314",
+      "331"
+    ]
   },
   {
     "id": 314,
@@ -17893,8 +18377,8 @@
     "origem": "Nacional",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 8.0,
-    "preco": 180.0,
+    "compat": 8,
+    "preco": 180,
     "exp": "Blind Buy",
     "nota": 8.7,
     "score": 10,
@@ -17903,7 +18387,7 @@
     "melhorNac": true,
     "melhorAr": false,
     "sdt": 8.3,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Versátil"
@@ -17924,16 +18408,23 @@
       "Íris",
       "Musk"
     ],
-    "fix": 8.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 10.0,
+    "fix": 8,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8,
+    "cb": 10,
+    "simil": 8,
+    "vers": 10,
     "link": null,
-    "resumo": "Contratipo de Iris Pallida Extrait 6 (Guerlain) — a íris é a nota que mais se destaca, dando o toque atalcado clássico sobre o almíscar de fundo, sobre um acorde atalcado predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
-    "fotoInspiracao": "fotos/308.jpg"
+    "resumo": "Destaque: Foco na faceta de limpeza e pó de arroz da íris. Veredito: Qualidade Alta (7-8). Excelente opção nacional para o uso diário; mantém a aura de \"camisa branca\" impecável.",
+    "prioridade": true,
+    "fotoInspiracao": "fotos/308.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "308",
+      "313",
+      "331"
+    ]
   },
   {
     "id": 315,
@@ -18653,6 +19144,16 @@
     "vers": 8.0,
     "link": null,
     "resumo": "Contratipo de Layton (Parfums de Marly) — a maçã verde é a nota que mais se destaca, dando o frescor frutado sobre a baunilha de fundo, sobre um acorde de baunilha predominante. Melhor em clima frio a ameno, para social/noite.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "181",
+      "183",
+      "279",
+      "145",
+      "525",
+      "626"
+    ],
     "fotoInspiracao": "fotos/145_insp.jpg"
   },
   {
@@ -18721,7 +19222,7 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 10.0,
     "preco": 450.0,
@@ -18762,9 +19263,16 @@
     "vers": 8.0,
     "link": null,
     "resumo": "Contratipo de Iris Pallida Extrait 6 (Guerlain) — a amêndoa é a nota que mais se destaca, dando o toque gourmand sobre a íris pallida, sobre um acorde de íris predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
+    "prioridade": null,
     "fotoInspiracao": "fotos/308.jpg",
     "ind": 10,
-    "dap": 10.0
+    "dap": 10.0,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "308",
+      "313",
+      "314"
+    ]
   },
   {
     "id": 332,
@@ -19275,7 +19783,18 @@
     "link": null,
     "resumo": "Original de nicho — o abacaxi domina a abertura frutada antes de assentar no musgo de carvalho do fundo, sobre um acorde musgoso predominante. Melhor em clima ameno, para trabalho ou social/noite.",
     "fotoPerfume": "fotos/11_insp.jpg",
-    "fotoInspiracao": null
+    "fotoInspiracao": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "11",
+      "12",
+      "13",
+      "225",
+      "246",
+      "265",
+      "606",
+      "741"
+    ]
   },
   {
     "id": 341,
@@ -19331,7 +19850,17 @@
     "link": null,
     "resumo": "Original de nicho — o damasco é a nota que mais se destaca, dando o toque frutado sobre a hortelã de abertura, sobre um acorde verde predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "fotoPerfume": "fotos/139_insp.jpg",
-    "fotoInspiracao": null
+    "fotoInspiracao": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "14",
+      "15",
+      "26",
+      "139",
+      "482",
+      "618",
+      "781"
+    ]
   },
   {
     "id": 342,
@@ -19616,7 +20145,17 @@
     "link": null,
     "resumo": "Original de nicho — o papiro é a nota que mais se destaca, dando o toque seco-incomum sobre o sândalo e couro, sobre um acorde de couro predominante. Melhor em clima ameno a frio, para trabalho, social/noite ou assinatura/casual.",
     "fotoPerfume": "fotos/23_insp.jpg",
-    "fotoInspiracao": null
+    "fotoInspiracao": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "23",
+      "464",
+      "497",
+      "682",
+      "739",
+      "740",
+      "761"
+    ]
   },
   {
     "id": 347,
@@ -19913,7 +20452,17 @@
     "link": null,
     "resumo": "Original designer — a flor de laranjeira é a nota que mais se destaca, dando o coração floral-limpo sobre a bergamota de abertura, sobre um acorde floral branco predominante. Melhor em clima ameno, para trabalho ou social/noite.",
     "fotoPerfume": "fotos/242_insp.jpg",
-    "fotoInspiracao": null
+    "fotoInspiracao": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "140",
+      "227",
+      "242",
+      "456",
+      "620",
+      "690",
+      "809"
+    ]
   },
   {
     "id": 352,
@@ -20263,7 +20812,13 @@
     "link": null,
     "resumo": "Original de nicho clássico — o sândalo é a nota que mais se destaca, dando o corpo amadeirado sobre a bergamota de abertura, sobre um acorde amadeirado predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
     "fotoPerfume": "fotos/86_insp.jpg",
-    "fotoInspiracao": null
+    "fotoInspiracao": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "86",
+      "300",
+      "601"
+    ]
   },
   {
     "id": 361,
@@ -20320,7 +20875,18 @@
     "link": null,
     "resumo": "Original de nicho — o maracujá é a nota que mais se destaca, dando o contraste tropical sobre o oud de fundo, sobre um acorde tropical predominante. Melhor em clima ameno a frio, para social/noite.",
     "fotoPerfume": "fotos/87_insp.jpg",
-    "fotoInspiracao": null
+    "fotoInspiracao": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "87",
+      "177",
+      "211",
+      "247",
+      "266",
+      "270",
+      "668",
+      "722"
+    ]
   },
   {
     "id": 363,
@@ -21008,7 +21574,19 @@
     "link": null,
     "resumo": "Original de nicho — a mandarina é a nota que mais se destaca, dando o toque cítrico-suculento sobre a laranja de abertura, sobre um acorde aquático predominante. Melhor em clima calor, para trabalho ou assinatura/casual.",
     "fotoPerfume": "fotos/132_insp.jpg",
-    "fotoInspiracao": null
+    "fotoInspiracao": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "8",
+      "132",
+      "137",
+      "204",
+      "451",
+      "489",
+      "592",
+      "650",
+      "680"
+    ]
   },
   {
     "id": 377,
@@ -21123,7 +21701,13 @@
     "link": null,
     "resumo": "Original de nicho — o gengibre é a nota que mais se destaca, dando o toque picante sobre a toranja de abertura, sobre um acorde marinho predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "fotoPerfume": "fotos/166_insp.jpg",
-    "fotoInspiracao": null
+    "fotoInspiracao": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "138",
+      "166",
+      "267"
+    ]
   },
   {
     "id": 379,
@@ -21922,7 +22506,13 @@
     "link": null,
     "resumo": "Original de nicho — a framboesa é a nota que mais se destaca, dando o contraste frutado sobre o oud e incenso, sobre um acorde de oud predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
     "fotoPerfume": "fotos/191_insp.jpg",
-    "fotoInspiracao": null
+    "fotoInspiracao": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "191",
+      "458",
+      "619"
+    ]
   },
   {
     "id": 394,
@@ -22374,7 +22964,13 @@
     "vers": 8.0,
     "link": null,
     "resumo": "Original de nicho — a flor de gengibre é a nota que mais se destaca, dando o calor especiado incomum à composição, sobre um acorde especiado-fresco predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": null
+    "fotoInspiracao": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "208",
+      "454",
+      "666"
+    ]
   },
   {
     "id": 402,
@@ -22959,8 +23555,8 @@
     "origem": "Nicho",
     "status": "Em Avaliação",
     "veredito": "",
-    "compat": 10.0,
-    "preco": 1800.0,
+    "compat": 10,
+    "preco": 1800,
     "exp": "Sample First",
     "nota": 8.1,
     "score": 8.29,
@@ -22969,7 +23565,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 7.8,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -22992,17 +23588,24 @@
       "Limão Amalfi",
       "Vetiver"
     ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 10.0,
-    "cb": 4.0,
-    "simil": 10.0,
-    "vers": 8.0,
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 10,
+    "cb": 4,
+    "simil": 10,
+    "vers": 8,
     "link": null,
     "resumo": "Original de nicho — a calêndula é a nota que mais se destaca, dando o toque floral incomum sobre o limão amalfi de abertura, sobre um acorde amadeirado predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
+    "prioridade": true,
     "fotoPerfume": "fotos/228.jpg",
-    "fotoInspiracao": null
+    "fotoInspiracao": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "514",
+      "515",
+      "516"
+    ]
   },
   {
     "id": 413,
@@ -24214,8 +24817,8 @@
     "origem": "Designer",
     "status": "Em Avaliação",
     "veredito": "",
-    "compat": 10.0,
-    "preco": 680.0,
+    "compat": 10,
+    "preco": 680,
     "exp": "Blind Buy",
     "nota": 8.2,
     "score": 7.34,
@@ -24224,7 +24827,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 4.3,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "Oil",
     "clima": [
       "Ameno",
@@ -24247,15 +24850,16 @@
       "Lavanda",
       "Cedro"
     ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 10.0,
-    "cb": 6.0,
-    "simil": 10.0,
-    "vers": 6.0,
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 10,
+    "cb": 6,
+    "simil": 10,
+    "vers": 6,
     "link": null,
     "resumo": "Original designer clássico — o cardamomo é a nota que mais se destaca, dando o calor especiado sobre a lavanda de abertura, sobre um acorde de lavanda predominante. Melhor em clima frio a ameno, para social/noite.",
+    "prioridade": true,
     "fotoPerfume": "fotos/294.jpg",
     "fotoInspiracao": null
   },
@@ -25184,13 +25788,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 10.0,
     "preco": 380.0,
     "exp": "Blind Buy",
     "nota": 8.4,
-    "score": 9.14,
+    "score": 10,
     "rankDNA": 6,
     "flagDNA": false,
     "melhorNac": false,
@@ -25217,16 +25821,28 @@
       "Laranja Amarga",
       "Cedro"
     ],
-    "fix": 6.0,
+    "fix": 6,
     "projI": 8.0,
     "projD": 6.0,
-    "qual": 10.0,
-    "cb": 8.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "qual": 10,
+    "cb": 8,
+    "simil": 8,
+    "vers": 8,
     "link": null,
     "resumo": "Contratipo de Afternoon Swim (Louis Vuitton) — o aperol é a nota que mais se destaca, dando o toque boozy-cítrico incomum sobre a laranja amarga, sobre um acorde de laranja amarga predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/132_insp.jpg"
+    "fotoInspiracao": "fotos/132_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "8",
+      "132",
+      "137",
+      "204",
+      "376",
+      "489",
+      "592",
+      "650",
+      "680"
+    ]
   },
   {
     "id": 452,
@@ -25356,13 +25972,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 10.0,
     "preco": 320.0,
     "exp": "Blind Buy",
-    "nota": 8.2,
-    "score": 10,
+    "nota": 6.9,
+    "score": 8.82,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -25397,16 +26013,23 @@
       "Sândalo",
       "Baunilha"
     ],
-    "fix": 6.0,
+    "fix": 5,
     "projI": 6.0,
     "projD": 4.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 5,
+    "vers": 8,
     "link": null,
     "resumo": "Contratipo de Ingenious Ginger (Goldfield & Banks) — o gengibre é a nota que mais se destaca, dando o calor especiado que dá nome ao original, sobre um acorde especiado-fresco predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/401.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/401.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "208",
+      "401",
+      "666"
+    ]
   },
   {
     "id": 455,
@@ -25469,7 +26092,13 @@
     "vers": 8.0,
     "link": null,
     "resumo": "Contratipo de Bal d'Afrique Absolu (Byredo) — o praliné é a nota que mais se destaca, dando o toque gourmand sobre a groselha negra de abertura, sobre um acorde frutado predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
-    "fotoInspiracao": "fotos/228.jpg"
+    "fotoInspiracao": "fotos/228.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "228",
+      "513",
+      "679"
+    ]
   },
   {
     "id": 456,
@@ -25481,13 +26110,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 6.0,
     "preco": 200.0,
     "exp": "Sample First",
     "nota": 6.0,
-    "score": 8.63,
+    "score": 7.63,
     "rankDNA": 6,
     "flagDNA": false,
     "melhorNac": false,
@@ -25529,7 +26158,17 @@
     "vers": 6.0,
     "link": null,
     "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — a pimenta rosa é a nota que mais se destaca, dando o contraste picante à bergamota de abertura, sobre um acorde ambarado predominante. Melhor em clima ameno, para trabalho ou social/noite.",
-    "fotoInspiracao": "fotos/242_insp.jpg"
+    "fotoInspiracao": "fotos/242_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "140",
+      "227",
+      "242",
+      "351",
+      "620",
+      "690",
+      "809"
+    ]
   },
   {
     "id": 457,
@@ -25602,13 +26241,13 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
-    "compat": 5.0,
-    "preco": 320.0,
+    "compat": 5,
+    "preco": 320,
     "exp": "Sample First",
     "nota": 7.7,
-    "score": 9.18,
+    "score": 8.18,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -25644,16 +26283,23 @@
       "Oud",
       "Benjoim"
     ],
-    "fix": 8.0,
-    "projI": 8.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 8.0,
-    "simil": 8.0,
-    "vers": 6.0,
+    "fix": 8,
+    "projI": 8,
+    "projD": 6,
+    "qual": 8,
+    "cb": 8,
+    "simil": 8,
+    "vers": 6,
     "link": null,
     "resumo": "Contratipo de Ombre Nomade (Louis Vuitton) — a framboesa é a nota que mais se destaca, dando o contraste frutado sobre o oud e incenso de fundo, sobre um acorde defumado predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
-    "fotoInspiracao": "fotos/191_insp.jpg"
+    "prioridade": true,
+    "fotoInspiracao": "fotos/191_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "191",
+      "393",
+      "619"
+    ]
   },
   {
     "id": 459,
@@ -25667,7 +26313,7 @@
     "origem": "Árabe",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 6.0,
+    "compat": 6,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 7.5,
@@ -25677,7 +26323,7 @@
     "melhorNac": false,
     "melhorAr": true,
     "sdt": 8.4,
-    "gpf": 2.0,
+    "gpf": 2,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -25708,15 +26354,16 @@
       "Cedro",
       "Noz-moscada"
     ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 8.0,
-    "cb": 8.0,
-    "simil": 8.0,
-    "vers": 6.0,
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8,
+    "cb": 8,
+    "simil": 8,
+    "vers": 6,
     "link": "https://www.mercadolivre.com.br/khadlaj-perfumes-fursan-white-eau-de-parfum-100-ml-fem/up/MLBU3998204659",
     "resumo": "Contratipo de Vanilla Powder (Matière Première) — a noz-moscada é a nota que mais se destaca, dando o toque especiado incomum sobre a baunilha e coco, sobre um acorde de baunilha predominante. Melhor em clima ameno a frio, para social/noite ou assinatura/casual.",
+    "prioridade": true,
     "fotoInspiracao": "fotos/31.jpg"
   },
   {
@@ -25981,13 +26628,13 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Em Avaliação",
+    "status": "Interesse",
     "veredito": "",
     "compat": 4.0,
     "preco": 350.0,
     "exp": "Blind Buy",
-    "nota": 6.8,
-    "score": 6.25,
+    "nota": 7.7,
+    "score": 7.86,
     "rankDNA": 5,
     "flagDNA": false,
     "melhorNac": false,
@@ -26021,16 +26668,26 @@
       "Sandalo",
       "Almiscar"
     ],
-    "fix": 6.0,
+    "fix": 8,
     "projI": 6.0,
     "projD": 4.0,
-    "qual": 8.0,
-    "cb": 6.0,
-    "simil": 8.0,
-    "vers": 4.0,
+    "qual": 8,
+    "cb": 8,
+    "simil": 8,
+    "vers": 6,
     "link": null,
     "resumo": "Contratipo de Santal 33 (Le Labo) — a cenoura é a nota que mais se destaca, dando o toque terroso-incomum sobre o elemi de abertura, sobre um acorde amadeirado predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
-    "fotoInspiracao": "fotos/23_insp.jpg"
+    "fotoInspiracao": "fotos/23_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "23",
+      "346",
+      "497",
+      "682",
+      "739",
+      "740",
+      "761"
+    ]
   },
   {
     "id": 465,
@@ -27088,19 +27745,19 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
-    "compat": 7.0,
-    "preco": 200.0,
+    "compat": 7,
+    "preco": 200,
     "exp": "Blind Buy",
-    "nota": 8.0,
-    "score": 9.75,
+    "nota": 7.75,
+    "score": 8.46,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 8.8,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Calor"
@@ -27128,16 +27785,27 @@
       "Almiscar",
       "Madeiras"
     ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 8.0,
-    "cb": 9.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "fix": 4.5,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7.5,
+    "cb": 10,
+    "simil": 8,
+    "vers": 7,
     "link": null,
-    "resumo": "Contratipo de Pacific Chill (Louis Vuitton) — o damasco é a nota que mais se destaca, dando o toque frutado incomum sobre a laranja de abertura, sobre um acorde frutado predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/14_insp.jpg"
+    "resumo": "Dupe do LV Pacific Chill. Citrico-frutado refrescante com laranja, menta, groselha e damasco. Perfil leve e versatil para dias quentes. Custo-beneficio excelente. Lacuna positiva na colecao pois DNA Pacific Chill nao esta representado.",
+    "prioridade": true,
+    "fotoInspiracao": "fotos/14_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "14",
+      "15",
+      "26",
+      "139",
+      "341",
+      "618",
+      "781"
+    ]
   },
   {
     "id": 483,
@@ -27514,17 +28182,17 @@
     "origem": "Nacional",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 9.0,
-    "preco": 129.0,
+    "compat": 9,
+    "preco": 129,
     "exp": "Blind Buy",
-    "nota": 8.2,
+    "nota": 8.3,
     "score": 10,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": true,
     "melhorAr": false,
     "sdt": 8.8,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Calor"
@@ -27549,16 +28217,29 @@
       "Mandarina",
       "Ambergris"
     ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "fix": 7,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8,
+    "cb": 10,
+    "simil": 8,
+    "vers": 8,
     "link": "https://maisonviegas.com.br/produtos/citrus-eclat-inspirado-em-afternoow-swim-louis-vuitton/",
     "resumo": "Contratipo de Afternoon Swim (Louis Vuitton) — o gengibre é a nota que mais se destaca, dando o toque picante à abertura cítrica, sobre um acorde cítrico predominante. Melhor em clima calor, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/132_insp.jpg"
+    "prioridade": true,
+    "fotoInspiracao": "fotos/132_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "8",
+      "132",
+      "137",
+      "204",
+      "376",
+      "451",
+      "592",
+      "650",
+      "680"
+    ]
   },
   {
     "id": 490,
@@ -27569,13 +28250,13 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
-    "compat": 7.0,
+    "compat": 7,
     "preco": 109.9,
     "exp": "Blind Buy",
     "nota": 7.5,
-    "score": 9.24,
+    "score": 8.24,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": true,
@@ -27613,15 +28294,25 @@
       "Ambroxan",
       "Madeira Guaiaco"
     ],
-    "fix": 8.0,
-    "projI": 8.0,
-    "projD": 6.0,
-    "qual": 6.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 6.0,
+    "fix": 8,
+    "projI": 8,
+    "projD": 6,
+    "qual": 6,
+    "cb": 10,
+    "simil": 8,
+    "vers": 6,
     "link": "https://www.theracosmeticos.com.br/produtos/perfume-masculino-profondo/",
     "resumo": "Contratipo de Althaïr (Parfums de Marly) — o elemi é a nota que mais se destaca, dando a resina cítrico-picante sobre a canela de abertura, sobre um acorde de baunilha predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
+    "prioridade": false,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "122",
+      "495",
+      "2",
+      "128",
+      "672",
+      "790"
+    ],
     "fotoInspiracao": "fotos/2_insp.jpg"
   },
   {
@@ -27895,13 +28586,13 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 7.0,
     "preco": null,
     "exp": "Blind Buy",
-    "nota": 7.9,
-    "score": 10,
+    "nota": 7.8,
+    "score": 8.81,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -27942,15 +28633,25 @@
       "Pralinê",
       "Ambroxan"
     ],
-    "fix": 10.0,
+    "fix": 7,
     "projI": 8.0,
     "projD": 6.0,
-    "qual": 8.0,
-    "cb": 8.0,
-    "simil": 8.0,
-    "vers": 6.0,
+    "qual": 8,
+    "cb": 9,
+    "simil": 8,
+    "vers": 6,
     "link": "https://www.mercadolivre.com.br/perfume-historic-sahara-afnan-100ml-unissex/p/MLB52439523",
     "resumo": "Contratipo de Althaïr (Parfums de Marly) — o pralinê é a nota que mais se destaca, dando o toque gourmand sobre a canela e cardamomo, sobre um acorde de ambroxan predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "122",
+      "2",
+      "128",
+      "490",
+      "672",
+      "790"
+    ],
     "fotoInspiracao": "fotos/2_insp.jpg"
   },
   {
@@ -28023,13 +28724,13 @@
     "cat": "Amadeirado Refinado",
     "ocasiao": [],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "",
     "compat": 5.0,
     "preco": null,
     "exp": "Sample First",
-    "nota": 5.7,
-    "score": 6.37,
+    "nota": 4.65,
+    "score": 6.35,
     "rankDNA": 4,
     "flagDNA": false,
     "melhorNac": true,
@@ -28062,16 +28763,26 @@
       "Folha de Violeta",
       "Cedro"
     ],
-    "fix": 6.0,
+    "fix": 4,
     "projI": 6.0,
     "projD": 4.0,
-    "qual": 6.0,
-    "cb": 6.0,
-    "simil": 6.0,
-    "vers": 4.0,
+    "qual": 5,
+    "cb": 5,
+    "simil": 4,
+    "vers": 5,
     "link": "https://www.ouiparis.com/oui-riviere-bleue-eau-de-parfum-masculino-75ml/",
     "resumo": "Contratipo de Santal 33 (Le Labo) — a folha de violeta é a nota que mais se destaca, dando o toque atalcado-verde sobre o cardamomo de abertura, sobre um acorde de cedro predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
-    "fotoInspiracao": "fotos/23_insp.jpg"
+    "fotoInspiracao": "fotos/23_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "23",
+      "346",
+      "464",
+      "682",
+      "739",
+      "740",
+      "761"
+    ]
   },
   {
     "id": 498,
@@ -29087,7 +29798,13 @@
     "vers": 8.0,
     "link": "https://theduabrand.com/products/paris-1920-absolu",
     "resumo": "Contratipo de Bal d'Afrique Absolu (Byredo) — o praliné é a nota que mais se destaca, dando o toque gourmand sobre a groselha negra de abertura, sobre um acorde de âmbar negro predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
-    "fotoInspiracao": "fotos/228.jpg"
+    "fotoInspiracao": "fotos/228.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "228",
+      "455",
+      "679"
+    ]
   },
   {
     "id": 514,
@@ -29104,7 +29821,7 @@
     "compat": 8.0,
     "preco": null,
     "exp": "Blind Buy",
-    "nota": 8.1,
+    "nota": 8.55,
     "score": 10,
     "rankDNA": 3,
     "flagDNA": false,
@@ -29138,16 +29855,23 @@
       "Almiscar",
       "Notas Amadeiradas"
     ],
-    "fix": 6.0,
+    "fix": 6,
     "projI": 6.0,
     "projD": 4.0,
-    "qual": 10.0,
-    "cb": 9.0,
-    "simil": 6.0,
-    "vers": 8.0,
+    "qual": 9,
+    "cb": 9,
+    "simil": 9,
+    "vers": 8,
     "link": "https://www.thekingofparfums.com.br/produtos/paris-corner-vibrant-vetiver-delight/",
     "resumo": "Contratipo de Bal d'Afrique (Byredo) — o vetiver é a nota que mais se destaca, dando o toque terroso sobre os cítricos de abertura, sobre um acorde amadeirado predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/228.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/228.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "412",
+      "515",
+      "516"
+    ]
   },
   {
     "id": 515,
@@ -29159,13 +29883,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 7.0,
     "preco": null,
     "exp": "Sample First",
-    "nota": 8.65,
-    "score": 10,
+    "nota": 8.1,
+    "score": 9.15,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -29199,16 +29923,23 @@
       "Almiscar",
       "Madeiras"
     ],
-    "fix": 8.0,
+    "fix": 8,
     "projI": 8.0,
     "projD": 6.0,
-    "qual": 10.0,
-    "cb": 7.0,
-    "simil": 9.0,
-    "vers": 8.0,
+    "qual": 9,
+    "cb": 7,
+    "simil": 8,
+    "vers": 8,
     "link": "https://www.alexandriauk.com/products/africano-1",
     "resumo": "Contratipo de Bal d'Afrique (Byredo) — o neroli é a nota que mais se destaca, dando o toque floral-cítrico sobre o vetiver de fundo, sobre um acorde de vetiver predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/228.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/228.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "412",
+      "514",
+      "516"
+    ]
   },
   {
     "id": 516,
@@ -29222,7 +29953,7 @@
     "origem": "Nacional",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 7.0,
+    "compat": 7,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 8.6,
@@ -29232,7 +29963,7 @@
     "melhorNac": true,
     "melhorAr": false,
     "sdt": 9.2,
-    "gpf": 6.0,
+    "gpf": 6,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -29261,16 +29992,23 @@
       "Vetiver",
       "Cedro"
     ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 10.0,
-    "cb": 9.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 10,
+    "cb": 9,
+    "simil": 8,
+    "vers": 8,
     "link": "https://www.jaessencedelavie.com.br",
-    "resumo": "Contratipo de Bal d'Afrique (Byredo) — o marigold é a nota que mais se destaca, dando o toque floral incomum sobre a bergamota de abertura, sobre um acorde de vetiver predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/228.jpg"
+    "resumo": "Contratipo nacional Tier A do Bal d'Afrique EDP original (2009). Abertura citrica floral com bergamota e marigold; coracao floral suave com cyclamen e violeta atalcada; fundo amadeirado limpo com vetiver e cedro. Perfil limpo, confortavel e sofisticado. Excelente custo-beneficio. Marca nacional de alta qualidade.",
+    "prioridade": true,
+    "fotoInspiracao": "fotos/228.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "412",
+      "514",
+      "515"
+    ]
   },
   {
     "id": 517,
@@ -29281,13 +30019,13 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
-    "compat": 6.0,
+    "compat": 6,
     "preco": null,
     "exp": "Sample First",
-    "nota": 7.4,
-    "score": 9.13,
+    "nota": 6.75,
+    "score": 7.5,
     "rankDNA": 4,
     "flagDNA": false,
     "melhorNac": false,
@@ -29324,16 +30062,24 @@
       "Baunilha",
       "Tonka"
     ],
-    "fix": 8.0,
-    "projI": 8.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 8.0,
-    "simil": 8.0,
-    "vers": 4.0,
+    "fix": 4,
+    "projI": 8,
+    "projD": 6,
+    "qual": 8,
+    "cb": 8,
+    "simil": 7,
+    "vers": 4,
     "link": "https://www.mercadolivre.com.br/perfume-fierte-luna-french-avenue/p/MLB63889715",
     "resumo": "Contratipo de Naxos (Xerjoff) — o mel é a nota que mais se destaca, dando a doçura densa sobre o tabaco de fundo, sobre um acorde de tabaco predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
-    "fotoInspiracao": "fotos/19_insp.jpg"
+    "prioridade": true,
+    "fotoInspiracao": "fotos/19_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "19",
+      "77",
+      "85",
+      "660"
+    ]
   },
   {
     "id": 518,
@@ -29832,6 +30578,16 @@
     "vers": 6.0,
     "link": "https://www.mercadolivre.com.br/orientica-royal-bleu-edp-80ml/p/MLB20944662",
     "resumo": "Contratipo de Layton (Parfums de Marly) — a maçã verde é a nota que mais se destaca, dando o frescor frutado sobre o cardamomo de abertura, sobre um acorde de cardamomo predominante. Melhor em clima frio a ameno, para social/noite.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "181",
+      "183",
+      "279",
+      "145",
+      "328",
+      "626"
+    ],
     "fotoInspiracao": "fotos/145_insp.jpg"
   },
   {
@@ -31564,8 +32320,8 @@
     "origem": "Designer",
     "status": "Curiosidade",
     "veredito": "",
-    "compat": 5.0,
-    "preco": 2400.0,
+    "compat": 5,
+    "preco": 2400,
     "exp": "Sample First",
     "nota": 6.8,
     "score": 7.4,
@@ -31604,15 +32360,16 @@
       "Couro",
       "Almiscar"
     ],
-    "fix": 8.0,
-    "projI": 8.0,
-    "projD": 6.0,
-    "qual": 10.0,
-    "cb": 2.0,
-    "simil": 8.0,
-    "vers": 4.0,
+    "fix": 8,
+    "projI": 8,
+    "projD": 6,
+    "qual": 10,
+    "cb": 2,
+    "simil": 8,
+    "vers": 4,
     "link": "https://www.ysl.com/pt-br/pr/perfume-babycat-A000KEYCLXX1000.html",
     "resumo": "Original designer — o açafrão é a nota que mais se destaca, dando o calor especiado sobre as pimentas de abertura, sobre um acorde de couro predominante. Melhor em clima frio a ameno, para social/noite.",
+    "prioridade": true,
     "fotoInspiracao": null
   },
   {
@@ -33019,7 +33776,13 @@
     "vers": 8.0,
     "link": "https://www.sephora.com.br/perfume-ysl-myslf-labsolu-eau-de-parfum-100ml/p/586125",
     "resumo": "Original designer (2023), flanker intensificado da linha MYSLF — o cardamomo é a nota que mais se destaca, dando o calor especiado sobre a flor de laranjeira de abertura, sobre um acorde de flor de laranjeira predominante. Melhor em clima ameno, para trabalho ou social/noite.",
-    "fotoInspiracao": null
+    "fotoInspiracao": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "156",
+      "635",
+      "806"
+    ]
   },
   {
     "id": 578,
@@ -33359,7 +34122,7 @@
     "origem": "Árabe",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 8.0,
+    "compat": 8,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 8.35,
@@ -33395,16 +34158,24 @@
       "Rosa",
       "Sândalo"
     ],
-    "fix": 8.0,
-    "projI": 7.0,
-    "projD": 6.0,
-    "qual": 9.0,
-    "cb": 7.0,
-    "simil": 9.0,
-    "vers": 8.0,
+    "fix": 8,
+    "projI": 7,
+    "projD": 6,
+    "qual": 9,
+    "cb": 7,
+    "simil": 9,
+    "vers": 8,
     "link": "https://theduabrand.com/products/the-colony",
     "resumo": "Contratipo de Colonia (Acqua di Parma) — o alecrim é a nota que mais se destaca, dando o toque aromático sobre o limão siciliano de abertura, sobre um acorde de lavanda predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/588.jpg"
+    "prioridade": true,
+    "fotoInspiracao": "fotos/588.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "584",
+      "586",
+      "587",
+      "588"
+    ]
   },
   {
     "id": 584,
@@ -33416,13 +34187,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "",
     "compat": 6.0,
     "preco": null,
     "exp": "Sample First",
     "nota": 6.8,
-    "score": 7.4,
+    "score": 7.9,
     "rankDNA": 5,
     "flagDNA": false,
     "melhorNac": false,
@@ -33462,12 +34233,20 @@
     "vers": 7.0,
     "link": "https://caperfume.com/products/colonia-club-fragrance",
     "resumo": "Contratipo de Colonia (Acqua di Parma) — o alecrim é a nota que mais se destaca, dando o toque aromático sobre o limão de abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/588.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/588.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "583",
+      "586",
+      "587",
+      "588"
+    ]
   },
   {
     "id": 585,
     "nome": "Essenza di Colonia (Acqua di Parma)",
-    "dna": "Colonia (Acqua di Parma)",
+    "dna": "Essenza di Colonia (Acqua di Parma)",
     "cat": "Luxury Clean Sofisticado",
     "ocasiao": [
       "Trabalho",
@@ -33477,11 +34256,11 @@
     ],
     "origem": "Nicho",
     "status": "Forte Interesse",
-    "veredito": "",
+    "veredito": "Corrigido: não é dupe do Colonia, é outro original da própria Acqua di Parma.",
     "compat": 9.0,
     "preco": null,
     "exp": "Blind Buy",
-    "nota": 8.55,
+    "nota": 8.07,
     "score": 10,
     "rankDNA": 1,
     "flagDNA": true,
@@ -33521,11 +34300,14 @@
     "projD": 6.0,
     "qual": 10.0,
     "cb": 5.0,
-    "simil": 10.0,
+    "simil": null,
     "vers": 9.0,
     "link": "https://www.acquadiparma.com/",
     "resumo": "Original de nicho — o petitgrain é a nota que mais se destaca, dando o toque verde-amargo sobre o neroli de abertura, sobre um acorde de vetiver predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/588.jpg"
+    "prioridade": null,
+    "fotoInspiracao": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": []
   },
   {
     "id": 586,
@@ -33584,7 +34366,15 @@
     "vers": 8.0,
     "link": "https://www.valentinoviegas.com.br/",
     "resumo": "Contratipo de Colonia (Acqua di Parma) — a rosa é a nota que mais se destaca, dando o toque floral incomum sobre o limão siciliano de abertura, sobre um acorde de lavanda predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/588.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/588.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "583",
+      "584",
+      "587",
+      "588"
+    ]
   },
   {
     "id": 587,
@@ -33596,13 +34386,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "",
     "compat": 6.0,
     "preco": null,
     "exp": "Sample First",
     "nota": 7.0,
-    "score": 6.97,
+    "score": 7.47,
     "rankDNA": 6,
     "flagDNA": false,
     "melhorNac": false,
@@ -33642,7 +34432,15 @@
     "vers": 7.0,
     "link": "https://sintaparis.com/",
     "resumo": "Contratipo de Colonia (Acqua di Parma) — o alecrim é a nota que mais se destaca, dando o toque aromático sobre o limão de abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/588.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/588.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "583",
+      "584",
+      "586",
+      "588"
+    ]
   },
   {
     "id": 588,
@@ -33657,7 +34455,7 @@
     "origem": "Nicho",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 9.0,
+    "compat": 9,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 7.73,
@@ -33689,15 +34487,23 @@
       "Lavanda",
       "Alecrim"
     ],
-    "fix": 4.0,
-    "projI": 4.0,
-    "projD": 4.0,
-    "qual": 10.0,
-    "cb": 6.0,
+    "fix": 4,
+    "projI": 4,
+    "projD": 4,
+    "qual": 10,
+    "cb": 6,
     "simil": null,
-    "vers": 8.0,
+    "vers": 8,
     "link": "https://www.acquadiparma.com/",
-    "resumo": "Original de nicho, clássico de 1916 — o alecrim é a nota que mais se destaca, dando o toque aromático-limpo sobre o limão siciliano de abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Original de nicho, clássico de 1916 — o alecrim é a nota que mais se destaca, dando o toque aromático-limpo sobre o limão siciliano de abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "prioridade": true,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "583",
+      "584",
+      "586",
+      "587"
+    ]
   },
   {
     "id": 589,
@@ -33774,9 +34580,9 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Em Avaliação",
     "veredito": "",
-    "compat": 10.0,
+    "compat": 10,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 9.55,
@@ -33816,15 +34622,16 @@
       "Akigalawood",
       "Almíscar"
     ],
-    "fix": 8.0,
-    "projI": 6.0,
-    "projD": 6.0,
-    "qual": 10.0,
-    "cb": 10.0,
-    "simil": 9.0,
-    "vers": 10.0,
+    "fix": 8,
+    "projI": 6,
+    "projD": 6,
+    "qual": 10,
+    "cb": 10,
+    "simil": 9,
+    "vers": 10,
     "link": null,
-    "resumo": "Contratipo de Blue Talisman (Ex Nihilo) — a pera é a nota que mais se destaca, dando o toque frutado-moderno sobre o akigalawood de fundo, sobre um acorde de akigalawood predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
+    "resumo": "Ápice da limpeza luxuosa tecnológica. Pera, gengibre e moléculas amadeiradas vibrantes (Akigalawood, Georgywood). Transmite exclusividade, asseio e modernidade. Perfeito para o perfil executivo. Essencial para a coleção.",
+    "prioridade": null,
     "fotoInspiracao": "fotos/172_insp.jpg"
   },
   {
@@ -33893,13 +34700,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Em Avaliação",
+    "status": "Interesse",
     "veredito": "",
     "compat": 8.0,
     "preco": null,
     "exp": "Sample First",
     "nota": 7.45,
-    "score": 7.87,
+    "score": 8.88,
     "rankDNA": 9,
     "flagDNA": false,
     "melhorNac": false,
@@ -33933,16 +34740,28 @@
       "Almíscar Branco",
       "Cedro"
     ],
-    "fix": 6.0,
+    "fix": 6,
     "projI": 6.0,
     "projD": 6.0,
-    "qual": 7.0,
-    "cb": 9.0,
-    "simil": 7.0,
-    "vers": 8.0,
+    "qual": 7,
+    "cb": 9,
+    "simil": 7,
+    "vers": 8,
     "link": null,
     "resumo": "Contratipo de Afternoon Swim (Louis Vuitton) — o neroli é a nota que mais se destaca, dando o toque floral sobre a bergamota e mandarina, sobre um acorde marinho predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/132_insp.jpg"
+    "fotoInspiracao": "fotos/132_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "8",
+      "132",
+      "137",
+      "204",
+      "376",
+      "451",
+      "489",
+      "650",
+      "680"
+    ]
   },
   {
     "id": 593,
@@ -34470,13 +35289,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Em Avaliação",
+    "status": "Interesse",
     "veredito": "",
     "compat": 7.0,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 7.6,
-    "score": 6.83,
+    "score": 7.83,
     "rankDNA": 4,
     "flagDNA": false,
     "melhorNac": false,
@@ -34520,7 +35339,14 @@
     "vers": 8.0,
     "link": null,
     "resumo": "Contratipo de Himalaya (Creed) — o sândalo é a nota que mais se destaca, dando o corpo amadeirado sobre a bergamota e toranja, sobre um acorde amadeirado predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/86_insp.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/86_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "86",
+      "300",
+      "360"
+    ]
   },
   {
     "id": 602,
@@ -34783,13 +35609,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Em Avaliação",
+    "status": "Interesse",
     "veredito": "",
     "compat": 8.0,
     "preco": null,
     "exp": "Sample First",
     "nota": 7.8,
-    "score": 8.35,
+    "score": 9.35,
     "rankDNA": 7,
     "flagDNA": false,
     "melhorNac": false,
@@ -34838,7 +35664,19 @@
     "vers": 8.0,
     "link": null,
     "resumo": "Contratipo de Hacivat (Nishane) — o abacaxi domina a abertura frutada antes de assentar no musgo de carvalho do fundo, sobre um acorde de musgo predominante. Melhor em clima ameno, para trabalho ou social/noite.",
-    "fotoInspiracao": "fotos/11_insp.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/11_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "11",
+      "12",
+      "13",
+      "225",
+      "246",
+      "265",
+      "340",
+      "741"
+    ]
   },
   {
     "id": 607,
@@ -35541,13 +36379,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 7.0,
     "preco": null,
     "exp": "Blind Buy",
-    "nota": 7.25,
-    "score": 9.5,
+    "nota": 6.12,
+    "score": 8.01,
     "rankDNA": 4,
     "flagDNA": false,
     "melhorNac": false,
@@ -35583,16 +36421,26 @@
       "Figo",
       "Tâmaras"
     ],
-    "fix": 6.0,
+    "fix": 6,
     "projI": 5.0,
     "projD": 4.0,
-    "qual": 7.0,
-    "cb": 8.0,
-    "simil": 7.0,
-    "vers": 8.0,
+    "qual": 5.5,
+    "cb": 8,
+    "simil": 5.5,
+    "vers": 6,
     "link": null,
     "resumo": "Contratipo de Pacific Chill (Louis Vuitton) — as tâmaras são a nota que mais se destaca, dando o toque adocicado incomum sobre o citron de abertura, sobre um acorde de figo predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/139_insp.jpg"
+    "fotoInspiracao": "fotos/139_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "14",
+      "15",
+      "26",
+      "139",
+      "341",
+      "482",
+      "781"
+    ]
   },
   {
     "id": 619,
@@ -35604,13 +36452,13 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Em Avaliação",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 5,
     "preco": null,
     "exp": "Sample First",
     "nota": 7.1,
-    "score": 7.1,
+    "score": 9.1,
     "rankDNA": 4,
     "flagDNA": false,
     "melhorNac": true,
@@ -35656,7 +36504,14 @@
     "vers": 5,
     "link": null,
     "resumo": "Contratipo de Ombre Nomade (Louis Vuitton) — a framboesa é a nota que mais se destaca, dando o contraste frutado sobre o oud e incenso, sobre um acorde de oud predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
-    "fotoInspiracao": "fotos/191_insp.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/191_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "191",
+      "393",
+      "458"
+    ]
   },
   {
     "id": 620,
@@ -35668,13 +36523,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
-    "compat": 9.0,
+    "compat": 9,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 7.35,
-    "score": 9.71,
+    "score": 8.71,
     "rankDNA": 5,
     "flagDNA": false,
     "melhorNac": false,
@@ -35710,16 +36565,27 @@
       "Ambrofix",
       "Patchouli"
     ],
-    "fix": 7.0,
-    "projI": 5.0,
-    "projD": 4.0,
-    "qual": 7.0,
-    "cb": 8.0,
-    "simil": 7.0,
-    "vers": 8.0,
+    "fix": 7,
+    "projI": 5,
+    "projD": 4,
+    "qual": 7,
+    "cb": 8,
+    "simil": 7,
+    "vers": 8,
     "link": null,
     "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — o ambrofix é a nota que mais se destaca, dando profundidade almiscarada à flor de laranjeira de abertura, sobre um acorde de flor de laranjeira predominante. Melhor em clima ameno, para trabalho ou social/noite.",
-    "fotoInspiracao": "fotos/242_insp.jpg"
+    "prioridade": true,
+    "fotoInspiracao": "fotos/242_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "140",
+      "227",
+      "242",
+      "351",
+      "456",
+      "690",
+      "809"
+    ]
   },
   {
     "id": 621,
@@ -35860,13 +36726,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 8.0,
     "preco": null,
     "exp": "Blind Buy",
-    "nota": 7.55,
-    "score": 8.71,
+    "nota": 7.7,
+    "score": 9.76,
     "rankDNA": 4,
     "flagDNA": false,
     "melhorNac": true,
@@ -35904,15 +36770,24 @@
       "Lavanda",
       "Almíscar"
     ],
-    "fix": 6.0,
+    "fix": 6,
     "projI": 5.0,
     "projD": 4.0,
-    "qual": 7.0,
-    "cb": 9.0,
-    "simil": 8.0,
-    "vers": 7.0,
+    "qual": 7.5,
+    "cb": 9,
+    "simil": 8,
+    "vers": 7,
     "link": null,
     "resumo": "Contratipo de Torino 21 (Xerjoff) — a groselha é a nota que mais se destaca, dando o contraste frutado-ácido sobre a hortelã de abertura, sobre um acorde de hortelã predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "10",
+      "699",
+      "82",
+      "707",
+      "737"
+    ],
     "fotoInspiracao": "fotos/75.jpg"
   },
   {
@@ -36049,13 +36924,13 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "",
     "compat": 7.0,
     "preco": null,
     "exp": "Sample First",
     "nota": 7.4,
-    "score": 8.14,
+    "score": 8.64,
     "rankDNA": 7,
     "flagDNA": false,
     "melhorNac": false,
@@ -36103,6 +36978,16 @@
     "vers": 7.0,
     "link": null,
     "resumo": "Contratipo de Layton (Parfums de Marly) — a violeta é a nota que mais se destaca, dando o toque atalcado sobre a maçã de abertura, sobre um acorde de baunilha predominante. Melhor em clima frio a ameno, para social/noite.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "181",
+      "183",
+      "279",
+      "145",
+      "328",
+      "525"
+    ],
     "fotoInspiracao": "fotos/145_insp.jpg"
   },
   {
@@ -36629,7 +37514,7 @@
     "origem": "Nacional",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 9.0,
+    "compat": 9,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 7.8,
@@ -36671,16 +37556,23 @@
       "Flor de Laranjeira",
       "Patchouli"
     ],
-    "fix": 7.0,
-    "projI": 6.0,
-    "projD": 5.0,
-    "qual": 7.0,
-    "cb": 9.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7,
+    "cb": 9,
+    "simil": 8,
+    "vers": 8,
     "link": null,
-    "resumo": "Contratipo de MYSLF L'Absolu (Yves Saint Laurent - YSL) — o gengibre é a nota que mais se destaca, dando o calor especiado à flor de laranjeira de abertura, sobre um acorde de patchouli predominante. Melhor em clima ameno, para trabalho ou social/noite.",
-    "fotoInspiracao": "fotos/577.jpg"
+    "resumo": "Fresh amadeirado floral intensificado. Versão mais encorpada do MYSLF. Gengibre e cardamomo picantes. Perfil executivo moderno. Altamente alinhado ao gosto.",
+    "prioridade": true,
+    "fotoInspiracao": "fotos/577.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "156",
+      "577",
+      "806"
+    ]
   },
   {
     "id": 636,
@@ -37582,13 +38474,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "",
     "compat": 9.0,
     "preco": null,
     "exp": "Blind Buy",
-    "nota": 7.6,
-    "score": 8.61,
+    "nota": 8.18,
+    "score": 9.36,
     "rankDNA": 7,
     "flagDNA": false,
     "melhorNac": false,
@@ -37624,16 +38516,28 @@
       "Flor de Laranjeira",
       "Almíscar"
     ],
-    "fix": 6.0,
+    "fix": 6,
     "projI": 5.0,
     "projD": 4.0,
-    "qual": 7.0,
-    "cb": 8.0,
-    "simil": 9.0,
-    "vers": 7.0,
+    "qual": 8,
+    "cb": 8,
+    "simil": 9.5,
+    "vers": 8,
     "link": null,
     "resumo": "Contratipo de Afternoon Swim (Louis Vuitton) — o petitgrain é a nota que mais se destaca, dando o toque verde-cítrico sobre a bergamota de abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/132_insp.jpg"
+    "fotoInspiracao": "fotos/132_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "8",
+      "132",
+      "137",
+      "204",
+      "376",
+      "451",
+      "489",
+      "592",
+      "680"
+    ]
   },
   {
     "id": 651,
@@ -38222,8 +39126,8 @@
     "compat": 7.0,
     "preco": null,
     "exp": "Sample First",
-    "nota": 7.3,
-    "score": 9.57,
+    "nota": 7.7,
+    "score": 9.81,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
@@ -38261,16 +39165,24 @@
       "Fava Tonka",
       "Jasmim"
     ],
-    "fix": 8.0,
+    "fix": 9,
     "projI": 8.0,
     "projD": 6.0,
-    "qual": 8.0,
-    "cb": 6.0,
-    "simil": 8.0,
-    "vers": 6.0,
+    "qual": 8.5,
+    "cb": 8,
+    "simil": 7,
+    "vers": 6,
     "link": "https://www.fragrantica.com/perfume/MAISON-ASRAR/Muharib-115636.html",
     "resumo": "Contratipo de Naxos (Xerjoff) — o mel é a nota que mais se destaca, dando a doçura densa sobre o tabaco de fundo, sobre um acorde de tabaco predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
-    "fotoInspiracao": "fotos/77.jpg"
+    "prioridade": null,
+    "fotoInspiracao": "fotos/77.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "19",
+      "77",
+      "85",
+      "517"
+    ]
   },
   {
     "id": 661,
@@ -38599,11 +39511,11 @@
     "origem": "Árabe",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 8.0,
-    "preco": 200.0,
+    "compat": 8,
+    "preco": 200,
     "exp": "Blind Buy",
-    "nota": 7.8,
-    "score": 9.34,
+    "nota": 8.45,
+    "score": 9.81,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
@@ -38638,16 +39550,23 @@
       "Almíscar",
       "Baunilha"
     ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 8.0,
-    "cb": 8.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "fix": 8.5,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8.5,
+    "cb": 8,
+    "simil": 9,
+    "vers": 8,
     "link": "https://www.fragrantica.com/perfume/Arabiyat-Prestige/Aristo-107847.html",
     "resumo": "Contratipo de Ingenious Ginger (Goldfield & Banks) — o gengibre é a nota que mais se destaca, dando o calor especiado que dá nome ao original, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "fotoInspiracao": "fotos/401.jpg"
+    "prioridade": true,
+    "fotoInspiracao": "fotos/401.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "208",
+      "401",
+      "454"
+    ]
   },
   {
     "id": 667,
@@ -38767,7 +39686,18 @@
     "vers": 4.0,
     "link": "https://www.fragrantica.com/perfume/Gulf-Orchid/Exotic-Oud-103447.html",
     "resumo": "Contratipo de Oud Maracujá (Maison Crivelli) — o café é a nota que mais se destaca, dando o toque torrado sobre o maracujá de abertura, sobre um acorde de café predominante. Melhor em clima frio a ameno, para social/noite.",
-    "fotoInspiracao": "fotos/87_insp.jpg"
+    "fotoInspiracao": "fotos/87_insp.jpg",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "87",
+      "177",
+      "211",
+      "247",
+      "266",
+      "270",
+      "361",
+      "722"
+    ]
   },
   {
     "id": 669,
@@ -38960,13 +39890,13 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "",
     "compat": 7.0,
     "preco": 129.0,
     "exp": "Sample First",
     "nota": 7.8,
-    "score": 7.75,
+    "score": 8.25,
     "rankDNA": 5,
     "flagDNA": false,
     "melhorNac": false,
@@ -39011,6 +39941,16 @@
     "vers": 4.0,
     "link": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Althair-84670.html",
     "resumo": "Contratipo de Althaïr (Parfums de Marly) — as amêndoas caramelizadas são a nota que mais se destaca, dando o toque gourmand sobre a canela e cardamomo, sobre um acorde gourmand predominante. Melhor em clima frio a ameno, para social/noite.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "122",
+      "495",
+      "2",
+      "128",
+      "490",
+      "790"
+    ],
     "fotoInspiracao": "fotos/122_insp.jpg"
   },
   {
@@ -39412,7 +40352,7 @@
     "origem": "Árabe",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 6.0,
+    "compat": 6,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 8.18,
@@ -39422,7 +40362,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 8.4,
-    "gpf": 2.0,
+    "gpf": 2,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -39451,14 +40391,21 @@
       "Vetiver"
     ],
     "fix": 6.5,
-    "projI": 7.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 9.0,
+    "projI": 7,
+    "projD": 6,
+    "qual": 8,
+    "cb": 9,
     "simil": 8.5,
-    "vers": 8.0,
+    "vers": 8,
     "link": "https://www.fragrantica.com/perfume/Khadlaj-Perfumes/Karus-Gold-Absolu-137097.html",
-    "resumo": "Contratipo de Bal d'Afrique Absolu (Byredo) — a amora-preta é a nota que mais se destaca, dando o contraste frutado-ácido sobre o pralinê de abertura, sobre um acorde de violeta predominante. Melhor em clima ameno a frio, para trabalho ou social/noite."
+    "resumo": "Contratipo de Bal d'Afrique Absolu (Byredo) — a amora-preta é a nota que mais se destaca, dando o contraste frutado-ácido sobre o pralinê de abertura, sobre um acorde de violeta predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
+    "prioridade": true,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "228",
+      "455",
+      "513"
+    ]
   },
   {
     "id": 680,
@@ -39471,13 +40418,13 @@
       "Assinatura"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 8.0,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 7.8,
-    "score": 9.91,
+    "score": 8.91,
     "rankDNA": 4,
     "flagDNA": false,
     "melhorNac": false,
@@ -39513,12 +40460,24 @@
     "fix": 6.5,
     "projI": 7.0,
     "projD": 6.0,
-    "qual": 8.0,
-    "cb": 8.0,
-    "simil": 9.0,
-    "vers": 6.0,
+    "qual": 8,
+    "cb": 8,
+    "simil": 9,
+    "vers": 6,
     "link": "https://www.fragrantica.com.br/perfume/MAISON-ASRAR/DXB-111148.html",
-    "resumo": "Contratipo de Afternoon Swim (Louis Vuitton) — o gengibre é a nota que mais se destaca, dando o toque picante à mandarina de abertura, sobre um acorde de almíscar predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Contratipo de Afternoon Swim (Louis Vuitton) — o gengibre é a nota que mais se destaca, dando o toque picante à mandarina de abertura, sobre um acorde de almíscar predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "8",
+      "132",
+      "137",
+      "204",
+      "376",
+      "451",
+      "489",
+      "592",
+      "650"
+    ]
   },
   {
     "id": 681,
@@ -40007,13 +40966,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Em Avaliação",
+    "status": "Interesse",
     "veredito": "",
     "compat": 8,
     "preco": 250,
     "exp": "Sample First",
     "nota": 7.7,
-    "score": 7.86,
+    "score": 8.86,
     "rankDNA": null,
     "flagDNA": null,
     "melhorNac": null,
@@ -40056,6 +41015,15 @@
     "vers": 8,
     "link": null,
     "resumo": "Contratipo de Torino 21 (Xerjoff) — a groselha preta é a nota que mais se destaca, dando o contraste frutado-ácido sobre a hortelã de abertura, sobre um acorde de hortelã predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "10",
+      "623",
+      "699",
+      "82",
+      "737"
+    ],
     "ind": 10.0,
     "dap": 10.0
   },
@@ -40963,7 +41931,19 @@
     "simil": 7,
     "vers": 4,
     "link": null,
-    "resumo": "Contratipo de Oud Maracujá (Maison Crivelli) — o maracujá é a nota que mais se destaca, dando o contraste tropical sobre o oud e couro, sobre um acorde amadeirado predominante. Melhor em clima ameno a frio, para social/noite."
+    "resumo": "Abre em Maracujá e Rosa Turca, coração em Açafrão, fundo de Baunilha. Fixação longa (7-10h), forte na abertura, recolhe com o tempo e fica mais próxima da pele. Capta o espírito do original sem ser cópia exata.",
+    "prioridade": true,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "87",
+      "177",
+      "211",
+      "247",
+      "266",
+      "270",
+      "361",
+      "668"
+    ]
   },
   {
     "id": 723,
@@ -41633,7 +42613,8 @@
     "simil": 6,
     "vers": 8,
     "link": null,
-    "resumo": "Contratipo de Buongiorno (Acqua di Parma) — o manjericão é a nota que mais se destaca, dando o frescor herbal sobre o limão de abertura, sobre um acorde aromático predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Começa com Limão e Alecrim, coração em Manjericão e fecha em Âmbar. Fixação consistente (5-7h), forte na abertura, recolhe com o tempo e fica mais próxima da pele. Capta o espírito do original sem ser cópia exata. Destaque pra Alecrim, pouco comum nesse tipo de composição.",
+    "prioridade": true
   },
   {
     "id": 734,
@@ -41767,13 +42748,13 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Em Avaliação",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 7,
     "preco": 300,
     "exp": "Blind Buy",
-    "nota": 7.45,
-    "score": 7.33,
+    "nota": 8.25,
+    "score": 9.66,
     "rankDNA": null,
     "flagDNA": null,
     "melhorNac": null,
@@ -41810,14 +42791,24 @@
     "fix": 8,
     "projI": 8,
     "projD": 7,
-    "qual": 8,
+    "qual": 8.5,
     "cb": 8,
-    "simil": 7,
-    "vers": 6,
+    "simil": 9,
+    "vers": 7,
     "link": null,
     "resumo": "Contratipo de Santal 33 (Le Labo) — a violeta é a nota que mais se destaca, dando o toque atalcado sobre o cardamomo de abertura, sobre um acorde atalcado predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
     "ind": 8.75,
-    "dap": 5.0
+    "dap": 5.0,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "23",
+      "346",
+      "464",
+      "497",
+      "739",
+      "740",
+      "761"
+    ]
   },
   {
     "id": 683,
@@ -42195,13 +43186,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Em Avaliação",
+    "status": "Interesse",
     "veredito": "",
     "compat": 8,
     "preco": 250,
     "exp": "Blind Buy",
     "nota": 7.45,
-    "score": 7.53,
+    "score": 8.53,
     "rankDNA": null,
     "flagDNA": null,
     "melhorNac": null,
@@ -42244,7 +43235,17 @@
     "link": null,
     "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — o gerânio é a nota que mais se destaca, dando o toque verde-floral sobre a bergamota de abertura, sobre um acorde aromático predominante. Melhor em clima ameno, para trabalho ou assinatura/casual.",
     "ind": 10.0,
-    "dap": 3.75
+    "dap": 3.75,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "140",
+      "227",
+      "242",
+      "351",
+      "456",
+      "620",
+      "809"
+    ]
   },
   {
     "id": 691,
@@ -42312,7 +43313,7 @@
   {
     "id": 692,
     "nome": "La Di Da For Him (Arabiyat Prestige)",
-    "dna": "MYSLF (Yves Saint Laurent - YSL)",
+    "dna": "MYSLF (Yves Saint Laurent - YSL) / Stronger With You (Giorgio Armani)",
     "cat": "Fresh Sofisticado",
     "ocasiao": [
       "Trabalho",
@@ -42320,19 +43321,19 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Em Avaliação",
-    "veredito": "",
+    "status": "Forte Interesse",
+    "veredito": "Corrigido de dupe puro de MYSLF para hibrido MYSLF/Stronger With You - confirmado pela propria loja.",
     "compat": 7,
     "preco": 250,
     "exp": "Blind Buy",
     "nota": 6.75,
-    "score": 6.66,
+    "score": 9.37,
     "rankDNA": null,
     "flagDNA": null,
     "melhorNac": null,
     "melhorAr": null,
-    "sdt": 6.0,
-    "gpf": 10,
+    "sdt": 8.83,
+    "gpf": 6.67,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -42350,15 +43351,18 @@
     ],
     "fam": "Fresh",
     "acordes": [
-      "Cítricos",
+      "Citrico",
       "Especiado",
-      "Almíscar"
+      "Ambarado",
+      "Baunilha"
     ],
     "notas": [
-      "Grapefruit",
+      "Toranja",
       "Bergamota",
-      "Gerânio",
-      "Tonka"
+      "Geranio",
+      "Fava Tonka",
+      "Pimenta Preta",
+      "Baunilha"
     ],
     "fix": 7,
     "projI": 7,
@@ -42368,7 +43372,8 @@
     "simil": 6,
     "vers": 7,
     "link": null,
-    "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — o gerânio é a nota que mais se destaca, dando o toque verde-floral sobre o grapefruit de abertura, sobre um acorde especiado predominante. Melhor em clima ameno, para trabalho ou assinatura/casual.",
+    "resumo": "Hibrido de MYSLF (YSL) / Stronger With You (Giorgio Armani) - confirmado explicitamente pela propria loja como inspiracao dupla. A fava tonka e a nota que mais se destaca no coracao, dando o toque quente-amanteigado sobre a pimenta preta. Melhor em clima ameno, para trabalho ou assinatura/casual.",
+    "prioridade": true,
     "ind": 10.0,
     "dap": 0.0
   },
@@ -42755,8 +43760,8 @@
     "compat": 7,
     "preco": 270,
     "exp": "Blind Buy",
-    "nota": 7.8,
-    "score": 8.75,
+    "nota": 7.85,
+    "score": 8.77,
     "rankDNA": null,
     "flagDNA": null,
     "melhorNac": null,
@@ -42796,10 +43801,19 @@
     "projD": 6,
     "qual": 8,
     "cb": 8,
-    "simil": null,
+    "simil": 8,
     "vers": 7,
     "link": null,
-    "resumo": "Contratipo de Torino 21 (Xerjoff) — o manjericão é a nota que mais se destaca, dando o frescor herbal sobre o limão e hortelã, sobre um acorde aromático predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Contratipo de Torino 21 (Xerjoff) — o manjericão é a nota que mais se destaca, dando o frescor herbal sobre o limão e hortelã, sobre um acorde aromático predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "10",
+      "623",
+      "82",
+      "707",
+      "737"
+    ]
   },
   {
     "id": 736,
@@ -42878,7 +43892,7 @@
     "preco": 240,
     "exp": "Sample First",
     "nota": 6.75,
-    "score": 7.5,
+    "score": 8.0,
     "rankDNA": null,
     "flagDNA": null,
     "melhorNac": null,
@@ -42920,6 +43934,15 @@
     "vers": 6,
     "link": null,
     "resumo": "Contratipo de Torino 21 (Xerjoff) — as notas aquáticas são o destaque, dando o frescor mineral sobre o limão de abertura, sobre um acorde aquático predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "10",
+      "623",
+      "699",
+      "82",
+      "707"
+    ],
     "ind": 7.5,
     "dap": 10
   },
@@ -43001,8 +44024,8 @@
     "compat": 7,
     "preco": 170,
     "exp": "Sample First",
-    "nota": 7.4,
-    "score": 7.55,
+    "nota": 8.0,
+    "score": 9.26,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -43041,12 +44064,23 @@
     "fix": 7,
     "projI": 6,
     "projD": 5,
-    "qual": 7,
-    "cb": 9,
-    "simil": 7,
+    "qual": 7.5,
+    "cb": 10,
+    "simil": 8,
     "vers": 7,
     "link": null,
-    "resumo": "Contratipo de Santal 33 (Le Labo) — a íris é a nota que mais se destaca, dando o toque atalcado sobre o sândalo e couro de fundo, sobre um acorde atalcado predominante. Melhor em clima ameno a frio, para trabalho, social/noite ou assinatura/casual."
+    "resumo": "Contratipo de Santal 33 (Le Labo) — a íris é a nota que mais se destaca, dando o toque atalcado sobre o sândalo e couro de fundo, sobre um acorde atalcado predominante. Melhor em clima ameno a frio, para trabalho, social/noite ou assinatura/casual.",
+    "prioridade": true,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "23",
+      "346",
+      "464",
+      "497",
+      "682",
+      "740",
+      "761"
+    ]
   },
   {
     "id": 740,
@@ -43064,7 +44098,7 @@
     "preco": 230,
     "exp": "Sample First",
     "nota": 6.2,
-    "score": 7.25,
+    "score": 7.75,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -43108,7 +44142,17 @@
     "simil": 4,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo de Santal 33 (Le Labo) — o pêssego é a nota que mais se destaca, dando o toque frutado incomum sobre o neroli de abertura, sobre um acorde floral predominante. Melhor em clima ameno a frio, para social/noite ou assinatura/casual."
+    "resumo": "Contratipo de Santal 33 (Le Labo) — o pêssego é a nota que mais se destaca, dando o toque frutado incomum sobre o neroli de abertura, sobre um acorde floral predominante. Melhor em clima ameno a frio, para social/noite ou assinatura/casual.",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "23",
+      "346",
+      "464",
+      "497",
+      "682",
+      "739",
+      "761"
+    ]
   },
   {
     "id": 741,
@@ -43126,7 +44170,7 @@
     "preco": 200,
     "exp": "Sample First",
     "nota": 8.05,
-    "score": 8.2,
+    "score": 8.7,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -43168,7 +44212,19 @@
     "simil": 9,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo de Hacivat (Nishane) — o abacaxi domina a abertura frutada antes de assentar no musgo de carvalho do fundo, sobre um acorde chypre predominante. Melhor em clima ameno, para trabalho ou social/noite."
+    "resumo": "Contratipo de Hacivat (Nishane) — o abacaxi domina a abertura frutada antes de assentar no musgo de carvalho do fundo, sobre um acorde chypre predominante. Melhor em clima ameno, para trabalho ou social/noite.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "11",
+      "12",
+      "13",
+      "225",
+      "246",
+      "265",
+      "340",
+      "606"
+    ]
   },
   {
     "id": 742,
@@ -43479,13 +44535,13 @@
       "Trabalho"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "Contratipo sólido do The One, validação de comunidade limitada.",
     "compat": 6,
     "preco": 180,
     "exp": "Sample First",
-    "nota": 7.33,
-    "score": 7.71,
+    "nota": 7.5,
+    "score": 8.27,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -43526,10 +44582,17 @@
     "projD": 5,
     "qual": 7,
     "cb": 9,
-    "simil": null,
+    "simil": 8,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo de The One for Men (Dolce & Gabbana) — o cardamomo é a nota que mais se destaca, dando o calor especiado sobre o âmbar e tabaco de fundo, sobre um acorde ambarado predominante. Melhor em clima ameno a frio, para trabalho ou social/noite."
+    "resumo": "Contratipo de The One for Men (Dolce & Gabbana) — o cardamomo é a nota que mais se destaca, dando o calor especiado sobre o âmbar e tabaco de fundo, sobre um acorde ambarado predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
+    "prioridade": true,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "51",
+      "83",
+      "748"
+    ]
   },
   {
     "id": 748,
@@ -43547,7 +44610,7 @@
     "preco": 180,
     "exp": "Sample First",
     "nota": 7.95,
-    "score": 8.02,
+    "score": 9.52,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -43591,7 +44654,14 @@
     "simil": 9,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo de The One for Men (Dolce & Gabbana) — o coentro é a nota que mais se destaca, dando o toque verde-especiado à abertura cítrica, sobre um acorde oriental predominante. Melhor em clima ameno a frio, para trabalho ou social/noite."
+    "resumo": "Contratipo de The One for Men (Dolce & Gabbana) — o coentro é a nota que mais se destaca, dando o toque verde-especiado à abertura cítrica, sobre um acorde oriental predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "51",
+      "83",
+      "747"
+    ]
   },
   {
     "id": 749,
@@ -44323,8 +45393,8 @@
     "compat": 7,
     "preco": 150,
     "exp": "Sample First",
-    "nota": 6.9,
-    "score": 7.26,
+    "nota": 6.75,
+    "score": 8.71,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -44359,12 +45429,22 @@
     "fix": 6,
     "projI": 6,
     "projD": 4,
-    "qual": 7,
+    "qual": 6.5,
     "cb": 9,
     "simil": 6,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo de Santal 33 (Le Labo) — a camurça é a nota que mais se destaca, dando a textura macia sobre o sândalo de fundo, sobre um acorde amadeirado predominante. Melhor em clima ameno, para trabalho, social/noite ou assinatura/casual."
+    "resumo": "Contratipo de Santal 33 (Le Labo) — a camurça é a nota que mais se destaca, dando a textura macia sobre o sândalo de fundo, sobre um acorde amadeirado predominante. Melhor em clima ameno, para trabalho, social/noite ou assinatura/casual.",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "23",
+      "346",
+      "464",
+      "497",
+      "682",
+      "739",
+      "740"
+    ]
   },
   {
     "id": 762,
@@ -45523,8 +46603,8 @@
     "compat": 7,
     "preco": 60,
     "exp": "Blind Buy",
-    "nota": 7.5,
-    "score": 7.97,
+    "nota": 8.15,
+    "score": 9.79,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -45560,15 +46640,25 @@
       "Manjericão",
       "Cedro"
     ],
-    "fix": 6,
+    "fix": 7,
     "projI": 6,
     "projD": 4,
-    "qual": 7,
+    "qual": 8,
     "cb": 10,
-    "simil": 7,
+    "simil": 8,
     "vers": 7,
     "link": null,
-    "resumo": "Contratipo de Pacific Chill (Louis Vuitton) — a groselha preta é a nota que mais se destaca, dando o contraste frutado-ácido sobre a laranja de abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Contratipo de Pacific Chill (Louis Vuitton) — a groselha preta é a nota que mais se destaca, dando o contraste frutado-ácido sobre a laranja de abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "14",
+      "15",
+      "26",
+      "139",
+      "341",
+      "482",
+      "618"
+    ]
   },
   {
     "id": 782,
@@ -46110,7 +47200,17 @@
     "simil": 6,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo de Althaïr (Parfums de Marly) — o praliné é a nota que mais se destaca, dando o toque gourmand sobre a canela de abertura, sobre um acorde gourmand predominante. Melhor em clima ameno a frio, para social/noite."
+    "resumo": "Contratipo de Althaïr (Parfums de Marly) — o praliné é a nota que mais se destaca, dando o toque gourmand sobre a canela de abertura, sobre um acorde gourmand predominante. Melhor em clima ameno a frio, para social/noite.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "122",
+      "495",
+      "2",
+      "128",
+      "490",
+      "672"
+    ]
   },
   {
     "id": 791,
@@ -47029,8 +48129,8 @@
     "compat": 6,
     "preco": 180,
     "exp": "Sample First",
-    "nota": 7.4,
-    "score": 7.34,
+    "nota": 8.35,
+    "score": 9.72,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -47068,12 +48168,19 @@
     "fix": 7,
     "projI": 6,
     "projD": 5,
-    "qual": 7.5,
+    "qual": 8.5,
     "cb": 9,
-    "simil": 7,
-    "vers": 6,
+    "simil": 9,
+    "vers": 7,
     "link": null,
-    "resumo": "Contratipo de MYSLF L'Absolu (Yves Saint Laurent - YSL) — a groselha preta é a nota que mais se destaca, dando o contraste frutado-ácido sobre o gengibre de abertura, sobre um acorde floral predominante. Melhor em clima ameno a frio, para trabalho ou social/noite."
+    "resumo": "Contratipo de MYSLF L'Absolu (Yves Saint Laurent - YSL) — a groselha preta é a nota que mais se destaca, dando o contraste frutado-ácido sobre o gengibre de abertura, sobre um acorde floral predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "156",
+      "577",
+      "635"
+    ]
   },
   {
     "id": 807,
@@ -47207,13 +48314,13 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "Contratipo popular do MYSLF, com reviews divididas sobre qualidade final.",
     "compat": 6,
     "preco": 130,
     "exp": "Sample First",
     "nota": 6.95,
-    "score": 7.01,
+    "score": 8.01,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -47254,7 +48361,17 @@
     "simil": 7,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — a bergamota calabresa é a nota que mais se destaca, dando o frescor cítrico sobre a flor de laranjeira de coração, sobre um acorde floral predominante. Melhor em clima ameno, para trabalho ou assinatura/casual."
+    "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — a bergamota calabresa é a nota que mais se destaca, dando o frescor cítrico sobre a flor de laranjeira de coração, sobre um acorde floral predominante. Melhor em clima ameno, para trabalho ou assinatura/casual.",
+    "calibradoEm": "2026-08-05",
+    "calibradoContra": [
+      "140",
+      "227",
+      "242",
+      "351",
+      "456",
+      "620",
+      "690"
+    ]
   },
   {
     "id": 810,
@@ -47448,7 +48565,7 @@
       "Social/Noite"
     ],
     "origem": "Designer",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Fougère amadeirado moderno, moderadamente alinhado ao gosto do usuário.",
     "compat": 5,
     "preco": 550,
@@ -47459,8 +48576,8 @@
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": 9.0,
-    "gpf": 5.0,
+    "sdt": 9,
+    "gpf": 5,
     "conc": "EDP",
     "clima": [
       "Frio",
@@ -47497,7 +48614,8 @@
     "simil": null,
     "vers": 6,
     "link": null,
-    "resumo": "Original 2025 da linha Ralph's Club. Fougère amadeirado-ambarado; reviews comparam a Pur-Sang, Coach Platinum e Armani Code. Groselha preta é polarizadora entre reviewers."
+    "resumo": "Original 2025 da linha Ralph's Club. Fougère amadeirado-ambarado; reviews comparam a Pur-Sang, Coach Platinum e Armani Code. Groselha preta é polarizadora entre reviewers.",
+    "prioridade": false
   },
   {
     "id": 814,
