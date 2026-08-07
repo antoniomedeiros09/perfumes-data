@@ -23521,19 +23521,19 @@
       "Evento Formal"
     ],
     "origem": "Nicho",
-    "status": "Em Avaliação",
-    "veredito": "",
-    "compat": 10.0,
-    "preco": 2400.0,
+    "status": "Curiosidade",
+    "veredito": "Floral aldeídico-almiscarado feminino refinado, fora do eixo pessoal do usuário.",
+    "compat": 3,
+    "preco": 1300,
     "exp": "Sample First",
-    "nota": 8.5,
-    "score": 9.11,
+    "nota": 6.67,
+    "score": 6.75,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": 8.93,
-    "gpf": 4.67,
+    "sdt": 8.87,
+    "gpf": 4.33,
     "conc": "EDP",
     "clima": [
       "Versátil"
@@ -23546,26 +23546,28 @@
     ],
     "fam": "Luxury Clean",
     "acordes": [
-      "Almíscarado",
       "Aldeídico",
-      "Frutado"
+      "Floral",
+      "Almiscarado",
+      "Amadeirado"
     ],
     "notas": [
       "Aldeídos",
       "Pêssego Branco",
-      "Almíscar"
+      "Bergamota",
+      "Flor de Laranjeira",
+      "Vetiver",
+      "Ambroxan"
     ],
-    "fix": 10.0,
-    "projI": 8.0,
-    "projD": 8.0,
-    "qual": 10.0,
-    "cb": 4.0,
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 8.5,
+    "cb": 5,
     "simil": 10.0,
-    "vers": 8.0,
+    "vers": 5,
     "link": null,
-    "resumo": "Original de nicho, feminino — os aldeídos são a nota que mais se destaca, dando o efeito \"sabonete\" sobre o pêssego branco de abertura, sobre um acorde frutado predominante. Melhor em clima ameno, para social/noite ou assinatura/casual.",
-    "fotoPerfume": "fotos/210_insp.jpg",
-    "fotoInspiracao": null
+    "resumo": "Original de nicho (2023), feminino floral-aldeídico-almiscarado — aldeídos e pêssego branco abrem sobre flor de laranjeira e vetiver, fundo de âmbar/musk (ambroxan, akigalawood). Reviewers comparam a Pure Musc (Narciso Rodriguez) e ao descontinuado White Suede (Tom Ford). Melhor em clima ameno, para social/noite ou assinatura/casual."
   },
   {
     "id": 403,
@@ -49597,66 +49599,6 @@
   },
   {
     "id": 816,
-    "nome": "Valaya (Parfums de Marly)",
-    "dna": "Valaya (Parfums de Marly)",
-    "cat": "Fresh Sofisticado",
-    "ocasiao": [
-      "Social/Noite",
-      "Assinatura/Casual"
-    ],
-    "origem": "Nicho",
-    "status": "Curiosidade",
-    "veredito": "Floral almiscarado feminino refinado, fora do eixo pessoal do usuário.",
-    "compat": 3,
-    "preco": 1300,
-    "exp": "Sample First",
-    "nota": 6.67,
-    "score": 6.75,
-    "rankDNA": null,
-    "flagDNA": false,
-    "melhorNac": false,
-    "melhorAr": false,
-    "sdt": 8.87,
-    "gpf": 4.33,
-    "conc": "EDP",
-    "clima": [
-      "Ameno"
-    ],
-    "periodo": [
-      "Versátil"
-    ],
-    "perfil": [
-      "Floral",
-      "Frutado",
-      "Almiscarado"
-    ],
-    "fam": "Fresh",
-    "acordes": [
-      "Floral",
-      "Frutado",
-      "Amadeirado",
-      "Almíscar"
-    ],
-    "notas": [
-      "Bergamota",
-      "Pêssego Branco",
-      "Mandarina",
-      "Flor de Laranjeira",
-      "Lírio-do-Vale",
-      "Baunilha"
-    ],
-    "fix": 7,
-    "projI": 6,
-    "projD": 5,
-    "qual": 8.5,
-    "cb": 5,
-    "simil": null,
-    "vers": 5,
-    "link": null,
-    "resumo": "Original de nicho (2023), feminino floral-frutado-almiscarado. Reviewers comparam a Pure Musc (Narciso Rodriguez) e ao descontinuado White Suede (Tom Ford)."
-  },
-  {
-    "id": 817,
     "nome": "Pacific Grapefruit (Memoirs of a Perfume Collector)",
     "dna": "Pacific Grapefruit (Memoirs of a Perfume Collector)",
     "cat": "Fresh Luminoso",
@@ -49718,7 +49660,7 @@
     "resumo": "Original de nicho britânico (2024, coleção Ocean Series, Cologne Intense/Extrait) — as notas marinhas são o destaque, dando o toque aquático sobre a toranja e gengibre de abertura, sobre um acorde amadeirado predominante (oud, vetiver, hinoki). Comunidade compara a Imagination (LV) e Perseus (Parfums de Marly). Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
   },
   {
-    "id": 818,
+    "id": 817,
     "nome": "Laundry Day (Abel)",
     "dna": "Laundry Day (Abel)",
     "cat": "Fresh Luminoso",
@@ -49779,7 +49721,7 @@
     "resumo": "Original de nicho indie (Abel), aroma limpo de \"roupa recém-lavada\" — flor de algodão e almíscar atalcado sobre um coração floral fresco."
   },
   {
-    "id": 819,
+    "id": 818,
     "nome": "Andromeda (Tiziana Terenzi)",
     "dna": "Andromeda (Tiziana Terenzi)",
     "cat": "Gourmand Confortável",
@@ -49840,7 +49782,7 @@
     "resumo": "Original de nicho (2015, Coleção Luna), Tiziana Terenzi — floral-frutado-doce genuinamente divisivo entre a comunidade (\"perfume de amor à primeira vista\" vs \"enjoativo\")."
   },
   {
-    "id": 820,
+    "id": 819,
     "nome": "Wood Sage & Sea Salt (Jo Malone)",
     "dna": "Wood Sage & Sea Salt (Jo Malone)",
     "cat": "Fresh Luminoso",
@@ -49900,7 +49842,7 @@
     "resumo": "Clássico de nicho da Jo Malone, um dos aquáticos mais populares e influentes do mercado — sálvia seca sobre sal marinho e almíscar."
   },
   {
-    "id": 821,
+    "id": 820,
     "nome": "Fleur de Peau (Diptyque)",
     "dna": "Fleur de Peau (Diptyque)",
     "cat": "Fresh Sofisticado",
@@ -49960,7 +49902,7 @@
     "resumo": "Original de nicho (2025), Diptyque — \"skin scent\" atalcado inspirado no mito de Eros e Psiquê, com íris e almíscar como coração."
   },
   {
-    "id": 822,
+    "id": 821,
     "nome": "Infusion de Figue (Prada)",
     "dna": "Infusion de Figue (Prada)",
     "cat": "Aromático Elegante",
@@ -50020,7 +49962,7 @@
     "resumo": "Clássico da linha Prada Infusion — figo verde sobre uma base amadeirada-almiscarada limpa e sofisticada, unissex."
   },
   {
-    "id": 823,
+    "id": 822,
     "nome": "Love-O-Matic (Room 1015)",
     "dna": "Love-O-Matic (Room 1015)",
     "cat": "Gourmand Confortável",
@@ -50080,7 +50022,7 @@
     "resumo": "Original de nicho (2025), Room 1015 — homenagem lúdica às lavanderias vintage, com groselha, chiclete e almíscar de roupa limpa."
   },
   {
-    "id": 824,
+    "id": 823,
     "nome": "Kirke (Tiziana Terenzi)",
     "dna": "Kirke (Tiziana Terenzi)",
     "cat": "Gourmand Confortável",
@@ -50140,7 +50082,7 @@
     "resumo": "Original de nicho (2015), Tiziana Terenzi — coquetel tropical de frutas sobre uma base almiscarada-amadeirada; genuinamente divisivo (\"paraíso\" para uns, \"insuportável\" pra outros)."
   },
   {
-    "id": 825,
+    "id": 824,
     "nome": "Sailing Day (Maison Margiela)",
     "dna": "Sailing Day (Maison Margiela)",
     "cat": "Fresh Luminoso",
@@ -50199,7 +50141,7 @@
     "resumo": "Original designer da linha Replica (Maison Margiela) — memória olfativa de um dia de vela, com algas marinhas e coentro sobre âmbar cinzento."
   },
   {
-    "id": 826,
+    "id": 825,
     "nome": "Guilty Elixir pour Homme (Gucci)",
     "dna": "Guilty Elixir pour Homme (Gucci)",
     "cat": "Oriental Elegante",
@@ -50260,7 +50202,7 @@
     "resumo": "Original designer (2023), Quentin Bisch — flor de laranjeira e especiarias quentes sobre uma base de orris, patchouli e ambrofix."
   },
   {
-    "id": 827,
+    "id": 826,
     "nome": "Laundry Day (Le Botanic)",
     "dna": "Laundry Day (Abel)",
     "cat": "Fresh Luminoso",
@@ -50321,7 +50263,7 @@
     "resumo": "Contratipo nacional do Laundry Day (Abel) — flor de algodão e almíscar atalcado, boa fixação/projeção segundo a comunidade."
   },
   {
-    "id": 828,
+    "id": 827,
     "nome": "Overcast (Le Botanic)",
     "dna": "Andromeda (Tiziana Terenzi)",
     "cat": "Gourmand Confortável",
@@ -50382,7 +50324,7 @@
     "resumo": "Contratipo nacional do Andromeda (Tiziana Terenzi) — floral-frutado-doce âmbar compartilhável."
   },
   {
-    "id": 829,
+    "id": 828,
     "nome": "The Mirror (Le Botanic)",
     "dna": "MYSLF (Yves Saint Laurent - YSL)",
     "cat": "Amadeirado Elegante",
@@ -50441,7 +50383,7 @@
     "resumo": "Contratipo nacional do MYSLF (YSL) — mesma pirâmide de referência (bergamota, flor de laranjeira, ambrofix, patchouli) dos outros dupes desse DNA já mapeados."
   },
   {
-    "id": 830,
+    "id": 829,
     "nome": "Salt Water (Le Botanic)",
     "dna": "Wood Sage & Sea Salt (Jo Malone)",
     "cat": "Fresh Luminoso",
@@ -50501,7 +50443,7 @@
     "resumo": "Contratipo nacional do Wood Sage & Sea Salt (Jo Malone) — sálvia amadeirada sobre sal marinho, \"litoral inglês\"."
   },
   {
-    "id": 831,
+    "id": 830,
     "nome": "Le Peau (Le Botanic)",
     "dna": "Fleur de Peau (Diptyque)",
     "cat": "Fresh Sofisticado",
@@ -50561,7 +50503,7 @@
     "resumo": "Contratipo nacional do Fleur de Peau (Diptyque) — \"skin scent\" atalcado de íris e almíscar."
   },
   {
-    "id": 832,
+    "id": 831,
     "nome": "Figue Infusion (Le Botanic)",
     "dna": "Infusion de Figue (Prada)",
     "cat": "Aromático Elegante",
@@ -50621,7 +50563,7 @@
     "resumo": "Contratipo nacional do Infusion de Figue (Prada) — figo verde-amadeirado sobre almíscar limpo, unissex."
   },
   {
-    "id": 833,
+    "id": 832,
     "nome": "Cleaning (Le Botanic)",
     "dna": "Love-O-Matic (Room 1015)",
     "cat": "Gourmand Confortável",
@@ -50681,7 +50623,7 @@
     "resumo": "Contratipo nacional do Love-O-Matic (Room 1015) — groselha, chiclete e almíscar de \"roupa limpa\", lúdico."
   },
   {
-    "id": 834,
+    "id": 833,
     "nome": "Tropidelic (Le Botanic)",
     "dna": "Kirke (Tiziana Terenzi)",
     "cat": "Gourmand Confortável",
@@ -50741,7 +50683,7 @@
     "resumo": "Contratipo nacional do Kirke (Tiziana Terenzi) — coquetel tropical de frutas, unissex mas polarizador."
   },
   {
-    "id": 835,
+    "id": 834,
     "nome": "Pretty Day (Le Botanic)",
     "dna": "Sailing Day (Maison Margiela)",
     "cat": "Fresh Luminoso",
@@ -50800,7 +50742,7 @@
     "resumo": "Contratipo nacional do Sailing Day (Maison Margiela) — mergulho no oceano, algas e coentro sobre âmbar cinzento."
   },
   {
-    "id": 836,
+    "id": 835,
     "nome": "The Society (Le Botanic)",
     "dna": "Gentleman Society (Givenchy)",
     "cat": "Amadeirado Elegante",
@@ -50861,7 +50803,7 @@
     "resumo": "Contratipo nacional do Gentleman Society (Givenchy) — cardamomo e sálvia abrem sobre vetiver (Haiti e Madagascar), fundo de baunilha, palo santo e cedro. Melhor em clima frio a ameno, para trabalho ou social/noite."
   },
   {
-    "id": 837,
+    "id": 836,
     "nome": "Vanilla Power (Le Botanic)",
     "dna": "Vanilla Powder (Matiere Première)",
     "cat": "Gourmand Confortável",
@@ -50921,7 +50863,7 @@
     "resumo": "Contratipo nacional do Vanilla Powder (Matière Première) — mesmo DNA de outros 5 dupes já mapeados na base (Powder JA Essence, Fursan White, Fleure, Fleurie Violette)."
   },
   {
-    "id": 838,
+    "id": 837,
     "nome": "Another Pace (Le Botanic)",
     "dna": "Guilty Elixir pour Homme (Gucci)",
     "cat": "Oriental Elegante",
@@ -50982,7 +50924,7 @@
     "resumo": "Contratipo nacional do Guilty Elixir pour Homme (Gucci) — flor de laranjeira e especiarias sobre orris, patchouli e ambrofix."
   },
   {
-    "id": 839,
+    "id": 838,
     "nome": "Rose d'Amalfi (Tom Ford)",
     "dna": "Rose d'Amalfi (Tom Ford)",
     "cat": "Gourmand Confortável",
@@ -51042,7 +50984,7 @@
     "resumo": "Original designer de nicho (2022), Private Blend Tom Ford — rosa açucarada-empoada com amêndoa e heliotrópio, \"rosa em rosa\"."
   },
   {
-    "id": 840,
+    "id": 839,
     "nome": "Sweetie Aoud (Roja Dove)",
     "dna": "Sweetie Aoud (Roja Dove)",
     "cat": "Gourmand Confortável",
@@ -51102,7 +51044,7 @@
     "resumo": "Original de nicho (2015), Roja Dove — pastelaria árabe (amêndoa, açúcar caramelizado) sobre oud e madeiras secas, \"um dos melhores gourmands\"."
   },
   {
-    "id": 841,
+    "id": 840,
     "nome": "Lamar (Kajal)",
     "dna": "Lamar (Kajal)",
     "cat": "Gourmand Confortável",
@@ -51163,7 +51105,7 @@
     "resumo": "Original de nicho (2020), Kajal — abacaxi e frutas vermelhas sobre rosa búlgara e turca, base amanteigada-baunilhada."
   },
   {
-    "id": 842,
+    "id": 841,
     "nome": "Godolphin (Parfums de Marly)",
     "dna": "Godolphin (Parfums de Marly)",
     "cat": "Amadeirado Sedutor",
@@ -51224,7 +51166,7 @@
     "resumo": "Original de nicho (2010), Parfums de Marly — abertura frutada-especiada sobre rosa e íris, fundo de couro e cedro. Um review nota preferir o clone da Maison Alhambra ao original."
   },
   {
-    "id": 843,
+    "id": 842,
     "nome": "Intense Café (Montale)",
     "dna": "Intense Café (Montale)",
     "cat": "Gourmand Confortável",
@@ -51283,7 +51225,7 @@
     "resumo": "Original de nicho (2013), Montale — rosa e café torrado sobre baunilha e almíscar, intenso e sedutor."
   },
   {
-    "id": 844,
+    "id": 843,
     "nome": "Apex (Roja Dove)",
     "dna": "Apex (Roja Dove)",
     "cat": "Couro Executivo",
@@ -51343,7 +51285,7 @@
     "resumo": "Original de nicho (2022), Roja Dove — descrito pela comunidade como \"uma mistura de Sauvage e Polo Green, com abertura mais brilhante e fundo mais verde\"."
   },
   {
-    "id": 845,
+    "id": 844,
     "nome": "The One Grey (Dolce & Gabbana)",
     "dna": "The One Grey (Dolce & Gabbana)",
     "cat": "Aromático Executivo",
@@ -51405,7 +51347,7 @@
     "resumo": "Original designer (2018), flanker \"versão de trabalho\" do The One — toranja e cardamomo sobre lavanda e vetiver, fundo de tabaco e madeiras cinzentas."
   },
   {
-    "id": 846,
+    "id": 845,
     "nome": "Fico di Amalfi (Acqua di Parma)",
     "dna": "Fico di Amalfi (Acqua di Parma)",
     "cat": "Fresh Sofisticado",
@@ -51467,7 +51409,7 @@
     "resumo": "Fragrância mais popular da Acqua di Parma — cítricos italianos sobre néctar de figo e madeira de figueira, fixação fraca mas muito querida pela comunidade."
   },
   {
-    "id": 847,
+    "id": 846,
     "nome": "Light Blue pour Homme Italian Love (Dolce & Gabbana)",
     "dna": "Light Blue pour Homme Italian Love (Dolce & Gabbana)",
     "cat": "Aromático Elegante",
@@ -51525,7 +51467,7 @@
     "resumo": "Flanker descontinuado da linha Light Blue Pour Homme (2022) — toranja realista sobre lavanda aromática, sillage forte mas curta duração."
   },
   {
-    "id": 848,
+    "id": 847,
     "nome": "Flower (Aisha)",
     "dna": "Rose d'Amalfi (Tom Ford)",
     "cat": "Gourmand Confortável",
@@ -51584,7 +51526,7 @@
     "resumo": "Contratipo nacional do Rose d'Amalfi (Tom Ford) — rosa açucarada-empoada."
   },
   {
-    "id": 849,
+    "id": 848,
     "nome": "Cedroise (Aisha)",
     "dna": "Cedrat Boise (Mancera)",
     "cat": "Fresh Luminoso",
@@ -51640,7 +51582,7 @@
     "resumo": "Contratipo nacional do Cedrat Boise (Mancera) — groselha e cítricos sobre madeiras limpas."
   },
   {
-    "id": 850,
+    "id": 849,
     "nome": "Gentlemand (Aisha)",
     "dna": "Haltane (Parfums de Marly)",
     "cat": "Amadeirado Sedutor",
@@ -51699,7 +51641,7 @@
     "resumo": "Contratipo nacional do Haltane (Parfums de Marly) — açafrão especiado sobre couro e oud."
   },
   {
-    "id": 851,
+    "id": 850,
     "nome": "Woud (Aisha)",
     "dna": "Sweetie Aoud (Roja Dove)",
     "cat": "Gourmand Confortável",
@@ -51757,7 +51699,7 @@
     "resumo": "Contratipo nacional do Sweetie Aoud (Roja Dove) — pastelaria árabe sobre oud e madeiras."
   },
   {
-    "id": 852,
+    "id": 851,
     "nome": "Turc (Aisha)",
     "dna": "Lamar (Kajal)",
     "cat": "Gourmand Confortável",
@@ -51817,7 +51759,7 @@
     "resumo": "Contratipo nacional do Lamar (Kajal) — abacaxi e frutas vermelhas sobre rosa e baunilha."
   },
   {
-    "id": 853,
+    "id": 852,
     "nome": "Tabbaq (Aisha)",
     "dna": "Herod (Parfums de Marly)",
     "cat": "Amadeirado Sedutor",
@@ -51875,7 +51817,7 @@
     "resumo": "Contratipo nacional do Herod (Parfums de Marly) — canela e tabaco sobre couro amadeirado."
   },
   {
-    "id": 854,
+    "id": 853,
     "nome": "Pure Blood (Aisha)",
     "dna": "Godolphin (Parfums de Marly)",
     "cat": "Amadeirado Sedutor",
@@ -51935,7 +51877,7 @@
     "resumo": "Contratipo nacional do Godolphin (Parfums de Marly) — abertura frutada-especiada sobre rosa e couro. Reviews até preferem esse tipo de clone ao original."
   },
   {
-    "id": 855,
+    "id": 854,
     "nome": "Pink Coffee (Aisha)",
     "dna": "Intense Café (Montale)",
     "cat": "Gourmand Confortável",
@@ -51993,7 +51935,7 @@
     "resumo": "Contratipo nacional do Intense Café (Montale) — rosa e café torrado sobre baunilha."
   },
   {
-    "id": 856,
+    "id": 855,
     "nome": "Pexx (Aisha)",
     "dna": "Apex (Roja Dove)",
     "cat": "Couro Executivo",
@@ -52053,7 +51995,7 @@
     "resumo": "Contratipo nacional do Apex (Roja Dove) — cítricos brilhantes sobre couro e verde."
   },
   {
-    "id": 857,
+    "id": 856,
     "nome": "Jaz (Aisha)",
     "dna": "Jazz Club (Maison Margiela)",
     "cat": "Amadeirado Sedutor",
@@ -52110,7 +52052,7 @@
     "resumo": "Contratipo nacional do Jazz Club (Maison Margiela) — rum licoroso sobre tabaco quente."
   },
   {
-    "id": 858,
+    "id": 857,
     "nome": "Ice (Aisha)",
     "dna": "Terre d'Hermes Eau Givree (Hermès)",
     "cat": "Fresh Sofisticado",
@@ -52168,7 +52110,7 @@
     "resumo": "Contratipo nacional do Terre d'Hermès Eau Givrée — efeito gelado de zimbro sobre vetiver terroso."
   },
   {
-    "id": 859,
+    "id": 858,
     "nome": "Greey (Aisha)",
     "dna": "The One Grey (Dolce & Gabbana)",
     "cat": "Aromático Executivo",
@@ -52228,7 +52170,7 @@
     "resumo": "Contratipo nacional do The One Grey (D&G) — toranja e cardamomo sobre vetiver e tabaco, a \"versão de trabalho\" do The One."
   },
   {
-    "id": 860,
+    "id": 859,
     "nome": "Fig (Aisha)",
     "dna": "Fico di Amalfi (Acqua di Parma)",
     "cat": "Fresh Sofisticado",
@@ -52289,7 +52231,7 @@
     "resumo": "Contratipo nacional do Fico di Amalfi (Acqua di Parma) — cítricos sobre figo e madeira, com fixação melhor que o original."
   },
   {
-    "id": 861,
+    "id": 860,
     "nome": "Blanc (Aisha)",
     "dna": "Lalique White (Lalique)",
     "cat": "Aromático Elegante",
@@ -52346,7 +52288,7 @@
     "resumo": "Contratipo nacional do Lalique White — tamarindo incomum sobre uma base tipo sabonete."
   },
   {
-    "id": 862,
+    "id": 861,
     "nome": "Blu Love (Aisha)",
     "dna": "Light Blue pour Homme Italian Love (Dolce & Gabbana)",
     "cat": "Aromático Elegante",
