@@ -49716,5 +49716,2691 @@
     "vers": 6,
     "link": null,
     "resumo": "Original de nicho britânico (2024, coleção Ocean Series, Cologne Intense/Extrait) — as notas marinhas são o destaque, dando o toque aquático sobre a toranja e gengibre de abertura, sobre um acorde amadeirado predominante (oud, vetiver, hinoki). Comunidade compara a Imagination (LV) e Perseus (Parfums de Marly). Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+  },
+  {
+    "id": 818,
+    "nome": "Laundry Day (Abel)",
+    "dna": "Laundry Day (Abel)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Fragrância de nicho feminina-limpa, fora do eixo pessoal do usuário.",
+    "compat": 3,
+    "preco": 250,
+    "exp": "Sample First",
+    "nota": 6.73,
+    "score": 6.86,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.0,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Floral",
+      "Atalcado",
+      "Limpo"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Floral",
+      "Verde",
+      "Atalcado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Flor de Algodão",
+      "Notas Verdes",
+      "Pera",
+      "Lírio-do-Vale",
+      "Almíscar",
+      "Sândalo"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Original de nicho indie (Abel), aroma limpo de \"roupa recém-lavada\" — flor de algodão e almíscar atalcado sobre um coração floral fresco."
+  },
+  {
+    "id": 819,
+    "nome": "Andromeda (Tiziana Terenzi)",
+    "dna": "Andromeda (Tiziana Terenzi)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Floral-doce de nicho, fora do eixo pessoal do usuário.",
+    "compat": 2,
+    "preco": 900,
+    "exp": "Sample First",
+    "nota": 6.2,
+    "score": 6.47,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.0,
+    "gpf": 5.0,
+    "conc": "Extrait",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Floral",
+      "Doce"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Frutado",
+      "Floral",
+      "Doce",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Ylang Ylang",
+      "Pêssego",
+      "Flor de Pera",
+      "Heliotrópio Branco",
+      "Rosa Damascena",
+      "Cashmere Wood"
+    ],
+    "fix": 8,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7,
+    "cb": 5,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "resumo": "Original de nicho (2015, Coleção Luna), Tiziana Terenzi — floral-frutado-doce genuinamente divisivo entre a comunidade (\"perfume de amor à primeira vista\" vs \"enjoativo\")."
+  },
+  {
+    "id": 820,
+    "nome": "Wood Sage & Sea Salt (Jo Malone)",
+    "dna": "Wood Sage & Sea Salt (Jo Malone)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Clássico bem executado, mas cai na zona de alerta oceânica do usuário.",
+    "compat": 6,
+    "preco": 550,
+    "exp": "Sample First",
+    "nota": 6.8,
+    "score": 7.3,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.07,
+    "gpf": 5.33,
+    "conc": "Cologne",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Aromático",
+      "Aquático",
+      "Limpo"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Aromático",
+      "Aquático",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Sementes de Abelmosco",
+      "Sal Marinho",
+      "Sálvia",
+      "Algas Vermelhas"
+    ],
+    "fix": 5,
+    "projI": 5,
+    "projD": 3,
+    "qual": 8,
+    "cb": 5,
+    "simil": null,
+    "vers": 8,
+    "link": null,
+    "resumo": "Clássico de nicho da Jo Malone, um dos aquáticos mais populares e influentes do mercado — sálvia seca sobre sal marinho e almíscar."
+  },
+  {
+    "id": 821,
+    "nome": "Fleur de Peau (Diptyque)",
+    "dna": "Fleur de Peau (Diptyque)",
+    "cat": "Fresh Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Bom encaixe de textura atalcada/íris, mesmo sendo um perfume de perfil predominantemente feminino.",
+    "compat": 6,
+    "preco": 750,
+    "exp": "Sample First",
+    "nota": 6.8,
+    "score": 7.18,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.8,
+    "gpf": 4.0,
+    "conc": "EDT",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Atalcado",
+      "Floral",
+      "Limpo"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Floral",
+      "Atalcado",
+      "Almíscar",
+      "Cítrico"
+    ],
+    "notas": [
+      "Pimenta Rosa",
+      "Tangerina",
+      "Íris",
+      "Magnólia",
+      "Almíscar",
+      "Ambrette"
+    ],
+    "fix": 5,
+    "projI": 5,
+    "projD": 3,
+    "qual": 8.5,
+    "cb": 5,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Original de nicho (2025), Diptyque — \"skin scent\" atalcado inspirado no mito de Eros e Psiquê, com íris e almíscar como coração."
+  },
+  {
+    "id": 822,
+    "nome": "Infusion de Figue (Prada)",
+    "dna": "Infusion de Figue (Prada)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Verde-amadeirado-atalcado, bom encaixe pro perfil do usuário.",
+    "compat": 7,
+    "preco": 600,
+    "exp": "Sample First",
+    "nota": 6.87,
+    "score": 7.52,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.07,
+    "gpf": 5.33,
+    "conc": "EDT",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Verde",
+      "Amadeirado",
+      "Atalcado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Verde",
+      "Amadeirado",
+      "Cítrico",
+      "Almíscar"
+    ],
+    "notas": [
+      "Figo",
+      "Bergamota",
+      "Almíscar",
+      "Madeiras"
+    ],
+    "fix": 5,
+    "projI": 5,
+    "projD": 3,
+    "qual": 8,
+    "cb": 6,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Clássico da linha Prada Infusion — figo verde sobre uma base amadeirada-almiscarada limpa e sofisticada, unissex."
+  },
+  {
+    "id": 823,
+    "nome": "Love-O-Matic (Room 1015)",
+    "dna": "Love-O-Matic (Room 1015)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Perfil lúdico-doce, reviews divididas (\"sabão em pó barato\" vs \"ímã de elogios\"); fora do eixo do usuário.",
+    "compat": 2,
+    "preco": 900,
+    "exp": "Sample First",
+    "nota": 5.67,
+    "score": 6.01,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.5,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Doce",
+      "Almiscarado"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Frutado",
+      "Doce",
+      "Almíscar",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Morango",
+      "Groselha Preta",
+      "Limão",
+      "Notas Ozônicas",
+      "Chiclete",
+      "Ambrette"
+    ],
+    "fix": 6,
+    "projI": 5,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 4,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Original de nicho (2025), Room 1015 — homenagem lúdica às lavanderias vintage, com groselha, chiclete e almíscar de roupa limpa."
+  },
+  {
+    "id": 824,
+    "nome": "Kirke (Tiziana Terenzi)",
+    "dna": "Kirke (Tiziana Terenzi)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Frutado tropical intenso e polarizador, fora do eixo do usuário.",
+    "compat": 2,
+    "preco": 700,
+    "exp": "Sample First",
+    "nota": 6.0,
+    "score": 6.26,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "Extrait",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Doce",
+      "Almiscarado"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Frutado",
+      "Doce",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Maracujá",
+      "Pêssego",
+      "Pera",
+      "Framboesa",
+      "Sândalo",
+      "Patchouli"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 5,
+    "qual": 6.5,
+    "cb": 5,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "resumo": "Original de nicho (2015), Tiziana Terenzi — coquetel tropical de frutas sobre uma base almiscarada-amadeirada; genuinamente divisivo (\"paraíso\" para uns, \"insuportável\" pra outros)."
+  },
+  {
+    "id": 825,
+    "nome": "Sailing Day (Maison Margiela)",
+    "dna": "Sailing Day (Maison Margiela)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Aquático-amadeirado, cai na zona de alerta oceânica do usuário.",
+    "compat": 3,
+    "preco": 550,
+    "exp": "Sample First",
+    "nota": 6.2,
+    "score": 6.42,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.8,
+    "gpf": 4.0,
+    "conc": "EDT",
+    "clima": [
+      "Calor"
+    ],
+    "periodo": [
+      "Dia"
+    ],
+    "perfil": [
+      "Aquático",
+      "Amadeirado",
+      "Salino"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Aquático",
+      "Amadeirado",
+      "Cítrico",
+      "Salino"
+    ],
+    "notas": [
+      "Notas Aquáticas",
+      "Algas Marinhas",
+      "Coentro",
+      "Âmbar Cinzento",
+      "Cedro Vermelho"
+    ],
+    "fix": 5,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7.5,
+    "cb": 5,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Original designer da linha Replica (Maison Margiela) — memória olfativa de um dia de vela, com algas marinhas e coentro sobre âmbar cinzento."
+  },
+  {
+    "id": 826,
+    "nome": "Guilty Elixir pour Homme (Gucci)",
+    "dna": "Guilty Elixir pour Homme (Gucci)",
+    "cat": "Oriental Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Amadeirado-oriental com orris e patchouli no fundo, mas o coração de flor de laranjeira é mais floral-doce que o eixo cítrico-frio do usuário.",
+    "compat": 5,
+    "preco": 550,
+    "exp": "Sample First",
+    "nota": 6.73,
+    "score": 7.23,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.5,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Floral",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Floral",
+      "Especiado",
+      "Amadeirado",
+      "Ambarado"
+    ],
+    "notas": [
+      "Flor de Laranjeira",
+      "Noz-moscada",
+      "Pimenta-da-Jamaica",
+      "Orris",
+      "Osmanto",
+      "Ambrofix"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Original designer (2023), Quentin Bisch — flor de laranjeira e especiarias quentes sobre uma base de orris, patchouli e ambrofix."
+  },
+  {
+    "id": 827,
+    "nome": "Laundry Day (Le Botanic)",
+    "dna": "Laundry Day (Abel)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Feminino floral-limpo, fora do eixo pessoal do usuário.",
+    "compat": 2,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.35,
+    "score": 6.7,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Floral",
+      "Atalcado",
+      "Limpo"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Floral",
+      "Verde",
+      "Atalcado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Flor de Algodão",
+      "Notas Oceânicas",
+      "Pera",
+      "Lírio-do-Vale",
+      "Almíscar",
+      "Sândalo"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 10,
+    "simil": 7,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo nacional do Laundry Day (Abel) — flor de algodão e almíscar atalcado, boa fixação/projeção segundo a comunidade."
+  },
+  {
+    "id": 828,
+    "nome": "Overcast (Le Botanic)",
+    "dna": "Andromeda (Tiziana Terenzi)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Floral-doce, fora do eixo pessoal do usuário.",
+    "compat": 2,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.2,
+    "score": 6.6,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Floral",
+      "Doce"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Frutado",
+      "Floral",
+      "Doce",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Pêssego",
+      "Flor de Pêra",
+      "Lírio",
+      "Heliotrópio Branco",
+      "Rosa Damascena",
+      "Cashmere"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 10,
+    "simil": 7,
+    "vers": 5,
+    "link": null,
+    "resumo": "Contratipo nacional do Andromeda (Tiziana Terenzi) — floral-frutado-doce âmbar compartilhável."
+  },
+  {
+    "id": 829,
+    "nome": "The Mirror (Le Botanic)",
+    "dna": "MYSLF (Yves Saint Laurent - YSL)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Bom encaixe cítrico-amadeirado, alinhado ao arquétipo do usuário.",
+    "compat": 7,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.5,
+    "score": 7.78,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Floral",
+      "Amadeirado",
+      "Almiscarado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Cítrico",
+      "Floral",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Bergamota da Calábria",
+      "Bergamota",
+      "Flor de Laranjeira Tunisiana",
+      "Ambrofix",
+      "Patchouli"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 10,
+    "simil": 7,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo nacional do MYSLF (YSL) — mesma pirâmide de referência (bergamota, flor de laranjeira, ambrofix, patchouli) dos outros dupes desse DNA já mapeados."
+  },
+  {
+    "id": 830,
+    "nome": "Salt Water (Le Botanic)",
+    "dna": "Wood Sage & Sea Salt (Jo Malone)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Zona de alerta oceânica, mas com a sálvia amadeirada suavizando o aquático.",
+    "compat": 4,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.2,
+    "score": 6.94,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.07,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Aromático",
+      "Aquático",
+      "Limpo"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Aromático",
+      "Aquático",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Sementes de Abelmosco",
+      "Sal Marinho",
+      "Sálvia",
+      "Algas Marinhas"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo nacional do Wood Sage & Sea Salt (Jo Malone) — sálvia amadeirada sobre sal marinho, \"litoral inglês\"."
+  },
+  {
+    "id": 831,
+    "nome": "Le Peau (Le Botanic)",
+    "dna": "Fleur de Peau (Diptyque)",
+    "cat": "Fresh Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Bom encaixe de textura atalcada/íris, mesmo sendo perfil predominantemente feminino.",
+    "compat": 7,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.35,
+    "score": 7.72,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Atalcado",
+      "Floral",
+      "Limpo"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Floral",
+      "Atalcado",
+      "Almíscar",
+      "Cítrico"
+    ],
+    "notas": [
+      "Pimenta Rosa",
+      "Tangerina",
+      "Íris",
+      "Magnólia",
+      "Almíscar",
+      "Ambrette"
+    ],
+    "fix": 6,
+    "projI": 5,
+    "projD": 3,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo nacional do Fleur de Peau (Diptyque) — \"skin scent\" atalcado de íris e almíscar."
+  },
+  {
+    "id": 832,
+    "nome": "Figue Infusion (Le Botanic)",
+    "dna": "Infusion de Figue (Prada)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Verde-amadeirado-atalcado, bom encaixe pro perfil do usuário.",
+    "compat": 7,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.35,
+    "score": 7.79,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.07,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Verde",
+      "Amadeirado",
+      "Atalcado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Verde",
+      "Amadeirado",
+      "Cítrico",
+      "Almíscar"
+    ],
+    "notas": [
+      "Figo",
+      "Almíscar",
+      "Cítricos",
+      "Madeiras"
+    ],
+    "fix": 6,
+    "projI": 5,
+    "projD": 3,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo nacional do Infusion de Figue (Prada) — figo verde-amadeirado sobre almíscar limpo, unissex."
+  },
+  {
+    "id": 833,
+    "nome": "Cleaning (Le Botanic)",
+    "dna": "Love-O-Matic (Room 1015)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Perfil lúdico-doce, fora do eixo do usuário.",
+    "compat": 2,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 6.75,
+    "score": 6.27,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Doce",
+      "Almiscarado"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Frutado",
+      "Doce",
+      "Almíscar",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Morango",
+      "Limão",
+      "Groselha Preta",
+      "Notas Ozônicas",
+      "Chiclete",
+      "Cedro"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6,
+    "cb": 10,
+    "simil": 7,
+    "vers": 4,
+    "link": null,
+    "resumo": "Contratipo nacional do Love-O-Matic (Room 1015) — groselha, chiclete e almíscar de \"roupa limpa\", lúdico."
+  },
+  {
+    "id": 834,
+    "nome": "Tropidelic (Le Botanic)",
+    "dna": "Kirke (Tiziana Terenzi)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Frutado tropical intenso, fora do eixo do usuário.",
+    "compat": 2,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 6.75,
+    "score": 6.27,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Doce",
+      "Almiscarado"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Frutado",
+      "Doce",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Maracujá",
+      "Pêssego",
+      "Pera",
+      "Framboesa",
+      "Sândalo",
+      "Patchouli"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6,
+    "cb": 10,
+    "simil": 7,
+    "vers": 4,
+    "link": null,
+    "resumo": "Contratipo nacional do Kirke (Tiziana Terenzi) — coquetel tropical de frutas, unissex mas polarizador."
+  },
+  {
+    "id": 835,
+    "nome": "Pretty Day (Le Botanic)",
+    "dna": "Sailing Day (Maison Margiela)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Aquático-amadeirado, zona de alerta oceânica do usuário.",
+    "compat": 3,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.05,
+    "score": 6.77,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Calor"
+    ],
+    "periodo": [
+      "Dia"
+    ],
+    "perfil": [
+      "Aquático",
+      "Amadeirado",
+      "Salino"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Aquático",
+      "Amadeirado",
+      "Cítrico",
+      "Salino"
+    ],
+    "notas": [
+      "Notas Aquáticas",
+      "Algas Marinhas",
+      "Coentro",
+      "Âmbar Cinzento",
+      "Cedro Vermelho"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 5,
+    "link": null,
+    "resumo": "Contratipo nacional do Sailing Day (Maison Margiela) — mergulho no oceano, algas e coentro sobre âmbar cinzento."
+  },
+  {
+    "id": 836,
+    "nome": "The Society (Le Botanic)",
+    "dna": "Gentleman Society (Givenchy)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Especiado-frio-amadeirado, o melhor encaixe do lote pro perfil do usuário — vale ser prioridade de teste.",
+    "compat": 8,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.65,
+    "score": 8.36,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Especiado",
+      "Amadeirado",
+      "Fresco"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Especiado",
+      "Amadeirado",
+      "Floral",
+      "Resinoso"
+    ],
+    "notas": [
+      "Cardamomo",
+      "Sálvia",
+      "Narciso Francês",
+      "Vetiver",
+      "Palo Santo",
+      "Cedro"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo nacional do Gentleman Society (Givenchy) — cardamomo e sálvia abrem sobre vetiver (Haiti e Madagascar), fundo de baunilha, palo santo e cedro. Melhor em clima frio a ameno, para trabalho ou social/noite."
+  },
+  {
+    "id": 837,
+    "nome": "Vanilla Power (Le Botanic)",
+    "dna": "Vanilla Powder (Matiere Première)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Atalcado-baunilhado alinhado à textura preferida do usuário, unissex.",
+    "compat": 6,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.35,
+    "score": 6.7,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 4.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Atalcado",
+      "Baunilha",
+      "Almiscarado"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Baunilha",
+      "Atalcado",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Baunilha",
+      "Notas Atalcadas",
+      "Coco",
+      "Almíscar",
+      "Madeiras"
+    ],
+    "fix": 6,
+    "projI": 5,
+    "projD": 3,
+    "qual": 7,
+    "cb": 10,
+    "simil": 7,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo nacional do Vanilla Powder (Matière Première) — mesmo DNA de outros 5 dupes já mapeados na base (Powder JA Essence, Fursan White, Fleure, Fleurie Violette)."
+  },
+  {
+    "id": 838,
+    "nome": "Another Pace (Le Botanic)",
+    "dna": "Guilty Elixir pour Homme (Gucci)",
+    "cat": "Oriental Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Amadeirado-oriental com toque atalcado (orris), mas coração floral-doce foge um pouco do eixo cítrico-frio do usuário.",
+    "compat": 5,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.2,
+    "score": 7.23,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Floral",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Floral",
+      "Especiado",
+      "Amadeirado",
+      "Ambarado"
+    ],
+    "notas": [
+      "Flor de Laranjeira",
+      "Noz-moscada",
+      "Pimenta-da-Jamaica",
+      "Orris",
+      "Osmanto",
+      "Ambrofix"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 10,
+    "simil": 7,
+    "vers": 5,
+    "link": null,
+    "resumo": "Contratipo nacional do Guilty Elixir pour Homme (Gucci) — flor de laranjeira e especiarias sobre orris, patchouli e ambrofix."
+  },
+  {
+    "id": 839,
+    "nome": "Rose d'Amalfi (Tom Ford)",
+    "dna": "Rose d'Amalfi (Tom Ford)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Floral-rosa doce, fora do eixo pessoal do usuário.",
+    "compat": 2,
+    "preco": 1400,
+    "exp": "Sample First",
+    "nota": 5.73,
+    "score": 5.96,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Floral",
+      "Doce",
+      "Atalcado"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Floral",
+      "Doce",
+      "Atalcado",
+      "Frutado"
+    ],
+    "notas": [
+      "Pimenta Rosa",
+      "Bergamota",
+      "Mandarina",
+      "Rosa",
+      "Amêndoa",
+      "Heliotrópio"
+    ],
+    "fix": 5,
+    "projI": 5,
+    "projD": 3,
+    "qual": 7.5,
+    "cb": 4,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "resumo": "Original designer de nicho (2022), Private Blend Tom Ford — rosa açucarada-empoada com amêndoa e heliotrópio, \"rosa em rosa\"."
+  },
+  {
+    "id": 840,
+    "nome": "Sweetie Aoud (Roja Dove)",
+    "dna": "Sweetie Aoud (Roja Dove)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Gourmand-oriental intenso, doce demais pro eixo pessoal do usuário.",
+    "compat": 3,
+    "preco": 1200,
+    "exp": "Sample First",
+    "nota": 6.53,
+    "score": 6.87,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "Extrait",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Doce",
+      "Oriental",
+      "Amadeirado"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Doce",
+      "Oriental",
+      "Amadeirado",
+      "Resinoso"
+    ],
+    "notas": [
+      "Artemísia",
+      "Bergamota",
+      "Cardamomo",
+      "Cominho",
+      "Patchouli",
+      "Oud"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 5,
+    "qual": 8,
+    "cb": 4,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Original de nicho (2015), Roja Dove — pastelaria árabe (amêndoa, açúcar caramelizado) sobre oud e madeiras secas, \"um dos melhores gourmands\"."
+  },
+  {
+    "id": 841,
+    "nome": "Lamar (Kajal)",
+    "dna": "Lamar (Kajal)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Frutado-floral doce, fora do eixo pessoal do usuário.",
+    "compat": 2,
+    "preco": 900,
+    "exp": "Sample First",
+    "nota": 6.33,
+    "score": 6.55,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Floral",
+      "Doce"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Frutado",
+      "Floral",
+      "Doce",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Abacaxi",
+      "Frutas Vermelhas",
+      "Maçã",
+      "Rosa Búlgara",
+      "Baunilha",
+      "Cashmere Wood"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 4,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Original de nicho (2020), Kajal — abacaxi e frutas vermelhas sobre rosa búlgara e turca, base amanteigada-baunilhada."
+  },
+  {
+    "id": 842,
+    "nome": "Godolphin (Parfums de Marly)",
+    "dna": "Godolphin (Parfums de Marly)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Couro-frutado-floral, moderadamente alinhado ao eixo do usuário.",
+    "compat": 5,
+    "preco": 750,
+    "exp": "Sample First",
+    "nota": 6.6,
+    "score": 7.07,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "EDT",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Couro",
+      "Frutado",
+      "Amadeirado"
+    ],
+    "fam": "Couro",
+    "acordes": [
+      "Frutado",
+      "Couro",
+      "Amadeirado",
+      "Ambarado"
+    ],
+    "notas": [
+      "Açafrão",
+      "Erva-mate",
+      "Tomilho",
+      "Rosa",
+      "Íris",
+      "Couro"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7.5,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Original de nicho (2010), Parfums de Marly — abertura frutada-especiada sobre rosa e íris, fundo de couro e cedro. Um review nota preferir o clone da Maison Alhambra ao original."
+  },
+  {
+    "id": 843,
+    "nome": "Intense Café (Montale)",
+    "dna": "Intense Café (Montale)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Oriental floral-café adocicado, feminino-leaning, fora do eixo do usuário.",
+    "compat": 2,
+    "preco": 700,
+    "exp": "Sample First",
+    "nota": 6.13,
+    "score": 6.43,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Doce",
+      "Oriental",
+      "Floral"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Floral",
+      "Doce",
+      "Oriental",
+      "Ambarado"
+    ],
+    "notas": [
+      "Rosa",
+      "Café",
+      "Baunilha",
+      "Almíscar Branco",
+      "Âmbar"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 4,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "resumo": "Original de nicho (2013), Montale — rosa e café torrado sobre baunilha e almíscar, intenso e sedutor."
+  },
+  {
+    "id": 844,
+    "nome": "Apex (Roja Dove)",
+    "dna": "Apex (Roja Dove)",
+    "cat": "Couro Executivo",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-couro-verde, bom encaixe pro perfil executivo do usuário.",
+    "compat": 7,
+    "preco": 1000,
+    "exp": "Sample First",
+    "nota": 6.47,
+    "score": 7.36,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.57,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Couro",
+      "Verde"
+    ],
+    "fam": "Couro",
+    "acordes": [
+      "Cítrico",
+      "Couro",
+      "Verde",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Laranja",
+      "Mandarina",
+      "Limão"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8,
+    "cb": 4,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Original de nicho (2022), Roja Dove — descrito pela comunidade como \"uma mistura de Sauvage e Polo Green, com abertura mais brilhante e fundo mais verde\"."
+  },
+  {
+    "id": 845,
+    "nome": "The One Grey (Dolce & Gabbana)",
+    "dna": "The One Grey (Dolce & Gabbana)",
+    "cat": "Aromático Executivo",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-amadeirado-especiado-frio, um dos melhores encaixes do lote pro arquétipo do usuário.",
+    "compat": 8,
+    "preco": 400,
+    "exp": "Blind Buy",
+    "nota": 7.33,
+    "score": 7.78,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.07,
+    "gpf": 5.33,
+    "conc": "EDT",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "notas": [
+      "Toranja",
+      "Cardamomo",
+      "Coentro",
+      "Manjericão",
+      "Vetiver",
+      "Tabaco"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7.5,
+    "cb": 8,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Original designer (2018), flanker \"versão de trabalho\" do The One — toranja e cardamomo sobre lavanda e vetiver, fundo de tabaco e madeiras cinzentas."
+  },
+  {
+    "id": 846,
+    "nome": "Fico di Amalfi (Acqua di Parma)",
+    "dna": "Fico di Amalfi (Acqua di Parma)",
+    "cat": "Fresh Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-amadeirado-verde, bom encaixe pro perfil do usuário, apesar da fixação curta.",
+    "compat": 7,
+    "preco": 700,
+    "exp": "Sample First",
+    "nota": 6.67,
+    "score": 7.6,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.07,
+    "gpf": 5.33,
+    "conc": "EDT",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Amadeirado",
+      "Verde"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Amadeirado",
+      "Frutado",
+      "Resinoso"
+    ],
+    "notas": [
+      "Limão Siciliano",
+      "Bergamota",
+      "Toranja",
+      "Néctar de Figo",
+      "Pimenta Rosa",
+      "Madeira de Figueira"
+    ],
+    "fix": 4,
+    "projI": 5,
+    "projD": 3,
+    "qual": 8.5,
+    "cb": 5,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Fragrância mais popular da Acqua di Parma — cítricos italianos sobre néctar de figo e madeira de figueira, fixação fraca mas muito querida pela comunidade."
+  },
+  {
+    "id": 847,
+    "nome": "Light Blue pour Homme Italian Love (Dolce & Gabbana)",
+    "dna": "Light Blue pour Homme Italian Love (Dolce & Gabbana)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-aromático-verde, bom encaixe mas com fixação fraca reconhecida pela comunidade.",
+    "compat": 6,
+    "preco": 350,
+    "exp": "Blind Buy",
+    "nota": 6.4,
+    "score": 6.87,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.73,
+    "gpf": 3.67,
+    "conc": "EDT",
+    "clima": [
+      "Calor"
+    ],
+    "periodo": [
+      "Dia"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Verde"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Verde",
+      "Almíscar"
+    ],
+    "notas": [
+      "Toranja",
+      "Lavanda",
+      "Notas Verdes",
+      "Almíscar"
+    ],
+    "fix": 4,
+    "projI": 7,
+    "projD": 4,
+    "qual": 7,
+    "cb": 7,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Flanker descontinuado da linha Light Blue Pour Homme (2022) — toranja realista sobre lavanda aromática, sillage forte mas curta duração."
+  },
+  {
+    "id": 848,
+    "nome": "Flower (Aisha)",
+    "dna": "Rose d'Amalfi (Tom Ford)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Floral-rosa doce, fora do eixo pessoal do usuário.",
+    "compat": 2,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.2,
+    "score": 6.57,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Floral",
+      "Doce",
+      "Atalcado"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Floral",
+      "Doce",
+      "Atalcado",
+      "Frutado"
+    ],
+    "notas": [
+      "Pimenta Rosa",
+      "Bergamota",
+      "Rosa",
+      "Amêndoa",
+      "Heliotrópio"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 10,
+    "simil": 7,
+    "vers": 5,
+    "link": null,
+    "resumo": "Contratipo nacional do Rose d'Amalfi (Tom Ford) — rosa açucarada-empoada."
+  },
+  {
+    "id": 849,
+    "nome": "Cedroise (Aisha)",
+    "dna": "Cedrat Boise (Mancera)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-amadeirado, bom encaixe pro perfil do usuário.",
+    "compat": 7,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.5,
+    "score": 7.78,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Amadeirado",
+      "Cítrico"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Frutado",
+      "Amadeirado",
+      "Cítrico"
+    ],
+    "notas": [
+      "Groselha Preta",
+      "Limão",
+      "Madeiras"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 10,
+    "simil": 7,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo nacional do Cedrat Boise (Mancera) — groselha e cítricos sobre madeiras limpas."
+  },
+  {
+    "id": 850,
+    "nome": "Gentlemand (Aisha)",
+    "dna": "Haltane (Parfums de Marly)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Couro-especiado, moderadamente alinhado ao eixo do usuário.",
+    "compat": 5,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.05,
+    "score": 7.05,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Especiado",
+      "Couro",
+      "Amadeirado"
+    ],
+    "fam": "Couro",
+    "acordes": [
+      "Especiado",
+      "Couro",
+      "Amadeirado",
+      "Ambarado"
+    ],
+    "notas": [
+      "Açafrão",
+      "Sálvia Esclareia",
+      "Oud",
+      "Couro"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 5,
+    "link": null,
+    "resumo": "Contratipo nacional do Haltane (Parfums de Marly) — açafrão especiado sobre couro e oud."
+  },
+  {
+    "id": 851,
+    "nome": "Woud (Aisha)",
+    "dna": "Sweetie Aoud (Roja Dove)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Gourmand-oriental doce, fora do eixo pessoal do usuário.",
+    "compat": 3,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 6.9,
+    "score": 6.7,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Doce",
+      "Oriental",
+      "Amadeirado"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Doce",
+      "Oriental",
+      "Amadeirado",
+      "Resinoso"
+    ],
+    "notas": [
+      "Amêndoa",
+      "Açúcar Caramelizado",
+      "Oud",
+      "Madeiras Secas"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 4,
+    "link": null,
+    "resumo": "Contratipo nacional do Sweetie Aoud (Roja Dove) — pastelaria árabe sobre oud e madeiras."
+  },
+  {
+    "id": 852,
+    "nome": "Turc (Aisha)",
+    "dna": "Lamar (Kajal)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Frutado-floral doce, fora do eixo do usuário.",
+    "compat": 2,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 6.9,
+    "score": 6.45,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Floral",
+      "Doce"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Frutado",
+      "Floral",
+      "Doce",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Abacaxi",
+      "Frutas Vermelhas",
+      "Rosa Búlgara",
+      "Baunilha",
+      "Cashmere Wood"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 4,
+    "link": null,
+    "resumo": "Contratipo nacional do Lamar (Kajal) — abacaxi e frutas vermelhas sobre rosa e baunilha."
+  },
+  {
+    "id": 853,
+    "nome": "Tabbaq (Aisha)",
+    "dna": "Herod (Parfums de Marly)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Especiado-couro-tabaco, moderadamente alinhado ao usuário.",
+    "compat": 5,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.05,
+    "score": 7.05,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Especiado",
+      "Couro",
+      "Tabaco"
+    ],
+    "fam": "Couro",
+    "acordes": [
+      "Especiado",
+      "Couro",
+      "Tabaco",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Canela",
+      "Pimenta Rosa",
+      "Sálvia Esclareia",
+      "Tabaco"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 5,
+    "link": null,
+    "resumo": "Contratipo nacional do Herod (Parfums de Marly) — canela e tabaco sobre couro amadeirado."
+  },
+  {
+    "id": 854,
+    "nome": "Pure Blood (Aisha)",
+    "dna": "Godolphin (Parfums de Marly)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Couro-frutado-floral, moderadamente alinhado ao eixo do usuário.",
+    "compat": 5,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.2,
+    "score": 7.23,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Couro",
+      "Frutado",
+      "Amadeirado"
+    ],
+    "fam": "Couro",
+    "acordes": [
+      "Frutado",
+      "Couro",
+      "Amadeirado",
+      "Ambarado"
+    ],
+    "notas": [
+      "Açafrão",
+      "Erva-mate",
+      "Rosa",
+      "Íris",
+      "Couro"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 10,
+    "simil": 7,
+    "vers": 5,
+    "link": null,
+    "resumo": "Contratipo nacional do Godolphin (Parfums de Marly) — abertura frutada-especiada sobre rosa e couro. Reviews até preferem esse tipo de clone ao original."
+  },
+  {
+    "id": 855,
+    "nome": "Pink Coffee (Aisha)",
+    "dna": "Intense Café (Montale)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Oriental floral-café adocicado, fora do eixo do usuário.",
+    "compat": 2,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 6.9,
+    "score": 6.45,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Doce",
+      "Oriental",
+      "Floral"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Floral",
+      "Doce",
+      "Oriental",
+      "Ambarado"
+    ],
+    "notas": [
+      "Rosa",
+      "Café",
+      "Baunilha",
+      "Almíscar Branco"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 4,
+    "link": null,
+    "resumo": "Contratipo nacional do Intense Café (Montale) — rosa e café torrado sobre baunilha."
+  },
+  {
+    "id": 856,
+    "nome": "Pexx (Aisha)",
+    "dna": "Apex (Roja Dove)",
+    "cat": "Couro Executivo",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-couro-verde, bom encaixe pro perfil executivo do usuário.",
+    "compat": 7,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.35,
+    "score": 7.66,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.57,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Couro",
+      "Verde"
+    ],
+    "fam": "Couro",
+    "acordes": [
+      "Cítrico",
+      "Couro",
+      "Verde",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Laranja",
+      "Mandarina",
+      "Limão"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo nacional do Apex (Roja Dove) — cítricos brilhantes sobre couro e verde."
+  },
+  {
+    "id": 857,
+    "nome": "Jaz (Aisha)",
+    "dna": "Jazz Club (Maison Margiela)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Amadeirado-tabaco, bom encaixe moderado pro usuário.",
+    "compat": 6,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.2,
+    "score": 7.4,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Doce",
+      "Tabaco",
+      "Amadeirado"
+    ],
+    "fam": "Tobacco",
+    "acordes": [
+      "Doce",
+      "Tabaco",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "notas": [
+      "Rum",
+      "Pimenta Rosa",
+      "Tabaco"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo nacional do Jazz Club (Maison Margiela) — rum licoroso sobre tabaco quente."
+  },
+  {
+    "id": 858,
+    "nome": "Ice (Aisha)",
+    "dna": "Terre d'Hermes Eau Givree (Hermès)",
+    "cat": "Fresh Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-amadeirado-frio, excelente encaixe pro arquétipo do usuário.",
+    "compat": 8,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.5,
+    "score": 8.02,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.57,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Amadeirado",
+      "Gelado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Amadeirado",
+      "Verde"
+    ],
+    "notas": [
+      "Zimbro",
+      "Mandarina",
+      "Vetiver"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 8,
+    "link": null,
+    "resumo": "Contratipo nacional do Terre d'Hermès Eau Givrée — efeito gelado de zimbro sobre vetiver terroso."
+  },
+  {
+    "id": 859,
+    "nome": "Greey (Aisha)",
+    "dna": "The One Grey (Dolce & Gabbana)",
+    "cat": "Aromático Executivo",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-amadeirado-especiado-frio, um dos melhores encaixes do lote.",
+    "compat": 8,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.5,
+    "score": 7.89,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.07,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "notas": [
+      "Toranja",
+      "Cardamomo",
+      "Vetiver",
+      "Tabaco"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 8,
+    "link": null,
+    "resumo": "Contratipo nacional do The One Grey (D&G) — toranja e cardamomo sobre vetiver e tabaco, a \"versão de trabalho\" do The One."
+  },
+  {
+    "id": 860,
+    "nome": "Fig (Aisha)",
+    "dna": "Fico di Amalfi (Acqua di Parma)",
+    "cat": "Fresh Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-amadeirado-verde, bom encaixe pro perfil do usuário.",
+    "compat": 7,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.5,
+    "score": 8.09,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.07,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Amadeirado",
+      "Verde"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Amadeirado",
+      "Frutado",
+      "Resinoso"
+    ],
+    "notas": [
+      "Limão Siciliano",
+      "Bergamota",
+      "Néctar de Figo",
+      "Pimenta Rosa",
+      "Madeira de Figueira"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 10,
+    "simil": 7,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo nacional do Fico di Amalfi (Acqua di Parma) — cítricos sobre figo e madeira, com fixação melhor que o original."
+  },
+  {
+    "id": 861,
+    "nome": "Blanc (Aisha)",
+    "dna": "Lalique White (Lalique)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Amadeirado-atalcado, moderadamente alinhado ao usuário.",
+    "compat": 6,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.2,
+    "score": 7.15,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Amadeirado",
+      "Atalcado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Frutado",
+      "Amadeirado",
+      "Atalcado"
+    ],
+    "notas": [
+      "Tamarindo",
+      "Sabonete",
+      "Madeiras"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo nacional do Lalique White — tamarindo incomum sobre uma base tipo sabonete."
+  },
+  {
+    "id": 862,
+    "nome": "Blu Love (Aisha)",
+    "dna": "Light Blue pour Homme Italian Love (Dolce & Gabbana)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-aromático-verde, bom encaixe pro usuário.",
+    "compat": 6,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.2,
+    "score": 7.37,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Calor"
+    ],
+    "periodo": [
+      "Dia"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Verde"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Verde",
+      "Almíscar"
+    ],
+    "notas": [
+      "Toranja",
+      "Lavanda",
+      "Notas Verdes",
+      "Almíscar"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 10,
+    "simil": 7,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo nacional do Light Blue pour Homme Italian Love (D&G, descontinuado) — toranja realista sobre lavanda."
   }
 ]
