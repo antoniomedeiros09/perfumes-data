@@ -50512,7 +50512,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Verde-amadeirado-atalcado, bom encaixe pro perfil do usuário.",
     "compat": 7,
     "preco": 60,
@@ -50751,7 +50751,7 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Especiado-frio-amadeirado, o melhor encaixe do lote pro perfil do usuário — vale ser prioridade de teste.",
     "compat": 8,
     "preco": 60,
@@ -50872,7 +50872,7 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Amadeirado-oriental com toque atalcado (orris), mas coração floral-doce foge um pouco do eixo cítrico-frio do usuário.",
     "compat": 5,
     "preco": 60,
@@ -51356,7 +51356,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Nicho",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Cítrico-amadeirado-verde, bom encaixe pro perfil do usuário, apesar da fixação curta.",
     "compat": 7,
     "preco": 700,
@@ -51535,7 +51535,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Cítrico-amadeirado, bom encaixe pro perfil do usuário.",
     "compat": 7,
     "preco": 60,
@@ -51547,7 +51547,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 7.8,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Ameno"
@@ -51944,7 +51944,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Cítrico-couro-verde, bom encaixe pro perfil executivo do usuário.",
     "compat": 7,
     "preco": 60,
@@ -52003,7 +52003,7 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Amadeirado-tabaco, bom encaixe moderado pro usuário.",
     "compat": 6,
     "preco": 60,
@@ -52119,7 +52119,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Cítrico-amadeirado-especiado-frio, um dos melhores encaixes do lote.",
     "compat": 8,
     "preco": 60,
@@ -52179,7 +52179,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Cítrico-amadeirado-verde, bom encaixe pro perfil do usuário.",
     "compat": 7,
     "preco": 60,
@@ -52297,7 +52297,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Cítrico-aromático-verde, bom encaixe pro usuário.",
     "compat": 6,
     "preco": 60,
@@ -52309,7 +52309,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 7.8,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Calor"
