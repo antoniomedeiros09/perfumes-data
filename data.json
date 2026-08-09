@@ -5305,7 +5305,7 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Possui",
     "veredito": "",
     "compat": 10,
     "preco": null,
@@ -8664,7 +8664,7 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Interesse",
+    "status": "Possui",
     "veredito": "",
     "compat": 10,
     "preco": null,
@@ -16978,7 +16978,7 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Possui",
     "veredito": "",
     "compat": 10.0,
     "preco": 380.0,
@@ -46538,7 +46538,7 @@
     ],
     "origem": "Árabe",
     "status": "Interesse",
-    "veredito": "Clone honesto pelo preço, mas não é sério pra uso do dia a dia — fixação curta.",
+    "veredito": "Clone honesto pelo preço, mas não é sério pra uso do dia a dia — fixação curta. Confirmado em thread dedicada da comunidade: boa abertura defumada-abacaxi, mas fixacao curta.",
     "compat": 6,
     "preco": 50,
     "exp": "Blind Buy",
@@ -52344,5 +52344,188 @@
     "vers": 6,
     "link": null,
     "resumo": "Contratipo nacional do Light Blue pour Homme Italian Love (D&G, descontinuado) — toranja realista sobre lavanda."
+  },
+  {
+    "id": 863,
+    "nome": "Domini (Nuancielo)",
+    "dna": "Santal 33 (Le Labo)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Amadeirado-atalcado-couro, bom encaixe pro perfil do usuário, com validação de comunidade real.",
+    "compat": 6,
+    "preco": 200,
+    "exp": "Sample First",
+    "nota": 6.8,
+    "score": 7.0,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.5,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Atalcado",
+      "Couro"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Amadeirado",
+      "Atalcado",
+      "Couro",
+      "Especiado"
+    ],
+    "notas": [
+      "Papiro",
+      "Íris",
+      "Cedro da Virgínia",
+      "Cardamomo",
+      "Sândalo",
+      "Couro"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 6,
+    "simil": 7,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo nacional do Santal 33 (Le Labo) — review detalhado no Fragrantica compara diretamente ao DNA (papiro, íris, cedro, sândalo, couro) e afirma superar outro contratipo nacional (Phebo Santalum) em performance e complexidade."
+  },
+  {
+    "id": 864,
+    "nome": "Honour Faan Parfum",
+    "dna": "Outlands (Amouage)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Amadeirado-especiado-resinoso, moderadamente alinhado, mas com fidelidade incerta pra esse DNA específico.",
+    "compat": 5,
+    "preco": 200,
+    "exp": "Sample First",
+    "nota": 6.4,
+    "score": 6.95,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Especiado",
+      "Amadeirado",
+      "Resinoso"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Especiado",
+      "Resinoso",
+      "Amadeirado",
+      "Ambarado"
+    ],
+    "notas": [
+      "Elemi",
+      "Pimenta de Sichuan",
+      "Limão",
+      "Cardamomo",
+      "Patchouli",
+      "Oud"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 8,
+    "simil": 6,
+    "vers": 5,
+    "link": null,
+    "resumo": "Contratipo do Outlands (Amouage, 2024) — cítricos e especiarias sobre patchouli e oud, fundo ambarado-resinoso. ⚠️ Confiança baixa: não encontrei reviews independentes específicas desse contratipo, e um reviewer do original nota que 'nenhum dos contratipos que já testei chega perto' desse DNA em particular — é um perfume difícil de clonar bem."
+  },
+  {
+    "id": 865,
+    "nome": "Iconic Inverse (Aurora Scents)",
+    "dna": "Acqua di Gio Parfum (Giorgio Armani)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Aquático-especiado-atalcado, boa validação de comunidade, mas fica na zona de alerta oceânica do usuário.",
+    "compat": 6,
+    "preco": 150,
+    "exp": "Sample First",
+    "nota": 7.8,
+    "score": 7.92,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.57,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Aquático",
+      "Especiado",
+      "Atalcado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Aquático",
+      "Especiado",
+      "Atalcado",
+      "Ambarado"
+    ],
+    "notas": [
+      "Notas Marinhas",
+      "Sal",
+      "Incenso",
+      "Patchouli",
+      "Âmbar"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7.5,
+    "cb": 9,
+    "simil": 8,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo confirmado por múltiplos reviews independentes do Acqua di Giò Profumo Parfum (nota: fontes citam especificamente a versão 'Profumo', flanker de 2015, não a versão base 'Parfum' de 2021) — 'descreve com precisão', 'boa alternativa pra quem sente falta do original', 7-8h de fixação."
   }
 ]
