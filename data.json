@@ -1348,15 +1348,17 @@
     "vers": 5,
     "link": null,
     "resumo": "Contratipo de Santal 33 (Le Labo) — o cardamomo é a nota que mais se destaca, dando o calor especiado sobre o sândalo de fundo, sobre um acorde de couro predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
+    "prioridade": null,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "346",
       "464",
-      "497",
       "682",
-      "739",
+      "761",
       "740",
-      "761"
+      "863",
+      "497",
+      "739",
+      "346"
     ]
   },
   {
@@ -2537,11 +2539,12 @@
     "prioridade": null,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
-      "221",
-      "263",
       "321",
+      "776",
+      "221",
       "147",
-      "776"
+      "263",
+      "875"
     ]
   },
   {
@@ -6277,7 +6280,11 @@
     "vers": 8,
     "link": "https://lab8oficial.com.br/produtos/strategy-100ml-ztgql/",
     "resumo": "Abre em Maçã e Cipreste, evolui pro coração de Íris, fundo de Almíscar. Fixação excepcional, acima de 10h, projeção que cresce ao longo do uso em vez de desaparecer. Boa fidelidade ao original, com pequenas diferenças perceptíveis de perto.",
-    "prioridade": true
+    "prioridade": true,
+    "calibradoEm": "2026-08-17",
+    "calibradoContra": [
+      "209"
+    ]
   },
   {
     "id": 100,
@@ -8871,15 +8878,17 @@
     "vers": 8.0,
     "link": "https://www.azzaparfums.com.br/produtos/yourself-inspiracao-olfativa-myslf-ysl/",
     "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — o patchouli da Indonésia é a nota que mais se destaca, dando profundidade terrosa sob a flor de laranjeira de abertura, sobre um acorde de flor de laranjeira predominante. Melhor em clima ameno, para trabalho ou social/noite.",
+    "prioridade": null,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "227",
-      "242",
-      "351",
-      "456",
       "620",
+      "242",
+      "809",
+      "829",
+      "456",
       "690",
-      "809"
+      "227",
+      "351"
     ]
   },
   {
@@ -9376,11 +9385,12 @@
     "prioridade": null,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
+      "321",
       "43",
+      "776",
       "221",
       "263",
-      "321",
-      "776"
+      "875"
     ]
   },
   {
@@ -9917,9 +9927,10 @@
     "prioridade": null,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "577",
+      "880",
+      "806",
       "635",
-      "806"
+      "577"
     ]
   },
   {
@@ -12867,13 +12878,14 @@
     "link": "https://www.thekingofparfums.com.br/produtos/riiffs-taif-edp-100ml/",
     "resumo": "Contratipo de Ingenious Ginger (Goldfield & Banks) — o gengibre é a nota que mais se destaca, dando o calor especiado que dá nome ao original, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "prioridade": null,
-    "fotoInspiracao": "fotos/401.jpg",
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "401",
       "454",
+      "401",
+      "871",
       "666"
-    ]
+    ],
+    "fotoInspiracao": "fotos/401.jpg"
   },
   {
     "id": 209,
@@ -12931,7 +12943,9 @@
     "resumo": "Contratipo de Queening (Mind Games) — as notas atalcadas são o destaque, dando a textura macia sobre a baunilha de fundo, sobre um acorde de baunilha predominante. Melhor em clima ameno a frio, para social/noite ou assinatura/casual.",
     "prioridade": null,
     "calibradoEm": "2026-08-06",
-    "calibradoContra": null
+    "calibradoContra": [
+      "99"
+    ]
   },
   {
     "id": 210,
@@ -13662,11 +13676,12 @@
     "prioridade": null,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
-      "43",
-      "263",
       "321",
+      "43",
+      "776",
       "147",
-      "776"
+      "263",
+      "875"
     ],
     "fotoInspiracao": "fotos/147_insp.jpg"
   },
@@ -13934,17 +13949,18 @@
     "link": null,
     "resumo": "Fragrância moderna e \"clean\" que transita perfeitamente entre o casual e o formal. Flor de laranjeira masculina e sofisticada.",
     "prioridade": true,
-    "fotoInspiracao": "fotos/140_insp.jpg",
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "140",
-      "242",
-      "351",
-      "456",
       "620",
+      "242",
+      "809",
+      "829",
+      "456",
+      "140",
       "690",
-      "809"
-    ]
+      "351"
+    ],
+    "fotoInspiracao": "fotos/140_insp.jpg"
   },
   {
     "id": 228,
@@ -14071,7 +14087,13 @@
     "resumo": "Original de nicho — o palo santo é a nota que mais se destaca, dando o toque amadeirado-defumado incomum sobre a baunilha, sobre um acorde de coco predominante. Melhor em clima ameno a frio, para social/noite ou assinatura/casual.",
     "prioridade": null,
     "calibradoEm": "2026-08-06",
-    "calibradoContra": null,
+    "calibradoContra": [
+      "763",
+      "459",
+      "567",
+      "297",
+      "837"
+    ],
     "fotoInspiracao": "fotos/31.jpg"
   },
   {
@@ -14842,15 +14864,17 @@
     "vers": 10.0,
     "link": "https://www.thekingofparfums.com.br/",
     "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — a flor de laranjeira é a nota que mais se destaca, dando o coração floral-limpo sobre o patchouli de fundo, sobre um acorde ambarado predominante. Melhor em clima ameno, para trabalho ou social/noite.",
+    "prioridade": null,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "140",
-      "227",
-      "351",
-      "456",
       "620",
+      "809",
+      "829",
+      "456",
+      "140",
       "690",
-      "809"
+      "227",
+      "351"
     ]
   },
   {
@@ -16129,11 +16153,12 @@
     "prioridade": null,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
-      "43",
-      "221",
       "321",
+      "43",
+      "776",
+      "221",
       "147",
-      "776"
+      "875"
     ],
     "fotoInspiracao": "fotos/147_insp.jpg"
   },
@@ -17658,7 +17683,8 @@
     "prioridade": null,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
-      "561"
+      "561",
+      "872"
     ],
     "fotoInspiracao": "fotos/9_insp.jpg"
   },
@@ -17996,10 +18022,11 @@
     "prioridade": true,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
-      "459",
       "763",
+      "459",
       "567",
-      "229"
+      "229",
+      "837"
     ],
     "fotoInspiracao": "fotos/31.jpg"
   },
@@ -19338,10 +19365,11 @@
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
       "43",
+      "776",
       "221",
       "263",
       "147",
-      "776"
+      "875"
     ],
     "fotoInspiracao": "fotos/43_insp.jpg"
   },
@@ -26570,13 +26598,14 @@
     "link": null,
     "resumo": "Contratipo de Ingenious Ginger (Goldfield & Banks) — o gengibre é a nota que mais se destaca, dando o calor especiado que dá nome ao original, sobre um acorde especiado-fresco predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "prioridade": null,
-    "fotoInspiracao": "fotos/401.jpg",
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "208",
       "401",
+      "871",
+      "208",
       "666"
-    ]
+    ],
+    "fotoInspiracao": "fotos/401.jpg"
   },
   {
     "id": 455,
@@ -26642,15 +26671,16 @@
     "prioridade": null,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
-      "679",
-      "513"
+      "882",
+      "513",
+      "679"
     ],
     "fotoInspiracao": "fotos/228.jpg"
   },
   {
     "id": 456,
     "nome": "Narcisus",
-    "dna": "MYSLF (Yves Saint Laurent - YSL)",
+    "dna": "MYSLF Le Parfum (Yves Saint Laurent - YSL)",
     "cat": "Fresh Elegante",
     "ocasiao": [
       "Trabalho",
@@ -26658,18 +26688,18 @@
     ],
     "origem": "Árabe",
     "status": "Interesse",
-    "veredito": "",
+    "veredito": "Reclassificado de dupe do MYSLF EDP para MYSLF Le Parfum — notas (pimenta rosa, gerânio, sândalo, tonka, sem ambrofix/patchouli/flor de laranjeira) batem muito mais com o perfil floral-amadeirado-baunilhado do Le Parfum do que com o EDP cítrico-ambrofix.",
     "compat": 6.0,
     "preco": 200.0,
     "exp": "Sample First",
     "nota": 6.0,
-    "score": 7.63,
+    "score": 7.64,
     "rankDNA": 9,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": 8.53,
-    "gpf": 2.67,
+    "sdt": 8.57,
+    "gpf": 5.33,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -26704,18 +26734,20 @@
     "simil": 6.0,
     "vers": 6.0,
     "link": null,
-    "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — a pimenta rosa é a nota que mais se destaca, dando o contraste picante à bergamota de abertura, sobre um acorde ambarado predominante. Melhor em clima ameno, para trabalho ou social/noite.",
-    "fotoInspiracao": "fotos/242_insp.jpg",
+    "resumo": "Contratipo do MYSLF Le Parfum (YSL) — reclassificado nesta rodada (antes mapeado como EDP). Pimenta rosa e gerânio sobre sândalo e tonka, perfil mais floral-amadeirado-baunilhado, sem os marcadores de ambrofix/patchouli/flor de laranjeira do EDP. Melhor em clima frio a ameno, para trabalho ou social/noite.",
+    "prioridade": null,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "140",
-      "227",
-      "242",
-      "351",
       "620",
+      "242",
+      "735",
+      "809",
+      "140",
       "690",
-      "809"
-    ]
+      "227",
+      "351"
+    ],
+    "fotoInspiracao": "fotos/242_insp.jpg"
   },
   {
     "id": 457,
@@ -26914,9 +26946,10 @@
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
       "763",
-      "297",
       "567",
-      "229"
+      "229",
+      "297",
+      "837"
     ],
     "fotoInspiracao": "fotos/31.jpg"
   },
@@ -27237,17 +27270,19 @@
     "vers": 6,
     "link": null,
     "resumo": "Contratipo de Santal 33 (Le Labo) — a cenoura é a nota que mais se destaca, dando o toque terroso-incomum sobre o elemi de abertura, sobre um acorde amadeirado predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
-    "fotoInspiracao": "fotos/23_insp.jpg",
+    "prioridade": null,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "23",
-      "346",
-      "497",
       "682",
-      "739",
+      "23",
+      "761",
       "740",
-      "761"
-    ]
+      "863",
+      "497",
+      "739",
+      "346"
+    ],
+    "fotoInspiracao": "fotos/23_insp.jpg"
   },
   {
     "id": 465,
@@ -29338,17 +29373,19 @@
     "vers": 5,
     "link": "https://www.ouiparis.com/oui-riviere-bleue-eau-de-parfum-masculino-75ml/",
     "resumo": "Contratipo de Santal 33 (Le Labo) — a folha de violeta é a nota que mais se destaca, dando o toque atalcado-verde sobre o cardamomo de abertura, sobre um acorde de cedro predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
-    "fotoInspiracao": "fotos/23_insp.jpg",
+    "prioridade": null,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "23",
-      "346",
       "464",
       "682",
-      "739",
+      "23",
+      "761",
       "740",
-      "761"
-    ]
+      "863",
+      "739",
+      "346"
+    ],
+    "fotoInspiracao": "fotos/23_insp.jpg"
   },
   {
     "id": 498,
@@ -30397,6 +30434,7 @@
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
       "455",
+      "882",
       "679"
     ],
     "fotoInspiracao": "fotos/228.jpg"
@@ -33470,6 +33508,7 @@
     "prioridade": null,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
+      "872",
       "289"
     ],
     "fotoInspiracao": "fotos/9_insp.jpg"
@@ -33853,10 +33892,11 @@
     "prioridade": null,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
-      "459",
       "763",
+      "459",
+      "229",
       "297",
-      "229"
+      "837"
     ],
     "fotoInspiracao": "fotos/31.jpg"
   },
@@ -34443,9 +34483,9 @@
       "Assinatura/Casual"
     ],
     "origem": "Designer",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
-    "compat": 8.0,
+    "compat": 8,
     "preco": null,
     "exp": "Sample First",
     "nota": 7.2,
@@ -34484,22 +34524,23 @@
       "Notas Florais",
       "Patchouli"
     ],
-    "fix": 8.0,
-    "projI": 7.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 4.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "fix": 8,
+    "projI": 7,
+    "projD": 6,
+    "qual": 8,
+    "cb": 4,
+    "simil": 8,
+    "vers": 8,
     "link": "https://www.sephora.com.br/perfume-ysl-myslf-labsolu-eau-de-parfum-100ml/p/586125",
     "resumo": "Original designer (2023), flanker intensificado da linha MYSLF — o cardamomo é a nota que mais se destaca, dando o calor especiado sobre a flor de laranjeira de abertura, sobre um acorde de flor de laranjeira predominante. Melhor em clima ameno, para trabalho ou social/noite.",
-    "fotoInspiracao": null,
+    "prioridade": null,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
       "156",
       "635",
       "806"
-    ]
+    ],
+    "fotoInspiracao": null
   },
   {
     "id": 578,
@@ -35170,13 +35211,13 @@
       "Evento Formal"
     ],
     "origem": "Nicho",
-    "status": "Forte Interesse",
+    "status": "Curiosidade",
     "veredito": "",
     "compat": 9,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 7.73,
-    "score": 9.74,
+    "score": 8.24,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
@@ -37327,17 +37368,18 @@
     "link": null,
     "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — o ambrofix é a nota que mais se destaca, dando profundidade almiscarada à flor de laranjeira de abertura, sobre um acorde de flor de laranjeira predominante. Melhor em clima ameno, para trabalho ou social/noite.",
     "prioridade": true,
-    "fotoInspiracao": "fotos/242_insp.jpg",
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "140",
-      "227",
       "242",
-      "351",
+      "809",
+      "829",
       "456",
+      "140",
       "690",
-      "809"
-    ]
+      "227",
+      "351"
+    ],
+    "fotoInspiracao": "fotos/242_insp.jpg"
   },
   {
     "id": 621,
@@ -38271,7 +38313,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 9,
     "preco": null,
@@ -38324,14 +38366,14 @@
     "vers": 8,
     "link": null,
     "resumo": "Fresh amadeirado floral intensificado. Versão mais encorpada do MYSLF. Gengibre e cardamomo picantes. Perfil executivo moderno. Altamente alinhado ao gosto.",
-    "prioridade": true,
-    "fotoInspiracao": "fotos/577.jpg",
+    "prioridade": false,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
       "156",
       "577",
       "806"
-    ]
+    ],
+    "fotoInspiracao": "fotos/577.jpg"
   },
   {
     "id": 636,
@@ -40319,13 +40361,14 @@
     "link": "https://www.fragrantica.com/perfume/Arabiyat-Prestige/Aristo-107847.html",
     "resumo": "Contratipo de Ingenious Ginger (Goldfield & Banks) — o gengibre é a nota que mais se destaca, dando o calor especiado que dá nome ao original, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "prioridade": true,
-    "fotoInspiracao": "fotos/401.jpg",
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "208",
+      "454",
       "401",
-      "454"
-    ]
+      "871",
+      "208"
+    ],
+    "fotoInspiracao": "fotos/401.jpg"
   },
   {
     "id": 667,
@@ -41168,6 +41211,7 @@
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
       "455",
+      "882",
       "513"
     ]
   },
@@ -43272,7 +43316,7 @@
       "Casual"
     ],
     "origem": "Nicho",
-    "status": "Interesse",
+    "status": "Curiosidade",
     "veredito": "Original renomado mas de fixação mediana — território fresco muito alinhado ao gosto do usuário.",
     "compat": 8,
     "preco": 950,
@@ -43464,7 +43508,7 @@
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.65,
-    "score": 7.21,
+    "score": 7.71,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": true,
@@ -43507,7 +43551,12 @@
     "simil": 7,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo de MYSLF Le Parfum (Yves Saint Laurent - YSL) — a pimenta preta é a nota que mais se destaca, dando o toque picante sobre a flor de laranjeira de abertura, sobre um acorde floral predominante. Melhor em clima ameno a frio, para trabalho ou social/noite."
+    "resumo": "Contratipo de MYSLF Le Parfum (Yves Saint Laurent - YSL) — a pimenta preta é a nota que mais se destaca, dando o toque picante sobre a flor de laranjeira de abertura, sobre um acorde floral predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-17",
+    "calibradoContra": [
+      "456"
+    ]
   },
   {
     "id": 682,
@@ -43568,18 +43617,20 @@
     "vers": 7,
     "link": null,
     "resumo": "Contratipo de Santal 33 (Le Labo) — a violeta é a nota que mais se destaca, dando o toque atalcado sobre o cardamomo de abertura, sobre um acorde atalcado predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
-    "ind": 8.75,
-    "dap": 5.0,
+    "prioridade": null,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "23",
-      "346",
       "464",
+      "23",
+      "761",
+      "740",
+      "863",
       "497",
       "739",
-      "740",
-      "761"
-    ]
+      "346"
+    ],
+    "ind": 8.75,
+    "dap": 5.0
   },
   {
     "id": 683,
@@ -43965,7 +44016,7 @@
     ],
     "origem": "Árabe",
     "status": "Interesse",
-    "veredito": "",
+    "veredito": " (Nota: notas de gerânio+tonka sem ambrofix/patchouli poderiam sugerir Le Parfum também, mas o cítrico forte de bergamota+grapefruit é mais característico do EDP — mantido como EDP por ora, ambiguidade sinalizada.)",
     "compat": 8,
     "preco": 250,
     "exp": "Blind Buy",
@@ -44012,18 +44063,20 @@
     "vers": 7,
     "link": null,
     "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — o gerânio é a nota que mais se destaca, dando o toque verde-floral sobre a bergamota de abertura, sobre um acorde aromático predominante. Melhor em clima ameno, para trabalho ou assinatura/casual.",
-    "ind": 10.0,
-    "dap": 3.75,
+    "prioridade": null,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
+      "620",
+      "242",
+      "809",
+      "829",
+      "456",
       "140",
       "227",
-      "242",
-      "351",
-      "456",
-      "620",
-      "809"
-    ]
+      "351"
+    ],
+    "ind": 10.0,
+    "dap": 3.75
   },
   {
     "id": 691,
@@ -44851,13 +44904,14 @@
     "prioridade": true,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "23",
-      "346",
       "464",
-      "497",
       "682",
+      "23",
+      "761",
       "740",
-      "761"
+      "863",
+      "497",
+      "346"
     ]
   },
   {
@@ -44921,15 +44975,17 @@
     "vers": 6,
     "link": null,
     "resumo": "Contratipo de Santal 33 (Le Labo) — o pêssego é a nota que mais se destaca, dando o toque frutado incomum sobre o neroli de abertura, sobre um acorde floral predominante. Melhor em clima ameno a frio, para social/noite ou assinatura/casual.",
+    "prioridade": null,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "23",
-      "346",
       "464",
-      "497",
       "682",
+      "23",
+      "761",
+      "863",
+      "497",
       "739",
-      "761"
+      "346"
     ]
   },
   {
@@ -46265,15 +46321,17 @@
     "vers": 6,
     "link": null,
     "resumo": "Contratipo de Santal 33 (Le Labo) — a camurça é a nota que mais se destaca, dando a textura macia sobre o sândalo de fundo, sobre um acorde amadeirado predominante. Melhor em clima ameno, para trabalho, social/noite ou assinatura/casual.",
+    "prioridade": null,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "23",
-      "346",
       "464",
-      "497",
       "682",
+      "23",
+      "863",
+      "740",
+      "497",
       "739",
-      "740"
+      "346"
     ]
   },
   {
@@ -46400,9 +46458,10 @@
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
       "459",
-      "297",
       "567",
-      "229"
+      "229",
+      "297",
+      "837"
     ]
   },
   {
@@ -47203,11 +47262,12 @@
     "prioridade": null,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
+      "321",
       "43",
       "221",
       "263",
-      "321",
-      "147"
+      "147",
+      "875"
     ]
   },
   {
@@ -48985,7 +49045,7 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "Contratipo bem avaliado do MYSLF L'Absolu, boa opção de entrada nesse DNA.",
     "compat": 6,
     "preco": 180,
@@ -49223,15 +49283,17 @@
     "vers": 6,
     "link": null,
     "resumo": "Contratipo de MYSLF (Yves Saint Laurent - YSL) — a bergamota calabresa é a nota que mais se destaca, dando o frescor cítrico sobre a flor de laranjeira de coração, sobre um acorde floral predominante. Melhor em clima ameno, para trabalho ou assinatura/casual.",
+    "prioridade": null,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
-      "140",
-      "227",
-      "242",
-      "351",
-      "456",
       "620",
-      "690"
+      "242",
+      "829",
+      "456",
+      "140",
+      "690",
+      "227",
+      "351"
     ]
   },
   {
@@ -50334,13 +50396,13 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Bom encaixe cítrico-amadeirado, alinhado ao arquétipo do usuário.",
     "compat": 7,
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.5,
-    "score": 7.78,
+    "score": 8.28,
     "rankDNA": 7,
     "flagDNA": false,
     "melhorNac": false,
@@ -50381,7 +50443,17 @@
     "simil": 7,
     "vers": 7,
     "link": null,
-    "resumo": "Contratipo nacional do MYSLF (YSL) — mesma pirâmide de referência (bergamota, flor de laranjeira, ambrofix, patchouli) dos outros dupes desse DNA já mapeados."
+    "resumo": "Contratipo nacional do MYSLF (YSL) — mesma pirâmide de referência (bergamota, flor de laranjeira, ambrofix, patchouli) dos outros dupes desse DNA já mapeados.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-17",
+    "calibradoContra": [
+      "140",
+      "227",
+      "242",
+      "620",
+      "690",
+      "809"
+    ]
   },
   {
     "id": 830,
@@ -50813,13 +50885,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Atalcado-baunilhado alinhado à textura preferida do usuário, unissex.",
     "compat": 6,
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.35,
-    "score": 6.7,
+    "score": 7.2,
     "rankDNA": 7,
     "flagDNA": false,
     "melhorNac": false,
@@ -50861,7 +50933,16 @@
     "simil": 7,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo nacional do Vanilla Powder (Matière Première) — mesmo DNA de outros 5 dupes já mapeados na base (Powder JA Essence, Fursan White, Fleure, Fleurie Violette)."
+    "resumo": "Contratipo nacional do Vanilla Powder (Matière Première) — mesmo DNA de outros 5 dupes já mapeados na base (Powder JA Essence, Fursan White, Fleure, Fleurie Violette).",
+    "prioridade": null,
+    "calibradoEm": "2026-08-17",
+    "calibradoContra": [
+      "229",
+      "297",
+      "459",
+      "567",
+      "763"
+    ]
   },
   {
     "id": 838,
@@ -52356,13 +52437,13 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Amadeirado-atalcado-couro, bom encaixe pro perfil do usuário, com validação de comunidade real.",
     "compat": 6,
     "preco": 200,
     "exp": "Sample First",
     "nota": 6.8,
-    "score": 7.0,
+    "score": 8.5,
     "rankDNA": 8,
     "flagDNA": false,
     "melhorNac": false,
@@ -52405,7 +52486,18 @@
     "simil": 7,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo nacional do Santal 33 (Le Labo) — review detalhado no Fragrantica compara diretamente ao DNA (papiro, íris, cedro, sândalo, couro) e afirma superar outro contratipo nacional (Phebo Santalum) em performance e complexidade."
+    "resumo": "Contratipo nacional do Santal 33 (Le Labo) — review detalhado no Fragrantica compara diretamente ao DNA (papiro, íris, cedro, sândalo, couro) e afirma superar outro contratipo nacional (Phebo Santalum) em performance e complexidade.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-17",
+    "calibradoContra": [
+      "23",
+      "464",
+      "497",
+      "682",
+      "739",
+      "740",
+      "761"
+    ]
   },
   {
     "id": 864,
@@ -52843,13 +52935,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Cítrico-especiado-amadeirado, bom encaixe pro perfil do usuário.",
     "compat": 6,
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.15,
-    "score": 6.88,
+    "score": 8.38,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -52892,7 +52984,14 @@
     "simil": 7,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo nacional do Ingenious Ginger (Goldfield & Banks), declarado pela própria Nuancielo. Flor de gengibre cítrica sobre um fundo baunilhado-amadeirado com cashmeran."
+    "resumo": "Contratipo nacional do Ingenious Ginger (Goldfield & Banks), declarado pela própria Nuancielo. Flor de gengibre cítrica sobre um fundo baunilhado-amadeirado com cashmeran.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-17",
+    "calibradoContra": [
+      "208",
+      "454",
+      "666"
+    ]
   },
   {
     "id": 872,
@@ -52904,13 +53003,13 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Frutado-especiado-ambarado, moderadamente alinhado ao eixo do usuário.",
     "compat": 5,
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 6.7,
-    "score": 7.17,
+    "score": 7.67,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -52953,7 +53052,13 @@
     "simil": 6,
     "vers": 5,
     "link": null,
-    "resumo": "Contratipo nacional posicionado pela Nuancielo na família de âmbares especiados como Armani Code Absolu, The One EDP e Stronger With You Intensely — referência de território, não clone 1:1 declarado."
+    "resumo": "Contratipo nacional posicionado pela Nuancielo na família de âmbares especiados como Armani Code Absolu, The One EDP e Stronger With You Intensely — referência de território, não clone 1:1 declarado.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-17",
+    "calibradoContra": [
+      "289",
+      "561"
+    ]
   },
   {
     "id": 873,
@@ -53085,13 +53190,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Cítrico-amadeirado, um dos melhores encaixes do lote pro perfil do usuário.",
     "compat": 7,
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.5,
-    "score": 7.72,
+    "score": 8.22,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -53135,7 +53240,17 @@
     "simil": 7,
     "vers": 7,
     "link": null,
-    "resumo": "Contratipo nacional do Tygar (Bvlgari), declarado pela própria Maison Viegas. Toranja radiante sobre gengibre e ambrette, fundo âmbar-amadeirado."
+    "resumo": "Contratipo nacional do Tygar (Bvlgari), declarado pela própria Maison Viegas. Toranja radiante sobre gengibre e ambrette, fundo âmbar-amadeirado.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-17",
+    "calibradoContra": [
+      "43",
+      "147",
+      "221",
+      "263",
+      "321",
+      "776"
+    ]
   },
   {
     "id": 876,
@@ -53386,13 +53501,13 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Cítrico-floral-amadeirado, bom encaixe estrutural, mas fidelidade ao MYSLF L'Absolu não confirmada com certeza.",
     "compat": 6,
     "preco": 150,
     "exp": "Sample First",
     "nota": 6.95,
-    "score": 6.78,
+    "score": 7.28,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -53434,7 +53549,14 @@
     "simil": 7,
     "vers": 6,
     "link": null,
-    "resumo": "Original de nicho árabe (2025) — estrutura (cardamomo-bergamota-gengibre / flor de laranjeira-neroli / ambroxan-almíscar) é estruturalmente compatível com a família MYSLF, mas não encontrei confirmação explícita de clone declarado."
+    "resumo": "Original de nicho árabe (2025) — estrutura (cardamomo-bergamota-gengibre / flor de laranjeira-neroli / ambroxan-almíscar) é estruturalmente compatível com a família MYSLF, mas não encontrei confirmação explícita de clone declarado.",
+    "prioridade": null,
+    "calibradoEm": "2026-08-17",
+    "calibradoContra": [
+      "156",
+      "635",
+      "806"
+    ]
   },
   {
     "id": 881,
@@ -53494,7 +53616,10 @@
     "simil": 5,
     "vers": 4,
     "link": null,
-    "resumo": "Original próprio (2025), \"gourmand moderno\" de figo — reviews mistas (\"deveria se chamar Lemon Hug\", \"não tão coeso\"). Mais cremoso-gourmand que o Fico di Amalfi (que é mais cítrico-seco), fidelidade duvidosa a esse DNA específico."
+    "resumo": "Original próprio (2025), \"gourmand moderno\" de figo — reviews mistas (\"deveria se chamar Lemon Hug\", \"não tão coeso\"). Mais cremoso-gourmand que o Fico di Amalfi (que é mais cítrico-seco), fidelidade duvidosa a esse DNA específico.",
+    "prioridade": true,
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 882,
@@ -53518,7 +53643,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 8.8,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Ameno"
@@ -53553,7 +53678,14 @@
     "simil": 8,
     "vers": 7,
     "link": null,
-    "resumo": "Contratipo nacional do Bal d'Afrique Absolu (Byredo) — versão \"Absolu\" do Imaginary Trip que já está mapeado pro Bal d'Afrique base, seguindo a mesma linha da marca."
+    "resumo": "Contratipo nacional do Bal d'Afrique Absolu (Byredo) — versão \"Absolu\" do Imaginary Trip que já está mapeado pro Bal d'Afrique base, seguindo a mesma linha da marca.",
+    "prioridade": true,
+    "calibradoEm": "2026-08-17",
+    "calibradoContra": [
+      "455",
+      "513",
+      "679"
+    ]
   },
   {
     "id": 883,
@@ -53612,7 +53744,10 @@
     "simil": 8,
     "vers": 7,
     "link": null,
-    "resumo": "Contratipo nacional do Buongiorno (Acqua di Parma) — manjericão fresco sobre cítricos e madeiras limpas."
+    "resumo": "Contratipo nacional do Buongiorno (Acqua di Parma) — manjericão fresco sobre cítricos e madeiras limpas.",
+    "prioridade": true,
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 884,
@@ -53636,7 +53771,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 8.8,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Ameno"
@@ -53670,7 +53805,10 @@
     "simil": 7,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo nacional do Cedar Chic (Carolina Herrera) — mesmo DNA controverso do original (reviews divididas entre elogio e crítica forte)."
+    "resumo": "Contratipo nacional do Cedar Chic (Carolina Herrera) — mesmo DNA controverso do original (reviews divididas entre elogio e crítica forte).",
+    "prioridade": true,
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 885,
@@ -54930,5 +55068,432 @@
     "vers": 5,
     "link": null,
     "resumo": "Fragrância árabe de contratipo/orçamento (Parfums d'Adel). ⚠️ Não encontrei ficha técnica confiável independente — notas estimadas por categoria geral, confiança baixa."
+  },
+  {
+    "id": 906,
+    "nome": "MYSLF Le Parfum (Yves Saint Laurent - YSL)",
+    "dna": "MYSLF Le Parfum (Yves Saint Laurent - YSL)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Terceiro flanker da linha MYSLF (2024) — mais floral, encorpado e amadeirado que o EDP, lembra o descontinuado L'Homme Parfum Intense. Fora do eixo pessoal do usuário.",
+    "compat": 4,
+    "preco": 650,
+    "exp": "Sample First",
+    "nota": 6.8,
+    "score": 7.1,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.5,
+    "gpf": 5.0,
+    "conc": "Parfum",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Floral",
+      "Especiado",
+      "Amadeirado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Floral",
+      "Especiado",
+      "Ambarado",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Pimenta Preta",
+      "Flor de Laranjeira",
+      "Íris",
+      "Baunilha",
+      "Bourbon",
+      "Sândalo"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 6,
+    "qual": 8,
+    "cb": 5,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Original designer (2024) — terceiro flanker da linha MYSLF, mais intenso e floral que o EDP (2023): pimenta preta na abertura, coração floral branco rico, fundo cremoso de baunilha e bourbon. Comunidade compara ao descontinuado L'Homme Parfum Intense (YSL) e ao Born In Roma Extradose (Valentino). Melhor em clima frio a ameno, para trabalho ou social/noite."
+  },
+  {
+    "id": 907,
+    "nome": "Ralph's Club EDT (Ralph Lauren)",
+    "dna": "Ralph's Club EDT (Ralph Lauren)",
+    "cat": "Fresh Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-aromático-amadeirado, ótimo encaixe pro perfil do usuário — o mais versátil e diurno da linha.",
+    "compat": 7,
+    "preco": 450,
+    "exp": "Sample First",
+    "nota": 7.13,
+    "score": 7.56,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.07,
+    "gpf": 5.33,
+    "conc": "EDT",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Mandarina",
+      "Toranja",
+      "Maçã",
+      "Lavanda",
+      "Lírio-do-Vale",
+      "Vetiver"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 5,
+    "qual": 8,
+    "cb": 6,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Flanker mais fresco da linha (2024) — considerado por muitos reviewers \"o melhor da linha\": cítrico-lavanda com fundo levemente pulverizado, performance surpreendentemente boa pra uma EDT. Melhor em clima ameno a calor, para trabalho ou assinatura/casual."
+  },
+  {
+    "id": 908,
+    "nome": "Ralph's Club Parfum (Ralph Lauren)",
+    "dna": "Ralph's Club Parfum (Ralph Lauren)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Aromático-amadeirado-frutado, bom encaixe, versão mais robusta da EDP original.",
+    "compat": 6,
+    "preco": 500,
+    "exp": "Sample First",
+    "nota": 6.87,
+    "score": 7.61,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "Parfum",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Frutado",
+      "Aromático",
+      "Amadeirado",
+      "Doce"
+    ],
+    "notas": [
+      "Mandarina Italiana",
+      "Groselha Preta",
+      "Bergamota",
+      "Lavanda",
+      "Sândalo",
+      "Baunilha Bourbon"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Versão mais intensa e concentrada da EDP original (2023) — \"melhora tudo\", mais rica e mais duradoura, mesma DNA só que mais encorpada. Melhor em clima frio a ameno, para trabalho ou social/noite."
+  },
+  {
+    "id": 909,
+    "nome": "Ralph's Club New York Parfum (Ralph Lauren)",
+    "dna": "Ralph's Club New York Parfum (Ralph Lauren)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Amadeirado-doce-especiado noturno, moderadamente alinhado — mais açucarado/oud que o eixo cítrico-frio do usuário prefere.",
+    "compat": 5,
+    "preco": 550,
+    "exp": "Sample First",
+    "nota": 6.93,
+    "score": 7.47,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.37,
+    "gpf": 4.33,
+    "conc": "Parfum",
+    "clima": [
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Doce",
+      "Amadeirado",
+      "Oud"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Doce",
+      "Amadeirado",
+      "Especiado",
+      "Oud"
+    ],
+    "notas": [
+      "Cipreste",
+      "Bergamota",
+      "Cardamomo",
+      "Groselha Preta",
+      "Conhaque",
+      "Sândalo Australiano"
+    ],
+    "fix": 9,
+    "projI": 7,
+    "projD": 6,
+    "qual": 8,
+    "cb": 5,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Versão mais rica e noturna do New York (2026) — adiciona oud sutil e cashmeran, mais doce-defumado, comparações com a linha Azzaro Wanted. Reviews elogiam bastante: \"melhor em todos os aspectos\" que a EDP New York. Melhor em clima frio, para social/noite."
+  },
+  {
+    "id": 910,
+    "nome": "Citrus Craving (In The Box)",
+    "dna": "Eros Energy (Versace)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-amadeirado vibrante, excelente encaixe pro perfil do usuário — validação de comunidade muito forte.",
+    "compat": 8,
+    "preco": 150,
+    "exp": "Blind Buy",
+    "nota": 8.1,
+    "score": 8.29,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.63,
+    "gpf": 5.67,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Amadeirado",
+      "Terroso"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Amadeirado",
+      "Terroso",
+      "Almíscar"
+    ],
+    "notas": [
+      "Bergamota Siciliana",
+      "Laranja Sanguínea",
+      "Limão",
+      "Toranja",
+      "Patchouli",
+      "Musgo de Carvalho"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 8.5,
+    "cb": 9,
+    "simil": 8,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo nacional do Eros Energy (Versace) com validação excepcional — citado por influenciadores como \"top 1 da marca\", \"um dos melhores cítricos abaixo de R$180\", múltiplos vídeos \"gostei mais dele que do importado\". Explosão cítrica siciliana sobre pimenta rosa e groselha, fundo terroso de patchouli e musgo de carvalho."
+  },
+  {
+    "id": 911,
+    "nome": "Solo Vulcan (Loewe)",
+    "dna": "Solo Vulcan (Loewe)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Aromático-amadeirado-herbal, bom encaixe pro perfil do usuário, mas com ressalvas reais de performance.",
+    "compat": 7,
+    "preco": 700,
+    "exp": "Sample First",
+    "nota": 5.4,
+    "score": 7.04,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Aromático",
+      "Amadeirado",
+      "Floral"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Aromático",
+      "Amadeirado",
+      "Floral",
+      "Resinoso"
+    ],
+    "notas": [
+      "Tomilho",
+      "Lavanda",
+      "Flor de Laranjeira",
+      "Labdanum",
+      "Vetiver"
+    ],
+    "fix": 4,
+    "projI": 5,
+    "projD": 3,
+    "qual": 6.5,
+    "cb": 4,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Original de nicho (2024) — primeiro da linha Solo a usar o \"LOEWE Accord\" (nota proprietária inspirada na esteva espanhola). Tomilho e lavanda sobre flor de laranjeira, fundo balsâmico de labdanum e vetiver. Reviews bem divididas: fixação fraca (3-4h) segundo vários, mas drydown elogiado por outros. Sem contratipo árabe ou nacional identificado. Melhor em clima ameno, para trabalho ou assinatura/casual."
+  },
+  {
+    "id": 912,
+    "nome": "7 Cobalt (Loewe)",
+    "dna": "7 Cobalt (Loewe)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Trabalho"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Especiado-amadeirado maduro, muito bom encaixe pro perfil do usuário — forte candidato a pesquisa futura de blind buy, já que não há dupe validado.",
+    "compat": 6,
+    "preco": 700,
+    "exp": "Sample First",
+    "nota": 6.73,
+    "score": 7.79,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.13,
+    "gpf": 5.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Especiado",
+      "Amadeirado",
+      "Frutado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Especiado",
+      "Amadeirado",
+      "Frutado",
+      "Resinoso"
+    ],
+    "notas": [
+      "Sálvia",
+      "Groselha Preta",
+      "Pimenta Rosa",
+      "Incenso",
+      "Cravo",
+      "Vetiver",
+      "Fava Tonka"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 6,
+    "qual": 8,
+    "cb": 4,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Original de nicho (2021) — 4,45/5 de avaliação da comunidade, referência do gênero \"azul aromático-especiado maduro\". Sálvia e groselha preta sobre incenso e cravo, fundo de vetiver e tonka. Sem contratipo árabe ou nacional sério identificado — só lojas genéricas de óleo do Reino Unido, com o próprio site avaliador admitindo \"sem evidência comparativa\" de fidelidade. Melhor em clima frio a ameno, para social/noite ou trabalho."
   }
 ]
