@@ -7185,7 +7185,7 @@
   {
     "id": 116,
     "nome": "Al Rasi (Al Ambra)",
-    "dna": "Bvlgari Man In Black / Tobacco Vanille (Tom Ford)",
+    "dna": "Man In Black (Bvlgari) / Tobacco Vanille (Tom Ford)",
     "cat": "Oriental Confortável",
     "ocasiao": [
       "Social/Noite",
@@ -7193,7 +7193,7 @@
     ],
     "origem": "Árabe",
     "status": "Em Avaliação",
-    "veredito": "",
+    "veredito": "Padronizado: hibrido de Man In Black (Bvlgari, ja existente) e Tobacco Vanille (Tom Ford, ja existente).",
     "compat": 4.0,
     "preco": null,
     "exp": "Sample First",
@@ -7625,7 +7625,7 @@
   {
     "id": 123,
     "nome": "Noire (Arabiyat Prestige)",
-    "dna": "Dior Homme Parfum / Dior Homme Intense",
+    "dna": "Dior Homme Parfum 2025 (Dior) / Dior Homme Intense (Dior)",
     "cat": "Amadeirado Sofisticado",
     "ocasiao": [
       "Social/Noite",
@@ -7634,7 +7634,7 @@
     ],
     "origem": "Árabe",
     "status": "Em Avaliação",
-    "veredito": "",
+    "veredito": "Padronizado: hibrido de Dior Homme Parfum 2025 e Dior Homme Intense, ambos ja existentes na base.",
     "compat": 6.0,
     "preco": null,
     "exp": "Sample First",
@@ -7690,7 +7690,7 @@
   {
     "id": 124,
     "nome": "Dynasty (Lattafa)",
-    "dna": "Clive Christian L (Clive Christian)",
+    "dna": "L for Men (Clive Christian)",
     "cat": "Luxury Clean Refinado",
     "ocasiao": [
       "Trabalho",
@@ -7699,7 +7699,7 @@
     ],
     "origem": "Árabe",
     "status": "Forte Interesse",
-    "veredito": "",
+    "veredito": "Padronizado e corrigido: DNA novo criado nesta rodada.",
     "compat": 9.0,
     "preco": null,
     "exp": "Blind Buy",
@@ -9631,7 +9631,7 @@
     ],
     "origem": "Árabe",
     "status": "Interesse",
-    "veredito": "",
+    "veredito": "Padronizado: hibrido de Dior Homme Intense (ja existente) e Uomo Intense (Valentino, DNA novo criado nesta rodada).",
     "compat": 8.0,
     "preco": 215.0,
     "exp": "Blind Buy",
@@ -10014,7 +10014,7 @@
   {
     "id": 158,
     "nome": "Hawas Elixir (Rasasi)",
-    "dna": "Hawas / Sauvage Elixir Hybrid",
+    "dna": "Hawas (Rasasi) / Sauvage Elixir (Dior)",
     "cat": "Oriental Impactante",
     "ocasiao": [
       "Social/Noite",
@@ -10022,7 +10022,7 @@
     ],
     "origem": "Árabe",
     "status": "Curiosidade",
-    "veredito": "",
+    "veredito": "Padronizado: hibrido de Hawas (Rasasi) e Sauvage Elixir (Dior), ambos ja existentes na base.",
     "compat": 8.0,
     "preco": 450.0,
     "exp": "Sample First",
@@ -10071,7 +10071,7 @@
   {
     "id": 159,
     "nome": "Hawas Viper (Rasasi)",
-    "dna": "Black Afgano / Interlude territory",
+    "dna": "Black Afgano (Nasomatto)",
     "cat": "Amadeirado Impactante",
     "ocasiao": [
       "Social/Noite",
@@ -10079,7 +10079,7 @@
     ],
     "origem": "Árabe",
     "status": "Curiosidade",
-    "veredito": "",
+    "veredito": "Padronizado e corrigido: inspirado no Black Afgano (Nasomatto) — a referencia a \"Interlude\" nao se sustentou na pesquisa, removida.",
     "compat": 4.0,
     "preco": 450.0,
     "exp": "Sample First",
@@ -10747,7 +10747,7 @@
   {
     "id": 171,
     "nome": "Shiyaaka Silver (Khadlaj)",
-    "dna": "Prada L'Homme / Reflection Hybrid",
+    "dna": "Prada L'Homme (Prada) / Reflection Man (Amouage)",
     "cat": "Luxury Clean Sofisticado",
     "ocasiao": [
       "Trabalho",
@@ -10757,7 +10757,7 @@
     ],
     "origem": "Árabe",
     "status": "Forte Interesse",
-    "veredito": "",
+    "veredito": "Padronizado: hibrido de Prada L'Homme e Reflection Man (Amouage), ambos ja existentes na base.",
     "compat": 8.0,
     "preco": 280.0,
     "exp": "Blind Buy",
@@ -10877,7 +10877,7 @@
   {
     "id": 173,
     "nome": "Hawas Verde (Rasasi)",
-    "dna": "Hawas / YSL Y Hybrid",
+    "dna": "Hawas (Rasasi) / Y EDP (Yves Saint Laurent - YSL)",
     "cat": "Fresh Impactante",
     "ocasiao": [
       "Trabalho",
@@ -10886,7 +10886,7 @@
     ],
     "origem": "Árabe",
     "status": "Forte Interesse",
-    "veredito": "",
+    "veredito": "Padronizado: hibrido de Hawas (Rasasi) e Y EDP (YSL), ambos ja existentes na base.",
     "compat": 8.0,
     "preco": 420.0,
     "exp": "Blind Buy",
@@ -11704,7 +11704,7 @@
   {
     "id": 188,
     "nome": "Raees (Arabiyat Prestige)",
-    "dna": "ADG Profumo / Parfum",
+    "dna": "Acqua di Gio Profondo (Giorgio Armani)",
     "cat": "Fresh Impactante",
     "ocasiao": [
       "Trabalho",
@@ -11714,7 +11714,7 @@
     ],
     "origem": "Árabe",
     "status": "Em Avaliação",
-    "veredito": "",
+    "veredito": "Padronizado e corrigido: multiplas fontes de revendedores independentes confirmam \"Inspired by Acqua di Gio Profondo\" — nao Profumo nem Parfum, ambiguidade resolvida.",
     "compat": 10.0,
     "preco": 290.0,
     "exp": "Blind Buy",
@@ -14661,7 +14661,7 @@
   {
     "id": 239,
     "nome": "Pharaoh (Rayhaan)",
-    "dna": "Black Phantom / Caden",
+    "dna": "Caden (Omanluxury)",
     "cat": "Oriental Impactante",
     "ocasiao": [
       "Social/Noite",
@@ -14669,7 +14669,7 @@
     ],
     "origem": "Árabe",
     "status": "Em Avaliação",
-    "veredito": "",
+    "veredito": "Padronizado e confirmado: inspirado no Caden (Omanluxury), fragrancia de nicho.",
     "compat": 10.0,
     "preco": 350.0,
     "exp": "Blind Buy",
@@ -15890,7 +15890,7 @@
   {
     "id": 259,
     "nome": "Urban Man Elixir (Armaf)",
-    "dna": "Sauvage + Aventus",
+    "dna": "Sauvage (Dior)",
     "cat": "Aromático Expansivo",
     "ocasiao": [
       "Trabalho",
@@ -15899,7 +15899,7 @@
     ],
     "origem": "Árabe",
     "status": "Em Avaliação",
-    "veredito": "",
+    "veredito": "Padronizado e simplificado: multiplas fontes (incluindo titulo de loja \"a Dupe for Sauvage!\") confirmam Sauvage como alvo principal; a referencia a Aventus nao se sustentou na pesquisa e foi removida.",
     "compat": 8.0,
     "preco": 350.0,
     "exp": "Blind Buy",
@@ -16445,7 +16445,7 @@
   {
     "id": 268,
     "nome": "Lava Gold (Rasasi)",
-    "dna": "Oud for Greatness + Tuscan Leather",
+    "dna": "Oud for Greatness (Initio) / Tuscan Leather (Tom Ford)",
     "cat": "Statement Expansivo",
     "ocasiao": [
       "Social/Noite",
@@ -16453,7 +16453,7 @@
     ],
     "origem": "Árabe",
     "status": "Curiosidade",
-    "veredito": "",
+    "veredito": "Padronizado: hibrido de Oud for Greatness (ja existente) e Tuscan Leather (Tom Ford, DNA novo criado nesta rodada).",
     "compat": 8.0,
     "preco": 450.0,
     "exp": "Blind Buy",
@@ -17833,14 +17833,14 @@
   {
     "id": 292,
     "nome": "Pacific Aloha (Rayhaan)",
-    "dna": "Invictus Aqua / Hawas",
+    "dna": "Invictus Aqua (Paco Rabanne) / Hawas (Rasasi)",
     "cat": "Fresh Confortável",
     "ocasiao": [
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
     "status": "Em Avaliação",
-    "veredito": "",
+    "veredito": "Padronizado: hibrido de Invictus Aqua (DNA novo criado nesta rodada) e Hawas (Rasasi, ja existente).",
     "compat": 6.0,
     "preco": 280.0,
     "exp": "Blind Buy",
@@ -20098,7 +20098,7 @@
   {
     "id": 336,
     "nome": "Fantasy Basir (Mawwal Arabia)",
-    "dna": "L'Interdit / My Way",
+    "dna": "L'Interdit (Givenchy) / My Way (Giorgio Armani)",
     "cat": "Oriental Elegante",
     "ocasiao": [
       "Social/Noite",
@@ -20106,7 +20106,7 @@
     ],
     "origem": "Árabe",
     "status": "Descartado",
-    "veredito": "",
+    "veredito": "Padronizado: hibrido de L'Interdit e My Way, ambos ja existentes na base.",
     "compat": 6.0,
     "preco": 280.0,
     "exp": "Sample First",
@@ -29421,7 +29421,7 @@
   {
     "id": 498,
     "nome": "Imperial Jade (Orientica Premium)",
-    "dna": "Greenly (Parfums de Marly) / Pacific Chill (Louis Vuitton)",
+    "dna": "Greenley (Parfums de Marly) / Pacific Chill (Louis Vuitton)",
     "cat": "Fresh Luminoso",
     "ocasiao": [
       "Trabalho",
@@ -29429,7 +29429,7 @@
     ],
     "origem": "Árabe",
     "status": "Interesse",
-    "veredito": "",
+    "veredito": "Padronizado e corrigido: erro de digitacao \"Greenly\" -> \"Greenley\", ambos DNAs ja existentes.",
     "compat": 9.0,
     "preco": null,
     "exp": "Blind Buy",
@@ -32844,7 +32844,7 @@
   {
     "id": 551,
     "nome": "9AM Dive (Afnan)",
-    "dna": "Y EDP (YSL) + Bleu de Chanel (hibrido)",
+    "dna": "Y EDP (Yves Saint Laurent - YSL) / Bleu de Chanel EDP (Chanel)",
     "cat": "Aromatico Confortavel",
     "ocasiao": [
       "Trabalho",
@@ -32852,7 +32852,7 @@
     ],
     "origem": "Árabe",
     "status": "Curiosidade",
-    "veredito": "",
+    "veredito": "Padronizado: hibrido de Y EDP (YSL) e Bleu de Chanel EDP (Chanel), ambos ja existentes na base.",
     "compat": 7.0,
     "preco": null,
     "exp": "Blind Buy",
@@ -33743,14 +33743,14 @@
   {
     "id": 565,
     "nome": "Supremacy in Oud (Afnan)",
-    "dna": "Oud for Greatness (Initio) / Le Male Elixir (JPG)",
+    "dna": "Oud for Greatness (Initio) / Le Male Elixir (Jean Paul Gaultier)",
     "cat": "Amadeirado Expansivo",
     "ocasiao": [
       "Social/Noite"
     ],
     "origem": "Árabe",
     "status": "Curiosidade",
-    "veredito": "",
+    "veredito": "Padronizado: sigla \"JPG\" expandida pro nome completo da marca, ambos DNAs ja existentes.",
     "compat": 4.0,
     "preco": null,
     "exp": "Sample First",
@@ -39884,7 +39884,7 @@
   {
     "id": 659,
     "nome": "Kafu (Amaran Parfums)",
-    "dna": "Allure Homme Edition Blanche (Chanel)",
+    "dna": "Allure Homme Édition Blanche (Chanel)",
     "cat": "Luxury Clean Confortável",
     "ocasiao": [
       "Trabalho",
@@ -39892,7 +39892,7 @@
     ],
     "origem": "Árabe",
     "status": "Em Avaliação",
-    "veredito": "",
+    "veredito": "Padronizado: acento adicionado, DNA ja existente na base (item Possui do usuario).",
     "compat": 9,
     "preco": null,
     "exp": "Blind Buy",
@@ -40024,7 +40024,7 @@
   {
     "id": 661,
     "nome": "Arsh (French Avenue)",
-    "dna": "L'Homme Ideal Platine Privé (Guerlain)",
+    "dna": "L'Homme Idéal Platine Privé (Guerlain)",
     "cat": "Fresh Confortável",
     "ocasiao": [
       "Trabalho",
@@ -40032,7 +40032,7 @@
     ],
     "origem": "Árabe",
     "status": "Forte Interesse",
-    "veredito": "",
+    "veredito": "Padronizado e confirmado: DNA novo criado nesta rodada, multiplas fontes independentes confirmam essa inspiracao.",
     "compat": 8.0,
     "preco": null,
     "exp": "Blind Buy",
@@ -40210,7 +40210,7 @@
   {
     "id": 664,
     "nome": "Niche Emarati Antique (Lattafa)",
-    "dna": "Original (Lattafa)",
+    "dna": "Niche Emarati Antique (Lattafa)",
     "cat": "Oriental Sofisticado",
     "ocasiao": [
       "Social/Noite",
@@ -40218,7 +40218,7 @@
     ],
     "origem": "Árabe",
     "status": "Interesse",
-    "veredito": "",
+    "veredito": "Padronizado: e um original proprio, campo dna corrigido pra apontar pra si mesmo em vez do texto generico \"Original (Lattafa)\".",
     "compat": 7.0,
     "preco": null,
     "exp": "Sample First",
@@ -40275,7 +40275,7 @@
   {
     "id": 665,
     "nome": "Botica 214 Verano en Firenze (O Boticário)",
-    "dna": "Original (O Boticário)",
+    "dna": "Botica 214 Verano en Firenze (O Boticário)",
     "cat": "Fresh Luminoso",
     "ocasiao": [
       "Trabalho",
@@ -40283,7 +40283,7 @@
     ],
     "origem": "Nacional",
     "status": "Curiosidade",
-    "veredito": "",
+    "veredito": "Padronizado: e um original proprio, campo dna corrigido pra apontar pra si mesmo em vez do texto generico \"Original (O Boticário)\".",
     "compat": 6.0,
     "preco": 180.0,
     "exp": "Sample First",
@@ -40540,14 +40540,14 @@
   {
     "id": 669,
     "nome": "Dubai Gold (Maison Viegas)",
-    "dna": "Bahar (Spirit of Dubai)",
+    "dna": "Bahar (The Spirit of Dubai)",
     "cat": "Oriental Confortável",
     "ocasiao": [
       "Social/Noite"
     ],
     "origem": "Nacional",
     "status": "Curiosidade",
-    "veredito": "",
+    "veredito": "Padronizado: nome oficial da marca e \"The Spirit of Dubai\" (com artigo), corrigido.",
     "compat": 6.0,
     "preco": 129.0,
     "exp": "Sample First",
@@ -44189,7 +44189,7 @@
     ],
     "origem": "Árabe",
     "status": "Forte Interesse",
-    "veredito": "Corrigido de dupe puro de MYSLF para hibrido MYSLF/Stronger With You - confirmado pela propria loja.",
+    "veredito": "MYSLF ja existe (id351) e Stronger With You (base) foi criado nesta rodada como DNA novo. Campo dna ja estava no formato correto.",
     "compat": 7,
     "preco": 250,
     "exp": "Blind Buy",
@@ -46884,7 +46884,7 @@
     ],
     "origem": "Árabe",
     "status": "Interesse",
-    "veredito": "Bom contratipo de um DNA de nicho pouco explorado na sua base — vale a pena testar.",
+    "veredito": "Padronizado: DNA ja estava no formato correto, entrada propria criada nesta rodada.",
     "compat": 6,
     "preco": 250,
     "exp": "Sample First",
@@ -47621,7 +47621,7 @@
   {
     "id": 782,
     "nome": "Drago (Thera Cosméticos)",
-    "dna": "Dior Homme Sport 2017 (Dior)",
+    "dna": "Dior Homme Sport (Dior)",
     "cat": "Aromático Elegante",
     "ocasiao": [
       "Trabalho",
@@ -47629,7 +47629,7 @@
     ],
     "origem": "Nacional",
     "status": "Interesse",
-    "veredito": "DNA corrigido — dupe confirmado do Dior Homme Sport 2017.",
+    "veredito": "Padronizado: unificado com a entrada existente \"Dior Homme Sport (Dior)\" ja presente na base, removendo o ano \"2017\" que criava uma entrada duplicada desnecessaria.",
     "compat": 6,
     "preco": 60,
     "exp": "Blind Buy",
@@ -56529,19 +56529,19 @@
   {
     "id": 929,
     "nome": "Jocker (Nuancielo)",
-    "dna": "212 VIP Black (Carolina Herrera)",
+    "dna": "212 VIP Men Party Fever (Carolina Herrera)",
     "cat": "Amadeirado Sedutor",
     "ocasiao": [
       "Social/Noite"
     ],
     "origem": "Nacional",
     "status": "Curiosidade",
-    "veredito": "Especiado-amadeirado com toque verde incomum, bom encaixe pro perfil do usuário.",
+    "veredito": "Corrigido: dupe do 212 VIP Men Party Fever, nao do VIP Black - notas identicas confirmadas (maca vermelha, cannabis, gengibre, tamarindo, zimbro).",
     "compat": 6,
     "preco": 200,
     "exp": "Sample First",
-    "nota": 6.7,
-    "score": 7.35,
+    "nota": 7.45,
+    "score": 7.61,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -56581,10 +56581,12 @@
     "projD": 4,
     "qual": 7,
     "cb": 8,
-    "simil": 6,
+    "simil": 9,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo do 212 VIP Black (Carolina Herrera), lançado em 2019 — cítricos, maçã e gengibre incomuns abrem sobre cannabis e gerânio, fundo de tonka e almíscar. Reviewer da comunidade diz preferir o Jocker ao 212 VIP Black original."
+    "resumo": "Contratipo do 212 VIP Men Party Fever (Carolina Herrera) — corrigido nesta rodada. Citricos, maca vermelha e gengibre incomuns abrem sobre cannabis e geranio, fundo de tonka e almiscar. Pirmide de notas identica ao original confirmada. Melhor em clima frio a ameno, para social/noite.",
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 930,
@@ -56721,7 +56723,7 @@
   {
     "id": 932,
     "nome": "Conquer (Mykonos)",
-    "dna": "Conquer (Mykonos)",
+    "dna": "MYSLF L'Absolu (Yves Saint Lauren - YSL)",
     "cat": "Amadeirado Elegante",
     "ocasiao": [
       "Trabalho",
@@ -56729,12 +56731,12 @@
     ],
     "origem": "Nicho",
     "status": "Curiosidade",
-    "veredito": "Especiado-floral-amadeirado, bom encaixe pro perfil do usuário, com toque atalcado via íris.",
+    "veredito": "Corrigido: dupe confirmado do MYSLF L'Absolu, video dedicado \"This MYSLF Absolu Dupe Is COMPLETELY INSANE\" e reviews \"melhor que o Myself Absolu\".",
     "compat": 6,
     "preco": 250,
     "exp": "Blind Buy",
-    "nota": 7.67,
-    "score": 7.56,
+    "nota": 8.0,
+    "score": 7.67,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -56774,27 +56776,29 @@
     "projD": 5,
     "qual": 8.5,
     "cb": 8,
-    "simil": null,
+    "simil": 9,
     "vers": 6,
     "link": null,
-    "resumo": "Original de nicho indonésio (2026), altamente avaliado (9,2/10 no Parfumo) — bergamota-gengibre-cardamomo especiados abrem sobre íris e flor de laranjeira, fundo amadeirado-baunilhado. Um reviewer nota parecença informal com o Gucci Guilty Elixir (compartilham várias notas)."
+    "resumo": "Contratipo do MYSLF L'Absolu (YSL) — corrigido nesta rodada, validacao forte de comunidade. Bergamota-gengibre-cardamomo especiados abrem sobre iris e flor de laranjeira, fundo amadeirado-baunilhado com patchouli extra. Melhor em clima ameno a frio, para trabalho ou social/noite.",
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 933,
     "nome": "Dreamscape (Mykonos)",
-    "dna": "Dreamscape (Mykonos)",
+    "dna": "God of Fire (Stephane Humbert Lucas 777)",
     "cat": "Frutado Confortável",
     "ocasiao": [
       "Assinatura/Casual"
     ],
     "origem": "Nicho",
     "status": "Curiosidade",
-    "veredito": "Frutado-floral-doce, fora do eixo pessoal do usuário apesar do hype forte.",
+    "veredito": "Corrigido: dupe declarado pela propria loja do God of Fire (SHL777), confirmado por multiplos reviews (\"melhor dupe do GOF\").",
     "compat": 3,
     "preco": 250,
     "exp": "Blind Buy",
-    "nota": 7.27,
-    "score": 7.01,
+    "nota": 7.7,
+    "score": 7.16,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -56835,15 +56839,17 @@
     "projD": 4,
     "qual": 8,
     "cb": 8,
-    "simil": null,
+    "simil": 9,
     "vers": 5,
     "link": null,
-    "resumo": "Original de nicho indonésio (2025), da coleção \"A Tale of Two Worlds\" — muito popular e hypado (8,5/10, alta demanda). Manga suculenta e ruibarbo cítrico-salgado abrem sobre gengibre, violeta e pralinê, fundo amadeirado-âmbar-musgo."
+    "resumo": "Contratipo do God of Fire (SHL777) — corrigido nesta rodada, declarado pela propria marca. Manga suculenta e limao italiano sobre gengibre e violeta, fundo ambar-tonka-cedro. Reviews confirmam como um dos melhores dupes do genero, superando o original pra alguns.",
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 934,
     "nome": "Glitch (Mykonos)",
-    "dna": "Glitch (Mykonos)",
+    "dna": "Aventus (Creed)",
     "cat": "Aromático Elegante",
     "ocasiao": [
       "Trabalho",
@@ -56851,12 +56857,12 @@
     ],
     "origem": "Nicho",
     "status": "Curiosidade",
-    "veredito": "Especiado-aquático-amadeirado, moderado encaixe — abertura boa mas drydown mais doce que o ideal pro usuário.",
+    "veredito": "Corrigido: dupe do Aventus (Creed) puro, nao hibrido com Hacivat - reviews confirmam \"bom dupe do Aventus\", \"prefiro esse ao Aventus Absolu\".",
     "compat": 6,
     "preco": 250,
     "exp": "Blind Buy",
-    "nota": 7.33,
-    "score": 7.73,
+    "nota": 7.5,
+    "score": 7.79,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -56879,24 +56885,693 @@
     ],
     "fam": "Aromático",
     "acordes": [
-      "Especiado",
-      "Aquático",
+      "Frutado",
+      "Defumado",
       "Amadeirado",
-      "Floral"
+      "Especiado"
     ],
     "notas": [
+      "Abacaxi",
+      "Bétula",
       "Gengibre",
       "Pimenta Vermelha",
-      "Notas Ozônicas"
+      "Sândalo"
     ],
     "fix": 6,
     "projI": 6,
     "projD": 4,
     "qual": 8,
     "cb": 8,
+    "simil": 8,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo do Aventus (Creed) — corrigido nesta rodada. Abacaxi equilibrado e beflua de betula abrem com gengibre e pimenta vermelha, fundo de sandalo. Reviews confirmam boa fidelidade, alguns preferem ao Aventus Absolu pela ausencia de musgo de carvalho.",
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 935,
+    "nome": "212 VIP Men Party Fever (Carolina Herrera)",
+    "dna": "212 VIP Men Party Fever (Carolina Herrera)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Especiado-amadeirado com toque verde incomum de cannabis, bom encaixe pro perfil do usuario.",
+    "compat": 6,
+    "preco": 350,
+    "exp": "Blind Buy",
+    "nota": 6.4,
+    "score": 7.25,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "EDT",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Especiado",
+      "Amadeirado",
+      "Verde"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Especiado",
+      "Amadeirado",
+      "Verde",
+      "Doce"
+    ],
+    "notas": [
+      "Maçã Vermelha",
+      "Cítricos",
+      "Gengibre",
+      "Tamarindo",
+      "Bagas de Zimbro",
+      "Cannabis"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 6,
     "simil": null,
     "vers": 6,
     "link": null,
-    "resumo": "Original de nicho indonésio (2025) — composição contemporânea contrastando frescor gelado, especiaria, florais e madeiras. Abertura energética de gengibre-pimenta vermelha-notas ozônicas. Drydown adocicado (\"açúcar mascavo derretido\") segundo reviewers."
+    "resumo": "Original designer (2018), Carolina Herrera — flanker limitado de verão inspirado em festas e clubes. Maçã vermelha, gengibre e tamarindo abrem sobre cannabis e gerânio (nota incomum), fundo de tonka, cedro, almíscar e olíbano. Melhor em clima frio a ameno, para social/noite.",
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 936,
+    "nome": "Black Afgano (Nasomatto)",
+    "dna": "Black Afgano (Nasomatto)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Fumacado-resinoso cult classic, moderadamente fora do eixo pessoal do usuario.",
+    "compat": 4,
+    "preco": 900,
+    "exp": "Sample First",
+    "nota": 5.87,
+    "score": 6.77,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.87,
+    "gpf": 4.33,
+    "conc": "EDP",
+    "clima": [
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Resinoso",
+      "Amadeirado",
+      "Defumado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Resinoso",
+      "Amadeirado",
+      "Defumado",
+      "Terroso"
+    ],
+    "notas": [
+      "Cannabis",
+      "Notas Verdes",
+      "Cafe",
+      "Oud",
+      "Especiarias"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 6,
+    "qual": 8,
+    "cb": 3,
+    "simil": null,
+    "vers": 4,
+    "link": null,
+    "resumo": "Original de nicho, Nasomatto — fragrancia cult conhecida pela nota de haxixe/cannabis sobre um fundo resinoso-defumado de oud e cafe, com notas verdes e especiarias. Extremamente concentrada e polarizadora."
+  },
+  {
+    "id": 937,
+    "nome": "Caden (Omanluxury)",
+    "dna": "Caden (Omanluxury)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "",
+    "compat": 5,
+    "preco": 800,
+    "exp": "Sample First",
+    "nota": 6.27,
+    "score": 7.14,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.37,
+    "gpf": 4.33,
+    "conc": "EDP",
+    "clima": [
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Especiado",
+      "Resinoso",
+      "Amadeirado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Especiado",
+      "Resinoso",
+      "Amadeirado",
+      "Doce"
+    ],
+    "notas": [
+      "Cardamomo",
+      "Açafrão",
+      "Cade",
+      "Boozy",
+      "Camurça",
+      "Café"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 6,
+    "qual": 8,
+    "cb": 3,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Original de nicho, Omanluxury — especiado-resinoso escuro e boozy, com café e camurça no coração. Notas aproximadas com base no contratipo Pharaoh (Rayhaan), ja que nao encontrei ficha tecnica independente do original."
+  },
+  {
+    "id": 938,
+    "nome": "Sauvage (Dior)",
+    "dna": "Sauvage (Dior)",
+    "cat": "Fresh Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "",
+    "compat": 6,
+    "preco": 500,
+    "exp": "Blind Buy",
+    "nota": 7.33,
+    "score": 7.03,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.07,
+    "gpf": 5.33,
+    "conc": "EDT",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Bergamota da Calábria",
+      "Pimenta",
+      "Lavanda",
+      "Pimenta Rosa",
+      "Vetiver",
+      "Ambroxan"
+    ],
+    "fix": 6,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 8,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Original designer (2015), Dior — o mais vendido do mercado masculino, bergamota calabresa e pimenta sobre lavanda e vetiver, fundo de ambroxan e cedro."
+  },
+  {
+    "id": 939,
+    "nome": "Tuscan Leather (Tom Ford)",
+    "dna": "Tuscan Leather (Tom Ford)",
+    "cat": "Couro Executivo",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "",
+    "compat": 5,
+    "preco": 1500,
+    "exp": "Sample First",
+    "nota": 6.53,
+    "score": 7.24,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Couro",
+      "Frutado",
+      "Amadeirado"
+    ],
+    "fam": "Couro",
+    "acordes": [
+      "Couro",
+      "Frutado",
+      "Amadeirado",
+      "Resinoso"
+    ],
+    "notas": [
+      "Couro",
+      "Açafrão",
+      "Camurça Preta",
+      "Jasmim",
+      "Sândalo",
+      "Oud"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 5,
+    "qual": 9,
+    "cb": 3,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Original de nicho (2007), Tom Ford, linha Private Blend — couro cru e açafrão sobre camurça e jasmim, fundo amadeirado-resinoso de oud e olíbano."
+  },
+  {
+    "id": 940,
+    "nome": "Invictus Aqua (Paco Rabanne)",
+    "dna": "Invictus Aqua (Paco Rabanne)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "",
+    "compat": 5,
+    "preco": 350,
+    "exp": "Blind Buy",
+    "nota": 6.53,
+    "score": 6.69,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.43,
+    "gpf": 4.67,
+    "conc": "EDT",
+    "clima": [
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Aquático",
+      "Cítrico",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Aquático",
+      "Cítrico",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Água do Mar",
+      "Mandarina",
+      "Lavanda",
+      "Almíscar",
+      "Madeira Guaiac"
+    ],
+    "fix": 5,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 7,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Flanker aquático (2020) do Invictus (Paco Rabanne) — água do mar e mandarina sobre lavanda, fundo de madeira guaiac e almíscar."
+  },
+  {
+    "id": 941,
+    "nome": "L for Men (Clive Christian)",
+    "dna": "L for Men (Clive Christian)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "",
+    "compat": 7,
+    "preco": 2000,
+    "exp": "Sample First",
+    "nota": 6.4,
+    "score": 7.82,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Amadeirado",
+      "Floral"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Cítrico",
+      "Amadeirado",
+      "Floral",
+      "Resinoso"
+    ],
+    "notas": [
+      "Petitgrain",
+      "Toranja",
+      "Oud",
+      "Rosa",
+      "Cedro Atlas",
+      "Vetiver"
+    ],
+    "fix": 8,
+    "projI": 6,
+    "projD": 4,
+    "qual": 9,
+    "cb": 2,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Original de nicho (2014), Clive Christian — petitgrain e toranja abrem sobre oud e rosa (com uma nota de íris amanteigada elogiada), fundo de abeto balsâmico, cedro atlas e vetiver. Fixação excelente (8h+)."
+  },
+  {
+    "id": 942,
+    "nome": "Uomo Intense (Valentino)",
+    "dna": "Uomo Intense (Valentino)",
+    "cat": "Couro Executivo",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "",
+    "compat": 6,
+    "preco": 500,
+    "exp": "Sample First",
+    "nota": 6.73,
+    "score": 7.36,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.0,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Couro",
+      "Atalcado",
+      "Doce"
+    ],
+    "fam": "Couro",
+    "acordes": [
+      "Couro",
+      "Atalcado",
+      "Doce",
+      "Aromático"
+    ],
+    "notas": [
+      "Tangerina",
+      "Sálvia Esclareia",
+      "Íris",
+      "Fava Tonka",
+      "Baunilha",
+      "Couro"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7.5,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Flanker designer (2016), Valentino — versão mais intensa do Uomo, íris amanteigada e fava tonka sobre couro e baunilha, mistura equilibrada de notas femininas (íris, baunilha) com o couro masculino."
+  },
+  {
+    "id": 943,
+    "nome": "L'Homme Idéal Platine Privé (Guerlain)",
+    "dna": "L'Homme Idéal Platine Privé (Guerlain)",
+    "cat": "Fresh Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "",
+    "compat": 7,
+    "preco": 800,
+    "exp": "Sample First",
+    "nota": 6.67,
+    "score": 7.3,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.07,
+    "gpf": 5.33,
+    "conc": "Extrait",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Floral",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Floral",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Toranja",
+      "Bergamota",
+      "Neroli",
+      "Amêndoa",
+      "Vetiver",
+      "Almíscar"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8.5,
+    "cb": 4,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Flanker exclusivo de nicho, Guerlain — versão mais rara e refinada do L'Homme Idéal, toranja e bergamota cítricas sobre neroli e amêndoa cremosa, fundo de vetiver e almíscar limpo."
+  },
+  {
+    "id": 944,
+    "nome": "Stronger With You (Giorgio Armani)",
+    "dna": "Stronger With You (Giorgio Armani)",
+    "cat": "Oriental Elegante",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "",
+    "compat": 5,
+    "preco": 400,
+    "exp": "Blind Buy",
+    "nota": 6.27,
+    "score": 6.65,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.43,
+    "gpf": 4.67,
+    "conc": "EDT",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Doce",
+      "Especiado",
+      "Ambarado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Doce",
+      "Especiado",
+      "Ambarado",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Pimenta Rosa",
+      "Cardamomo",
+      "Sálvia",
+      "Castanha",
+      "Baunilha",
+      "Ambroxan"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 7,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "resumo": "Original designer (2017), Giorgio Armani — pilar da linha Stronger With You, castanha e baunilha sobre uma base ambroxan-semi-oriental, doce-especiado."
+  },
+  {
+    "id": 945,
+    "nome": "Paragon (Initio Parfums Privés)",
+    "dna": "Paragon (Initio Parfums Privés)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "",
+    "compat": 6,
+    "preco": 700,
+    "exp": "Sample First",
+    "nota": 6.8,
+    "score": 7.68,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.0,
+    "gpf": 5.0,
+    "conc": "Extrait",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Frutado",
+      "Amadeirado",
+      "Especiado",
+      "Resinoso"
+    ],
+    "notas": [
+      "Bergamota",
+      "Sálvia Branca",
+      "Lavanda",
+      "Ameixa",
+      "Palo Santo",
+      "Sândalo"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 8.5,
+    "cb": 4,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Original de nicho (2022), Initio, da coleção Hedonist — bergamota e lavanda sobre ameixa e palo santo, fundo de sândalo e agarwood (oud). Um dos mais vendidos globalmente da marca."
   }
 ]
