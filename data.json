@@ -208,13 +208,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Em Avaliação",
+    "status": "Curiosidade",
     "veredito": "",
     "compat": 6.0,
     "preco": 183.75,
     "exp": "Blind Buy",
     "nota": 7.45,
-    "score": 7.34,
+    "score": 7.84,
     "rankDNA": 7,
     "flagDNA": false,
     "melhorNac": false,
@@ -256,16 +256,17 @@
     "vers": 8,
     "link": "https://mobile.comprasparaguai.com.br/perfume-rasasi-hawas-kobra-eau-de-parfum-masculino-100ml_66313/",
     "resumo": "Contratipo de Imagination (Louis Vuitton) — o chá é a nota que mais se destaca, dando o toque de limpeza incomum sobre a bergamota de abertura, sobre um acorde de ambroxan predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "prioridade": null,
-    "calibradoEm": "2026-08-06",
+    "calibradoEm": "2026-08-22",
     "calibradoContra": [
       "119",
       "6",
+      "931",
       "249",
       "38",
       "756",
       "3"
     ],
+    "prioridade": null,
     "fotoInspiracao": "fotos/6_insp.jpg"
   },
   {
@@ -326,16 +327,17 @@
     "vers": 10.0,
     "link": "https://maisonviegas.com.br/search/?q=heaven",
     "resumo": "Contratipo de Imagination (Louis Vuitton) — o chá é a nota que mais se destaca, dando o toque de limpeza incomum sobre a bergamota de abertura, sobre um acorde de ambroxan predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "prioridade": null,
-    "calibradoEm": "2026-08-06",
+    "calibradoEm": "2026-08-22",
     "calibradoContra": [
       "119",
-      "4",
+      "931",
       "249",
       "38",
+      "4",
       "756",
       "3"
-    ]
+    ],
+    "prioridade": null
   },
   {
     "id": 7,
@@ -2152,13 +2154,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Em Avaliação",
+    "status": "Curiosidade",
     "veredito": "",
     "compat": 10.0,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 8.2,
-    "score": 6.7,
+    "score": 7.2,
     "rankDNA": 8,
     "flagDNA": false,
     "melhorNac": false,
@@ -2200,16 +2202,17 @@
     "vers": 8.0,
     "link": null,
     "resumo": "Contratipo de Imagination (Louis Vuitton) — o ambroxan é a nota que mais se destaca, dando o caráter almiscarado-limpo sobre a baunilha de fundo, sobre um acorde ambarado predominante. Melhor em clima ameno, para trabalho ou assinatura/casual.",
-    "prioridade": null,
-    "calibradoEm": "2026-08-06",
+    "calibradoEm": "2026-08-22",
     "calibradoContra": [
       "119",
-      "4",
       "6",
+      "931",
       "249",
+      "4",
       "756",
       "3"
     ],
+    "prioridade": null,
     "fotoInspiracao": "fotos/7_insp.jpg"
   },
   {
@@ -7393,16 +7396,17 @@
     "vers": 10,
     "link": null,
     "resumo": "Contratipo de Imagination (Louis Vuitton) — o chá preto é a nota que mais se destaca, dando o toque de limpeza incomum sobre a bergamota de abertura, sobre um acorde verde predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "prioridade": null,
-    "calibradoEm": "2026-08-06",
+    "calibradoEm": "2026-08-22",
     "calibradoContra": [
-      "4",
       "6",
+      "931",
       "249",
       "38",
+      "4",
       "756",
       "3"
     ],
+    "prioridade": null,
     "fotoInspiracao": "fotos/6_insp.jpg"
   },
   {
@@ -15275,13 +15279,13 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Em Avaliação",
+    "status": "Curiosidade",
     "veredito": "",
     "compat": 10.0,
     "preco": 550.0,
     "exp": "Sample First",
     "nota": 8.9,
-    "score": 8.94,
+    "score": 9.44,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
@@ -15318,16 +15322,17 @@
     "vers": 8.0,
     "link": null,
     "resumo": "Contratipo de Imagination (Louis Vuitton) — o chá é a nota que mais se destaca, dando o toque de limpeza incomum sobre o gengibre de abertura, sobre um acorde de chá predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "prioridade": null,
-    "calibradoEm": "2026-08-06",
+    "calibradoEm": "2026-08-22",
     "calibradoContra": [
       "119",
-      "4",
       "6",
+      "931",
       "38",
+      "4",
       "756",
       "3"
     ],
+    "prioridade": null,
     "fotoInspiracao": "fotos/6_insp.jpg"
   },
   {
@@ -46047,16 +46052,17 @@
     "vers": 6,
     "link": null,
     "resumo": "Contratipo de Imagination (Louis Vuitton) — o gengibre é a nota que mais se destaca, dando o toque picante sobre a bergamota de abertura, sobre um acorde ambarado predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
-    "prioridade": null,
-    "calibradoEm": "2026-08-06",
+    "calibradoEm": "2026-08-22",
     "calibradoContra": [
       "119",
-      "4",
       "6",
+      "931",
       "249",
       "38",
+      "4",
       "3"
-    ]
+    ],
+    "prioridade": null
   },
   {
     "id": 757,
@@ -56457,5 +56463,440 @@
     "vers": 6,
     "link": null,
     "resumo": "Original de nicho (2021), Initio Parfums Privés — groselha preta e bergamota abrem sobre magnólia, fundo cremoso de sândalo branco e hedione com dupla dose de almíscar. Descrito como \"Musk Therapy tendo um bebê com Santal 33\" por um reviewer. Melhor em clima ameno, para trabalho ou assinatura/casual."
+  },
+  {
+    "id": 928,
+    "nome": "H24 Herbes Vives (Hermès)",
+    "dna": "H24 Herbes Vives (Hermès)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "Verde-aromático-gelado, bom encaixe pro perfil do usuário que gosta de frescor.",
+    "compat": 8,
+    "preco": 700,
+    "exp": "Sample First",
+    "nota": 6.4,
+    "score": 7.86,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.07,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Verde",
+      "Aromático",
+      "Frutado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Verde",
+      "Aromático",
+      "Frutado",
+      "Gelado"
+    ],
+    "notas": [
+      "Ervas Frescas",
+      "Rúcula",
+      "Salsa",
+      "Hortelã",
+      "Granita de Pera",
+      "Physcool"
+    ],
+    "fix": 5,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7.5,
+    "cb": 5,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Original designer (2024), Christine Nagel — terceiro flanker da linha H24, com foco no lado vegetal. Ervas frescas esmagadas e rúcula-salsa-hortelã sobre uma granita de pera, fundo com Physcool® (molécula de resfriamento sem gosto de mentol). Performance mediana (4-5h), mais fraco que o H24 EDT/EDP base."
+  },
+  {
+    "id": 929,
+    "nome": "Jocker (Nuancielo)",
+    "dna": "212 VIP Black (Carolina Herrera)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Especiado-amadeirado com toque verde incomum, bom encaixe pro perfil do usuário.",
+    "compat": 6,
+    "preco": 200,
+    "exp": "Sample First",
+    "nota": 6.7,
+    "score": 7.35,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Especiado",
+      "Amadeirado",
+      "Verde"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Especiado",
+      "Amadeirado",
+      "Verde",
+      "Doce"
+    ],
+    "notas": [
+      "Cítricos",
+      "Maçã Vermelha",
+      "Gengibre",
+      "Tamarindo",
+      "Bagas de Zimbro",
+      "Cannabis"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 8,
+    "simil": 6,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo do 212 VIP Black (Carolina Herrera), lançado em 2019 — cítricos, maçã e gengibre incomuns abrem sobre cannabis e gerânio, fundo de tonka e almíscar. Reviewer da comunidade diz preferir o Jocker ao 212 VIP Black original."
+  },
+  {
+    "id": 930,
+    "nome": "Angels Lux On The Rocks (Nuancielo)",
+    "dna": "Angels' Share On The Rocks (Kilian)",
+    "cat": "Fresh Sofisticado",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-ambarado-gelado, bom encaixe pro perfil do usuário.",
+    "compat": 6,
+    "preco": 200,
+    "exp": "Sample First",
+    "nota": 6.55,
+    "score": 7.17,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Ambarado",
+      "Especiado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Ambarado",
+      "Especiado",
+      "Doce"
+    ],
+    "notas": [
+      "Bergamota",
+      "Toranja",
+      "Aldeídos",
+      "Conhaque",
+      "Canela",
+      "Fava Tonka"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 8,
+    "simil": 6,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo do Angels' Share On The Rocks (Kilian, 2025), com comparativo nota-por-nota divulgado pela própria Nuancielo. Bergamota-toranja-aldeídos gelados sobre conhaque e canela, fundo de tonka e carvalho. O original em si tem reviews polarizadas (\"favorito absoluto\" vs \"sintético e artificial\")."
+  },
+  {
+    "id": 931,
+    "nome": "Inception (Mykonos)",
+    "dna": "Imagination (Louis Vuitton)",
+    "cat": "Fresh Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-amadeirado-atalcado, excelente encaixe pro perfil do usuário — um dos melhores achados de todo o projeto.",
+    "compat": 8,
+    "preco": 250,
+    "exp": "Blind Buy",
+    "nota": 8.95,
+    "score": 8.3,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.07,
+    "gpf": 5.33,
+    "conc": "Extrait",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Amadeirado",
+      "Atalcado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Amadeirado",
+      "Atalcado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Limão",
+      "Gengibre",
+      "Bergamota",
+      "Laranja",
+      "Chá",
+      "Sabonete"
+    ],
+    "fix": 10,
+    "projI": 7,
+    "projD": 5,
+    "qual": 9,
+    "cb": 9,
+    "simil": 9,
+    "vers": 8,
+    "link": null,
+    "resumo": "Contratipo indonésio excepcionalmente bem avaliado do Imagination (LV) — \"o melhor dupe que já senti, sem exagero\", \"supera o original em 1-2 horas de fixação\", \"você pode nem querer mais o original depois de ter esse\". Drydown ensaboado muito próximo do original confirmado por múltiplos reviewers que possuem ambos.",
+    "calibradoEm": "2026-08-22",
+    "calibradoContra": [
+      "119",
+      "6",
+      "249",
+      "38",
+      "4",
+      "756",
+      "3"
+    ]
+  },
+  {
+    "id": 932,
+    "nome": "Conquer (Mykonos)",
+    "dna": "Conquer (Mykonos)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Especiado-floral-amadeirado, bom encaixe pro perfil do usuário, com toque atalcado via íris.",
+    "compat": 6,
+    "preco": 250,
+    "exp": "Blind Buy",
+    "nota": 7.67,
+    "score": 7.56,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.5,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Especiado",
+      "Floral",
+      "Amadeirado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Especiado",
+      "Floral",
+      "Amadeirado",
+      "Doce"
+    ],
+    "notas": [
+      "Bergamota",
+      "Gengibre",
+      "Cardamomo",
+      "Íris",
+      "Flor de Laranjeira",
+      "Patchouli"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 8.5,
+    "cb": 8,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Original de nicho indonésio (2026), altamente avaliado (9,2/10 no Parfumo) — bergamota-gengibre-cardamomo especiados abrem sobre íris e flor de laranjeira, fundo amadeirado-baunilhado. Um reviewer nota parecença informal com o Gucci Guilty Elixir (compartilham várias notas)."
+  },
+  {
+    "id": 933,
+    "nome": "Dreamscape (Mykonos)",
+    "dna": "Dreamscape (Mykonos)",
+    "cat": "Frutado Confortável",
+    "ocasiao": [
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Frutado-floral-doce, fora do eixo pessoal do usuário apesar do hype forte.",
+    "compat": 3,
+    "preco": 250,
+    "exp": "Blind Buy",
+    "nota": 7.27,
+    "score": 7.01,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.07,
+    "gpf": 5.33,
+    "conc": "Extrait",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Floral",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Frutado",
+      "Floral",
+      "Amadeirado",
+      "Doce"
+    ],
+    "notas": [
+      "Manga",
+      "Limão Italiano",
+      "Ruibarbo",
+      "Gengibre",
+      "Jasmim",
+      "Pralinê"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8,
+    "cb": 8,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "resumo": "Original de nicho indonésio (2025), da coleção \"A Tale of Two Worlds\" — muito popular e hypado (8,5/10, alta demanda). Manga suculenta e ruibarbo cítrico-salgado abrem sobre gengibre, violeta e pralinê, fundo amadeirado-âmbar-musgo."
+  },
+  {
+    "id": 934,
+    "nome": "Glitch (Mykonos)",
+    "dna": "Glitch (Mykonos)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Especiado-aquático-amadeirado, moderado encaixe — abertura boa mas drydown mais doce que o ideal pro usuário.",
+    "compat": 6,
+    "preco": 250,
+    "exp": "Blind Buy",
+    "nota": 7.33,
+    "score": 7.73,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.07,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Especiado",
+      "Aquático",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Especiado",
+      "Aquático",
+      "Amadeirado",
+      "Floral"
+    ],
+    "notas": [
+      "Gengibre",
+      "Pimenta Vermelha",
+      "Notas Ozônicas"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8,
+    "cb": 8,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Original de nicho indonésio (2025) — composição contemporânea contrastando frescor gelado, especiaria, florais e madeiras. Abertura energética de gengibre-pimenta vermelha-notas ozônicas. Drydown adocicado (\"açúcar mascavo derretido\") segundo reviewers."
   }
 ]
