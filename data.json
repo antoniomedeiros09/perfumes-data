@@ -5542,9 +5542,9 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Em Avaliação",
     "veredito": "",
-    "compat": 8.0,
+    "compat": 8,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 9.7,
@@ -5588,13 +5588,13 @@
       "Fava Tonka",
       "Sândalo"
     ],
-    "fix": 10.0,
-    "projI": 6.0,
-    "projD": 6.0,
-    "qual": 10.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 8.0,
+    "fix": 10,
+    "projI": 6,
+    "projD": 6,
+    "qual": 10,
+    "cb": 10,
+    "simil": 10,
+    "vers": 8,
     "link": null,
     "resumo": "Contratipo de L'Homme Intense (Prada) — a íris é a nota que mais se destaca, dando o toque atalcado sobre o couro de fundo, sobre um acorde de couro predominante. Melhor em clima ameno a frio, para trabalho, social/noite ou evento formal.",
     "fotoInspiracao": "fotos/143_insp.jpg"
@@ -9336,7 +9336,7 @@
     "origem": "Nacional",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 10.0,
+    "compat": 10,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 8.6,
@@ -9380,16 +9380,16 @@
       "Almíscar",
       "Cedro"
     ],
-    "fix": 10.0,
-    "projI": 8.0,
-    "projD": 10.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "fix": 10,
+    "projI": 8,
+    "projD": 10,
+    "qual": 8,
+    "cb": 10,
+    "simil": 8,
+    "vers": 8,
     "link": "https://www.jaessencedelavie.com.br/perfume-spice-garden-masculino/",
     "resumo": "Contratipo de Tygar (Bvlgari) — o gengibre é a nota que mais se destaca, dando o toque picante sobre a toranja de abertura, sobre um acorde de ambroxan predominante. Melhor em clima ameno, para trabalho ou assinatura/casual.",
-    "prioridade": null,
+    "prioridade": true,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
       "43",
@@ -10431,19 +10431,19 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Em Avaliação",
     "veredito": "",
-    "compat": 6.0,
-    "preco": 220.0,
+    "compat": 6,
+    "preco": 220,
     "exp": "Blind Buy",
-    "nota": 9.0,
+    "nota": 9,
     "score": 9.95,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 8.8,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -10469,13 +10469,13 @@
       "Ambroxan",
       "Sálvia"
     ],
-    "fix": 6.0,
-    "projI": 8.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 10.0,
+    "fix": 6,
+    "projI": 8,
+    "projD": 6,
+    "qual": 8,
+    "cb": 10,
+    "simil": 10,
+    "vers": 10,
     "link": null,
     "resumo": "Contratipo de L'Immensité (Louis Vuitton) — a sálvia é a nota que mais se destaca, dando o toque aromático-fresco sobre a base ambarada, sobre um acorde ambarado predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "prioridade": null,
@@ -11058,7 +11058,7 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Possui",
     "veredito": "",
     "compat": 10,
     "preco": 320,
@@ -12841,13 +12841,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 10.0,
     "preco": 240.0,
     "exp": "Blind Buy",
     "nota": 7.73,
-    "score": 9.75,
+    "score": 8.75,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -13914,7 +13914,7 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Em Avaliação",
     "veredito": "",
     "compat": 8,
     "preco": null,
@@ -13964,7 +13964,7 @@
     "vers": 10,
     "link": null,
     "resumo": "Fragrância moderna e \"clean\" que transita perfeitamente entre o casual e o formal. Flor de laranjeira masculina e sofisticada.",
-    "prioridade": true,
+    "prioridade": false,
     "fotoInspiracao": "fotos/140_insp.jpg",
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
@@ -14046,7 +14046,7 @@
   },
   {
     "id": 229,
-    "nome": "Vanilla Powder (Matiere Premiere)",
+    "nome": "Vanilla Powder (Matiere Première)",
     "dna": "Vanilla Powder (Matiere Première)",
     "cat": "Oriental Impactante",
     "ocasiao": [
@@ -15143,10 +15143,10 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Em Avaliação",
     "veredito": "",
-    "compat": 6.0,
-    "preco": 230.0,
+    "compat": 6,
+    "preco": 230,
     "exp": "Sample First",
     "nota": 8.3,
     "score": 10,
@@ -15155,7 +15155,7 @@
     "melhorNac": true,
     "melhorAr": false,
     "sdt": 9.2,
-    "gpf": 6.0,
+    "gpf": 6,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -15178,8 +15178,8 @@
       "Oud"
     ],
     "fix": 10,
-    "projI": 10.0,
-    "projD": 10.0,
+    "projI": 10,
+    "projD": 10,
     "qual": 8,
     "cb": 10,
     "simil": 8,
@@ -15513,10 +15513,10 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Em Avaliação",
     "veredito": "",
-    "compat": 10.0,
-    "preco": 180.0,
+    "compat": 10,
+    "preco": 180,
     "exp": "Blind Buy",
     "nota": 8.6,
     "score": 10,
@@ -15547,13 +15547,13 @@
       "Manga",
       "Gengibre"
     ],
-    "fix": 10.0,
-    "projI": 8.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "fix": 10,
+    "projI": 8,
+    "projD": 6,
+    "qual": 8,
+    "cb": 10,
+    "simil": 8,
+    "vers": 8,
     "link": null,
     "resumo": "Contratipo de God of Fire (Stephane Humbert Lucas 777) — a manga madura domina a abertura suculenta antes de assentar nas frutas vermelhas do fundo, sobre um acorde frutado predominante. Melhor em clima ameno a frio, para social/noite.",
     "prioridade": null,
@@ -15578,10 +15578,10 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Em Avaliação",
     "veredito": "",
-    "compat": 8.0,
-    "preco": 160.0,
+    "compat": 8,
+    "preco": 160,
     "exp": "Blind Buy",
     "nota": 8.6,
     "score": 10,
@@ -15611,13 +15611,13 @@
       "Manga",
       "Limão"
     ],
-    "fix": 10.0,
-    "projI": 8.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "fix": 10,
+    "projI": 8,
+    "projD": 6,
+    "qual": 8,
+    "cb": 10,
+    "simil": 8,
+    "vers": 8,
     "link": null,
     "resumo": "Contratipo de God of Fire (Stephane Humbert Lucas 777) — a manga madura domina a abertura suculenta antes de assentar nas notas amadeiradas do fundo, sobre um acorde amadeirado predominante. Melhor em clima ameno a frio, para social/noite.",
     "prioridade": null,
@@ -16787,13 +16787,13 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 8.0,
     "preco": 250.0,
     "exp": "Blind Buy",
-    "nota": 8.3,
-    "score": 8.64,
+    "nota": 7.8,
+    "score": 9.46,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -16827,10 +16827,15 @@
     "projD": 6.0,
     "qual": 8.0,
     "cb": 10.0,
-    "simil": 10.0,
+    "simil": 8.0,
     "vers": 4.0,
     "link": null,
-    "resumo": "Contratipo de Herod (Parfums de Marly) — o incenso é a nota que mais se destaca, dando o toque resinoso sobre o tabaco de fundo, sobre um acorde de tabaco predominante. Melhor em clima frio a ameno, para social/noite ou evento formal."
+    "resumo": "Contratipo de Herod (Parfums de Marly) — o incenso é a nota que mais se destaca, dando o toque resinoso sobre o tabaco de fundo, sobre um acorde de tabaco predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "597",
+      "853"
+    ]
   },
   {
     "id": 275,
@@ -17653,8 +17658,8 @@
     "origem": "Nacional",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 8.0,
-    "preco": 180.0,
+    "compat": 8,
+    "preco": 180,
     "exp": "Blind Buy",
     "nota": 8.3,
     "score": 10,
@@ -17685,16 +17690,16 @@
       "Toffee",
       "Canela"
     ],
-    "fix": 8.0,
-    "projI": 8.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 10.0,
-    "vers": 4.0,
+    "fix": 8,
+    "projI": 8,
+    "projD": 6,
+    "qual": 8,
+    "cb": 10,
+    "simil": 10,
+    "vers": 4,
     "link": null,
     "resumo": "Contratipo de Stronger With You Intensely (Emporio Armani) — o toffee é a nota que mais se destaca, dando o toque licoroso-doce sobre a canela de abertura, sobre um acorde de baunilha predominante. Melhor em clima frio a ameno, para social/noite.",
-    "prioridade": null,
+    "prioridade": true,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
       "561"
@@ -25016,8 +25021,8 @@
     "compat": 8.0,
     "preco": 2200.0,
     "exp": "Sample First",
-    "nota": 8.1,
-    "score": 7.82,
+    "nota": 7.47,
+    "score": 7.6,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -25050,7 +25055,7 @@
     "projD": 6.0,
     "qual": 10.0,
     "cb": 6.0,
-    "simil": 10.0,
+    "simil": null,
     "vers": 4.0,
     "link": null,
     "resumo": "Original de nicho — a canela é a nota que mais se destaca, dando o calor especiado sobre o tabaco de fundo, sobre um acorde de tabaco predominante. Melhor em clima frio a ameno, para social/noite.",
@@ -26640,13 +26645,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 7.0,
     "preco": 330.0,
     "exp": "Blind Buy",
     "nota": 8.75,
-    "score": 10,
+    "score": 9.35,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -26693,8 +26698,9 @@
     "prioridade": null,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
+      "513",
       "679",
-      "513"
+      "882"
     ],
     "fotoInspiracao": "fotos/228.jpg"
   },
@@ -30452,7 +30458,8 @@
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
       "455",
-      "679"
+      "679",
+      "882"
     ],
     "fotoInspiracao": "fotos/228.jpg"
   },
@@ -35105,7 +35112,7 @@
     "origem": "Nacional",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 9.0,
+    "compat": 9,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 8.1,
@@ -35115,7 +35122,7 @@
     "melhorNac": true,
     "melhorAr": false,
     "sdt": 9.4,
-    "gpf": 7.0,
+    "gpf": 7,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -35141,16 +35148,16 @@
       "Rosa",
       "Patchouli"
     ],
-    "fix": 7.0,
-    "projI": 7.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 9.0,
-    "simil": 8.0,
-    "vers": 8.0,
+    "fix": 7,
+    "projI": 7,
+    "projD": 6,
+    "qual": 8,
+    "cb": 9,
+    "simil": 8,
+    "vers": 8,
     "link": "https://www.valentinoviegas.com.br/",
     "resumo": "Contratipo de Colonia (Acqua di Parma) — a rosa é a nota que mais se destaca, dando o toque floral incomum sobre o limão siciliano de abertura, sobre um acorde de lavanda predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "prioridade": null,
+    "prioridade": true,
     "fotoInspiracao": "fotos/588.jpg",
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
@@ -35834,14 +35841,14 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Em Avaliação",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 7.0,
     "preco": null,
     "exp": "Sample First",
     "nota": 7.3,
-    "score": 7.74,
-    "rankDNA": 3,
+    "score": 9.74,
+    "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": true,
     "melhorAr": false,
@@ -35886,7 +35893,12 @@
     "simil": 7.0,
     "vers": 7.0,
     "link": null,
-    "resumo": "Contratipo de Herod (Parfums de Marly) — o incenso é a nota que mais se destaca, dando o toque resinoso sobre a canela e pimenta rosa, sobre um acorde de tabaco predominante. Melhor em clima frio a ameno, para social/noite."
+    "resumo": "Contratipo de Herod (Parfums de Marly) — o incenso é a nota que mais se destaca, dando o toque resinoso sobre a canela e pimenta rosa, sobre um acorde de tabaco predominante. Melhor em clima frio a ameno, para social/noite.",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "274",
+      "853"
+    ]
   },
   {
     "id": 598,
@@ -36703,9 +36715,9 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "",
-    "compat": 9.0,
+    "compat": 9,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 7.65,
@@ -36747,16 +36759,16 @@
       "Couro",
       "Fava Tonka"
     ],
-    "fix": 9.0,
-    "projI": 7.0,
-    "projD": 6.0,
-    "qual": 7.0,
-    "cb": 8.0,
-    "simil": 8.0,
-    "vers": 7.0,
+    "fix": 9,
+    "projI": 7,
+    "projD": 6,
+    "qual": 7,
+    "cb": 8,
+    "simil": 8,
+    "vers": 7,
     "link": null,
     "resumo": "Contratipo de BabyCat (Yves Saint Laurent - YSL) — o incenso é a nota que mais se destaca, dando o toque resinoso sobre a pimenta rosa de abertura, sobre um acorde de couro predominante. Melhor em clima frio a ameno, para social/noite.",
-    "prioridade": null,
+    "prioridade": true,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
       "560",
@@ -37434,7 +37446,7 @@
     "origem": "Nacional",
     "status": "Forte Interesse",
     "veredito": "",
-    "compat": 9.0,
+    "compat": 9,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 7.75,
@@ -37476,16 +37488,16 @@
       "Couro",
       "Fava Tonka"
     ],
-    "fix": 8.0,
-    "projI": 6.0,
-    "projD": 5.0,
-    "qual": 7.0,
-    "cb": 9.0,
-    "simil": 8.0,
-    "vers": 7.0,
+    "fix": 8,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7,
+    "cb": 9,
+    "simil": 8,
+    "vers": 7,
     "link": null,
     "resumo": "Contratipo de BabyCat (Yves Saint Laurent - YSL) — o incenso é a nota que mais se destaca, dando o toque resinoso sobre a pimenta rosa de abertura, sobre um acorde de couro predominante. Melhor em clima frio a ameno, para social/noite.",
-    "prioridade": null,
+    "prioridade": true,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
       "560",
@@ -38039,14 +38051,14 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "",
     "compat": 5.0,
     "preco": null,
     "exp": "Sample First",
     "nota": 7.05,
-    "score": 7.47,
-    "rankDNA": 2,
+    "score": 7.97,
+    "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
@@ -38091,7 +38103,12 @@
     "vers": 4.0,
     "link": null,
     "resumo": "Contratipo de Haltane (Parfums de Marly) — o açafrão é a nota que mais se destaca, dando o calor especiado sobre o oud de fundo, sobre um acorde de oud predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
-    "fotoInspiracao": "fotos/644.jpg"
+    "fotoInspiracao": "fotos/644.jpg",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "673",
+      "850"
+    ]
   },
   {
     "id": 631,
@@ -38415,7 +38432,7 @@
     "vers": 8,
     "link": null,
     "resumo": "Fresh amadeirado floral intensificado. Versão mais encorpada do MYSLF. Gengibre e cardamomo picantes. Perfil executivo moderno. Altamente alinhado ao gosto.",
-    "prioridade": true,
+    "prioridade": false,
     "fotoInspiracao": "fotos/577.jpg",
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
@@ -40823,13 +40840,13 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 8.0,
     "preco": 129.0,
     "exp": "Blind Buy",
     "nota": 8.1,
-    "score": 9.11,
+    "score": 10,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": true,
@@ -40877,7 +40894,12 @@
     "vers": 6.0,
     "link": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Haltane-82024.html",
     "resumo": "Contratipo de Haltane (Parfums de Marly) — o açafrão é a nota que mais se destaca, dando o calor especiado sobre a sálvia clary de abertura, sobre um acorde de couro predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
-    "fotoInspiracao": "fotos/644.jpg"
+    "fotoInspiracao": "fotos/644.jpg",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "630",
+      "850"
+    ]
   },
   {
     "id": 674,
@@ -41264,10 +41286,11 @@
     "link": "https://www.fragrantica.com/perfume/Khadlaj-Perfumes/Karus-Gold-Absolu-137097.html",
     "resumo": "Contratipo de Bal d'Afrique Absolu (Byredo) — a amora-preta é a nota que mais se destaca, dando o contraste frutado-ácido sobre o pralinê de abertura, sobre um acorde de violeta predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
     "prioridade": true,
-    "calibradoEm": "2026-08-06",
+    "calibradoEm": "2026-08-29",
     "calibradoContra": [
       "455",
-      "513"
+      "513",
+      "882"
     ]
   },
   {
@@ -44506,7 +44529,7 @@
     "id": 697,
     "nome": "Rialto (Gritti)",
     "dna": "Rialto (Gritti)",
-    "cat": "Floral Amadeirado Sofisticado",
+    "cat": "Oriental Sedutor",
     "ocasiao": [
       "Trabalho",
       "Social/Noite",
@@ -44519,13 +44542,13 @@
     "preco": 600,
     "exp": "Sample First",
     "nota": 7.27,
-    "score": 7.19,
+    "score": 7.82,
     "rankDNA": null,
     "flagDNA": null,
     "melhorNac": null,
     "melhorAr": null,
-    "sdt": 7.0,
-    "gpf": 5.0,
+    "sdt": 9.5,
+    "gpf": 10,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -44535,21 +44558,24 @@
       "Versátil"
     ],
     "perfil": [
+      "Oriental",
+      "Frutado",
+      "Floral"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Frutado",
       "Floral",
       "Amadeirado",
-      "Sofisticado"
-    ],
-    "fam": "Amadeirado",
-    "acordes": [
-      "Cítricos",
-      "Floral",
-      "Amadeirado"
+      "Ambarado"
     ],
     "notas": [
       "Bergamota",
-      "Limão",
-      "Flor de Laranja",
-      "Jasmim"
+      "Açafrão",
+      "Manga",
+      "Rosa Taif",
+      "Íris",
+      "Frutas Tropicais"
     ],
     "fix": 8,
     "projI": 7,
@@ -44559,9 +44585,9 @@
     "simil": null,
     "vers": 7,
     "link": null,
-    "resumo": "Original de nicho — a flor de laranja é a nota que mais se destaca, dando o coração floral sobre o limão de abertura, sobre um acorde floral predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "resumo": "Original de nicho (Gritti, coleção veneziana) — corrigido nesta rodada: o perfil real é oriental frutado-amadeirado com açafrão, manga e oud (não cítrico-floral simples como estava registrado antes). A manga é a nota que mais se destaca na abertura, evoluindo pra rosa taif e íris no coração, fechando em oud e âmbar. Melhor em clima ameno a frio, para trabalho, social/noite ou evento formal.",
     "ind": 10.0,
-    "dap": 5.0
+    "dap": 8.75
   },
   {
     "id": 698,
@@ -44900,13 +44926,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "Alta fidelidade ao DNA, ótimo custo-benefício — o achado real da pesquisa de dupes de Santal 33.",
     "compat": 7,
     "preco": 170,
     "exp": "Sample First",
     "nota": 8.0,
-    "score": 9.26,
+    "score": 8.26,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -46329,13 +46355,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "Uma das melhores opções de entrada pro DNA Santal 33 pelo preço — mais um representante pra comparar com Emper Stallion 53.",
     "compat": 7,
     "preco": 150,
     "exp": "Sample First",
     "nota": 6.75,
-    "score": 8.71,
+    "score": 7.71,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": true,
@@ -47080,13 +47106,13 @@
       "Casual"
     ],
     "origem": "Nicho",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "O dupe mais preciso encontrado — inclusive supera o original em performance.",
     "compat": 6,
     "preco": 150,
     "exp": "Sample First",
     "nota": 8.05,
-    "score": 7.97,
+    "score": 9.47,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -47127,7 +47153,12 @@
     "simil": 9,
     "vers": 7,
     "link": null,
-    "resumo": "Contratipo de Aqua Universalis Cologne Forte (Maison Francis Kurkdjian) — as flores brancas são o destaque, dando o coração floral-limpo sobre a bergamota de abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Contratipo de Aqua Universalis Cologne Forte (Maison Francis Kurkdjian) — as flores brancas são o destaque, dando o coração floral-limpo sobre a bergamota de abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "891",
+      "774"
+    ]
   },
   {
     "id": 774,
@@ -47144,8 +47175,8 @@
     "compat": 6,
     "preco": 150,
     "exp": "Sample First",
-    "nota": 7,
-    "score": 7.46,
+    "nota": 7.0,
+    "score": 7.96,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
@@ -47188,7 +47219,12 @@
     "simil": 7,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo de Aqua Universalis Cologne Forte (Maison Francis Kurkdjian) — a falsa laranjeira é a nota que mais se destaca, dando o toque floral sobre o limão siciliano de abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Contratipo de Aqua Universalis Cologne Forte (Maison Francis Kurkdjian) — a falsa laranjeira é a nota que mais se destaca, dando o toque floral sobre o limão siciliano de abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "891",
+      "773"
+    ]
   },
   {
     "id": 775,
@@ -47456,9 +47492,9 @@
     "preco": 130,
     "exp": "Sample First",
     "nota": 7.7,
-    "score": 7.88,
-    "rankDNA": 2,
-    "flagDNA": false,
+    "score": 9.38,
+    "rankDNA": 1,
+    "flagDNA": true,
     "melhorNac": false,
     "melhorAr": true,
     "sdt": 8.93,
@@ -47498,7 +47534,12 @@
     "simil": 8,
     "vers": 7,
     "link": null,
-    "resumo": "Contratipo de Cedar Chic (Carolina Herrera) — os aldeídos são a nota que mais se destaca, dando o efeito \"sabonete\" clássico à abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual."
+    "resumo": "Contratipo de Cedar Chic (Carolina Herrera) — os aldeídos são a nota que mais se destaca, dando o efeito \"sabonete\" clássico à abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "878",
+      "884"
+    ]
   },
   {
     "id": 780,
@@ -48966,7 +49007,8 @@
     "simil": 7,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo de Y Iced Cologne (Yves Saint Laurent - YSL) — o gelo é a nota que mais se destaca, dando o efeito gelado sobre a menta de abertura, sobre um acorde fresco predominante. Melhor em clima calor, para trabalho ou assinatura/casual."
+    "resumo": "Contratipo de Y Iced Cologne (Yves Saint Laurent - YSL) — o gelo é a nota que mais se destaca, dando o efeito gelado sobre a menta de abertura, sobre um acorde fresco predominante. Melhor em clima calor, para trabalho ou assinatura/casual.",
+    "prioridade": true
   },
   {
     "id": 804,
@@ -50449,13 +50491,13 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Bom encaixe cítrico-amadeirado, alinhado ao arquétipo do usuário.",
     "compat": 7,
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.5,
-    "score": 7.78,
+    "score": 8.28,
     "rankDNA": 7,
     "flagDNA": false,
     "melhorNac": false,
@@ -50496,7 +50538,11 @@
     "simil": 7,
     "vers": 7,
     "link": null,
-    "resumo": "Contratipo nacional do MYSLF (YSL) — mesma pirâmide de referência (bergamota, flor de laranjeira, ambrofix, patchouli) dos outros dupes desse DNA já mapeados."
+    "resumo": "Contratipo nacional do MYSLF (YSL) — mesma pirâmide de referência (bergamota, flor de laranjeira, ambrofix, patchouli) dos outros dupes desse DNA já mapeados.",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "227"
+    ]
   },
   {
     "id": 830,
@@ -50928,13 +50974,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Atalcado-baunilhado alinhado à textura preferida do usuário, unissex.",
     "compat": 6,
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.35,
-    "score": 6.7,
+    "score": 7.2,
     "rankDNA": 7,
     "flagDNA": false,
     "melhorNac": false,
@@ -50976,7 +51022,11 @@
     "simil": 7,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo nacional do Vanilla Powder (Matière Première) — mesmo DNA de outros 5 dupes já mapeados na base (Powder JA Essence, Fursan White, Fleure, Fleurie Violette)."
+    "resumo": "Contratipo nacional do Vanilla Powder (Matière Première) — mesmo DNA de outros 5 dupes já mapeados na base (Powder JA Essence, Fursan White, Fleure, Fleurie Violette).",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "297"
+    ]
   },
   {
     "id": 838,
@@ -51707,14 +51757,14 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Couro-especiado, moderadamente alinhado ao eixo do usuário.",
     "compat": 5,
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.05,
-    "score": 7.05,
-    "rankDNA": 3,
+    "score": 7.55,
+    "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
@@ -51754,7 +51804,12 @@
     "simil": 7,
     "vers": 5,
     "link": null,
-    "resumo": "Contratipo nacional do Haltane (Parfums de Marly) — açafrão especiado sobre couro e oud."
+    "resumo": "Contratipo nacional do Haltane (Parfums de Marly) — açafrão especiado sobre couro e oud.",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "673",
+      "630"
+    ]
   },
   {
     "id": 851,
@@ -51883,14 +51938,14 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Especiado-couro-tabaco, moderadamente alinhado ao usuário.",
     "compat": 5,
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.05,
-    "score": 7.05,
-    "rankDNA": 4,
+    "score": 7.55,
+    "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
@@ -51930,7 +51985,12 @@
     "simil": 7,
     "vers": 5,
     "link": null,
-    "resumo": "Contratipo nacional do Herod (Parfums de Marly) — canela e tabaco sobre couro amadeirado."
+    "resumo": "Contratipo nacional do Herod (Parfums de Marly) — canela e tabaco sobre couro amadeirado.",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "274",
+      "597"
+    ]
   },
   {
     "id": 854,
@@ -52479,13 +52539,13 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Amadeirado-atalcado-couro, bom encaixe pro perfil do usuário, com validação de comunidade real.",
     "compat": 6,
     "preco": 200,
     "exp": "Sample First",
     "nota": 6.8,
-    "score": 7.0,
+    "score": 8.5,
     "rankDNA": 8,
     "flagDNA": false,
     "melhorNac": false,
@@ -52528,7 +52588,11 @@
     "simil": 7,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo nacional do Santal 33 (Le Labo) — review detalhado no Fragrantica compara diretamente ao DNA (papiro, íris, cedro, sândalo, couro) e afirma superar outro contratipo nacional (Phebo Santalum) em performance e complexidade."
+    "resumo": "Contratipo nacional do Santal 33 (Le Labo) — review detalhado no Fragrantica compara diretamente ao DNA (papiro, íris, cedro, sândalo, couro) e afirma superar outro contratipo nacional (Phebo Santalum) em performance e complexidade.",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "682"
+    ]
   },
   {
     "id": 864,
@@ -52966,13 +53030,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Cítrico-especiado-amadeirado, bom encaixe pro perfil do usuário.",
     "compat": 6,
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.15,
-    "score": 6.88,
+    "score": 8.38,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -53015,7 +53079,11 @@
     "simil": 7,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo nacional do Ingenious Ginger (Goldfield & Banks), declarado pela própria Nuancielo. Flor de gengibre cítrica sobre um fundo baunilhado-amadeirado com cashmeran."
+    "resumo": "Contratipo nacional do Ingenious Ginger (Goldfield & Banks), declarado pela própria Nuancielo. Flor de gengibre cítrica sobre um fundo baunilhado-amadeirado com cashmeran.",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "666"
+    ]
   },
   {
     "id": 872,
@@ -53027,13 +53095,13 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Frutado-especiado-ambarado, moderadamente alinhado ao eixo do usuário.",
     "compat": 5,
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 6.7,
-    "score": 7.17,
+    "score": 7.67,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -53076,7 +53144,12 @@
     "simil": 6,
     "vers": 5,
     "link": null,
-    "resumo": "Contratipo nacional posicionado pela Nuancielo na família de âmbares especiados como Armani Code Absolu, The One EDP e Stronger With You Intensely — referência de território, não clone 1:1 declarado."
+    "resumo": "Contratipo nacional posicionado pela Nuancielo na família de âmbares especiados como Armani Code Absolu, The One EDP e Stronger With You Intensely — referência de território, não clone 1:1 declarado.",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "289",
+      "561"
+    ]
   },
   {
     "id": 873,
@@ -53208,13 +53281,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Cítrico-amadeirado, um dos melhores encaixes do lote pro perfil do usuário.",
     "compat": 7,
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.5,
-    "score": 7.72,
+    "score": 8.22,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -53258,7 +53331,11 @@
     "simil": 7,
     "vers": 7,
     "link": null,
-    "resumo": "Contratipo nacional do Tygar (Bvlgari), declarado pela própria Maison Viegas. Toranja radiante sobre gengibre e ambrette, fundo âmbar-amadeirado."
+    "resumo": "Contratipo nacional do Tygar (Bvlgari), declarado pela própria Maison Viegas. Toranja radiante sobre gengibre e ambrette, fundo âmbar-amadeirado.",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "147"
+    ]
   },
   {
     "id": 876,
@@ -53392,14 +53469,14 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Amadeirado-aldeídico-floral, moderado encaixe, mas fidelidade não confirmada e original é polarizador.",
     "compat": 6,
     "preco": 150,
     "exp": "Sample First",
     "nota": 6.55,
-    "score": 7.39,
-    "rankDNA": null,
+    "score": 7.89,
+    "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
@@ -53438,7 +53515,12 @@
     "simil": 6,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo do Cedar Chic (Carolina Herrera). ⚠️ Não encontrei reviews independentes específicas do Cloud 9 (Gulf Orchid) para confirmar fidelidade — o próprio original é controverso na comunidade (reviews vão de 9,33/10 de hype a \"cheira a xixi de gato\")."
+    "resumo": "Contratipo do Cedar Chic (Carolina Herrera). ⚠️ Não encontrei reviews independentes específicas do Cloud 9 (Gulf Orchid) para confirmar fidelidade — o próprio original é controverso na comunidade (reviews vão de 9,33/10 de hype a \"cheira a xixi de gato\").",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "779",
+      "884"
+    ]
   },
   {
     "id": 879,
@@ -53509,13 +53591,13 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Interesse",
     "veredito": "Cítrico-floral-amadeirado, bom encaixe estrutural, mas fidelidade ao MYSLF L'Absolu não confirmada com certeza.",
     "compat": 6,
     "preco": 150,
     "exp": "Sample First",
     "nota": 6.95,
-    "score": 6.78,
+    "score": 7.28,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -53557,7 +53639,12 @@
     "simil": 7,
     "vers": 6,
     "link": null,
-    "resumo": "Original de nicho árabe (2025) — estrutura (cardamomo-bergamota-gengibre / flor de laranjeira-neroli / ambroxan-almíscar) é estruturalmente compatível com a família MYSLF, mas não encontrei confirmação explícita de clone declarado."
+    "resumo": "Original de nicho árabe (2025) — estrutura (cardamomo-bergamota-gengibre / flor de laranjeira-neroli / ambroxan-almíscar) é estruturalmente compatível com a família MYSLF, mas não encontrei confirmação explícita de clone declarado.",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "635",
+      "806"
+    ]
   },
   {
     "id": 881,
@@ -53633,7 +53720,7 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Frutado-amadeirado, bom encaixe pro perfil do usuário.",
     "compat": 7,
     "preco": 60,
@@ -53645,7 +53732,7 @@
     "melhorNac": false,
     "melhorAr": false,
     "sdt": 8.8,
-    "gpf": 4.0,
+    "gpf": 4,
     "conc": "EDP",
     "clima": [
       "Ameno"
@@ -53680,7 +53767,14 @@
     "simil": 8,
     "vers": 7,
     "link": null,
-    "resumo": "Contratipo nacional do Bal d'Afrique Absolu (Byredo) — versão \"Absolu\" do Imaginary Trip que já está mapeado pro Bal d'Afrique base, seguindo a mesma linha da marca."
+    "resumo": "Contratipo nacional do Bal d'Afrique Absolu (Byredo) — versão \"Absolu\" do Imaginary Trip que já está mapeado pro Bal d'Afrique base, seguindo a mesma linha da marca.",
+    "prioridade": true,
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "455",
+      "513",
+      "679"
+    ]
   },
   {
     "id": 883,
@@ -53743,7 +53837,8 @@
     "calibradoEm": "2026-08-15",
     "calibradoContra": [
       "733"
-    ]
+    ],
+    "prioridade": true
   },
   {
     "id": 884,
@@ -53755,16 +53850,16 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Curiosidade",
+    "status": "Forte Interesse",
     "veredito": "Amadeirado-aldeídico-floral, moderado encaixe.",
     "compat": 6,
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.2,
-    "score": 7.62,
-    "rankDNA": null,
+    "score": 9.12,
+    "rankDNA": 2,
     "flagDNA": false,
-    "melhorNac": false,
+    "melhorNac": true,
     "melhorAr": false,
     "sdt": 8.8,
     "gpf": 4.0,
@@ -53801,7 +53896,12 @@
     "simil": 7,
     "vers": 6,
     "link": null,
-    "resumo": "Contratipo nacional do Cedar Chic (Carolina Herrera) — mesmo DNA controverso do original (reviews divididas entre elogio e crítica forte)."
+    "resumo": "Contratipo nacional do Cedar Chic (Carolina Herrera) — mesmo DNA controverso do original (reviews divididas entre elogio e crítica forte).",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "779",
+      "878"
+    ]
   },
   {
     "id": 885,
@@ -54084,5 +54184,250 @@
     "vers": 6.0,
     "link": "https://www.prada.com/us/en/p/paradigme-eau-de-parfum/",
     "resumo": "Original Prada (2025), Oriental Amadeirado assinado por Marie Salamagne, Bruno Jovanovic e Nicolas Bonneville — abre em bergamota calabresa e almíscar, evolui para um coração inesperado de gerânio, fechando em benjoim, bálsamo do Peru e pau-ágar. Lançamento extremamente polarizador: parte da crítica chamou de pior lançamento do ano, outra defendeu como incompreendido. Melhor em clima ameno a frio, para trabalho ou evento formal."
+  },
+  {
+    "id": 890,
+    "nome": "Alto (JA Essence)",
+    "dna": "Rialto (Gritti)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Nacional",
+    "status": "Em Avaliação",
+    "veredito": "Fora do arquétipo cítrico-amadeirado-frio do usuário (perfil oriental-oud-frutado); compatibilidade baixa. Fidelidade estimada alta por comparação direta de notas oficiais (açafrão+manga+bergamota / rosa taif+íris / oud+almíscar batem quase 1:1 com o Rialto real, que também acabou de ser corrigido na base).",
+    "compat": 4.0,
+    "preco": 180.0,
+    "exp": "Sample First",
+    "nota": 8.05,
+    "score": 7.06,
+    "rankDNA": 1,
+    "flagDNA": true,
+    "melhorNac": true,
+    "melhorAr": false,
+    "sdt": 8.57,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Frutado",
+      "Floral"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Amadeirado",
+      "Floral",
+      "Frutado",
+      "Especiado"
+    ],
+    "notas": [
+      "Açafrão",
+      "Manga",
+      "Rosa Taif",
+      "Íris Negra",
+      "Oud",
+      "Almíscar Branco"
+    ],
+    "fix": 8.0,
+    "projI": 6.0,
+    "projD": 6.0,
+    "qual": 7.0,
+    "cb": 10.0,
+    "simil": 9.0,
+    "vers": 6.0,
+    "link": "https://www.privilegeparfum.com.br/produtos/alto-ja-essence-perfume-inspirado-em-rialto-de-gritti-compartilhavel-11a1i/",
+    "resumo": "Contratipo de Rialto (Gritti) — o açafrão e a manga assumem a abertura com um contraste frutado-especiado incomum, evoluindo pra um coração de rosa taif e íris negra, fechando num fundo de oud e almíscar branco. Fidelidade muito alta por comparação de notas oficiais. Melhor em clima ameno a frio, para social/noite ou evento formal."
+  },
+  {
+    "id": 891,
+    "nome": "Universo Forte (JA Essence)",
+    "dna": "Aqua Universalis Cologne Forte (Maison Francis Kurkdjian)",
+    "cat": "Luxury Clean Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Interesse",
+    "veredito": "Terceiro candidato do DNA — completa o grupo (antes só tinha Acqua Bravata e Fleur Blanche, ambos Nicho). Boa fidelidade de notas, mas reviews divergem sobre fixação/projeção (uma reclamação de fraqueza, outra elogiando potência) — trate como Sample First.",
+    "compat": 6.0,
+    "preco": 199.9,
+    "exp": "Sample First",
+    "nota": 7.35,
+    "score": 8.25,
+    "rankDNA": 2,
+    "flagDNA": false,
+    "melhorNac": true,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Floral",
+      "Almíscar"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Floral",
+      "Almíscar",
+      "Luxury Clean"
+    ],
+    "notas": [
+      "Bergamota",
+      "Limão",
+      "Flor de Laranjeira",
+      "Jasmim",
+      "Almíscar Branco"
+    ],
+    "fix": 6.0,
+    "projI": 6.0,
+    "projD": 4.0,
+    "qual": 7.0,
+    "cb": 8.0,
+    "simil": 8.0,
+    "vers": 7.0,
+    "link": "https://www.jaessencedelavie.com.br/universo-forte-perfume-inspirado-em-aqua-universalis-cologne-forte-maison-francis-kurkdjian-compartilhavel-68c443f820e73/",
+    "resumo": "Contratipo de Aqua Universalis Cologne Forte (Maison Francis Kurkdjian) — a flor de laranjeira e o jasmim dão o coração floral-limpo sobre a bergamota e limão de abertura, fechando em almíscar branco. Reviews divergem sobre fixação. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "calibradoEm": "2026-08-29",
+    "calibradoContra": [
+      "773",
+      "774"
+    ]
+  },
+  {
+    "id": 892,
+    "nome": "Jardin d'Amalfi (Creed)",
+    "dna": "Jardin d'Amalfi (Creed)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Em Avaliação",
+    "veredito": "Fora do núcleo do usuário mas com boa adjacência cítrica; registrado principalmente como referência de DNA pro contratipo nacional (Amalfi, JA Essence). Preço de importado ultra-premium (linha Les Royales Exclusives da Creed).",
+    "compat": 5.0,
+    "preco": 3800.0,
+    "exp": "Sample First",
+    "nota": 7.2,
+    "score": 6.7,
+    "sdt": 7.73,
+    "gpf": 8.67,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Floral"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Floral",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Tangerina",
+      "Bergamota",
+      "Rosa",
+      "Jasmim",
+      "Maçã",
+      "Cedro",
+      "Vetiver"
+    ],
+    "fix": 6.0,
+    "projI": 6.0,
+    "projD": 4.0,
+    "qual": 8.0,
+    "cb": 6.0,
+    "simil": null,
+    "vers": 8.0,
+    "link": "https://www.creedboutique.com/products/jardin-d-amalfi",
+    "resumo": "Original Creed (2011, linha Les Royales Exclusives) — a tangerina e a rosa se destacam, dando um contraste cítrico-floral luminoso sobre um fundo de cedro, vetiver e almíscar branco. Evoca a costa amalfitana no fim do verão. Melhor em clima calor a ameno, para assinatura/casual."
+  },
+  {
+    "id": 893,
+    "nome": "Amalfi (JA Essence)",
+    "dna": "Jardin d'Amalfi (Creed)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Em Avaliação",
+    "veredito": "Boa adjacência cítrica com o arquétipo, mas o coração floral-rosa puxa pra um perfil mais compartilhável do que masculino puro. DNA (Creed Jardin d'Amalfi) ainda não representado na Coleção Real.",
+    "compat": 6.0,
+    "preco": 189.9,
+    "exp": "Sample First",
+    "nota": 7.75,
+    "score": 6.93,
+    "rankDNA": 1,
+    "flagDNA": true,
+    "melhorNac": true,
+    "melhorAr": false,
+    "sdt": 7.07,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Floral",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Floral",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "notas": [
+      "Tangerina",
+      "Bergamota",
+      "Neroli",
+      "Rosa Búlgara",
+      "Maçã",
+      "Vetiver",
+      "Almíscar Branco",
+      "Canela"
+    ],
+    "fix": 6.0,
+    "projI": 6.0,
+    "projD": 4.0,
+    "qual": 7.0,
+    "cb": 10.0,
+    "simil": 8.0,
+    "vers": 7.0,
+    "link": "https://www.jaessencedelavie.com.br/amalfi-compartilhavel/",
+    "resumo": "Contratipo de Jardin d'Amalfi (Creed) — a tangerina e a rosa búlgara conduzem a mesma dobradiça cítrico-floral do original, com maçã no coração e um fundo de vetiver, almíscar e um toque de canela que o original não tem. Boa fidelidade estrutural. Melhor em clima calor a ameno, para assinatura/casual."
   }
 ]
