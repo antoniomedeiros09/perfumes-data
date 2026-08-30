@@ -3253,8 +3253,8 @@
   },
   {
     "id": 53,
-    "nome": "Born In Roma (Valentino)",
-    "dna": "Born In Roma (Valentino)",
+    "nome": "Born In Roma Uomo (Valentino)",
+    "dna": "Born In Roma Uomo (Valentino)",
     "cat": "Aromático Confortável",
     "ocasiao": [
       "Social/Noite",
@@ -3290,16 +3290,18 @@
     ],
     "fam": "Aromático",
     "acordes": [
-      "Âmbar",
-      "Madeira",
       "Mineral",
-      "Aromático"
+      "Aromático",
+      "Amadeirado",
+      "Especiado"
     ],
     "notas": [
-      "Vetiver",
       "Sal",
+      "Folha de Violeta",
+      "Notas Minerais",
+      "Sálvia",
       "Gengibre",
-      "Madeira"
+      "Vetiver"
     ],
     "fix": 10.0,
     "projI": 8.0,
@@ -3309,7 +3311,7 @@
     "simil": null,
     "vers": 8.0,
     "link": "https://www.valentino-beauty.com",
-    "resumo": "Original designer (2019) — o sal é a nota que mais se destaca, dando o toque mineral-seco sobre o vetiver de fundo, sobre um acorde mineral predominante. Melhor em clima ameno, para trabalho ou assinatura/casual.",
+    "resumo": "Original designer (2019) — o sal mineral é a nota que mais se destaca na abertura, dando o toque salino-fresco antes da sálvia e do gengibre, sobre um acorde amadeirado-vetiver predominante no fundo. Esta é a versão MASCULINA (Uomo) da linha Born In Roma — distinta da versão feminina (Donna), floral-jasmim-baunilha. Melhor em clima ameno, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
@@ -15290,7 +15292,7 @@
   {
     "id": 240,
     "nome": "Reverie Aqua (Zimaya)",
-    "dna": "Born In Roma Intense (Valentino)",
+    "dna": "Born In Roma Uomo Intense (Valentino)",
     "cat": "Oriental Sofisticado",
     "ocasiao": [
       "Social/Noite",
@@ -15343,7 +15345,7 @@
     "simil": 10.0,
     "vers": 8.0,
     "link": "https://www.thekingofparfums.com.br/",
-    "resumo": "Contratipo de Born In Roma Intense (Valentino) — a castanha é a nota que mais se destaca, dando o toque gourmand incomum sobre a baunilha e lavanda, sobre um acorde amadeirado predominante. Melhor em clima frio a ameno, para social/noite.",
+    "resumo": "Contratipo de Born In Roma Uomo Intense (Valentino) — a castanha é a nota que mais se destaca, dando o toque gourmand incomum sobre a baunilha e lavanda, sobre um acorde amadeirado predominante. Melhor em clima frio a ameno, para social/noite.",
     "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
@@ -15352,7 +15354,7 @@
   {
     "id": 241,
     "nome": "Rome Extradose (Bharara)",
-    "dna": "Born In Roma (Valentino)",
+    "dna": "Born In Roma Uomo Extradose (Valentino)",
     "cat": "Aromático Impactante",
     "ocasiao": [
       "Social/Noite",
@@ -15360,7 +15362,7 @@
     ],
     "origem": "Árabe",
     "status": "Interesse",
-    "veredito": "",
+    "veredito": "Mapeamento corrigido nesta sessão — estava contra \"Born In Roma\" genérico (nem gênero nem flanker corretos). Agora aponta pro Uomo Extradose real.",
     "compat": 10.0,
     "preco": 350.0,
     "exp": "Blind Buy",
@@ -15385,26 +15387,27 @@
     ],
     "fam": "Aromático",
     "acordes": [
-      "Lavanda",
-      "Baunilha",
-      "Especiado",
-      "Amadeirado"
+      "Aromático",
+      "Amadeirado",
+      "Ambarado",
+      "Especiado"
     ],
     "notas": [
-      "Lavanda",
+      "Notas Especiadas",
+      "Lavanda Selvagem",
       "Baunilha",
-      "Cassis",
-      "Sândalo"
+      "Vetiver",
+      "Madeira de Guaiaco"
     ],
     "fix": 12.0,
     "projI": 10.0,
     "projD": 8.0,
     "qual": 8.0,
     "cb": 10.0,
-    "simil": 10.0,
+    "simil": 7,
     "vers": 6.0,
     "link": "https://www.thekingofparfums.com.br/",
-    "resumo": "Contratipo de Born In Roma (Valentino) — o cassis é a nota que mais se destaca, dando o contraste frutado-ácido sobre a lavanda de abertura, sobre um acorde especiado predominante. Melhor em clima frio a ameno, para social/noite.",
+    "resumo": "Contratipo de Born In Roma Uomo Extradose (Valentino) — a lavanda selvagem se destaca no coração, dando o toque aromático-salgado sobre as notas especiadas de abertura, fechando num fundo amadeirado de vetiver e madeira de guaiaco. Retailer declara explicitamente inspiração no Uomo Extradose (não no Donna Extradose, floral-ambarado). Melhor em clima ameno a frio, para social/noite ou evento formal.",
     "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
@@ -25593,8 +25596,8 @@
   },
   {
     "id": 419,
-    "nome": "Born In Roma Intense (Valentino)",
-    "dna": "Born In Roma Intense (Valentino)",
+    "nome": "Born In Roma Uomo Intense (Valentino)",
+    "dna": "Born In Roma Uomo Intense (Valentino)",
     "cat": "Oriental Sedutor",
     "ocasiao": [
       "Social/Noite",
@@ -25623,7 +25626,10 @@
       "Noite"
     ],
     "perfil": [
-      "Baunilha, Lavanda, Gengibre, Vetiver."
+      "Baunilha",
+      "Lavanda",
+      "Gengibre",
+      "Vetiver"
     ],
     "fam": "Oriental",
     "acordes": [
@@ -25634,7 +25640,8 @@
     "notas": [
       "Baunilha",
       "Lavanda",
-      "Gengibre"
+      "Gengibre",
+      "Vetiver"
     ],
     "fix": 8.0,
     "projI": 8.0,
@@ -25644,7 +25651,7 @@
     "simil": 10.0,
     "vers": 6.0,
     "link": null,
-    "resumo": "Original designer — o gengibre é a nota que mais se destaca, dando o toque picante sobre a lavanda de abertura, sobre um acorde de baunilha predominante. Melhor em clima frio a ameno, para social/noite.",
+    "resumo": "Original designer (2023) — o gengibre é a nota que mais se destaca, dando o toque picante sobre a lavandina de abertura, antes de assentar num acorde de baunilha-vetiver predominante no fundo. Esta é a versão MASCULINA (Uomo Intense) — distinta da versão feminina (Donna Intense), baunilha-jasmim-benjoim. Melhor em clima frio a ameno, para social/noite.",
     "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
@@ -45208,7 +45215,7 @@
   {
     "id": 730,
     "nome": "Extradose Homme (Arabiyat Prestige)",
-    "dna": "Born In Roma Extradose (Valentino)",
+    "dna": "Born In Roma Uomo Extradose (Valentino)",
     "cat": "Oriental Sedutor",
     "ocasiao": [
       "Trabalho",
@@ -45264,7 +45271,7 @@
     "simil": 7,
     "vers": 7,
     "link": null,
-    "resumo": "Contratipo de Born In Roma Extradose (Valentino) — o couro é a nota que mais se destaca, dando o toque seco sobre a pimenta rosa de abertura, sobre um acorde especiado predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
+    "resumo": "Contratipo de Born In Roma Uomo Extradose (Valentino) — o couro é a nota que mais se destaca, dando o toque seco sobre a pimenta rosa de abertura, sobre um acorde especiado predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
     "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
@@ -45272,8 +45279,8 @@
   },
   {
     "id": 731,
-    "nome": "Born In Roma Extradose (Valentino)",
-    "dna": "Born In Roma Extradose (Valentino)",
+    "nome": "Born In Roma Uomo Extradose (Valentino)",
+    "dna": "Born In Roma Uomo Extradose (Valentino)",
     "cat": "Oriental Sedutor",
     "ocasiao": [
       "Trabalho",
@@ -45314,12 +45321,12 @@
       "Amadeirado"
     ],
     "notas": [
+      "Gengibre",
       "Bergamota",
-      "Pimenta Rosa",
+      "Lavanda",
+      "Vetiver",
       "Couro",
-      "Fava Tonka",
-      "Âmbar",
-      "Patchouli"
+      "Baunilha"
     ],
     "fix": 8.5,
     "projI": 6,
@@ -45329,7 +45336,7 @@
     "simil": null,
     "vers": 7,
     "link": null,
-    "resumo": "Original designer — o couro é a nota que mais se destaca, dando o toque seco sobre a pimenta rosa de abertura, sobre um acorde de couro predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
+    "resumo": "Original designer (2025) — o gengibre e a bergamota abrem com frescor especiado, evoluindo pra um coração de lavanda selvagem salgada, fechando num fundo de vetiver, madeira de guaiaco, couro, bálsamo do Peru e baunilha. Versão MASCULINA (Uomo Extradose) — distinta da versão feminina (Donna Extradose), cassis-rum-baunilha. Melhor em clima ameno a frio, para trabalho ou social/noite.",
     "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
@@ -46478,7 +46485,7 @@
     "id": 697,
     "nome": "Rialto (Gritti)",
     "dna": "Rialto (Gritti)",
-    "cat": "Floral Amadeirado Sofisticado",
+    "cat": "Oriental Sedutor",
     "ocasiao": [
       "Trabalho",
       "Social/Noite",
@@ -46486,7 +46493,7 @@
     ],
     "origem": "Nicho",
     "status": "Em Avaliação",
-    "veredito": "",
+    "veredito": "Fora do arquétipo cítrico-amadeirado-frio do usuário (perfil oriental-oud-frutado); compatibilidade baixa a moderada.",
     "compat": 7,
     "preco": 600,
     "exp": "Sample First",
@@ -46507,21 +46514,24 @@
       "Versátil"
     ],
     "perfil": [
-      "Floral",
-      "Amadeirado",
-      "Sofisticado"
+      "Oriental",
+      "Frutado",
+      "Floral"
     ],
-    "fam": "Amadeirado",
+    "fam": "Oriental",
     "acordes": [
-      "Cítricos",
+      "Amadeirado",
       "Floral",
-      "Amadeirado"
+      "Frutado",
+      "Especiado"
     ],
     "notas": [
-      "Bergamota",
-      "Limão",
-      "Flor de Laranja",
-      "Jasmim"
+      "Açafrão",
+      "Manga",
+      "Rosa Taif",
+      "Íris Negra",
+      "Oud",
+      "Almíscar Branco"
     ],
     "fix": 8,
     "projI": 7,
@@ -46531,7 +46541,7 @@
     "simil": null,
     "vers": 7,
     "link": null,
-    "resumo": "Original de nicho — a flor de laranja é a nota que mais se destaca, dando o coração floral sobre o limão de abertura, sobre um acorde floral predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "resumo": "Original de nicho (2017, coleção Privé, Gritti — perfumista Luca Gritti). O açafrão e a manga assumem a abertura com um contraste frutado-especiado incomum, evoluindo pra um coração de rosa taif e íris negra, fechando num fundo de oud, nagarmotha e almíscar branco. Evoca o mercado e a Praça São Marcos de Veneza. Melhor em clima ameno a frio, para social/noite ou evento formal.",
     "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
@@ -61882,7 +61892,7 @@
     "calibradoContra": null
   },
   {
-    "id": 972,
+    "id": 989,
     "nome": "Armani Code Parfum (Giorgio Armani)",
     "dna": "Armani Code Parfum (Giorgio Armani)",
     "cat": "Amadeirado Elegante",
@@ -61947,7 +61957,7 @@
     "calibradoContra": null
   },
   {
-    "id": 973,
+    "id": 990,
     "nome": "L'Eau d'Issey Pour Homme (Issey Miyake)",
     "dna": "L'Eau d'Issey Pour Homme (Issey Miyake)",
     "cat": "Fresh Sofisticado",
@@ -62013,7 +62023,7 @@
     "calibradoContra": null
   },
   {
-    "id": 974,
+    "id": 991,
     "nome": "Light Blue (Dolce & Gabbana)",
     "dna": "Light Blue (Dolce & Gabbana)",
     "cat": "Fresh Luminoso",
@@ -62079,7 +62089,7 @@
     "calibradoContra": null
   },
   {
-    "id": 975,
+    "id": 992,
     "nome": "Chloé (Chloé)",
     "dna": "Chloé (Chloé)",
     "cat": "Floral Sofisticado",
@@ -62143,7 +62153,7 @@
     "calibradoContra": null
   },
   {
-    "id": 976,
+    "id": 993,
     "nome": "Libre Intense (Yves Saint Laurent)",
     "dna": "Libre Intense (Yves Saint Laurent)",
     "cat": "Oriental Elegante",
@@ -62208,7 +62218,7 @@
     "calibradoContra": null
   },
   {
-    "id": 977,
+    "id": 974,
     "nome": "Código 8 (LAB8)",
     "dna": "Armani Code Parfum (Giorgio Armani)",
     "cat": "Amadeirado Elegante",
@@ -62277,7 +62287,7 @@
     "calibradoContra": null
   },
   {
-    "id": 978,
+    "id": 975,
     "nome": "Eau de Miyako (LAB8)",
     "dna": "L'Eau d'Issey Pour Homme (Issey Miyake)",
     "cat": "Fresh Sofisticado",
@@ -62345,7 +62355,7 @@
     "calibradoContra": null
   },
   {
-    "id": 979,
+    "id": 976,
     "nome": "Spicy Flame (LAB8)",
     "dna": "Centaurus (Creed)",
     "cat": "Oriental Sofisticado",
@@ -62413,7 +62423,7 @@
     "calibradoContra": null
   },
   {
-    "id": 980,
+    "id": 977,
     "nome": "Dolce Blue (LAB8)",
     "dna": "Light Blue (Dolce & Gabbana)",
     "cat": "Fresh Luminoso",
@@ -62481,7 +62491,7 @@
     "calibradoContra": null
   },
   {
-    "id": 981,
+    "id": 978,
     "nome": "Diamant (LAB8)",
     "dna": "Chloé (Chloé)",
     "cat": "Floral Elegante",
@@ -62548,7 +62558,7 @@
     "calibradoContra": null
   },
   {
-    "id": 982,
+    "id": 979,
     "nome": "Solène (LAB8)",
     "dna": "Libre Intense (Yves Saint Laurent)",
     "cat": "Oriental Elegante",
@@ -62614,7 +62624,7 @@
     "calibradoContra": null
   },
   {
-    "id": 983,
+    "id": 994,
     "nome": "Herbes Troublantes (Guerlain)",
     "dna": "Herbes Troublantes (Guerlain)",
     "cat": "Aromático Elegante",
@@ -62680,7 +62690,7 @@
     "calibradoContra": null
   },
   {
-    "id": 984,
+    "id": 995,
     "nome": "Mojave Ghost Absolu (Byredo)",
     "dna": "Mojave Ghost Absolu (Byredo)",
     "cat": "Floral Sofisticado",
@@ -62744,7 +62754,7 @@
     "calibradoContra": null
   },
   {
-    "id": 985,
+    "id": 996,
     "nome": "Bleu de Chanel L'Exclusif (Chanel)",
     "dna": "Bleu de Chanel L'Exclusif (Chanel)",
     "cat": "Amadeirado Elegante",
@@ -62809,7 +62819,7 @@
     "calibradoContra": null
   },
   {
-    "id": 986,
+    "id": 997,
     "nome": "Delina (Parfums de Marly)",
     "dna": "Delina (Parfums de Marly)",
     "cat": "Floral Sofisticado",
@@ -62877,7 +62887,7 @@
     "calibradoContra": null
   },
   {
-    "id": 987,
+    "id": 973,
     "nome": "Gladius (Nuancielo)",
     "dna": "Pegasus (Parfums de Marly)",
     "cat": "Oriental Sofisticado",
@@ -62941,7 +62951,7 @@
     "calibradoContra": null
   },
   {
-    "id": 988,
+    "id": 998,
     "nome": "Ultra Pour Homme (j.fragrances)",
     "dna": "Ultra Pour Homme (j.fragrances)",
     "cat": "Gourmand Confortável",
@@ -63004,7 +63014,7 @@
     "calibradoContra": null
   },
   {
-    "id": 989,
+    "id": 999,
     "nome": "Shiyaaka Sky (Khadlaj)",
     "dna": "Herbes Troublantes (Guerlain)",
     "cat": "Aromático Elegante",
@@ -63070,7 +63080,7 @@
     "calibradoContra": null
   },
   {
-    "id": 990,
+    "id": 1002,
     "nome": "Nava Sol (Rayhaan)",
     "dna": "Mojave Ghost Absolu (Byredo)",
     "cat": "Floral Sofisticado",
@@ -63133,7 +63143,7 @@
     "calibradoContra": null
   },
   {
-    "id": 991,
+    "id": 1003,
     "nome": "Bidaya Sex on the Rocks",
     "dna": "Angels' Share On The Rocks (Kilian)",
     "cat": "Oriental Elegante",
@@ -63197,7 +63207,7 @@
     "calibradoContra": null
   },
   {
-    "id": 992,
+    "id": 1004,
     "nome": "Imperial Ocean (French Avenue)",
     "dna": "Le Sel d'Issey (Issey Miyake)",
     "cat": "Fresh Sofisticado",
@@ -63263,7 +63273,7 @@
     "calibradoContra": null
   },
   {
-    "id": 993,
+    "id": 1005,
     "nome": "Nocturno Pour Homme Elixir (Rayhaan)",
     "dna": "Bleu de Chanel L'Exclusif (Chanel)",
     "cat": "Amadeirado Elegante",
@@ -63328,7 +63338,7 @@
     "calibradoContra": null
   },
   {
-    "id": 994,
+    "id": 1006,
     "nome": "Valentine (Maison Viegas)",
     "dna": "Delina (Parfums de Marly)",
     "cat": "Floral Elegante",
@@ -63393,7 +63403,7 @@
     "calibradoContra": null
   },
   {
-    "id": 995,
+    "id": 1007,
     "nome": "Glamorous Rose (In The Box)",
     "dna": "Delina (Parfums de Marly)",
     "cat": "Floral Elegante",
@@ -63458,7 +63468,7 @@
     "calibradoContra": null
   },
   {
-    "id": 996,
+    "id": 1008,
     "nome": "Rose Fairy (Nuancielo)",
     "dna": "Delina (Parfums de Marly)",
     "cat": "Floral Elegante",
@@ -63523,7 +63533,7 @@
     "calibradoContra": null
   },
   {
-    "id": 997,
+    "id": 1009,
     "nome": "Lord Town (In The Box)",
     "dna": "Layton (Parfums de Marly)",
     "cat": "Amadeirado Sedutor",
@@ -63587,7 +63597,7 @@
     "calibradoContra": null
   },
   {
-    "id": 998,
+    "id": 1010,
     "nome": "Mendoza (Stella Dustin)",
     "dna": "Ingenious Ginger (Goldfield & Banks)",
     "cat": "Aromático Elegante",
@@ -63653,7 +63663,7 @@
     "calibradoContra": null
   },
   {
-    "id": 999,
+    "id": 1011,
     "nome": "Espada Guarani (Stella Dustin)",
     "dna": "Espada Guarani (Stella Dustin)",
     "cat": "Aromático Elegante",
@@ -63840,6 +63850,720 @@
     "link": "https://www.jeanpaulgaultier.com",
     "resumo": "Original designer (2024, coleção Paradise Garden — par feminino do Le Beau Paradise Garden). O nenúfar azul é a nota que mais se destaca na abertura, dando o toque etéreo-aquático que abre caminho pro coração de íris (bem executada, sem cair no lado \"empoeirado\" da nota) e fundo de baunilha suave. Também existe a flanker Fleur Terrible, da mesma linha. Longevidade divide opiniões nos reviews. Melhor em clima ameno a calor, para social/noite.",
     "genero": "Feminino",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 972,
+    "nome": "Sabah Al Ward Garden Of Eden (Al Wataniah)",
+    "dna": "La Belle Paradise Garden (Jean Paul Gaultier)",
+    "cat": "Fresh Confortável",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual",
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "genero": "Feminino",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de La Belle Paradise Garden (Jean Paul Gaultier) — a íris se destaca ao lado do lótus azul, criando uma faceta aquática e atalcada sobre um fundo cremoso de baunilha, sândalo e almíscar. Melhor em clima calor a ameno, para trabalho, assinatura/casual ou social.",
+    "veredito": "Candidato interessante para ampliar a coleção com um eixo aquático, atalcado e cremoso. Alta compatibilidade potencial, mas recomenda-se experimentar antes por causa da faceta floral e da performance incerta.",
+    "compat": 8.5,
+    "preco": 237,
+    "exp": "Sample First",
+    "nota": 8,
+    "score": 8.03,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.2,
+    "gpf": 6.0,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Fresh",
+      "Floral",
+      "Gourmand"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Aquático",
+      "Íris",
+      "Baunilha"
+    ],
+    "notas": [
+      "Lótus Azul",
+      "Íris",
+      "Baunilha",
+      "Sândalo",
+      "Âmbar",
+      "Almíscar"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8,
+    "cb": 9,
+    "simil": 8,
+    "vers": 9,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 980,
+    "nome": "Qimmah for Men (Lattafa)",
+    "dna": "Qimmah for Men (Lattafa)",
+    "cat": "Aromático Natural",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Original árabe da Lattafa (2020, linha \"Inspired Expression\") — o abacaxi é a nota que mais se destaca na abertura, dando um contraste frutado inesperado sobre a bergamota, antes de assentar num acorde amadeirado-aromático de fundo com coentro e sálvia. Pouca cobertura de review disponível no mercado atual. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
+    "veredito": "Fora do núcleo cítrico-amadeirado-especiado do arquétipo (o abacaxi frutado pesa contra); sem redundância na Coleção Real, mas também sem urgência de aquisição. Cobertura de review muito escassa — confiança da avaliação baixa.",
+    "compat": 6,
+    "preco": 142,
+    "exp": "Sample First",
+    "nota": 6.53,
+    "score": 6.65,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.87,
+    "gpf": 9.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Fresh",
+      "Frutado",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítricos",
+      "Frutado",
+      "Amadeirado",
+      "Aromático"
+    ],
+    "notas": [
+      "Bergamota",
+      "Abacaxi",
+      "Coentro",
+      "Sálvia",
+      "Madeira"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6,
+    "cb": 8,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 981,
+    "nome": "Donatella (Lab8)",
+    "dna": "Born In Roma (Valentino)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Nacional",
+    "genero": "Feminino",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Born In Roma (Valentino) — a groselha preta assume a abertura com um toque de atitude, evoluindo para um coração de jasmim sofisticado sobre um fundo baunilhado com cashmeran e madeira de guaiaco. Lançamento recente da Lab8, ainda com pouca cobertura de review independente (fidelidade estimada por comparação de notas oficiais). Melhor em clima ameno a frio, para social/noite ou evento formal.",
+    "veredito": "Floral-jasmim feminino, fora do arquétipo pessoal (compatibilidade baixa) — item de catálogo/negócio mais do que de uso próprio. ⚠️ ATENÇÃO: Rome Extradose (Bharara, id atual na base) está mapeado pro mesmo DNA mas com notas de lavanda/baunilha/cássis que não batem com o perfil floral-jasmim real do Born In Roma feminino — achado confirmado nesta sessão: o id 53 \"Born In Roma (Valentino)\" na base tem notas de Vetiver/Sal/Gengibre/Madeira, que é o perfil da versão MASCULINA (Uomo), não do original feminino (Groselha Preta/Pimenta Rosa/Bergamota; Jasmim/Jasmim Sambac/Jasmim Chá; Baunilha Bourbon/Cashmeran/Madeira de Guaiaco). Precisa de auditoria separada.",
+    "compat": 2,
+    "preco": 106.8,
+    "exp": "Sample First",
+    "nota": 6.9,
+    "score": 6.12,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.23,
+    "gpf": 8.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Floral",
+      "Gourmand"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Floral",
+      "Frutado",
+      "Baunilha",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Groselha Preta",
+      "Jasmim",
+      "Pimenta Rosa",
+      "Baunilha",
+      "Cashmeran",
+      "Madeira de Guaiaco"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6,
+    "cb": 8,
+    "simil": 8,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 982,
+    "nome": "Nectar Honey (Lab8)",
+    "dna": "Nectarine Blossom & Honey (Jo Malone)",
+    "cat": "Gourmand Natural",
+    "ocasiao": [
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Nectarine Blossom & Honey (Jo Malone) — a nectarina se destaca no coração, dando o toque frutado suculento sobre um fundo de pêssego, ameixa e vetiver, com groselha preta e notas verdes na abertura. Reviews divergem: um vídeo elogia a qualidade pelo preço baixo, mas há relato de baixa projeção. Melhor em clima calor a ameno, para assinatura/casual.",
+    "veredito": "Fora do arquétipo cítrico-amadeirado; compatibilidade baixa-moderada. DNA (Jo Malone) ainda não representado na Coleção Real. Reviews divergem sobre fixação — vale reavaliar com uso real antes de decidir prioridade.",
+    "compat": 4,
+    "preco": 119.9,
+    "exp": "Sample First",
+    "nota": 6.5,
+    "score": 6.34,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.07,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Floral",
+      "Verde"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Frutado",
+      "Floral",
+      "Verde",
+      "Gourmand"
+    ],
+    "notas": [
+      "Nectarina",
+      "Pêssego",
+      "Groselha Preta",
+      "Acácia",
+      "Vetiver",
+      "Ameixa"
+    ],
+    "fix": 4,
+    "projI": 4,
+    "projD": 2,
+    "qual": 6,
+    "cb": 8,
+    "simil": 6,
+    "vers": 8,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 983,
+    "nome": "Nectarine Blossom & Honey (Jo Malone)",
+    "dna": "Nectarine Blossom & Honey (Jo Malone)",
+    "cat": "Gourmand Natural",
+    "ocasiao": [
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Original Jo Malone London (2005), colônia frutado-floral leve — a nectarina domina a abertura com um toque suculento sobre madressilva e mimosa no coração, fechando num fundo discreto de cedro e almíscar. Concentração de colônia clássica da marca: fixação e projeção deliberadamente suaves (\"skin scent\"), pensada para uso em camadas. Melhor em clima calor a ameno, para assinatura/casual.",
+    "veredito": "Fora do arquétipo cítrico-amadeirado do usuário; registrado principalmente como referência de DNA para o contratipo nacional (Nectar Honey, Lab8). Compatibilidade pessoal baixa-moderada.",
+    "compat": 4,
+    "preco": 827,
+    "exp": "Sample First",
+    "nota": 6.93,
+    "score": 6.47,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.97,
+    "gpf": 7.33,
+    "conc": "Cologne",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia"
+    ],
+    "perfil": [
+      "Frutado",
+      "Floral"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Frutado",
+      "Floral",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Nectarina",
+      "Pêssego Branco",
+      "Madressilva",
+      "Mimosa",
+      "Cedro",
+      "Almíscar"
+    ],
+    "fix": 4,
+    "projI": 4,
+    "projD": 2,
+    "qual": 8,
+    "cb": 6,
+    "simil": null,
+    "vers": 8,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 984,
+    "nome": "Paradigme (Prada)",
+    "dna": "Paradigme (Prada)",
+    "cat": "Statement Expansivo",
+    "ocasiao": [
+      "Trabalho",
+      "Evento Formal"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Original Prada (2025), Oriental Amadeirado assinado por Marie Salamagne, Bruno Jovanovic e Nicolas Bonneville — abre em bergamota calabresa e almíscar, evolui para um coração inesperado de gerânio, fechando em benjoim, bálsamo do Peru e pau-ágar. Lançamento extremamente polarizador: parte da crítica chamou de pior lançamento do ano, outra defendeu como incompreendido. Melhor em clima ameno a frio, para trabalho ou evento formal.",
+    "veredito": "Perfil controverso e recém-lançado, pouco testado ainda — Sample First antes de qualquer decisão. Serve principalmente como referência de DNA correta para o Enigmático (Lab8), já presente na Coleção Real (era mapeado erroneamente contra L'Homme Intense).",
+    "compat": 5,
+    "preco": 429,
+    "exp": "Sample First",
+    "nota": 6.27,
+    "score": 6.92,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.5,
+    "gpf": 10,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Oriental",
+      "Amadeirado"
+    ],
+    "fam": "Statement",
+    "acordes": [
+      "Amadeirado",
+      "Floral",
+      "Ambarado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Bergamota",
+      "Gerânio",
+      "Benjoim",
+      "Pau-Ágar",
+      "Almíscar"
+    ],
+    "fix": 8,
+    "projI": 6,
+    "projD": 6,
+    "qual": 6,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 985,
+    "nome": "Alto (JA Essence)",
+    "dna": "Rialto (Gritti)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Nacional",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Rialto (Gritti) — o açafrão e a manga assumem a abertura com um contraste frutado-especiado incomum, evoluindo pra um coração de rosa taif e íris negra, fechando num fundo de oud e almíscar branco. Fidelidade muito alta por comparação de notas oficiais. Melhor em clima ameno a frio, para social/noite ou evento formal.",
+    "veredito": "Fora do arquétipo cítrico-amadeirado-frio do usuário (perfil oriental-oud-frutado); compatibilidade baixa. Fidelidade estimada alta por comparação direta de notas oficiais (açafrão+manga+bergamota / rosa taif+íris / oud+almíscar batem quase 1:1 com o Rialto real — perfil confirmado e corrigido na base nesta sessão).",
+    "compat": 4,
+    "preco": 180,
+    "exp": "Sample First",
+    "nota": 8.05,
+    "score": 7.06,
+    "rankDNA": 1,
+    "flagDNA": true,
+    "melhorNac": true,
+    "melhorAr": false,
+    "sdt": 8.57,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Frutado",
+      "Floral"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Amadeirado",
+      "Floral",
+      "Frutado",
+      "Especiado"
+    ],
+    "notas": [
+      "Açafrão",
+      "Manga",
+      "Rosa Taif",
+      "Íris Negra",
+      "Oud",
+      "Almíscar Branco"
+    ],
+    "fix": 8,
+    "projI": 6,
+    "projD": 6,
+    "qual": 7,
+    "cb": 10,
+    "simil": 9,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 986,
+    "nome": "Universo Forte (JA Essence)",
+    "dna": "Aqua Universalis Cologne Forte (Maison Francis Kurkdjian)",
+    "cat": "Luxury Clean Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "genero": "Compartilhável",
+    "status": "Interesse",
+    "resumo": "Contratipo de Aqua Universalis Cologne Forte (Maison Francis Kurkdjian) — a flor de laranjeira e o jasmim dão o coração floral-limpo sobre a bergamota e limão de abertura, fechando em almíscar branco. Reviews divergem sobre fixação. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "veredito": "Terceiro candidato do DNA — completa o grupo (antes só tinha Acqua Bravata e Fleur Blanche, ambos Nicho). Boa fidelidade de notas, mas reviews divergem sobre fixação/projeção (uma reclamação de fraqueza, outra elogiando potência) — trate como Sample First.",
+    "compat": 6,
+    "preco": 199.9,
+    "exp": "Sample First",
+    "nota": 7.35,
+    "score": 8.25,
+    "rankDNA": 2,
+    "flagDNA": false,
+    "melhorNac": true,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Floral",
+      "Almíscar"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Floral",
+      "Almíscar",
+      "Luxury Clean"
+    ],
+    "notas": [
+      "Bergamota",
+      "Limão",
+      "Flor de Laranjeira",
+      "Jasmim",
+      "Almíscar Branco"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 8,
+    "simil": 8,
+    "vers": 7,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 987,
+    "nome": "Jardin d'Amalfi (Creed)",
+    "dna": "Jardin d'Amalfi (Creed)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Original Creed (2011, linha Les Royales Exclusives) — a tangerina e a rosa se destacam, dando um contraste cítrico-floral luminoso sobre um fundo de cedro, vetiver e almíscar branco. Evoca a costa amalfitana no fim do verão. Melhor em clima calor a ameno, para assinatura/casual.",
+    "veredito": "Fora do núcleo do usuário mas com boa adjacência cítrica; registrado principalmente como referência de DNA pro contratipo nacional (Amalfi, JA Essence). Preço de importado ultra-premium (linha Les Royales Exclusives da Creed).",
+    "compat": 5,
+    "preco": 3800,
+    "exp": "Sample First",
+    "nota": 7.2,
+    "score": 6.7,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.73,
+    "gpf": 8.67,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Floral"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Floral",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Tangerina",
+      "Bergamota",
+      "Rosa",
+      "Jasmim",
+      "Maçã",
+      "Cedro",
+      "Vetiver"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8,
+    "cb": 6,
+    "simil": null,
+    "vers": 8,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 988,
+    "nome": "Amalfi (JA Essence)",
+    "dna": "Jardin d'Amalfi (Creed)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Jardin d'Amalfi (Creed) — a tangerina e a rosa búlgara conduzem a mesma dobradiça cítrico-floral do original, com maçã no coração e um fundo de vetiver, almíscar e um toque de canela que o original não tem. Boa fidelidade estrutural. Melhor em clima calor a ameno, para assinatura/casual.",
+    "veredito": "Boa adjacência cítrica com o arquétipo, mas o coração floral-rosa puxa pra um perfil mais compartilhável do que masculino puro. DNA (Creed Jardin d'Amalfi) ainda não representado na Coleção Real.",
+    "compat": 6,
+    "preco": 189.9,
+    "exp": "Sample First",
+    "nota": 7.75,
+    "score": 6.93,
+    "rankDNA": 1,
+    "flagDNA": true,
+    "melhorNac": true,
+    "melhorAr": false,
+    "sdt": 7.07,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Floral",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Floral",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "notas": [
+      "Tangerina",
+      "Bergamota",
+      "Neroli",
+      "Rosa Búlgara",
+      "Maçã",
+      "Vetiver",
+      "Almíscar Branco",
+      "Canela"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 10,
+    "simil": 8,
+    "vers": 7,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 1012,
+    "nome": "Born In Roma (Valentino)",
+    "dna": "Born In Roma (Valentino)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "genero": "Feminino",
+    "status": "Em Avaliação",
+    "resumo": "Original designer (2019) — a groselha preta e a pimenta rosa abrem com um contraste frutado-picante, evoluindo pra um coração de três jasmins (jasmim, jasmim sambac, chá de jasmim), fechando num fundo de baunilha bourbon, cashmeran e madeira de guaiaco. Esta é a versão FEMININA (Donna) original da linha — distinta da versão masculina (Uomo), mineral-salgada-amadeirada. Melhor em clima ameno a frio, para social/noite ou assinatura/casual.",
+    "veredito": "Floral-oriental feminino, fora do arquétipo cítrico-amadeirado-especiado-frio do usuário. Serve principalmente como referência de DNA correta pro contratipo nacional (Donatella, Lab8), que já estava mapeado certo contra este perfil mesmo antes desta entrada própria existir.",
+    "compat": 3,
+    "preco": 690,
+    "exp": "Sample First",
+    "nota": 6.6,
+    "score": 6.15,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.57,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Oriental",
+      "Floral",
+      "Baunilha"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Floral",
+      "Frutado",
+      "Baunilha",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Groselha Preta",
+      "Pimenta Rosa",
+      "Bergamota",
+      "Jasmim",
+      "Baunilha",
+      "Cashmeran"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 6,
+    "simil": null,
+    "vers": 7,
+    "link": "https://www.valentino-beauty.com",
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null
