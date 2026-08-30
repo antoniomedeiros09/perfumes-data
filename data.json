@@ -2551,10 +2551,8 @@
     "resumo": "Contratipo de Gentle Fluidity Silver (Maison Francis Kurkdjian) — a madeira ambarada é a nota que mais se destaca, dando corpo à base almiscarada, sobre um acorde ambarado predominante. Melhor em clima ameno a versátil, para trabalho ou social/noite.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "609"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/41_insp.jpg"
   },
   {
@@ -5755,16 +5753,16 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 8,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 9.7,
     "score": 10,
-    "rankDNA": 1,
-    "flagDNA": true,
-    "melhorNac": true,
+    "rankDNA": 2,
+    "flagDNA": false,
+    "melhorNac": false,
     "melhorAr": false,
     "sdt": 7.97,
     "gpf": 7.33,
@@ -6045,25 +6043,23 @@
     "cat": "Fresh Confortável",
     "ocasiao": [
       "Trabalho",
-      "Social/Noite",
-      "Assinatura/Casual",
-      "Evento Formal"
+      "Assinatura/Casual"
     ],
     "origem": "Designer",
     "status": "Em Avaliação",
-    "veredito": "",
-    "compat": 10.0,
-    "preco": null,
-    "exp": "Blind Buy",
-    "nota": 8.0,
-    "score": 8.53,
-    "rankDNA": 4,
+    "veredito": "Compatibilidade moderada (7/10): o eixo aquático-amadeirado bate no seu perfil, mas o coco predominante foge do cítrico-especiado padrão. Não redundante com nada que você possui. Bom pra expandir clima quente, mas não essencial pro corporativo.",
+    "compat": 7,
+    "preco": 780,
+    "exp": "Sample First",
+    "nota": 7.2,
+    "score": 7.54,
+    "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": 8.93,
-    "gpf": 4.67,
-    "conc": "EDT",
+    "sdt": 9.07,
+    "gpf": 5.33,
+    "conc": "EDP",
     "clima": [
       "Ameno",
       "Calor"
@@ -6074,32 +6070,34 @@
     ],
     "perfil": [
       "Fresh",
-      "Frutado",
-      "Aromático",
-      "Gourmand"
+      "Verde",
+      "Aquático",
+      "Amadeirado"
     ],
     "fam": "Fresh",
     "acordes": [
       "Coco",
-      "Notas Verdes",
-      "Baunilha",
-      "Madeira"
+      "Verde",
+      "Aquático",
+      "Amadeirado"
     ],
     "notas": [
+      "Notas Aquáticas",
+      "Hortelã",
+      "Gengibre",
       "Coco",
       "Figo",
-      "Hortelã",
-      "Baunilha"
+      "Fava Tonka"
     ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 6.0,
-    "qual": 10.0,
-    "cb": 6.0,
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8,
+    "cb": 6,
     "simil": null,
-    "vers": 8.0,
+    "vers": 8,
     "link": "https://www.jeanpaulgaultier.com",
-    "resumo": "Original designer — o coco é a nota que mais se destaca, dando o toque tropical sobre o figo de abertura, sobre um acorde verde predominante. Melhor em clima calor, para trabalho ou assinatura/casual.",
+    "resumo": "Original designer (2024, coleção Paradise Garden — par masculino do La Belle Paradise Garden). O coco salgado domina o coração, dando o contraste \"doce-salgado\" que a comunidade apelida de \"sobremesa de praia\"; acorde verde-aquático-amadeirado estrutura o fundo, com sândalo e fava tonka. Performance divide opiniões — parte relata fixação forte (~6h), outra reclama de lotes fracos. Melhor em clima calor, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
@@ -7263,8 +7261,8 @@
     "compat": 6.0,
     "preco": null,
     "exp": "Sample First",
-    "nota": 9.1,
-    "score": 9.22,
+    "nota": 9.3,
+    "score": 9.49,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -7303,7 +7301,7 @@
       "Vetiver do Haiti",
       "Âmbar"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 10.0,
     "projD": 10.0,
     "qual": 10.0,
@@ -7332,8 +7330,8 @@
     "compat": 8.0,
     "preco": null,
     "exp": "Blind Buy",
-    "nota": 7.95,
-    "score": 9.71,
+    "nota": 8.7,
+    "score": 9.97,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -7379,16 +7377,14 @@
     "projD": 6.0,
     "qual": 8.0,
     "cb": 10.0,
-    "simil": 7.0,
+    "simil": 10.0,
     "vers": 8.0,
     "link": null,
     "resumo": "Contratipo de Greenley (Parfums de Marly) — a violeta é a nota que mais se destaca, dando o toque atalcado sobre a maçã verde de abertura, sobre um acorde verde predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "608"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/107.jpg"
   },
   {
@@ -7517,7 +7513,7 @@
       "Vetiver",
       "Fava Tonka"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 10.0,
     "qual": 10.0,
@@ -9525,10 +9521,8 @@
     "resumo": "Contratipo de Wulóng Chá (Nishane) — o chá oolong é a nota que mais se destaca, dando o caráter fumaçado-frutado sobre a base cítrica, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "520"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/126.jpg"
   },
   {
@@ -9752,7 +9746,7 @@
     "link": "https://www.jaessencedelavie.com.br/perfume-spice-garden-masculino/",
     "resumo": "Contratipo de Tygar (Bvlgari) — o gengibre é a nota que mais se destaca, dando o toque picante sobre a toranja de abertura, sobre um acorde de ambroxan predominante. Melhor em clima ameno, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
-    "prioridade": true,
+    "prioridade": null,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
       "321",
@@ -10401,8 +10395,8 @@
     "compat": 8.0,
     "preco": 450.0,
     "exp": "Sample First",
-    "nota": 8.0,
-    "score": 8.98,
+    "nota": 8.2,
+    "score": 9.25,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -10433,7 +10427,7 @@
       "Baunilha",
       "Âmbar"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 8.0,
     "qual": 8.0,
@@ -10462,8 +10456,8 @@
     "compat": 4.0,
     "preco": 450.0,
     "exp": "Sample First",
-    "nota": 7.0,
-    "score": 7.75,
+    "nota": 7.2,
+    "score": 8.02,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -10496,7 +10490,7 @@
       "Notas Verdes",
       "Resinas"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 6.0,
     "qual": 8.0,
@@ -10839,7 +10833,7 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Em Avaliação",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 6.0,
     "preco": 220.0,
@@ -10910,8 +10904,8 @@
     "compat": 6.0,
     "preco": null,
     "exp": "Blind Buy",
-    "nota": 7.6,
-    "score": 7.98,
+    "nota": 7.86,
+    "score": 8.27,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -10943,7 +10937,7 @@
       "Maçã",
       "Açafrão"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 8.0,
     "qual": 10.0,
@@ -11306,7 +11300,7 @@
     "compat": 8.0,
     "preco": 420.0,
     "exp": "Blind Buy",
-    "nota": 7.8,
+    "nota": 8.0,
     "score": 10,
     "rankDNA": 1,
     "flagDNA": true,
@@ -11340,7 +11334,7 @@
       "Cedro",
       "Musgo"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 8.0,
     "qual": 8.0,
@@ -11369,8 +11363,8 @@
     "compat": 8.0,
     "preco": 650.0,
     "exp": "Sample First",
-    "nota": 8.13,
-    "score": 8.22,
+    "nota": 8.4,
+    "score": 8.51,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -11402,7 +11396,7 @@
       "Bálsamo de Tolu",
       "Pimenta Preta"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 6.0,
     "qual": 10.0,
@@ -11969,8 +11963,8 @@
     "compat": 8.0,
     "preco": 350.0,
     "exp": "Blind Buy",
-    "nota": 9.1,
-    "score": 9.13,
+    "nota": 9.3,
+    "score": 9.4,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -12001,7 +11995,7 @@
       "Fava Tonka",
       "Carvalho"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 8.0,
     "qual": 10.0,
@@ -12035,8 +12029,8 @@
     "compat": 8.0,
     "preco": 420.0,
     "exp": "Blind Buy",
-    "nota": 9.0,
-    "score": 8.62,
+    "nota": 9.2,
+    "score": 8.89,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -12068,7 +12062,7 @@
       "Jasmim",
       "Cedro"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 8.0,
     "qual": 10.0,
@@ -12098,8 +12092,8 @@
     "compat": 8.0,
     "preco": 380.0,
     "exp": "Blind Buy",
-    "nota": 8.8,
-    "score": 8.55,
+    "nota": 9.0,
+    "score": 8.82,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -12130,7 +12124,7 @@
       "Âmbar Cinzento",
       "Cedro"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 8.0,
     "qual": 8.0,
@@ -12288,7 +12282,7 @@
     "compat": 10,
     "preco": 290,
     "exp": "Blind Buy",
-    "nota": 8.9,
+    "nota": 9.4,
     "score": 10,
     "rankDNA": 2,
     "flagDNA": false,
@@ -12325,16 +12319,14 @@
     "projD": 6,
     "qual": 8,
     "cb": 10,
-    "simil": 8.0,
+    "simil": 10,
     "vers": 10,
     "link": "https://www.thekingofparfums.com.br/produtos/khadlaj-onyx-silver-edp-100ml/",
     "resumo": "Contratipo de Castley (Parfums de Marly) — o petitgrain é a nota que mais se destaca, dando o toque verde-cítrico à abertura, sobre um acorde resinoso predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "634"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 191,
@@ -12351,8 +12343,8 @@
     "compat": 6.0,
     "preco": 350.0,
     "exp": "Sample First",
-    "nota": 8.5,
-    "score": 9.97,
+    "nota": 8.7,
+    "score": 10,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -12383,7 +12375,7 @@
       "Incenso",
       "Rosa"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 8.0,
     "qual": 8.0,
@@ -12574,7 +12566,7 @@
       "Íris",
       "Fava Tonka"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 10.0,
     "qual": 10.0,
@@ -12604,8 +12596,8 @@
     "compat": 6.0,
     "preco": 2800.0,
     "exp": "Sample First",
-    "nota": 6.66,
-    "score": 7.26,
+    "nota": 6.93,
+    "score": 7.56,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -12635,7 +12627,7 @@
       "Oud",
       "Baunilha"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 10.0,
     "projD": 10.0,
     "qual": 10.0,
@@ -12665,8 +12657,8 @@
     "compat": 6.0,
     "preco": 250.0,
     "exp": "Sample First",
-    "nota": 8.5,
-    "score": 7.91,
+    "nota": 8.7,
+    "score": 8.18,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -12696,7 +12688,7 @@
       "Oud",
       "Baunilha"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 10.0,
     "projD": 10.0,
     "qual": 8.0,
@@ -12789,8 +12781,8 @@
     "compat": 6.0,
     "preco": 1100.0,
     "exp": "Sample First",
-    "nota": 8.13,
-    "score": 7.88,
+    "nota": 8.4,
+    "score": 8.17,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -12821,7 +12813,7 @@
       "Vetiver",
       "Gengibre"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 8.0,
     "qual": 10.0,
@@ -12915,8 +12907,8 @@
     "compat": 6.0,
     "preco": 260.0,
     "exp": "Sample First",
-    "nota": 8.5,
-    "score": 7.82,
+    "nota": 8.7,
+    "score": 8.09,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -12947,7 +12939,7 @@
       "Açúcar Mascavo",
       "Oud"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 10.0,
     "projD": 8.0,
     "qual": 8.0,
@@ -13166,13 +13158,13 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Em Avaliação",
+    "status": "Possui",
     "veredito": "",
     "compat": 4.0,
     "preco": null,
     "exp": "Sample First",
     "nota": 7.55,
-    "score": 6.98,
+    "score": 8.97,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -13309,8 +13301,8 @@
     "compat": 10.0,
     "preco": 350.0,
     "exp": "Blind Buy",
-    "nota": 9.1,
-    "score": 8.84,
+    "nota": 9.3,
+    "score": 9.11,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -13341,7 +13333,7 @@
       "Cardamomo",
       "Castanha"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 6.0,
     "qual": 10.0,
@@ -13365,13 +13357,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 10.0,
     "preco": 240.0,
     "exp": "Blind Buy",
     "nota": 7.73,
-    "score": 8.75,
+    "score": 9.75,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -13477,7 +13469,7 @@
     "resumo": "Contratipo de Queening (Mind Games) — as notas atalcadas são o destaque, dando a textura macia sobre a baunilha de fundo, sobre um acorde de baunilha predominante. Melhor em clima ameno a frio, para social/noite ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
+    "calibradoEm": "2026-08-06",
     "calibradoContra": [
       "99"
     ]
@@ -13800,16 +13792,14 @@
     "resumo": "Contratipo de Pegasus (Parfums de Marly) — a amêndoa amarga é a nota que mais se destaca, dando o toque gourmand incomum à composição, sobre um acorde atalcado predominante. Melhor em clima ameno a frio, para social/noite ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "599"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 215,
     "nome": "Enigmático (Lab8)",
-    "dna": "Paradigme (Prada)",
-    "cat": "Amadeirado Sofisticado",
+    "dna": "L'Homme Intense (Prada)",
+    "cat": "Sofisticado",
     "ocasiao": [
       "Trabalho",
       "Social/Noite",
@@ -13822,14 +13812,14 @@
     "compat": 10.0,
     "preco": 180.0,
     "exp": "Blind Buy",
-    "nota": 9.2,
+    "nota": 9.7,
     "score": 10,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": true,
     "melhorAr": false,
-    "sdt": 6.33,
-    "gpf": 6.67,
+    "sdt": 7.07,
+    "gpf": 5.33,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -13840,37 +13830,34 @@
       "Noite"
     ],
     "perfil": [
-      "Oriental",
-      "Amadeirado",
-      "Floral"
+      "Floral Amadeirado"
     ],
-    "fam": "Amadeirado",
+    "fam": "Luxury Clean",
     "acordes": [
-      "Amadeirado",
-      "Floral",
+      "Íris",
+      "Atalcado",
+      "Couro",
       "Baunilha",
-      "Almíscar"
+      "Amadeirado"
     ],
     "notas": [
-      "Bergamota",
-      "Gerânio",
+      "Íris",
       "Fava Tonka",
-      "Baunilha",
-      "Pau-Ágar",
-      "Sândalo"
+      "Couro",
+      "Patchouli"
     ],
     "fix": 10.0,
     "projI": 8.0,
     "projD": 6.0,
     "qual": 10.0,
     "cb": 10.0,
-    "simil": 8.0,
+    "simil": 10.0,
     "vers": 8.0,
     "link": "https://www.lab8.com.br/perfume-enismatico-masculino-100ml",
-    "resumo": "Contratipo de Paradigme (Prada) — corrigido nesta rodada (estava mapeado erroneamente contra L'Homme Intense). O gerânio é a nota que mais se destaca no coração, um contraste floral inesperado sobre a bergamota de abertura, fechando num acorde amadeirado-balsâmico com pau-ágar e baunilha. Fidelidade estimada por comparação de notas oficiais (Paradigme é lançamento 2025, ainda sem cobertura de dupe review). Melhor em clima ameno a frio, para trabalho, social/noite ou evento formal.",
+    "resumo": "Contratipo de L'Homme Intense (Prada) — a íris é a nota que mais se destaca, dando o toque atalcado sobre o couro de fundo, sobre um acorde de couro predominante. Melhor em clima ameno a frio, para trabalho, social/noite ou evento formal.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-29",
+    "calibradoEm": null,
     "calibradoContra": null
   },
   {
@@ -14017,7 +14004,7 @@
     "compat": 10.0,
     "preco": 187.0,
     "exp": "Blind Buy",
-    "nota": 9.1,
+    "nota": 9.3,
     "score": 10,
     "rankDNA": 1,
     "flagDNA": true,
@@ -14049,7 +14036,7 @@
       "Ameixa Mirabelle",
       "Noz-moscada"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 8.0,
     "qual": 10.0,
@@ -14144,8 +14131,8 @@
     "compat": 10.0,
     "preco": 290.0,
     "exp": "Blind Buy",
-    "nota": 9.1,
-    "score": 9.45,
+    "nota": 9.3,
+    "score": 9.72,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -14176,7 +14163,7 @@
       "Fava Tonka",
       "Canela"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 8.0,
     "qual": 8.0,
@@ -14474,7 +14461,7 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Em Avaliação",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 8,
     "preco": null,
@@ -14525,7 +14512,7 @@
     "link": null,
     "resumo": "Fragrância moderna e \"clean\" que transita perfeitamente entre o casual e o formal. Flor de laranjeira masculina e sofisticada.",
     "genero": "Masculino",
-    "prioridade": false,
+    "prioridade": true,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
       "620",
@@ -14609,7 +14596,7 @@
   },
   {
     "id": 229,
-    "nome": "Vanilla Powder (Matiere Première)",
+    "nome": "Vanilla Powder (Matiere Premiere)",
     "dna": "Vanilla Powder (Matiere Première)",
     "cat": "Oriental Impactante",
     "ocasiao": [
@@ -14916,10 +14903,8 @@
     "resumo": "Contratipo de Layton Exclusif (Parfums de Marly) — a civeta é a nota que mais se destaca, dando o toque animalítico intenso sobre o oud e café de fundo, sobre um acorde de oud predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "627"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 234,
@@ -15194,8 +15179,8 @@
     "compat": 10.0,
     "preco": 350.0,
     "exp": "Blind Buy",
-    "nota": 9.1,
-    "score": 9.25,
+    "nota": 9.3,
+    "score": 9.52,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -15226,7 +15211,7 @@
       "Incenso",
       "Patchouli"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 8.0,
     "qual": 10.0,
@@ -15255,8 +15240,8 @@
     "compat": 10.0,
     "preco": 350.0,
     "exp": "Blind Buy",
-    "nota": 8.5,
-    "score": 9.17,
+    "nota": 8.7,
+    "score": 9.45,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -15287,7 +15272,7 @@
       "Camurça",
       "Incenso"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 8.0,
     "qual": 8.0,
@@ -15379,8 +15364,8 @@
     "compat": 10.0,
     "preco": 350.0,
     "exp": "Blind Buy",
-    "nota": 8.8,
-    "score": 9.02,
+    "nota": 9.0,
+    "score": 9.29,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -15411,7 +15396,7 @@
       "Cassis",
       "Sândalo"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 10.0,
     "projD": 8.0,
     "qual": 8.0,
@@ -15512,8 +15497,8 @@
     "compat": 8.0,
     "preco": 220.0,
     "exp": "Sample First",
-    "nota": 8.0,
-    "score": 8.23,
+    "nota": 8.27,
+    "score": 8.53,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -15545,7 +15530,7 @@
       "Caramelo",
       "Patchouli"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 8.0,
     "qual": 8.0,
@@ -15762,7 +15747,7 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Em Avaliação",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 6.0,
     "preco": 230.0,
@@ -16023,8 +16008,8 @@
     "compat": 8.0,
     "preco": 280.0,
     "exp": "Blind Buy",
-    "nota": 8.3,
-    "score": 8.32,
+    "nota": 8.5,
+    "score": 8.59,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -16052,7 +16037,7 @@
       "Tabaco",
       "Gengibre"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 8.0,
     "qual": 8.0,
@@ -16083,7 +16068,7 @@
     "compat": 10,
     "preco": 480,
     "exp": "Blind Buy",
-    "nota": 8.9,
+    "nota": 9.1,
     "score": 10,
     "rankDNA": 3,
     "flagDNA": false,
@@ -16113,7 +16098,7 @@
       "Manga",
       "Gengibre"
     ],
-    "fix": 10,
+    "fix": 12,
     "projI": 10,
     "projD": 8,
     "qual": 10,
@@ -16532,8 +16517,8 @@
     "compat": 8.0,
     "preco": 350.0,
     "exp": "Blind Buy",
-    "nota": 8.9,
-    "score": 8.29,
+    "nota": 9.1,
+    "score": 8.56,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -16561,7 +16546,7 @@
       "Ambroxan",
       "Abacaxi"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 10.0,
     "projD": 8.0,
     "qual": 8.0,
@@ -16697,10 +16682,8 @@
     "resumo": "Contratipo de California Dream (Louis Vuitton) — a pera é a nota que mais se destaca, dando o toque frutado-suculento à mandarina de abertura, sobre um acorde almiscarado predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "605"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 262,
@@ -16845,8 +16828,8 @@
     "compat": 8.0,
     "preco": 380.0,
     "exp": "Blind Buy",
-    "nota": 8.3,
-    "score": 9.07,
+    "nota": 8.5,
+    "score": 9.34,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -16875,7 +16858,7 @@
       "Coco",
       "Mamão"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 8.0,
     "projD": 8.0,
     "qual": 8.0,
@@ -17136,7 +17119,7 @@
       "Couro",
       "Oud"
     ],
-    "fix": 10,
+    "fix": 12.0,
     "projI": 10.0,
     "projD": 8.0,
     "qual": 8.0,
@@ -17468,13 +17451,13 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 8.0,
     "preco": 250.0,
     "exp": "Blind Buy",
-    "nota": 7.8,
-    "score": 9.46,
+    "nota": 8.3,
+    "score": 8.64,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -17508,17 +17491,14 @@
     "projD": 6.0,
     "qual": 8.0,
     "cb": 10.0,
-    "simil": 8.0,
+    "simil": 10.0,
     "vers": 4.0,
     "link": null,
     "resumo": "Contratipo de Herod (Parfums de Marly) — o incenso é a nota que mais se destaca, dando o toque resinoso sobre o tabaco de fundo, sobre um acorde de tabaco predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-29",
-    "calibradoContra": [
-      "597",
-      "853"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 275,
@@ -19345,10 +19325,8 @@
     "resumo": "Contratipo de L'Homme (Yves Saint Laurent - YSL) — as notas ozônicas são o destaque, dando o toque limpo-tecnológico sobre o gengibre de abertura, sobre um acorde de cedro predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "759"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 308,
@@ -20021,10 +19999,8 @@
     "resumo": "Contratipo de Oud Silk Mood (Maison Francis Kurkdjian) — o papiro é a nota que mais se destaca, dando o toque seco-incomum sobre a rosa búlgara e oud, sobre um acorde de oud predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "319"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/311.jpg"
   },
   {
@@ -20037,13 +20013,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Interesse",
+    "status": "Curiosidade",
     "veredito": "",
     "compat": 8.0,
     "preco": 280.0,
     "exp": "Blind Buy",
     "nota": 7.8,
-    "score": 8.66,
+    "score": 8.16,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
@@ -20081,10 +20057,8 @@
     "resumo": "Contratipo de Oud Silk Mood (Maison Francis Kurkdjian) — a rosa é a nota que mais se destaca, dando o contraste floral sobre o oud de fundo, sobre um acorde de oud predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "318"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/311.jpg"
   },
   {
@@ -21904,13 +21878,13 @@
       "Evento Formal"
     ],
     "origem": "Designer",
-    "status": "Em Avaliação",
+    "status": "Possui",
     "veredito": "",
     "compat": 8.0,
     "preco": 780.0,
     "exp": "Blind Buy",
     "nota": 8.4,
-    "score": 7.72,
+    "score": 9.72,
     "rankDNA": 8,
     "flagDNA": false,
     "melhorNac": false,
@@ -22470,66 +22444,6 @@
     "calibradoEm": null,
     "calibradoContra": null,
     "fotoPerfume": "fotos/91_insp.jpg",
-    "fotoInspiracao": null
-  },
-  {
-    "id": 364,
-    "nome": "Le Beau Paradise Garden (Jean Paul Gaultier)",
-    "dna": "Le Beau Paradise Garden (Jean Paul Gaultier)",
-    "cat": "Fresh Luminoso",
-    "ocasiao": [
-      "Trabalho",
-      "Assinatura/Casual"
-    ],
-    "origem": "Designer",
-    "status": "Em Avaliação",
-    "veredito": "",
-    "compat": 8.0,
-    "preco": 780.0,
-    "exp": "Blind Buy",
-    "nota": 8.1,
-    "score": 8.23,
-    "rankDNA": 5,
-    "flagDNA": false,
-    "melhorNac": false,
-    "melhorAr": false,
-    "sdt": 8.8,
-    "gpf": 4.0,
-    "conc": "EDP",
-    "clima": [
-      "Calor"
-    ],
-    "periodo": [
-      "Dia"
-    ],
-    "perfil": [
-      "Coco, Notas Aquáticas, Figo, Sândalo."
-    ],
-    "fam": "Fresh",
-    "acordes": [
-      "Coco",
-      "Verde",
-      "Marinho"
-    ],
-    "notas": [
-      "Coco",
-      "Notas Aquáticas",
-      "Figo"
-    ],
-    "fix": 8.0,
-    "projI": 8.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 6.0,
-    "simil": 10.0,
-    "vers": 8.0,
-    "link": null,
-    "resumo": "Original designer — o figo é a nota que mais se destaca, dando o toque verde-cremoso sobre o coco de abertura, sobre um acorde verde predominante. Melhor em clima calor, para trabalho ou assinatura/casual.",
-    "genero": "Masculino",
-    "prioridade": null,
-    "calibradoEm": null,
-    "calibradoContra": null,
-    "fotoPerfume": "fotos/93.jpg",
     "fotoInspiracao": null
   },
   {
@@ -26181,8 +26095,8 @@
     "compat": 8.0,
     "preco": 2200.0,
     "exp": "Sample First",
-    "nota": 7.47,
-    "score": 7.6,
+    "nota": 8.1,
+    "score": 7.82,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -26215,7 +26129,7 @@
     "projD": 6.0,
     "qual": 10.0,
     "cb": 6.0,
-    "simil": null,
+    "simil": 10.0,
     "vers": 4.0,
     "link": null,
     "resumo": "Original de nicho — a canela é a nota que mais se destaca, dando o calor especiado sobre o tabaco de fundo, sobre um acorde de tabaco predominante. Melhor em clima frio a ameno, para social/noite.",
@@ -27909,13 +27823,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 7.0,
     "preco": 330.0,
     "exp": "Blind Buy",
     "nota": 8.75,
-    "score": 9.35,
+    "score": 10,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -31249,13 +31163,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 9.0,
     "preco": 189.9,
     "exp": "Blind Buy",
     "nota": 8.2,
-    "score": 10,
+    "score": 9.42,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -31306,10 +31220,8 @@
     "resumo": "Contratipo de Renaissance (Xerjoff) — o lírio-do-vale é a nota que mais se destaca, dando o toque floral-verde sobre a hortelã de abertura, sobre um acorde de hortelã predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "638"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/78.jpg"
   },
   {
@@ -32393,10 +32305,8 @@
     "resumo": "Contratipo de Wulóng Chá (Nishane) — o chá oolong é a nota que mais se destaca, dando o caráter fumaçado-frutado sobre a base cítrica, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "144"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/126.jpg"
   },
   {
@@ -32461,10 +32371,8 @@
     "resumo": "Contratipo de Oud Wood (Tom Ford) — o pau-rosa é a nota que mais se destaca, dando o toque amadeirado-doce sobre o oud de fundo, sobre um acorde de oud predominante. Melhor em clima ameno a frio, para social/noite ou evento formal.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "753"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/522.jpg"
   },
   {
@@ -32548,7 +32456,7 @@
     "preco": null,
     "exp": "Blind Buy",
     "nota": 7.75,
-    "score": 9.59,
+    "score": 9.6,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -32594,10 +32502,8 @@
     "resumo": "Contratipo de La Nuit de L'Homme (Yves Saint Laurent - YSL) — o cardamomo é a nota que mais se destaca, dando o calor especiado sobre o tabaco de fundo, sobre um acorde de tabaco predominante. Melhor em clima frio a ameno, para social/noite.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "780"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/294.jpg"
   },
   {
@@ -36818,7 +36724,7 @@
     "link": "https://www.valentinoviegas.com.br/",
     "resumo": "Contratipo de Colonia (Acqua di Parma) — a rosa é a nota que mais se destaca, dando o toque floral incomum sobre o limão siciliano de abertura, sobre um acorde de lavanda predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
-    "prioridade": true,
+    "prioridade": null,
     "calibradoEm": "2026-08-05",
     "calibradoContra": [
       "583",
@@ -37525,14 +37431,14 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Em Avaliação",
     "veredito": "",
     "compat": 7.0,
     "preco": null,
     "exp": "Sample First",
     "nota": 7.3,
-    "score": 9.74,
-    "rankDNA": 2,
+    "score": 7.74,
+    "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": true,
     "melhorAr": false,
@@ -37580,11 +37486,8 @@
     "resumo": "Contratipo de Herod (Parfums de Marly) — o incenso é a nota que mais se destaca, dando o toque resinoso sobre a canela e pimenta rosa, sobre um acorde de tabaco predominante. Melhor em clima frio a ameno, para social/noite.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-29",
-    "calibradoContra": [
-      "274",
-      "853"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 598,
@@ -37665,13 +37568,13 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Em Avaliação",
     "veredito": "",
     "compat": 7.0,
     "preco": null,
     "exp": "Sample First",
     "nota": 7.15,
-    "score": 9.38,
+    "score": 7.39,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": true,
@@ -37719,10 +37622,8 @@
     "resumo": "Contratipo de Pegasus (Parfums de Marly) — o heliotrópio é a nota que mais se destaca, dando o toque adocicado-amendoado sobre a bergamota de abertura, sobre um acorde de amêndoa predominante. Melhor em clima ameno a frio, para social/noite.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "214"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/214_insp.jpg"
   },
   {
@@ -38081,13 +37982,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Em Avaliação",
     "veredito": "",
     "compat": 7.0,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 7.1,
-    "score": 8.93,
+    "score": 6.93,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": true,
@@ -38132,10 +38033,8 @@
     "resumo": "Contratipo de California Dream (Louis Vuitton) — o jasmim é a nota que mais se destaca, dando o coração floral sobre a mandarina de abertura, sobre um acorde floral predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "261"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/261_insp.jpg"
   },
   {
@@ -38291,13 +38190,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Em Avaliação",
     "veredito": "",
     "compat": 6.0,
     "preco": null,
     "exp": "Sample First",
     "nota": 7.25,
-    "score": 9.32,
+    "score": 7.32,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": true,
@@ -38345,10 +38244,8 @@
     "resumo": "Contratipo de Greenley (Parfums de Marly) — o cashmeran é a nota que mais se destaca, dando a textura almiscarada-macia sobre a maçã verde de abertura, sobre um acorde amadeirado predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "114"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/107.jpg"
   },
   {
@@ -38361,13 +38258,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Em Avaliação",
     "veredito": "",
     "compat": 9.0,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 7.6,
-    "score": 10,
+    "score": 8.23,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": true,
@@ -38416,10 +38313,8 @@
     "resumo": "Contratipo de Gentle Fluidity Silver (Maison Francis Kurkdjian) — as bagas de zimbro são a nota que mais se destaca, dando o toque gin-like sobre a noz-moscada, sobre um acorde de zimbro predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "42"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/41_insp.jpg"
   },
   {
@@ -38432,7 +38327,7 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 9.0,
     "preco": null,
@@ -38486,7 +38381,7 @@
     "link": null,
     "resumo": "Contratipo de BabyCat (Yves Saint Laurent - YSL) — o incenso é a nota que mais se destaca, dando o toque resinoso sobre a pimenta rosa de abertura, sobre um acorde de couro predominante. Melhor em clima frio a ameno, para social/noite.",
     "genero": "Masculino",
-    "prioridade": true,
+    "prioridade": null,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
       "560",
@@ -39249,7 +39144,7 @@
     "link": null,
     "resumo": "Contratipo de BabyCat (Yves Saint Laurent - YSL) — o incenso é a nota que mais se destaca, dando o toque resinoso sobre a pimenta rosa de abertura, sobre um acorde de couro predominante. Melhor em clima frio a ameno, para social/noite.",
     "genero": "Masculino",
-    "prioridade": true,
+    "prioridade": null,
     "calibradoEm": "2026-08-06",
     "calibradoContra": [
       "560",
@@ -39620,13 +39515,13 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Interesse",
+    "status": "Curiosidade",
     "veredito": "",
     "compat": 6.0,
     "preco": null,
     "exp": "Sample First",
     "nota": 7.2,
-    "score": 8.25,
+    "score": 7.75,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
@@ -39674,10 +39569,8 @@
     "resumo": "Contratipo de Layton Exclusif (Parfums de Marly) — a amêndoa é a nota que mais se destaca, dando o toque gourmand sobre o agarwood de fundo, sobre um acorde de oud predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "233"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/416.jpg"
   },
   {
@@ -39827,14 +39720,14 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Interesse",
+    "status": "Curiosidade",
     "veredito": "",
     "compat": 5.0,
     "preco": null,
     "exp": "Sample First",
     "nota": 7.05,
-    "score": 7.97,
-    "rankDNA": 3,
+    "score": 7.47,
+    "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
@@ -39881,11 +39774,8 @@
     "resumo": "Contratipo de Haltane (Parfums de Marly) — o açafrão é a nota que mais se destaca, dando o calor especiado sobre o oud de fundo, sobre um acorde de oud predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-29",
-    "calibradoContra": [
-      "673",
-      "850"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/644.jpg"
   },
   {
@@ -40155,10 +40045,8 @@
     "resumo": "Contratipo de Castley (Parfums de Marly) — o neroli é a nota que mais se destaca, dando o toque floral-fresco sobre a bergamota e gengibre, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "190"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/190_insp.jpg"
   },
   {
@@ -40378,13 +40266,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "",
     "compat": 9.0,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 7.65,
-    "score": 9.26,
+    "score": 10,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": true,
@@ -40432,10 +40320,8 @@
     "resumo": "Contratipo de Renaissance (Xerjoff) — a hortelã é a nota que mais se destaca, dando o frescor herbal sobre os cítricos de abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "504"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/78.jpg"
   },
   {
@@ -42764,13 +42650,13 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "",
     "compat": 8.0,
     "preco": 129.0,
     "exp": "Blind Buy",
     "nota": 8.1,
-    "score": 10,
+    "score": 9.11,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": true,
@@ -42820,11 +42706,8 @@
     "resumo": "Contratipo de Haltane (Parfums de Marly) — o açafrão é a nota que mais se destaca, dando o calor especiado sobre a sálvia clary de abertura, sobre um acorde de couro predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-29",
-    "calibradoContra": [
-      "630",
-      "850"
-    ],
+    "calibradoEm": null,
+    "calibradoContra": null,
     "fotoInspiracao": "fotos/644.jpg"
   },
   {
@@ -42902,13 +42785,13 @@
       "Casual"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Curiosidade",
     "veredito": "",
     "compat": 6.0,
     "preco": 129.0,
     "exp": "Sample First",
     "nota": 7.8,
-    "score": 9.3,
+    "score": 7.8,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": true,
@@ -42955,10 +42838,8 @@
     "resumo": "Contratipo de Jazz Club (Maison Margiela) — o rum é a nota que mais se destaca, dando o toque licoroso sobre a pimenta rosa de abertura, sobre um acorde de tabaco predominante. Melhor em clima frio a ameno, para social/noite.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "857"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 676,
@@ -45530,13 +45411,13 @@
       "Casual"
     ],
     "origem": "Nacional",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "Lacuna genuína e bem alinhada ao gosto, mas ainda sem lastro de reviews — vale sample.",
     "compat": 8,
     "preco": 70,
     "exp": "Sample First",
     "nota": 7.25,
-    "score": 8.18,
+    "score": 7.68,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": true,
@@ -45583,73 +45464,6 @@
     "resumo": "Começa com Limão e Alecrim, coração em Manjericão e fecha em Âmbar. Fixação consistente (5-7h), forte na abertura, recolhe com o tempo e fica mais próxima da pele. Capta o espírito do original sem ser cópia exata. Destaque pra Alecrim, pouco comum nesse tipo de composição.",
     "genero": "Masculino",
     "prioridade": true,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "883"
-    ]
-  },
-  {
-    "id": 734,
-    "nome": "MYSLF Le Parfum (Yves Saint Laurent - YSL)",
-    "dna": "MYSLF Le Parfum (Yves Saint Laurent - YSL)",
-    "cat": "Amadeirado Elegante",
-    "ocasiao": [
-      "Trabalho",
-      "Social/Noite"
-    ],
-    "origem": "Designer",
-    "status": "Curiosidade",
-    "veredito": "Flanker sólido da linha MYSLF, mas o guarda-chuva já está bem coberto na base do usuário.",
-    "compat": 5,
-    "preco": 550,
-    "exp": "Sample First",
-    "nota": 7.27,
-    "score": 7.14,
-    "rankDNA": 2,
-    "flagDNA": false,
-    "melhorNac": false,
-    "melhorAr": false,
-    "sdt": 7.0,
-    "gpf": 5.0,
-    "conc": "Parfum",
-    "clima": [
-      "Ameno",
-      "Frio"
-    ],
-    "periodo": [
-      "Noite"
-    ],
-    "perfil": [
-      "Amadeirado",
-      "Floral",
-      "Âmbar"
-    ],
-    "fam": "Amadeirado",
-    "acordes": [
-      "Floral",
-      "Amadeirado",
-      "Âmbar",
-      "Especiado"
-    ],
-    "notas": [
-      "Pimenta Preta",
-      "Flor de Laranjeira",
-      "Âmbar",
-      "Baunilha",
-      "Madeiras",
-      "Patchouli"
-    ],
-    "fix": 8,
-    "projI": 6,
-    "projD": 5,
-    "qual": 8.5,
-    "cb": 6,
-    "simil": null,
-    "vers": 6,
-    "link": null,
-    "resumo": "Original designer — a pimenta preta é a nota que mais se destaca, dando o toque picante sobre a flor de laranjeira de abertura, sobre um acorde floral predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
-    "genero": "Masculino",
-    "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null
   },
@@ -46664,7 +46478,7 @@
     "id": 697,
     "nome": "Rialto (Gritti)",
     "dna": "Rialto (Gritti)",
-    "cat": "Oriental Sedutor",
+    "cat": "Floral Amadeirado Sofisticado",
     "ocasiao": [
       "Trabalho",
       "Social/Noite",
@@ -46677,13 +46491,13 @@
     "preco": 600,
     "exp": "Sample First",
     "nota": 7.27,
-    "score": 7.82,
+    "score": 7.19,
     "rankDNA": null,
     "flagDNA": null,
     "melhorNac": null,
     "melhorAr": null,
-    "sdt": 9.5,
-    "gpf": 10,
+    "sdt": 7.0,
+    "gpf": 5.0,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -46693,24 +46507,21 @@
       "Versátil"
     ],
     "perfil": [
-      "Oriental",
-      "Frutado",
-      "Floral"
-    ],
-    "fam": "Oriental",
-    "acordes": [
-      "Frutado",
       "Floral",
       "Amadeirado",
-      "Ambarado"
+      "Sofisticado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Cítricos",
+      "Floral",
+      "Amadeirado"
     ],
     "notas": [
       "Bergamota",
-      "Açafrão",
-      "Manga",
-      "Rosa Taif",
-      "Íris",
-      "Frutas Tropicais"
+      "Limão",
+      "Flor de Laranja",
+      "Jasmim"
     ],
     "fix": 8,
     "projI": 7,
@@ -46720,13 +46531,13 @@
     "simil": null,
     "vers": 7,
     "link": null,
-    "resumo": "Original de nicho (Gritti, coleção veneziana) — corrigido nesta rodada: o perfil real é oriental frutado-amadeirado com açafrão, manga e oud (não cítrico-floral simples como estava registrado antes). A manga é a nota que mais se destaca na abertura, evoluindo pra rosa taif e íris no coração, fechando em oud e âmbar. Melhor em clima ameno a frio, para trabalho, social/noite ou evento formal.",
+    "resumo": "Original de nicho — a flor de laranja é a nota que mais se destaca, dando o coração floral sobre o limão de abertura, sobre um acorde floral predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null,
     "ind": 10.0,
-    "dap": 8.75
+    "dap": 5.0
   },
   {
     "id": 698,
@@ -47079,13 +46890,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "Alta fidelidade ao DNA, ótimo custo-benefício — o achado real da pesquisa de dupes de Santal 33.",
     "compat": 7,
     "preco": 170,
     "exp": "Sample First",
     "nota": 8.0,
-    "score": 8.26,
+    "score": 9.26,
     "rankDNA": 2,
     "flagDNA": false,
     "melhorNac": false,
@@ -48034,13 +47845,13 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Curiosidade",
     "veredito": "Fidelidade não totalmente confirmada por fonte independente — sample first.",
     "compat": 5,
     "preco": 130,
     "exp": "Sample First",
     "nota": 5.95,
-    "score": 7.89,
+    "score": 6.39,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": true,
@@ -48086,10 +47897,8 @@
     "resumo": "Contratipo de Oud Wood (Tom Ford) — o cardamomo é a nota que mais se destaca, dando o calor especiado sobre o oud de fundo, sobre um acorde oriental predominante. Melhor em clima frio a ameno, para social/noite.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "521"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 754,
@@ -48436,13 +48245,13 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "Fidelidade não totalmente confirmada — mas o DNA (L'Homme YSL) é bem alinhado ao perfil do usuário.",
     "compat": 6,
     "preco": 130,
     "exp": "Sample First",
     "nota": 6.25,
-    "score": 6.64,
+    "score": 6.14,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
@@ -48485,10 +48294,8 @@
     "resumo": "Contratipo de L'Homme (Yves Saint Laurent - YSL) — o gengibre é a nota que mais se destaca, dando o toque picante à bergamota de abertura, sobre um acorde amadeirado predominante. Melhor em clima ameno, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "307"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 760,
@@ -48563,13 +48370,13 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "Uma das melhores opções de entrada pro DNA Santal 33 pelo preço — mais um representante pra comparar com Emper Stallion 53.",
     "compat": 7,
     "preco": 150,
     "exp": "Sample First",
     "nota": 6.75,
-    "score": 7.71,
+    "score": 8.71,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": true,
@@ -49353,13 +49160,13 @@
       "Casual"
     ],
     "origem": "Nicho",
-    "status": "Forte Interesse",
+    "status": "Interesse",
     "veredito": "O dupe mais preciso encontrado — inclusive supera o original em performance.",
     "compat": 6,
     "preco": 150,
     "exp": "Sample First",
     "nota": 8.05,
-    "score": 9.47,
+    "score": 7.97,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
@@ -49403,11 +49210,8 @@
     "resumo": "Contratipo de Aqua Universalis Cologne Forte (Maison Francis Kurkdjian) — as flores brancas são o destaque, dando o coração floral-limpo sobre a bergamota de abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-29",
-    "calibradoContra": [
-      "986",
-      "774"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 774,
@@ -49425,7 +49229,7 @@
     "preco": 150,
     "exp": "Sample First",
     "nota": 7,
-    "score": 7.96,
+    "score": 7.46,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
@@ -49471,11 +49275,8 @@
     "resumo": "Contratipo de Aqua Universalis Cologne Forte (Maison Francis Kurkdjian) — a falsa laranjeira é a nota que mais se destaca, dando o toque floral sobre o limão siciliano de abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-29",
-    "calibradoContra": [
-      "986",
-      "773"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 775,
@@ -49757,9 +49558,9 @@
     "preco": 130,
     "exp": "Sample First",
     "nota": 7.7,
-    "score": 9.38,
-    "rankDNA": 1,
-    "flagDNA": true,
+    "score": 7.88,
+    "rankDNA": 2,
+    "flagDNA": false,
     "melhorNac": false,
     "melhorAr": true,
     "sdt": 8.93,
@@ -49802,11 +49603,8 @@
     "resumo": "Contratipo de Cedar Chic (Carolina Herrera) — os aldeídos são a nota que mais se destaca, dando o efeito \"sabonete\" clássico à abertura, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-29",
-    "calibradoContra": [
-      "878",
-      "884"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 780,
@@ -49823,7 +49621,7 @@
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.45,
-    "score": 8.11,
+    "score": 6.61,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": true,
@@ -49869,10 +49667,8 @@
     "resumo": "Contratipo de La Nuit de L'Homme (Yves Saint Laurent - YSL) — a alcaravia é a nota que mais se destaca, dando o toque especiado incomum sobre o cardamomo de abertura, sobre um acorde amadeirado predominante. Melhor em clima frio a ameno, para social/noite.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "523"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 781,
@@ -51361,7 +51157,7 @@
     "link": null,
     "resumo": "Contratipo de Y Iced Cologne (Yves Saint Laurent - YSL) — o gelo é a nota que mais se destaca, dando o efeito gelado sobre a menta de abertura, sobre um acorde fresco predominante. Melhor em clima calor, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
-    "prioridade": true,
+    "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null
   },
@@ -54292,14 +54088,14 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Interesse",
+    "status": "Curiosidade",
     "veredito": "Couro-especiado, moderadamente alinhado ao eixo do usuário.",
     "compat": 5,
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.05,
-    "score": 7.55,
-    "rankDNA": 2,
+    "score": 7.05,
+    "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
@@ -54342,11 +54138,8 @@
     "resumo": "Contratipo nacional do Haltane (Parfums de Marly) — açafrão especiado sobre couro e oud.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-29",
-    "calibradoContra": [
-      "673",
-      "630"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 851,
@@ -54483,14 +54276,14 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Interesse",
+    "status": "Curiosidade",
     "veredito": "Especiado-couro-tabaco, moderadamente alinhado ao usuário.",
     "compat": 5,
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.05,
-    "score": 7.55,
-    "rankDNA": 3,
+    "score": 7.05,
+    "rankDNA": 4,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
@@ -54533,11 +54326,8 @@
     "resumo": "Contratipo nacional do Herod (Parfums de Marly) — canela e tabaco sobre couro amadeirado.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-29",
-    "calibradoContra": [
-      "274",
-      "597"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 854,
@@ -54738,13 +54528,13 @@
       "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Interesse",
+    "status": "Forte Interesse",
     "veredito": "Amadeirado-tabaco, bom encaixe moderado pro usuário.",
     "compat": 6,
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.2,
-    "score": 7.9,
+    "score": 7.4,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
@@ -54787,10 +54577,8 @@
     "resumo": "Contratipo nacional do Jazz Club (Maison Margiela) — rum licoroso sobre tabaco quente.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "675"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 858,
@@ -54934,7 +54722,7 @@
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.5,
-    "score": 9.59,
+    "score": 8.09,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": true,
@@ -54980,10 +54768,8 @@
     "resumo": "Contratipo nacional do Fico di Amalfi (Acqua di Parma) — cítricos sobre figo e madeira, com fixação melhor que o original.",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "881"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 861,
@@ -56119,8 +55905,8 @@
     "preco": 150,
     "exp": "Sample First",
     "nota": 6.55,
-    "score": 8.89,
-    "rankDNA": 3,
+    "score": 7.39,
+    "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
@@ -56162,11 +55948,8 @@
     "resumo": "Contratipo do Cedar Chic (Carolina Herrera). ⚠️ Não encontrei reviews independentes específicas do Cloud 9 (Gulf Orchid) para confirmar fidelidade — o próprio original é controverso na comunidade (reviews vão de 9,33/10 de hype a \"cheira a xixi de gato\").",
     "genero": "Masculino",
     "prioridade": null,
-    "calibradoEm": "2026-08-29",
-    "calibradoContra": [
-      "779",
-      "884"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 879,
@@ -56314,7 +56097,7 @@
     "preco": 150,
     "exp": "Sample First",
     "nota": 5.75,
-    "score": 7.94,
+    "score": 6.44,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -56360,10 +56143,8 @@
     "resumo": "Original próprio (2025), \"gourmand moderno\" de figo — reviews mistas (\"deveria se chamar Lemon Hug\", \"não tão coeso\"). Mais cremoso-gourmand que o Fico di Amalfi (que é mais cítrico-seco), fidelidade duvidosa a esse DNA específico.",
     "genero": "Masculino",
     "prioridade": true,
-    "calibradoEm": "2026-08-15",
-    "calibradoContra": [
-      "860"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 882,
@@ -56448,7 +56229,7 @@
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.5,
-    "score": 8.99,
+    "score": 7.49,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -56492,10 +56273,8 @@
     "resumo": "Contratipo nacional do Buongiorno (Acqua di Parma) — manjericão fresco sobre cítricos e madeiras limpas.",
     "genero": "Masculino",
     "prioridade": true,
-    "calibradoEm": "2026-08-29",
-    "calibradoContra": [
-      "733"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 884,
@@ -56513,10 +56292,10 @@
     "preco": 60,
     "exp": "Blind Buy",
     "nota": 7.2,
-    "score": 9.12,
-    "rankDNA": 2,
+    "score": 7.62,
+    "rankDNA": null,
     "flagDNA": false,
-    "melhorNac": true,
+    "melhorNac": false,
     "melhorAr": false,
     "sdt": 8.8,
     "gpf": 4,
@@ -56556,11 +56335,8 @@
     "resumo": "Contratipo nacional do Cedar Chic (Carolina Herrera) — mesmo DNA controverso do original (reviews divididas entre elogio e crítica forte).",
     "genero": "Masculino",
     "prioridade": true,
-    "calibradoEm": "2026-08-29",
-    "calibradoContra": [
-      "779",
-      "878"
-    ]
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
     "id": 885,
@@ -62107,29 +61883,93 @@
   },
   {
     "id": 972,
-    "nome": "Sabah Al Ward Garden Of Eden (Al Wataniah)",
-    "dna": "La Belle Paradise Garden (Jean Paul Gaultier)",
-    "cat": "Fresh Confortável",
+    "nome": "Armani Code Parfum (Giorgio Armani)",
+    "dna": "Armani Code Parfum (Giorgio Armani)",
+    "cat": "Amadeirado Elegante",
     "ocasiao": [
       "Trabalho",
-      "Assinatura/Casual",
       "Social/Noite"
     ],
-    "origem": "Árabe",
-    "status": "Em Avaliação",
-    "veredito": "Candidato interessante para ampliar a coleção com um eixo aquático, atalcado e cremoso. Alta compatibilidade potencial, mas recomenda-se experimentar antes por causa da faceta floral e da performance incerta.",
-    "compat": 8.5,
-    "preco": null,
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "",
+    "compat": 8,
+    "preco": 550,
     "exp": "Sample First",
-    "nota": 8.0,
-    "score": null,
+    "nota": 7.13,
+    "score": 7.55,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": null,
-    "gpf": null,
-    "conc": "EDP",
+    "sdt": 6.0,
+    "gpf": 5.0,
+    "conc": "Parfum",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Amadeirado",
+      "Atalcado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Cítrico",
+      "Amadeirado",
+      "Atalcado",
+      "Doce"
+    ],
+    "notas": [
+      "Limão Siciliano",
+      "Cardamomo",
+      "Baunilha",
+      "Fava Tonka",
+      "Íris",
+      "Sândalo"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 8,
+    "cb": 6,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Flanker designer (2022), Giorgio Armani — limão siciliano e cardamomo abrem sobre baunilha e tonka, fundo de íris atalcada e sândalo. Reviews elogiam versatilidade e elegância discreta, ótimo pro escritório.",
+    "genero": "Masculino",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 973,
+    "nome": "L'Eau d'Issey Pour Homme (Issey Miyake)",
+    "dna": "L'Eau d'Issey Pour Homme (Issey Miyake)",
+    "cat": "Fresh Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "",
+    "compat": 8,
+    "preco": 400,
+    "exp": "Blind Buy",
+    "nota": 7.53,
+    "score": 7.98,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.57,
+    "gpf": 5.33,
+    "conc": "EDT",
     "clima": [
       "Calor",
       "Ameno"
@@ -62139,62 +61979,192 @@
       "Versátil"
     ],
     "perfil": [
-      "Fresh",
-      "Floral",
-      "Gourmand"
+      "Cítrico",
+      "Amadeirado",
+      "Aquático"
     ],
     "fam": "Fresh",
     "acordes": [
+      "Cítrico",
+      "Amadeirado",
       "Aquático",
-      "Íris",
-      "Baunilha"
+      "Especiado"
     ],
     "notas": [
-      "Lótus Azul",
-      "Íris",
-      "Baunilha",
-      "Sândalo",
-      "Âmbar",
+      "Yuzu",
+      "Limão",
+      "Bergamota",
+      "Noz-moscada",
+      "Cedro",
+      "Vetiver"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8,
+    "cb": 8,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Clássico designer (1994), Issey Miyake — cítrico-aquático icônico dos anos 90, yuzu e bergamota sobre noz-moscada, fundo amadeirado-almiscarado com toque de tabaco.",
+    "genero": "Masculino",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 974,
+    "nome": "Light Blue (Dolce & Gabbana)",
+    "dna": "Light Blue (Dolce & Gabbana)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "",
+    "compat": 3,
+    "preco": 350,
+    "exp": "Blind Buy",
+    "nota": 6.73,
+    "score": 6.3,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.57,
+    "gpf": 5.33,
+    "conc": "EDT",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Floral",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Floral",
+      "Amadeirado",
       "Almíscar"
     ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 8.0,
-    "cb": 9.0,
-    "simil": 8.0,
-    "vers": 9.0,
+    "notas": [
+      "Limão Siciliano",
+      "Maçã",
+      "Bambu",
+      "Rosa Branca",
+      "Jasmim",
+      "Cedro"
+    ],
+    "fix": 5,
+    "projI": 5,
+    "projD": 3,
+    "qual": 7.5,
+    "cb": 7,
+    "simil": null,
+    "vers": 6,
     "link": null,
-    "resumo": "Contratipo de La Belle Paradise Garden (Jean Paul Gaultier) — a íris se destaca ao lado do lótus azul, criando uma faceta aquática e atalcada sobre um fundo cremoso de baunilha, sândalo e almíscar. Melhor em clima calor a ameno, para trabalho, assinatura/casual ou social.",
+    "resumo": "Clássico feminino (2001), Dolce & Gabbana — um dos perfumes mais vendidos do mundo, limão siciliano e maçã sobre bambu e jasmim, fundo amadeirado-almiscarado.",
     "genero": "Feminino",
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null
   },
   {
-    "id": 973,
-    "nome": "Gladius (Nuancielo)",
-    "dna": "Pegasus (Parfums de Marly)",
-    "cat": "Oriental Sofisticado",
+    "id": 975,
+    "nome": "Chloé (Chloé)",
+    "dna": "Chloé (Chloé)",
+    "cat": "Floral Sofisticado",
     "ocasiao": [
-      "Social/Noite",
-      "Assinatura/Casual",
-      "Evento Formal"
+      "Trabalho",
+      "Social/Noite"
     ],
-    "origem": "Nacional",
-    "status": "Em Avaliação",
-    "veredito": "Boa oportunidade para explorar a faceta atalcada da coleção, mas com risco de excesso de doçura e amêndoa amarga. Performance forte e excelente custo-benefício; experimentar antes é recomendado.",
-    "compat": 7.0,
-    "preco": null,
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "",
+    "compat": 2,
+    "preco": 500,
     "exp": "Sample First",
-    "nota": 8.0,
-    "score": null,
+    "nota": 6.93,
+    "score": 6.63,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": null,
-    "gpf": null,
+    "sdt": 8.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Floral",
+      "Frutado",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Floral",
+      "Frutado",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Frésia",
+      "Lichia",
+      "Peônia",
+      "Rosa",
+      "Magnólia",
+      "Cedro"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Flagship feminino (2008), Chloé — frésia e lichia abrem sobre peônia e rosa, fundo amadeirado-almiscarado, floral moderno e elegante.",
+    "genero": "Feminino",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 976,
+    "nome": "Libre Intense (Yves Saint Laurent)",
+    "dna": "Libre Intense (Yves Saint Laurent)",
+    "cat": "Oriental Elegante",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Designer",
+    "status": "Curiosidade",
+    "veredito": "",
+    "compat": 3,
+    "preco": 550,
+    "exp": "Sample First",
+    "nota": 7.07,
+    "score": 6.68,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.43,
+    "gpf": 4.67,
     "conc": "EDP",
     "clima": [
       "Frio",
@@ -62204,44 +62174,44 @@
       "Noite"
     ],
     "perfil": [
-      "Gourmand",
-      "Amadeirado",
-      "Atalcado"
+      "Floral",
+      "Doce",
+      "Amadeirado"
     ],
     "fam": "Oriental",
     "acordes": [
-      "Amêndoa",
-      "Baunilha",
-      "Atalcado",
+      "Floral",
+      "Doce",
+      "Amadeirado",
       "Ambarado"
     ],
     "notas": [
-      "Amêndoa Amarga",
-      "Heliotrópio",
+      "Lavanda",
+      "Mandarina",
+      "Bergamota",
+      "Flor de Laranjeira",
       "Baunilha",
-      "Âmbar",
-      "Sândalo",
-      "Lavanda"
+      "Ambroxan"
     ],
-    "fix": 9.0,
-    "projI": 8.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 9.0,
-    "simil": 8.0,
-    "vers": 6.0,
-    "link": "https://www.nuancielo.com.br/",
-    "resumo": "Contratipo de Pegasus (Parfums de Marly) — a amêndoa amarga é a nota de maior destaque, reforçada pelo heliotrópio atalcado e pela baunilha no fundo, formando um acorde cremoso e denso. Melhor em clima frio a ameno, para social/noite ou evento formal.",
-    "genero": "Masculino",
+    "fix": 8,
+    "projI": 7,
+    "projD": 5,
+    "qual": 8,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Flanker intenso (2020) do Libre (YSL) — lavanda e mandarina abrem sobre flor de laranjeira e jasmim, fundo baunilhado-ambarado mais denso que o EDP original.",
+    "genero": "Feminino",
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null
   },
   {
-    "id": 974,
+    "id": 977,
     "nome": "Código 8 (LAB8)",
     "dna": "Armani Code Parfum (Giorgio Armani)",
-    "cat": "Elegante",
+    "cat": "Amadeirado Elegante",
     "ocasiao": [
       "Trabalho",
       "Assinatura/Casual",
@@ -62249,18 +62219,18 @@
     ],
     "origem": "Nacional",
     "status": "Em Avaliação",
-    "veredito": "Forte candidato para a coleção pessoal. DNA cítrico-amadeirado com íris/orris, limpeza e sofisticação muito alinhados ao perfil do usuário. Principal ressalva é a possível redundância com outras representações de Armani Code Parfum na base.",
-    "compat": 8.5,
-    "preco": null,
-    "exp": "Sample First",
-    "nota": 8.0,
-    "score": null,
+    "veredito": "Cítrico-amadeirado com íris/orris, muito bom encaixe pro seu perfil. Único ponto de atenção: possível redundância com outras representações de Armani Code Parfum já na base.",
+    "compat": 8,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 8.7,
+    "score": 8.24,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": null,
-    "gpf": null,
+    "sdt": 7.4,
+    "gpf": 7.0,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -62292,25 +62262,25 @@
       "Fava Tonka",
       "Cedro"
     ],
-    "fix": 9.0,
-    "projI": 6.0,
-    "projD": 5.0,
-    "qual": 8.0,
-    "cb": 9.0,
-    "simil": 9.0,
-    "vers": 9.0,
+    "fix": 9,
+    "projI": 6,
+    "projD": 5,
+    "qual": 8,
+    "cb": 9,
+    "simil": 9,
+    "vers": 9,
     "link": "https://lab8oficial.com.br/",
-    "resumo": "Contratipo de Armani Code Parfum — bergamota, íris/orris e sálvia, com fava tonka e cedro no fundo. Perfil limpo, elegante, amadeirado e atalcado.",
+    "resumo": "Contratipo do Armani Code Parfum, confirmado pela própria LAB8 (\"Bergamota, Íris, Cedro e Fava Tonka\"). Bergamota e sálvia sobre íris atalcada, fundo de tonka e cedro.",
     "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null
   },
   {
-    "id": 975,
+    "id": 978,
     "nome": "Eau de Miyako (LAB8)",
     "dna": "L'Eau d'Issey Pour Homme (Issey Miyake)",
-    "cat": "Fresh",
+    "cat": "Fresh Sofisticado",
     "ocasiao": [
       "Trabalho",
       "Assinatura/Casual",
@@ -62318,18 +62288,18 @@
     ],
     "origem": "Nacional",
     "status": "Em Avaliação",
-    "veredito": "Candidato interessante para a coleção pelo eixo cítrico, limpo, amadeirado e especiado. A faceta aquática é zona de atenção, mas parece mais cítrico-sabonete que aquática marinha tradicional. Teste na pele recomendado.",
-    "compat": 8.0,
-    "preco": null,
-    "exp": "Sample First",
-    "nota": 8.0,
-    "score": null,
+    "veredito": "Cítrico-amadeirado-limpo, bom encaixe pro seu perfil.",
+    "compat": 8,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 8.1,
+    "score": 7.85,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": null,
-    "gpf": null,
+    "sdt": 7.07,
+    "gpf": 5.33,
     "conc": "EDP",
     "clima": [
       "Calor",
@@ -62356,28 +62326,26 @@
       "Yuzu",
       "Limão",
       "Bergamota",
-      "Lima",
       "Vetiver",
       "Cedro",
-      "Sândalo",
-      "Almíscar"
+      "Sândalo"
     ],
-    "fix": 8.0,
-    "projI": 7.0,
-    "projD": 5.0,
-    "qual": 8.0,
-    "cb": 9.0,
-    "simil": 7.0,
-    "vers": 9.0,
+    "fix": 8,
+    "projI": 7,
+    "projD": 5,
+    "qual": 8,
+    "cb": 9,
+    "simil": 7,
+    "vers": 9,
     "link": "https://lab8oficial.com.br/",
-    "resumo": "Fragrância inspirada em L'Eau d'Issey Pour Homme, com yuzu, limão, bergamota e lima, elementos especiados/aquáticos e fundo de vetiver, cedro, sândalo e almíscar. A semelhança com o original é variável entre fontes.",
+    "resumo": "Contratipo do L'Eau d'Issey Pour Homme — yuzu, limão e bergamota sobre vetiver, fundo de cedro e sândalo. Faceta aquática mais sutil, lendo mais como cítrico-sabonete que aquático marinho tradicional.",
     "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null
   },
   {
-    "id": 976,
+    "id": 979,
     "nome": "Spicy Flame (LAB8)",
     "dna": "Centaurus (Creed)",
     "cat": "Oriental Sofisticado",
@@ -62388,18 +62356,18 @@
     ],
     "origem": "Nacional",
     "status": "Em Avaliação",
-    "veredito": "Boa expansão da coleção para especiarias, âmbar, resinas e tabaco. Compatibilidade moderada porque se afasta do eixo principal, mas mantém sofisticação e elementos que podem funcionar bem no frio e em ambientes formais. Sample First.",
-    "compat": 7.0,
-    "preco": null,
-    "exp": "Sample First",
-    "nota": 8.2,
-    "score": null,
+    "veredito": "Especiado-amadeirado-ambarado, expande a coleção pra especiarias/resinas, um pouco fora do eixo cítrico-frio central mas com boa sofisticação.",
+    "compat": 7,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 8.28,
+    "score": 8.12,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": null,
-    "gpf": null,
+    "sdt": 9.07,
+    "gpf": 5.33,
     "conc": "EDP",
     "clima": [
       "Frio",
@@ -62412,7 +62380,6 @@
     "perfil": [
       "Especiado",
       "Ambarado",
-      "Gourmand",
       "Amadeirado"
     ],
     "fam": "Oriental",
@@ -62421,10 +62388,7 @@
       "Pimenta Rosa",
       "Canela",
       "Tabaco",
-      "Baunilha",
-      "Tonka",
-      "Benjoim",
-      "Ambroxan"
+      "Baunilha"
     ],
     "notas": [
       "Cardamomo",
@@ -62432,32 +62396,27 @@
       "Canela",
       "Tabaco",
       "Patchouli",
-      "Gerânio",
-      "Heliotrópio",
-      "Benjoim",
-      "Baunilha",
-      "Fava Tonka",
-      "Ambroxan"
+      "Benjoim"
     ],
-    "fix": 9.0,
-    "projI": 8.0,
-    "projD": 6.0,
+    "fix": 9,
+    "projI": 8,
+    "projD": 6,
     "qual": 8.5,
-    "cb": 9.0,
+    "cb": 9,
     "simil": 8.5,
-    "vers": 6.0,
+    "vers": 6,
     "link": "https://lab8oficial.com.br/",
-    "resumo": "Contratipo de Centaurus — cardamomo, pimenta rosa e canela com tabaco, patchouli, heliotrópio e fundo de benjoim, baunilha, tonka e ambroxan. Perfil quente, especiado, ambarado e sofisticado.",
+    "resumo": "Contratipo do Centaurus (Creed), confirmado explicitamente pela LAB8. Cardamomo e pimenta rosa sobre canela e tabaco, fundo âmbar-resinoso de benjoim, baunilha e ambroxan.",
     "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null
   },
   {
-    "id": 977,
+    "id": 980,
     "nome": "Dolce Blue (LAB8)",
     "dna": "Light Blue (Dolce & Gabbana)",
-    "cat": "Fresh",
+    "cat": "Fresh Luminoso",
     "ocasiao": [
       "Trabalho",
       "Assinatura/Casual",
@@ -62465,18 +62424,18 @@
     ],
     "origem": "Nacional",
     "status": "Em Avaliação",
-    "veredito": "Bom tecnicamente e com DNA cítrico-limpo-amadeirado, mas menos necessário para a coleção pessoal. O caráter floral-frutado feminino reduz a aderência e a coleção já possui cobertura relevante em perfis frescos/cítricos. Pode ter maior valor como item de catálogo/decants.",
-    "compat": 6.0,
-    "preco": null,
-    "exp": "Sample First",
-    "nota": 8.0,
-    "score": null,
+    "veredito": "Cítrico-limpo-amadeirado, tecnicamente bom, mas caráter floral-frutado feminino reduz aderência ao seu perfil pessoal. Pode valer mais pro catálogo de decants.",
+    "compat": 6,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 8.25,
+    "score": 7.85,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": null,
-    "gpf": null,
+    "sdt": 9.07,
+    "gpf": 5.33,
     "conc": "EDP",
     "clima": [
       "Calor",
@@ -62497,36 +62456,32 @@
       "Limão Siciliano",
       "Maçã",
       "Cedro",
-      "Bambu",
-      "Almíscar",
-      "Âmbar"
+      "Bambu"
     ],
     "notas": [
       "Limão Siciliano",
       "Maçã",
-      "Cedro",
       "Bambu",
       "Jasmim",
       "Rosa Branca",
-      "Almíscar",
-      "Âmbar"
+      "Cedro"
     ],
-    "fix": 9.0,
-    "projI": 7.0,
-    "projD": 5.0,
-    "qual": 8.0,
-    "cb": 9.0,
-    "simil": 9.0,
-    "vers": 9.0,
+    "fix": 9,
+    "projI": 7,
+    "projD": 5,
+    "qual": 8,
+    "cb": 9,
+    "simil": 9,
+    "vers": 6,
     "link": "https://lab8oficial.com.br/",
-    "resumo": "Contratipo de Light Blue — limão siciliano e maçã, bambu, jasmim e rosa branca, com cedro, almíscar e âmbar. Fresco, cítrico, floral e amadeirado.",
+    "resumo": "Contratipo do Light Blue (D&G) — limão siciliano e maçã sobre bambu, jasmim e rosa branca, fundo de cedro e âmbar.",
     "genero": "Feminino",
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null
   },
   {
-    "id": 978,
+    "id": 981,
     "nome": "Diamant (LAB8)",
     "dna": "Chloé (Chloé)",
     "cat": "Floral Elegante",
@@ -62537,18 +62492,18 @@
     ],
     "origem": "Nacional",
     "status": "Em Avaliação",
-    "veredito": "Boa opção técnica para catálogo feminino, mas baixa aderência à coleção pessoal. O eixo floral feminino, rosa, peônia e frutado fica distante das preferências centrais, apesar de limpeza, almíscar e leve faceta atalcada.",
-    "compat": 2.5,
-    "preco": null,
-    "exp": "Baixa prioridade pessoal",
-    "nota": 7.8,
-    "score": null,
+    "veredito": "Floral feminino, baixa aderência ao seu perfil pessoal (rosa/peônia/frutado ficam longe do eixo cítrico-amadeirado-frio). Boa opção técnica pro catálogo de decants.",
+    "compat": 3,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 8.33,
+    "score": 7.12,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": null,
-    "gpf": null,
+    "sdt": 9.0,
+    "gpf": 5.0,
     "conc": "EDP",
     "clima": [
       "Calor",
@@ -62568,11 +62523,7 @@
       "Frésia",
       "Lichia",
       "Peônia",
-      "Rosa",
-      "Magnólia",
-      "Almíscar",
-      "Cedro",
-      "Âmbar"
+      "Rosa"
     ],
     "notas": [
       "Frésia",
@@ -62580,30 +62531,27 @@
       "Peônia",
       "Rosa",
       "Magnólia",
-      "Lírio-do-Vale",
-      "Cedro",
-      "Âmbar",
-      "Almíscar"
+      "Cedro"
     ],
-    "fix": 8.0,
-    "projI": 8.0,
-    "projD": 5.0,
-    "qual": 8.0,
-    "cb": 9.0,
+    "fix": 8,
+    "projI": 8,
+    "projD": 5,
+    "qual": 8,
+    "cb": 9,
     "simil": 8.5,
-    "vers": 8.0,
+    "vers": 8,
     "link": "https://lab8oficial.com.br/",
-    "resumo": "Contratipo de Chloé — frésia, lichia e peônia, rosa, magnólia e lírio-do-vale, com cedro, âmbar e almíscar. Floral, fresco, feminino e levemente atalcado.",
+    "resumo": "Contratipo do Chloé — frésia e lichia sobre peônia, rosa e magnólia, fundo de cedro, âmbar e almíscar.",
     "genero": "Feminino",
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null
   },
   {
-    "id": 979,
+    "id": 982,
     "nome": "Solène (LAB8)",
     "dna": "Libre Intense (Yves Saint Laurent)",
-    "cat": "Oriental Fougère",
+    "cat": "Oriental Elegante",
     "ocasiao": [
       "Social/Noite",
       "Evento Formal",
@@ -62611,18 +62559,18 @@
     ],
     "origem": "Nacional",
     "status": "Em Avaliação",
-    "veredito": "Boa fragrância para catálogo feminino, mas baixa aderência à coleção pessoal. Lavanda e cítricos ajudam, porém flor de laranjeira, jasmim, orquídea, baunilha, tonka e âmbar conduzem para território floral-doce-sensual distante do eixo pessoal. Pular para aquisição própria.",
-    "compat": 2.0,
-    "preco": null,
-    "exp": "Pular",
-    "nota": 8.0,
-    "score": null,
+    "veredito": "Floral-doce-sensual feminino, distante do seu eixo pessoal. Melhor enquadrado como item de catálogo/decants.",
+    "compat": 2,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 8.28,
+    "score": 6.88,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": null,
-    "gpf": null,
+    "sdt": 8.93,
+    "gpf": 4.67,
     "conc": "EDP",
     "clima": [
       "Frio",
@@ -62633,20 +62581,15 @@
     ],
     "perfil": [
       "Floral",
-      "Gourmand",
-      "Oriental",
-      "Fougère"
+      "Doce",
+      "Amadeirado"
     ],
     "fam": "Oriental",
     "acordes": [
       "Lavanda",
       "Mandarina",
-      "Bergamota",
       "Flor de Laranjeira",
-      "Jasmim",
-      "Baunilha",
-      "Tonka",
-      "Âmbar"
+      "Jasmim"
     ],
     "notas": [
       "Lavanda",
@@ -62654,45 +62597,241 @@
       "Bergamota",
       "Flor de Laranjeira",
       "Jasmim",
-      "Orquídea",
-      "Baunilha",
-      "Fava Tonka",
-      "Âmbar",
-      "Vetiver"
+      "Âmbar"
     ],
-    "fix": 9.0,
-    "projI": 8.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 9.0,
+    "fix": 9,
+    "projI": 8,
+    "projD": 6,
+    "qual": 8,
+    "cb": 9,
     "simil": 8.5,
-    "vers": 7.0,
+    "vers": 7,
     "link": "https://lab8oficial.com.br/",
-    "resumo": "Contratipo de Libre Intense — lavanda, mandarina e bergamota; flor de laranjeira, jasmim e orquídea; baunilha, tonka, âmbar e vetiver. Floral, doce, sensual e intenso.",
+    "resumo": "Contratipo do Libre Intense (YSL) — lavanda e mandarina sobre flor de laranjeira, jasmim e orquídea, fundo baunilhado-ambarado com tonka e vetiver.",
     "genero": "Feminino",
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null
   },
   {
-    "id": 980,
-    "nome": "Qimmah for Men (Lattafa)",
-    "dna": "Qimmah for Men (Lattafa)",
-    "cat": "Aromático Natural",
+    "id": 983,
+    "nome": "Herbes Troublantes (Guerlain)",
+    "dna": "Herbes Troublantes (Guerlain)",
+    "cat": "Aromático Elegante",
     "ocasiao": [
       "Trabalho",
       "Assinatura/Casual"
     ],
-    "origem": "Árabe",
-    "status": "Em Avaliação",
-    "veredito": "Fora do núcleo cítrico-amadeirado-especiado do seu arquétipo (o abacaxi frutado pesa contra); sem redundância na Coleção Real, mas também sem urgência de aquisição. Cobertura de review muito escassa — confiança da avaliação baixa.",
-    "compat": 6.0,
-    "preco": 142.0,
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-aromático-verde, excelente encaixe pro seu perfil.",
+    "compat": 8,
+    "preco": 500,
     "exp": "Sample First",
     "nota": 6.53,
-    "score": 6.65,
-    "sdt": 7.87,
-    "gpf": 9.33,
+    "score": 7.65,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.07,
+    "gpf": 5.33,
+    "conc": "EDT",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Verde"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Verde",
+      "Almíscar"
+    ],
+    "notas": [
+      "Bergamota",
+      "Tomilho",
+      "Hortelã",
+      "Alecrim",
+      "Flor de Laranjeira",
+      "Almíscar Branco"
+    ],
+    "fix": 5,
+    "projI": 5,
+    "projD": 3,
+    "qual": 8.5,
+    "cb": 4,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Original de nicho, linha Aqua Allegoria (Guerlain) — bergamota e ervas aromáticas abrem sobre flor de laranjeira, fundo de almíscar branco limpo. Referência do gênero cítrico-herbal sofisticado.",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 984,
+    "nome": "Mojave Ghost Absolu (Byredo)",
+    "dna": "Mojave Ghost Absolu (Byredo)",
+    "cat": "Floral Sofisticado",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Floral-amadeirado-almiscarado, moderadamente alinhado — fora do eixo cítrico central mas com boa sofisticação.",
+    "compat": 4,
+    "preco": 900,
+    "exp": "Sample First",
+    "nota": 5.87,
+    "score": 6.09,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.93,
+    "gpf": 4.67,
+    "conc": "Parfum",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Floral",
+      "Amadeirado",
+      "Almiscarado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Floral",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Sapodilla",
+      "Ambrette",
+      "Magnólia",
+      "Violeta",
+      "Sândalo",
+      "Âmbar Cinzento"
+    ],
+    "fix": 5,
+    "projI": 5,
+    "projD": 3,
+    "qual": 8,
+    "cb": 3,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "resumo": "Flanker intensificado (Extrait) do Mojave Ghost (Byredo, 2014) — sapodilla e ambrette sobre magnólia e violeta, fundo de sândalo e âmbar cinzento. Um dos poucos DNAs Byredo que a comunidade considera genuinamente respeitável em contratipo.",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 985,
+    "nome": "Bleu de Chanel L'Exclusif (Chanel)",
+    "dna": "Bleu de Chanel L'Exclusif (Chanel)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-amadeirado-aromático, excelente encaixe pro seu perfil.",
+    "compat": 8,
+    "preco": 1200,
+    "exp": "Sample First",
+    "nota": 6.73,
+    "score": 7.53,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.5,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "notas": [
+      "Limão",
+      "Bergamota",
+      "Hortelã",
+      "Absinto",
+      "Lavanda",
+      "Sândalo"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 9,
+    "cb": 3,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "resumo": "Versão de nicho/exclusiva do Bleu de Chanel — mesma família cítrico-amadeirada, mas com uma abertura mais verde-herbal (absinto, hortelã) e desenvolvimento mais maduro/sofisticado que o EDP/EDT tradicional.",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 986,
+    "nome": "Delina (Parfums de Marly)",
+    "dna": "Delina (Parfums de Marly)",
+    "cat": "Floral Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "status": "Curiosidade",
+    "veredito": "Frutado-floral-doce feminino, fora do eixo pessoal do usuário.",
+    "compat": 2,
+    "preco": 1000,
+    "exp": "Sample First",
+    "nota": 6.33,
+    "score": 6.48,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.07,
+    "gpf": 5.33,
     "conc": "EDP",
     "clima": [
       "Ameno",
@@ -62703,110 +62842,189 @@
       "Versátil"
     ],
     "perfil": [
-      "Fresh",
       "Frutado",
-      "Amadeirado"
+      "Floral",
+      "Doce"
     ],
-    "fam": "Aromático",
+    "fam": "Fresh",
     "acordes": [
-      "Cítricos",
       "Frutado",
-      "Amadeirado",
-      "Aromático"
+      "Floral",
+      "Doce",
+      "Almíscar"
     ],
     "notas": [
+      "Lichia",
+      "Pera",
       "Bergamota",
-      "Abacaxi",
-      "Coentro",
-      "Sálvia",
-      "Madeira"
+      "Ruibarbo",
+      "Rosa Turca",
+      "Peônia",
+      "Baunilha"
     ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 6.0,
-    "cb": 8.0,
+    "fix": 7,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8.5,
+    "cb": 3,
     "simil": null,
-    "vers": 6.0,
+    "vers": 6,
     "link": null,
-    "resumo": "Original árabe da Lattafa (2020, linha \"Inspired Expression\") — o abacaxi é a nota que mais se destaca na abertura, dando um contraste frutado inesperado sobre a bergamota, antes de assentar num acorde amadeirado-aromático de fundo com coentro e sálvia. Pouca cobertura de review disponível no mercado atual. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
-    "genero": "Masculino"
+    "resumo": "Flagship feminino (2017/2021), Parfums de Marly, Quentin Bisch — lichia e pera abrem sobre rosa turca e peônia, fundo baunilhado-almiscarado. Um dos perfumes femininos de nicho mais bem-sucedidos comercialmente, com múltiplos flankers (La Rosée, Exclusif).",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
-    "id": 981,
-    "nome": "Donatella (Lab8)",
-    "dna": "Born In Roma (Valentino)",
-    "cat": "Oriental Sedutor",
+    "id": 987,
+    "nome": "Gladius (Nuancielo)",
+    "dna": "Pegasus (Parfums de Marly)",
+    "cat": "Oriental Sofisticado",
     "ocasiao": [
-      "Social/Noite",
-      "Evento Formal"
+      "Social/Noite"
     ],
     "origem": "Nacional",
-    "status": "Em Avaliação",
-    "veredito": "Floral-jasmim feminino, fora do arquétipo pessoal (compatibilidade baixa) — item de catálogo/negócio mais do que de uso próprio. Atenção: Rome Extradose (Bharara) já está mapeado pro mesmo DNA na base mas com notas de lavanda/baunilha/especiaria que não batem com o perfil floral-jasmim real do Born In Roma — parece um erro de mapeamento pré-existente (possivelmente é dupe do Uomo Born In Roma, versão masculina). Vale investigar antes de comparar os dois lado a lado.",
-    "compat": 2.0,
-    "preco": 106.8,
-    "exp": "Sample First",
-    "nota": 6.9,
-    "score": 6.12,
-    "sdt": 9.23,
-    "gpf": 8.67,
-    "conc": "EDP",
+    "status": "Curiosidade",
+    "veredito": "Amadeirado-oriental-atalcado, encaixe moderado pro seu perfil.",
+    "compat": 6,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 7.35,
+    "score": 7.18,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.43,
+    "gpf": 4.67,
+    "conc": "Deo Parfum",
     "clima": [
-      "Ameno",
-      "Frio"
+      "Frio",
+      "Ameno"
     ],
     "periodo": [
       "Noite"
     ],
     "perfil": [
-      "Oriental",
-      "Floral",
-      "Gourmand"
+      "Amadeirado",
+      "Atalcado",
+      "Doce"
     ],
-    "fam": "Oriental",
+    "fam": "Amadeirado",
     "acordes": [
-      "Floral",
-      "Frutado",
-      "Baunilha",
-      "Amadeirado"
+      "Amadeirado",
+      "Atalcado",
+      "Doce",
+      "Especiado"
     ],
     "notas": [
-      "Groselha Preta",
-      "Jasmim",
-      "Pimenta Rosa",
-      "Baunilha",
-      "Cashmeran",
-      "Madeira de Guaiaco"
+      "Bergamota",
+      "Heliotrópio",
+      "Cominho",
+      "Amêndoa Amarga",
+      "Lavanda",
+      "Sândalo"
     ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 6.0,
-    "cb": 8.0,
-    "simil": 8.0,
-    "vers": 6.0,
-    "link": "https://lab8oficial.com.br/produtos/donatella-100-ml-1jyfm/",
-    "resumo": "Contratipo de Born In Roma (Valentino) — a groselha preta assume a abertura com um toque de atitude, evoluindo para um coração de jasmim sofisticado sobre um fundo baunilhado com cashmeran e madeira de guaiaco. Lançamento recente da Lab8, ainda com pouca cobertura de review independente (fidelidade estimada por comparação de notas oficiais). Melhor em clima ameno a frio, para social/noite ou evento formal.",
-    "genero": "Feminino"
+    "fix": 7,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 9,
+    "simil": 8,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo do Pegasus (Parfums de Marly), confirmado por múltiplos revendedores. Bergamota e heliotrópio sobre amêndoa amarga e lavanda, fundo âmbar-baunilhado. Reviews divididas — nota de amêndoa amarga forte e incomum é ponto de amor ou ódio.",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
-    "id": 982,
-    "nome": "Nectar Honey (Lab8)",
-    "dna": "Nectarine Blossom & Honey (Jo Malone)",
-    "cat": "Gourmand Natural",
+    "id": 988,
+    "nome": "Ultra Pour Homme (j.fragrances)",
+    "dna": "Ultra Pour Homme (j.fragrances)",
+    "cat": "Gourmand Confortável",
     "ocasiao": [
       "Assinatura/Casual"
     ],
-    "origem": "Nacional",
-    "status": "Em Avaliação",
-    "veredito": "Fora do arquétipo cítrico-amadeirado; compatibilidade baixa-moderada. DNA (Jo Malone) ainda não representado na Coleção Real. Reviews divergem sobre fixação — vale reavaliar com uso real antes de decidir prioridade.",
-    "compat": 4.0,
-    "preco": null,
-    "exp": "Sample First",
-    "nota": 6.5,
-    "score": 6.34,
-    "sdt": 9.07,
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Perfil genérico frutado-gourmand, fora do eixo do usuário e com dados de baixa confiança.",
+    "compat": 4,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 5.4,
+    "score": 6.16,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.07,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Frutado",
+      "Aromático",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Frutas",
+      "Notas Aromáticas",
+      "Floral",
+      "Gourmand"
+    ],
+    "fix": 5,
+    "projI": 5,
+    "projD": 3,
+    "qual": 5,
+    "cb": 7,
+    "simil": 5,
+    "vers": 5,
+    "link": null,
+    "resumo": "Marca genérica de orçamento (j.fragrances) — descrição de marketing vaga (\"notas frutadas, coração aromático-especiado-floral-gourmand, fundo amadeirado-almiscarado\"), sem DNA único declarado apesar de citar vários nomes famosos genericamente na página de venda. Confiança baixa.",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 989,
+    "nome": "Shiyaaka Sky (Khadlaj)",
+    "dna": "Herbes Troublantes (Guerlain)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-aromático-verde, excelente encaixe pro seu perfil — um dos melhores achados desta rodada.",
+    "compat": 8,
+    "preco": 130,
+    "exp": "Blind Buy",
+    "nota": 7.6,
+    "score": 8.05,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.57,
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
@@ -62818,358 +63036,647 @@
       "Versátil"
     ],
     "perfil": [
-      "Frutado",
-      "Floral",
+      "Cítrico",
+      "Aromático",
       "Verde"
     ],
-    "fam": "Gourmand",
+    "fam": "Aromático",
     "acordes": [
-      "Frutado",
-      "Floral",
+      "Cítrico",
+      "Aromático",
       "Verde",
-      "Gourmand"
+      "Almíscar"
     ],
     "notas": [
-      "Nectarina",
-      "Pêssego",
-      "Groselha Preta",
-      "Acácia",
-      "Vetiver",
-      "Ameixa"
+      "Bergamota",
+      "Mandarina",
+      "Verbena",
+      "Neroli",
+      "Gerânio",
+      "Almíscar Branco"
     ],
-    "fix": 4.0,
-    "projI": 4.0,
-    "projD": 2.0,
-    "qual": 6.0,
-    "cb": 8.0,
-    "simil": 6.0,
-    "vers": 8.0,
-    "link": "https://lab8oficial.com.br/produtos/perfumes-unissex-perfume-lab-8-nectar-honey-100ml/",
-    "resumo": "Contratipo de Nectarine Blossom & Honey (Jo Malone) — a nectarina se destaca no coração, dando o toque frutado suculento sobre um fundo de pêssego, ameixa e vetiver, com groselha preta e notas verdes na abertura. Reviews divergem: um vídeo elogia a qualidade pelo preço baixo, mas há relato de baixa projeção. Melhor em clima calor a ameno, para assinatura/casual.",
-    "genero": "Compartilhável"
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7.5,
+    "cb": 9,
+    "simil": 7,
+    "vers": 8,
+    "link": null,
+    "resumo": "Contratipo do Herbes Troublantes (Guerlain), lançado em 2026. \"Quase gosto mais que o original\" segundo review dedicado, a 1/10 do preço. Bergamota e verbena sobre neroli e gerânio, fundo de almíscar branco. Performance 6h+ confirmada.",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
-    "id": 983,
-    "nome": "Nectarine Blossom & Honey (Jo Malone)",
-    "dna": "Nectarine Blossom & Honey (Jo Malone)",
-    "cat": "Gourmand Natural",
+    "id": 990,
+    "nome": "Nava Sol (Rayhaan)",
+    "dna": "Mojave Ghost Absolu (Byredo)",
+    "cat": "Floral Sofisticado",
     "ocasiao": [
+      "Social/Noite",
       "Assinatura/Casual"
     ],
-    "origem": "Designer",
-    "status": "Em Avaliação",
-    "veredito": "Fora do arquétipo cítrico-amadeirado do usuário; registrado principalmente como referência de DNA para o contratipo nacional (Nectar Honey, Lab8). Compatibilidade pessoal baixa-moderada.",
-    "compat": 4.0,
-    "preco": null,
-    "exp": "Sample First",
-    "nota": 6.93,
-    "score": 6.47,
-    "sdt": 8.97,
-    "gpf": 7.33,
-    "conc": "Cologne",
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Floral-amadeirado-almiscarado, moderadamente alinhado — fora do eixo cítrico central, mas validação de fidelidade excepcional.",
+    "compat": 5,
+    "preco": 150,
+    "exp": "Blind Buy",
+    "nota": 7.35,
+    "score": 6.87,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.8,
+    "gpf": 4.0,
+    "conc": "EDP",
     "clima": [
-      "Calor",
       "Ameno"
     ],
     "periodo": [
-      "Dia"
+      "Versátil"
     ],
     "perfil": [
-      "Frutado",
-      "Floral"
+      "Floral",
+      "Amadeirado",
+      "Almiscarado"
     ],
-    "fam": "Gourmand",
+    "fam": "Fresh",
     "acordes": [
-      "Frutado",
       "Floral",
       "Amadeirado",
       "Almíscar"
     ],
     "notas": [
-      "Nectarina",
-      "Pêssego Branco",
-      "Madressilva",
-      "Mimosa",
-      "Cedro",
-      "Almíscar"
+      "Sapodilla",
+      "Ambrette",
+      "Magnólia",
+      "Sândalo",
+      "Âmbar Cinzento",
+      "Cedro"
     ],
-    "fix": 4.0,
-    "projI": 4.0,
-    "projD": 2.0,
-    "qual": 8.0,
-    "cb": 6.0,
-    "simil": null,
-    "vers": 8.0,
-    "link": "https://www.jomalone.com/product/25946/10079/colognes/nectarine-blossom-honey-cologne",
-    "resumo": "Original Jo Malone London (2005), colônia frutado-floral leve — a nectarina domina a abertura com um toque suculento sobre madressilva e mimosa no coração, fechando num fundo discreto de cedro e almíscar. Concentração de colônia clássica da marca: fixação e projeção deliberadamente suaves (\"skin scent\"), pensada para uso em camadas. Melhor em clima calor a ameno, para assinatura/casual.",
-    "genero": "Compartilhável"
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8,
+    "cb": 8,
+    "simil": 8,
+    "vers": 5,
+    "link": null,
+    "resumo": "Contratipo excepcionalmente bem validado do Mojave Ghost Absolu (Byredo) — \"mais de 90% similar\", \"praticamente 1:1\", \"você não vai mais precisar matar seu frasco original\". Performance confirmada, 6h+.",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
-    "id": 984,
-    "nome": "Paradigme (Prada)",
-    "dna": "Paradigme (Prada)",
-    "cat": "Statement Expansivo",
+    "id": 991,
+    "nome": "Bidaya Sex on the Rocks",
+    "dna": "Angels' Share On The Rocks (Kilian)",
+    "cat": "Oriental Elegante",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Compatibilidade média (6/10): a abertura cítrico-gelada bate no seu eixo, mas o coração conhaque-canela-caramelo foge do especiado-frio padrão. Custo-benefício forte — R$350 vs. os R$1.400+ do original Kilian.",
+    "compat": 6,
+    "preco": 350,
+    "exp": "Sample First",
+    "nota": 7.0,
+    "score": 6.87,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.07,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Doce",
+      "Amadeirado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Cítrico",
+      "Doce",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "notas": [
+      "Gelo",
+      "Aldeídos",
+      "Toranja",
+      "Bergamota",
+      "Conhaque",
+      "Caramelo"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 8,
+    "simil": 8,
+    "vers": 4,
+    "link": null,
+    "resumo": "Contratipo do Angels' Share On The Rocks (Kilian, 2026) — pirâmide praticamente idêntica ao original (sem declaração explícita de clone encontrada, mas notas batem quase 1:1). O gelo cítrico de abertura é o que mais se destaca, criando o contraste gelado-quente antes do coração de conhaque, canela e caramelo. Fundo amadeirado-resinoso de mirra e cashmere wood. Melhor em clima frio a ameno, para social/noite.",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 992,
+    "nome": "Imperial Ocean (French Avenue)",
+    "dna": "Le Sel d'Issey (Issey Miyake)",
+    "cat": "Fresh Sofisticado",
     "ocasiao": [
       "Trabalho",
-      "Evento Formal"
+      "Assinatura/Casual"
     ],
-    "origem": "Designer",
-    "status": "Em Avaliação",
-    "veredito": "Perfil controverso e recém-lançado, pouco testado ainda — Sample First antes de qualquer decisão. Serve principalmente como referência de DNA correta para o Enigmático (Lab8), já presente na Coleção Real (era mapeado erroneamente contra L'Homme Intense).",
-    "compat": 5.0,
-    "preco": null,
-    "exp": "Sample First",
-    "nota": 6.27,
-    "score": 6.92,
-    "sdt": 9.5,
-    "gpf": 10.0,
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-aquático-amadeirado, moderado encaixe — fica na zona de alerta aquática, mas com estrutura mais amadeirada-seca que puramente oceânica.",
+    "compat": 6,
+    "preco": 150,
+    "exp": "Blind Buy",
+    "nota": 7.0,
+    "score": 7.52,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.07,
+    "gpf": 5.33,
+    "conc": "Extrait",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Aquático",
+      "Amadeirado",
+      "Cítrico"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Aquático",
+      "Amadeirado",
+      "Cítrico",
+      "Salino"
+    ],
+    "notas": [
+      "Notas Marinhas",
+      "Algas",
+      "Lírio-do-Vale",
+      "Vetiver Seco",
+      "Âmbar Cinzento",
+      "Cedro"
+    ],
+    "fix": 5,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7.5,
+    "cb": 8,
+    "simil": 7,
+    "vers": 6,
+    "link": null,
+    "resumo": "Contratipo (Extrait) comparado pela comunidade ao Le Sel d'Issey mais que ao Megamare — \"fresco, salgado, marinho, levemente chá\", vetiver seco evita ficar genérico aquático demais.",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 993,
+    "nome": "Nocturno Pour Homme Elixir (Rayhaan)",
+    "dna": "Bleu de Chanel L'Exclusif (Chanel)",
+    "cat": "Amadeirado Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-amadeirado-aromático, excelente encaixe pro seu perfil — forte candidato.",
+    "compat": 8,
+    "preco": 130,
+    "exp": "Blind Buy",
+    "nota": 7.35,
+    "score": 7.63,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.43,
+    "gpf": 4.67,
     "conc": "EDP",
     "clima": [
       "Ameno",
       "Frio"
     ],
     "periodo": [
-      "Noite",
       "Versátil"
     ],
     "perfil": [
-      "Oriental",
+      "Cítrico",
+      "Aromático",
       "Amadeirado"
     ],
-    "fam": "Statement",
+    "fam": "Amadeirado",
     "acordes": [
+      "Cítrico",
+      "Aromático",
       "Amadeirado",
-      "Floral",
-      "Ambarado",
-      "Almíscar"
+      "Especiado"
     ],
     "notas": [
+      "Limão",
       "Bergamota",
-      "Gerânio",
-      "Benjoim",
-      "Pau-Ágar",
-      "Almíscar"
+      "Hortelã",
+      "Absinto",
+      "Lavanda",
+      "Sândalo"
     ],
-    "fix": 8.0,
-    "projI": 6.0,
-    "projD": 6.0,
-    "qual": 6.0,
-    "cb": 6.0,
-    "simil": null,
-    "vers": 6.0,
-    "link": "https://www.prada.com/us/en/p/paradigme-eau-de-parfum/",
-    "resumo": "Original Prada (2025), Oriental Amadeirado assinado por Marie Salamagne, Bruno Jovanovic e Nicolas Bonneville — abre em bergamota calabresa e almíscar, evolui para um coração inesperado de gerânio, fechando em benjoim, bálsamo do Peru e pau-ágar. Lançamento extremamente polarizador: parte da crítica chamou de pior lançamento do ano, outra defendeu como incompreendido. Melhor em clima ameno a frio, para trabalho ou evento formal.",
-    "genero": "Masculino"
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8,
+    "cb": 9,
+    "simil": 6,
+    "vers": 7,
+    "link": null,
+    "resumo": "Declarado \"Clone do Bleu de Chanel L'Exclusif\" — validação forte: \"90-95% próximo na abertura\", colega de trabalho confundiu com o original de verdade, \"o melhor L'Exclusif barato\". Abertura levemente sintética/estranha na primeira hora, segundo alguns, mas drydown elogiado.",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
   },
   {
-    "id": 985,
-    "nome": "Alto (JA Essence)",
-    "dna": "Rialto (Gritti)",
-    "cat": "Oriental Sedutor",
+    "id": 994,
+    "nome": "Valentine (Maison Viegas)",
+    "dna": "Delina (Parfums de Marly)",
+    "cat": "Floral Elegante",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Frutado-floral-doce feminino, fora do eixo pessoal do usuário — melhor pro catálogo de decants.",
+    "compat": 2,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 6.8,
+    "score": 6.35,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.07,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Floral",
+      "Doce"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Frutado",
+      "Floral",
+      "Doce"
+    ],
+    "notas": [
+      "Lichia",
+      "Pera",
+      "Bergamota",
+      "Rosa Turca",
+      "Baunilha",
+      "Almíscar"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 9,
+    "simil": 8,
+    "vers": 2,
+    "link": null,
+    "resumo": "Contratipo do Delina (Parfums de Marly), citado como \"equilíbrio perfeito entre sensualidade e elegância\" com ótimo custo-benefício.",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 995,
+    "nome": "Glamorous Rose (In The Box)",
+    "dna": "Delina (Parfums de Marly)",
+    "cat": "Floral Elegante",
     "ocasiao": [
       "Social/Noite",
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Em Avaliação",
-    "veredito": "Fora do arquétipo cítrico-amadeirado-frio do usuário (perfil oriental-oud-frutado); compatibilidade baixa. Fidelidade estimada alta por comparação direta de notas oficiais (açafrão+manga+bergamota / rosa taif+íris / oud+almíscar batem quase 1:1 com o Rialto real, que também acabou de ser corrigido na base).",
-    "compat": 4.0,
-    "preco": 180.0,
+    "status": "Curiosidade",
+    "veredito": "Frutado-floral-doce feminino, fora do eixo pessoal do usuário — melhor pro catálogo de decants.",
+    "compat": 2,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 6.4,
+    "score": 6.21,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.07,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Floral",
+      "Doce"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Frutado",
+      "Floral",
+      "Doce"
+    ],
+    "notas": [
+      "Lichia",
+      "Pera",
+      "Bergamota",
+      "Rosa Turca",
+      "Baunilha",
+      "Almíscar"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 9,
+    "simil": 7,
+    "vers": 2,
+    "link": null,
+    "resumo": "Contratipo do Delina (Parfums de Marly) — intensidade menor que outros contratipos do DNA, mas se destaca pela suavidade, ideal pra ocasiões especiais.",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 996,
+    "nome": "Rose Fairy (Nuancielo)",
+    "dna": "Delina (Parfums de Marly)",
+    "cat": "Floral Elegante",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Frutado-floral-doce feminino, fora do eixo pessoal do usuário — melhor pro catálogo de decants.",
+    "compat": 2,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 6.2,
+    "score": 6.14,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.07,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Floral",
+      "Doce"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Frutado",
+      "Floral",
+      "Doce"
+    ],
+    "notas": [
+      "Lichia",
+      "Pera",
+      "Bergamota",
+      "Rosa Turca",
+      "Baunilha",
+      "Almíscar"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6.5,
+    "cb": 8,
+    "simil": 7,
+    "vers": 2,
+    "link": null,
+    "resumo": "Contratipo do Delina (Parfums de Marly) pela Nuancielo — mesma linha de fidelidade dos outros contratipos desse DNA já mapeados (Valentine, Glamorous Rose).",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 997,
+    "nome": "Lord Town (In The Box)",
+    "dna": "Layton (Parfums de Marly)",
+    "cat": "Amadeirado Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Doce-especiado-amadeirado, bom encaixe pro seu perfil — entra no grupo Layton já bem mapeado.",
+    "compat": 7,
+    "preco": 60,
+    "exp": "Blind Buy",
+    "nota": 8.0,
+    "score": 8.41,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Doce",
+      "Especiado",
+      "Amadeirado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Doce",
+      "Especiado",
+      "Amadeirado",
+      "Floral"
+    ],
+    "notas": [
+      "Maçã",
+      "Lavanda",
+      "Tangerina",
+      "Bergamota",
+      "Violeta",
+      "Baunilha"
+    ],
+    "fix": 9,
+    "projI": 8,
+    "projD": 6,
+    "qual": 7.5,
+    "cb": 9,
+    "simil": 8,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo do Layton (Parfums de Marly), confirmado. Maçã e lavanda abrem sobre violeta e jasmim, fundo baunilhado-especiado com cardamomo, madeira guaiac e sândalo. Fixação alta (10-12h), projeção marcante.",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 998,
+    "nome": "Mendoza (Stella Dustin)",
+    "dna": "Ingenious Ginger (Goldfield & Banks)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "status": "Curiosidade",
+    "veredito": "Cítrico-especiado-amadeirado, bom encaixe pro seu perfil.",
+    "compat": 7,
+    "preco": 100,
+    "exp": "Blind Buy",
+    "nota": 6.85,
+    "score": 6.99,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.57,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Especiado",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Especiado",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Flor de Gengibre",
+      "Limão",
+      "Bergamota",
+      "Baunilha",
+      "Cashmeran",
+      "Sândalo"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 8,
+    "simil": 6,
+    "vers": 7,
+    "link": null,
+    "resumo": "Contratipo do Ingenious Ginger (Goldfield & Banks) pela Stella Dustin — mesma família dos outros dupes já mapeados desse DNA.",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 999,
+    "nome": "Espada Guarani (Stella Dustin)",
+    "dna": "Espada Guarani (Stella Dustin)",
+    "cat": "Aromático Elegante",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "status": "Curiosidade",
+    "veredito": "Aromático-amadeirado-salino, muito bom encaixe pro seu perfil — combinação de sal/mineral com vetiver-gengibre-sálvia bate bem com seu gosto por frescor amadeirado.",
+    "compat": 8,
+    "preco": 100,
     "exp": "Sample First",
-    "nota": 8.05,
-    "score": 7.06,
-    "rankDNA": 1,
-    "flagDNA": true,
-    "melhorNac": true,
+    "nota": 6.85,
+    "score": 7.99,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
     "melhorAr": false,
     "sdt": 8.57,
     "gpf": 5.33,
     "conc": "EDP",
     "clima": [
-      "Ameno",
-      "Frio"
-    ],
-    "periodo": [
-      "Noite"
-    ],
-    "perfil": [
-      "Oriental",
-      "Frutado",
-      "Floral"
-    ],
-    "fam": "Oriental",
-    "acordes": [
-      "Amadeirado",
-      "Floral",
-      "Frutado",
-      "Especiado"
-    ],
-    "notas": [
-      "Açafrão",
-      "Manga",
-      "Rosa Taif",
-      "Íris Negra",
-      "Oud",
-      "Almíscar Branco"
-    ],
-    "fix": 8.0,
-    "projI": 6.0,
-    "projD": 6.0,
-    "qual": 7.0,
-    "cb": 10.0,
-    "simil": 9.0,
-    "vers": 6.0,
-    "link": "https://www.privilegeparfum.com.br/produtos/alto-ja-essence-perfume-inspirado-em-rialto-de-gritti-compartilhavel-11a1i/",
-    "resumo": "Contratipo de Rialto (Gritti) — o açafrão e a manga assumem a abertura com um contraste frutado-especiado incomum, evoluindo pra um coração de rosa taif e íris negra, fechando num fundo de oud e almíscar branco. Fidelidade muito alta por comparação de notas oficiais. Melhor em clima ameno a frio, para social/noite ou evento formal.",
-    "genero": "Compartilhável"
-  },
-  {
-    "id": 986,
-    "nome": "Universo Forte (JA Essence)",
-    "dna": "Aqua Universalis Cologne Forte (Maison Francis Kurkdjian)",
-    "cat": "Luxury Clean Sofisticado",
-    "ocasiao": [
-      "Trabalho",
-      "Assinatura/Casual"
-    ],
-    "origem": "Nacional",
-    "status": "Interesse",
-    "veredito": "Terceiro candidato do DNA — completa o grupo (antes só tinha Acqua Bravata e Fleur Blanche, ambos Nicho). Boa fidelidade de notas, mas reviews divergem sobre fixação/projeção (uma reclamação de fraqueza, outra elogiando potência) — trate como Sample First.",
-    "compat": 6.0,
-    "preco": 199.9,
-    "exp": "Sample First",
-    "nota": 7.35,
-    "score": 8.25,
-    "rankDNA": 2,
-    "flagDNA": false,
-    "melhorNac": true,
-    "melhorAr": false,
-    "sdt": 8.93,
-    "gpf": 4.67,
-    "conc": "EDP",
-    "clima": [
-      "Calor",
-      "Ameno"
-    ],
-    "periodo": [
-      "Versátil"
-    ],
-    "perfil": [
-      "Cítrico",
-      "Floral",
-      "Almíscar"
-    ],
-    "fam": "Fresh",
-    "acordes": [
-      "Cítrico",
-      "Floral",
-      "Almíscar",
-      "Luxury Clean"
-    ],
-    "notas": [
-      "Bergamota",
-      "Limão",
-      "Flor de Laranjeira",
-      "Jasmim",
-      "Almíscar Branco"
-    ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 7.0,
-    "cb": 8.0,
-    "simil": 8.0,
-    "vers": 7.0,
-    "link": "https://www.jaessencedelavie.com.br/universo-forte-perfume-inspirado-em-aqua-universalis-cologne-forte-maison-francis-kurkdjian-compartilhavel-68c443f820e73/",
-    "resumo": "Contratipo de Aqua Universalis Cologne Forte (Maison Francis Kurkdjian) — a flor de laranjeira e o jasmim dão o coração floral-limpo sobre a bergamota e limão de abertura, fechando em almíscar branco. Reviews divergem sobre fixação. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "calibradoEm": "2026-08-29",
-    "calibradoContra": [
-      "773",
-      "774"
-    ],
-    "genero": "Compartilhável"
-  },
-  {
-    "id": 987,
-    "nome": "Jardin d'Amalfi (Creed)",
-    "dna": "Jardin d'Amalfi (Creed)",
-    "cat": "Fresh Luminoso",
-    "ocasiao": [
-      "Assinatura/Casual"
-    ],
-    "origem": "Nicho",
-    "status": "Em Avaliação",
-    "veredito": "Fora do núcleo do usuário mas com boa adjacência cítrica; registrado principalmente como referência de DNA pro contratipo nacional (Amalfi, JA Essence). Preço de importado ultra-premium (linha Les Royales Exclusives da Creed).",
-    "compat": 5.0,
-    "preco": 3800.0,
-    "exp": "Sample First",
-    "nota": 7.2,
-    "score": 6.7,
-    "sdt": 7.73,
-    "gpf": 8.67,
-    "conc": "EDP",
-    "clima": [
-      "Calor",
-      "Ameno"
-    ],
-    "periodo": [
-      "Dia"
-    ],
-    "perfil": [
-      "Cítrico",
-      "Floral"
-    ],
-    "fam": "Fresh",
-    "acordes": [
-      "Cítrico",
-      "Floral",
-      "Amadeirado",
-      "Almíscar"
-    ],
-    "notas": [
-      "Tangerina",
-      "Bergamota",
-      "Rosa",
-      "Jasmim",
-      "Maçã",
-      "Cedro",
-      "Vetiver"
-    ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 8.0,
-    "cb": 6.0,
-    "simil": null,
-    "vers": 8.0,
-    "link": "https://www.creedboutique.com/products/jardin-d-amalfi",
-    "resumo": "Original Creed (2011, linha Les Royales Exclusives) — a tangerina e a rosa se destacam, dando um contraste cítrico-floral luminoso sobre um fundo de cedro, vetiver e almíscar branco. Evoca a costa amalfitana no fim do verão. Melhor em clima calor a ameno, para assinatura/casual.",
-    "genero": "Compartilhável"
-  },
-  {
-    "id": 988,
-    "nome": "Amalfi (JA Essence)",
-    "dna": "Jardin d'Amalfi (Creed)",
-    "cat": "Fresh Luminoso",
-    "ocasiao": [
-      "Assinatura/Casual"
-    ],
-    "origem": "Nacional",
-    "status": "Em Avaliação",
-    "veredito": "Boa adjacência cítrica com o arquétipo, mas o coração floral-rosa puxa pra um perfil mais compartilhável do que masculino puro. DNA (Creed Jardin d'Amalfi) ainda não representado na Coleção Real.",
-    "compat": 6.0,
-    "preco": 189.9,
-    "exp": "Sample First",
-    "nota": 7.75,
-    "score": 6.93,
-    "rankDNA": 1,
-    "flagDNA": true,
-    "melhorNac": true,
-    "melhorAr": false,
-    "sdt": 7.07,
-    "gpf": 5.33,
-    "conc": "EDP",
-    "clima": [
       "Calor",
       "Ameno"
     ],
@@ -63178,36 +63685,163 @@
       "Versátil"
     ],
     "perfil": [
+      "Aromático",
+      "Amadeirado",
+      "Salino"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Aromático",
+      "Amadeirado",
+      "Salino",
+      "Terroso"
+    ],
+    "notas": [
+      "Folha de Violeta",
+      "Notas Minerais",
+      "Sal",
+      "Sálvia",
+      "Gengibre",
+      "Vetiver"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7.5,
+    "cb": 6,
+    "simil": 7,
+    "vers": 7,
+    "link": null,
+    "resumo": "Original próprio (2026), Stella Dustin — folha de violeta e sal mineral abrem sobre sálvia e gengibre, fundo de vetiver e madeiras. Sem dupe único declarado (uma menção a Layton encontrada não se sustenta — perfis de notas divergem completamente).",
+    "genero": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 1000,
+    "nome": "Angels' Share On The Rocks (Kilian)",
+    "dna": "Angels' Share On The Rocks (Kilian)",
+    "cat": "Oriental Refinado",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "status": "Em Avaliação",
+    "veredito": "Compatibilidade alta (7/10): o gelo cítrico bate direto no seu arquétipo, mas o coração conhaque-canela é mais quente/doce que seu eixo padrão. Lacuna positiva — não há nada parecido na sua coleção Possui hoje. Preço de nicho alto, melhor Sample First.",
+    "compat": 7,
+    "preco": 1450,
+    "exp": "Sample First",
+    "nota": 6.27,
+    "score": 6.47,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.5,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
       "Cítrico",
-      "Floral",
+      "Ambarado",
+      "Especiado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Cítrico",
+      "Ambarado",
+      "Especiado",
       "Amadeirado"
+    ],
+    "notas": [
+      "Toranja",
+      "Bergamota",
+      "Gelo",
+      "Conhaque",
+      "Canela",
+      "Fava Tonka"
+    ],
+    "fix": 6,
+    "projI": 7,
+    "projD": 6,
+    "qual": 8,
+    "cb": 4,
+    "simil": null,
+    "vers": 6,
+    "link": "https://www.bykilian.com",
+    "resumo": "Original de nicho (2026, coleção The Liquors, By Kilian). O gelo cítrico de abertura é o que mais se destaca, criando a sensação de \"coquetel gelado\" antes do coração de conhaque, canela e caramelo — homenagem à herança da família Hennessy em Cognac. Acorde amadeirado-resinoso de mirra, sândalo e cashmere wood no fundo. Reviews polarizadas (\"favorito absoluto\" vs \"sintético\"). Melhor em clima frio a ameno, para social/noite.",
+    "genero": "Compartilhável",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
+  },
+  {
+    "id": 1001,
+    "nome": "La Belle Paradise Garden (Jean Paul Gaultier)",
+    "dna": "La Belle Paradise Garden (Jean Paul Gaultier)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "status": "Em Avaliação",
+    "veredito": "Compatibilidade baixa-média (5/10): a íris bate na sua textura favorita, mas é floral-aquático-feminino, fora do seu eixo cítrico-amadeirado-especiado. Sem redundância na sua coleção. Mais relevante pro catálogo dos decants (público jovem) do que pra sua coleção pessoal.",
+    "compat": 5,
+    "preco": 750,
+    "exp": "Sample First",
+    "nota": 6.27,
+    "score": 6.13,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Floral",
+      "Aquático",
+      "Doce"
     ],
     "fam": "Fresh",
     "acordes": [
-      "Cítrico",
       "Floral",
-      "Amadeirado",
-      "Especiado"
+      "Aquático",
+      "Ambarado"
     ],
     "notas": [
-      "Tangerina",
+      "Nenúfar Azul",
       "Bergamota",
-      "Neroli",
-      "Rosa Búlgara",
-      "Maçã",
-      "Vetiver",
-      "Almíscar Branco",
-      "Canela"
+      "Íris",
+      "Baunilha"
     ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 7.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 7.0,
-    "link": "https://www.jaessencedelavie.com.br/amalfi-compartilhavel/",
-    "resumo": "Contratipo de Jardin d'Amalfi (Creed) — a tangerina e a rosa búlgara conduzem a mesma dobradiça cítrico-floral do original, com maçã no coração e um fundo de vetiver, almíscar e um toque de canela que o original não tem. Boa fidelidade estrutural. Melhor em clima calor a ameno, para assinatura/casual.",
-    "genero": "Compartilhável"
+    "fix": 5,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8,
+    "cb": 6,
+    "simil": null,
+    "vers": 4,
+    "link": "https://www.jeanpaulgaultier.com",
+    "resumo": "Original designer (2024, coleção Paradise Garden — par feminino do Le Beau Paradise Garden). O nenúfar azul é a nota que mais se destaca na abertura, dando o toque etéreo-aquático que abre caminho pro coração de íris (bem executada, sem cair no lado \"empoeirado\" da nota) e fundo de baunilha suave. Também existe a flanker Fleur Terrible, da mesma linha. Longevidade divide opiniões nos reviews. Melhor em clima ameno a calor, para social/noite.",
+    "genero": "Feminino",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null
   }
 ]
