@@ -9692,7 +9692,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Possui",
     "veredito": "",
     "compat": 10.0,
     "preco": null,
@@ -17145,7 +17145,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Possui",
     "veredito": "",
     "compat": 10,
     "preco": 320,
@@ -38329,7 +38329,7 @@
       "Evento Formal"
     ],
     "origem": "Nacional",
-    "status": "Interesse",
+    "status": "Possui",
     "veredito": "",
     "compat": 9.0,
     "preco": null,
@@ -41964,68 +41964,71 @@
     "id": 663,
     "nome": "Botica 214 Fiji Paradise (O Boticário)",
     "dna": "Botica 214 Fiji Paradise (O Boticário)",
-    "cat": "Aromático Confortável",
+    "cat": "Oriental Sedutor",
     "ocasiao": [
       "Trabalho",
-      "Casual"
+      "Assinatura/Casual",
+      "Social/Noite"
     ],
     "origem": "Nacional",
+    "genero": "Feminino",
     "status": "Curiosidade",
-    "veredito": "",
-    "compat": 6.0,
-    "preco": null,
+    "resumo": "Original nacional (2023, O Boticário, perfumistas Coralie Spicher e Fabrice Pellegrin) — a pêra se destaca na abertura, dando o toque frutado-verde sobre a pimenta rosa e mandarina, evoluindo pra um coração floral de frésia, rosa e peônia com um toque de pimenta preta, fechando num fundo ambarado-baunilhado com cashmeran, sândalo e patchouli. Reviews muito positivas (4,5-4,7/5), com elogios recorrentes à fixação. Melhor em clima ameno a frio, para trabalho, assinatura/casual ou social/noite.",
+    "veredito": "Compatibilidade baixa-moderada (4/10): floral-frutado-baunilhado foge do eixo cítrico-amadeirado-especiado-frio do arquétipo pessoal, mas sem cair no gourmand pesado (o elemi/cashmeran/patchouli dão um dry-down mais sofisticado). Ótimo custo-benefício nacional — bem avaliado e sem redundância na Coleção Real.",
+    "compat": 4,
+    "preco": 249.9,
     "exp": "Sample First",
-    "nota": 6.0,
-    "score": 7.23,
-    "rankDNA": 1,
-    "flagDNA": true,
-    "melhorNac": true,
+    "nota": 7.27,
+    "score": 7.29,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
     "melhorAr": false,
-    "sdt": 8.93,
-    "gpf": 4.67,
+    "sdt": 8.77,
+    "gpf": 6.33,
     "conc": "EDP",
     "clima": [
       "Ameno",
-      "Calor"
+      "Frio"
     ],
     "periodo": [
-      "Dia"
+      "Dia",
+      "Noite",
+      "Versátil"
     ],
     "perfil": [
-      "Aromático",
-      "Fougère",
-      "Especiado"
+      "Floral",
+      "Frutado",
+      "Baunilha"
     ],
-    "fam": "Aromático",
+    "fam": "Oriental",
     "acordes": [
-      "Cardamomo",
-      "Bergamota",
-      "Toranja",
-      "Cipreste",
-      "Musgo",
-      "Violeta",
-      "Patchouli",
-      "Âmbar"
+      "Floral",
+      "Frutado",
+      "Especiado",
+      "Baunilha"
     ],
     "notas": [
-      "Cardamomo",
-      "Cipreste",
-      "Patchouli",
-      "Toranja"
+      "Pêra",
+      "Pimenta Rosa",
+      "Frésia",
+      "Rosa",
+      "Baunilha",
+      "Âmbar"
     ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 6.0,
-    "cb": 6.0,
-    "simil": 6.0,
-    "vers": 6.0,
-    "link": "https://www.fragrantica.com/perfume/O-Boticario/Botica-214-Fiji-Paradise-84214.html",
-    "resumo": "Original próprio — o cipreste é a nota que mais se destaca, dando o toque verde-amadeirado sobre a toranja de abertura, sobre um acorde de toranja predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "genero": "Feminino",
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7,
+    "cb": 8,
+    "simil": null,
+    "vers": 7,
+    "link": "https://www.boticario.com.br/botica-214-fiji-paradise-floral-especiado-eau-de-parfum-75ml/",
     "prioridade": null,
     "calibradoEm": null,
-    "calibradoContra": null
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
   },
   {
     "id": 664,
@@ -56226,7 +56229,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
-    "status": "Forte Interesse",
+    "status": "Possui",
     "veredito": "Cítrico-aromático, bom encaixe pro perfil do usuário.",
     "compat": 7,
     "preco": 60,
@@ -64438,7 +64441,7 @@
     ],
     "origem": "Nacional",
     "genero": "Compartilhável",
-    "status": "Em Avaliação",
+    "status": "Possui",
     "resumo": "Contratipo de Jardin d'Amalfi (Creed) — a tangerina e a rosa búlgara conduzem a mesma dobradiça cítrico-floral do original, com maçã no coração e um fundo de vetiver, almíscar e um toque de canela que o original não tem. Boa fidelidade estrutural. Melhor em clima calor a ameno, para assinatura/casual.",
     "veredito": "Boa adjacência cítrica com o arquétipo, mas o coração floral-rosa puxa pra um perfil mais compartilhável do que masculino puro. DNA (Creed Jardin d'Amalfi) ainda não representado na Coleção Real.",
     "compat": 6,
@@ -64691,5 +64694,143 @@
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null
+  },
+  {
+    "id": 1015,
+    "nome": "Botica 214 Fiji Paradise Masculino (O Boticário)",
+    "dna": "Botica 214 Fiji Paradise Masculino (O Boticário)",
+    "cat": "Aromático Confortável",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual",
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "genero": "Masculino",
+    "status": "Possui",
+    "resumo": "Original nacional (2023, O Boticário, perfumista Christophe Raynaud) — o cardamomo se destaca na abertura, dando o toque especiado-frio sobre a bergamota e toranja, evoluindo pra um coração de cipreste, violeta e musgo com fava tonka, fechando num fundo amadeirado-resinoso de patchouli, cistus labdanum e âmbar. Reviews divergem bastante: parte descreve o cheiro como excelente mas a fixação como fraca (\"projeta 1h, dura mais 1h na pele e some\"), outra chama de genérico/sintético. Melhor em clima ameno a calor, para trabalho, assinatura/casual ou social/noite.",
+    "veredito": "Compatibilidade alta (7/10) — bem mais alinhado ao arquétipo pessoal do que a versão feminina: cítrico-especiado-frio na abertura (bergamota/toranja/cardamomo) evoluindo pro amadeirado-musgoso (cipreste/musgo/patchouli). Fixação é o ponto fraco recorrente nos reviews — vale testar antes de decidir prioridade. Sem redundância direta na Coleção Real.",
+    "compat": 7,
+    "preco": 249.9,
+    "exp": "Sample First",
+    "nota": 5.87,
+    "score": 7.14,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.13,
+    "gpf": 5.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Aromático",
+      "Especiado",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Aromático",
+      "Fougère",
+      "Especiado",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Cardamomo",
+      "Bergamota",
+      "Toranja",
+      "Cipreste",
+      "Fava Tonka",
+      "Cistus Labdanum"
+    ],
+    "fix": 5,
+    "projI": 6,
+    "projD": 3,
+    "qual": 6,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": "https://www.boticario.com.br/botica-214-fiji-paradise-fougere-especiado-eau-de-parfum-90ml/",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1016,
+    "nome": "Powder Extrait (JA Essence)",
+    "dna": "Vanilla Powder Extrait de Parfum (Matière Première)",
+    "cat": "Luxury Clean Confortável",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "genero": "Compartilhável",
+    "status": "Possui",
+    "resumo": "Contratipo da versão Extrait de Parfum do Vanilla Powder (Matière Première, 2025) — mais concentrada e encorpada que a EDP original. O palo santo e o coco em pó abrem, dando o toque atalcado-defumado sobre a baunilha absoluta de Madagascar, fechando num fundo de almíscar e fava tonka que a versão EDP não tem. Melhor em clima frio a ameno, para trabalho, social/noite ou assinatura/casual.",
+    "veredito": "Item Possui — parte do mesmo território do Powder EDP (id 297), já favorito confirmado. A concentração Extrait entrega mais corpo e fixação, reforçando a lacuna de conforto executivo moderno na coleção.",
+    "compat": 10,
+    "preco": 199.9,
+    "exp": "Blind Buy",
+    "nota": 8.85,
+    "score": 10,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": true,
+    "melhorAr": false,
+    "sdt": 6.0,
+    "gpf": 10,
+    "conc": "Extrait de Parfum",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Baunilha",
+      "Atalcado",
+      "Amadeirado"
+    ],
+    "fam": "Luxury Clean",
+    "acordes": [
+      "Baunilha",
+      "Atalcado",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Palo Santo",
+      "Coco em Pó",
+      "Baunilha",
+      "Fava Tonka",
+      "Almíscar"
+    ],
+    "fix": 10,
+    "projI": 8,
+    "projD": 6,
+    "qual": 8,
+    "cb": 10,
+    "simil": 9,
+    "vers": 8,
+    "link": null,
+    "prioridade": true,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
   }
 ]
