@@ -19406,18 +19406,18 @@
     ],
     "origem": "Nicho",
     "status": "Em Avaliação",
-    "veredito": "",
+    "veredito": "Compatibilidade alta (10/10 conforme registrado), mas gourmand-baunilhado é fora do arquétipo cítrico-amadeirado padrão — provavelmente valorizado aqui como peça de nicho/colecionismo. Preço extremamente alto (R$3.500) para uma faixa de qualidade que a própria comunidade considera inconsistente por lote.",
     "compat": 10.0,
     "preco": 3500.0,
     "exp": "Blind Buy",
     "nota": 7.46,
-    "score": 8.25,
-    "rankDNA": 2,
+    "score": 8.65,
+    "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": 6.93,
-    "gpf": 4.67,
+    "sdt": 8.57,
+    "gpf": 5.33,
     "conc": "Extrait",
     "clima": [
       "Ameno"
@@ -19427,16 +19427,24 @@
       "Noite"
     ],
     "perfil": [
-      "Baunilha, Resinoso, Especiado"
+      "Baunilha",
+      "Floral",
+      "Especiado"
     ],
     "fam": "Gourmand",
     "acordes": [
       "Baunilha",
-      "Opoponax",
-      "Âmbar"
+      "Floral",
+      "Ambarado",
+      "Especiado"
     ],
     "notas": [
-      "Baunilha Planifolia"
+      "Pimenta Rosa",
+      "Coentro",
+      "Baunilha Planifolia",
+      "Rosa",
+      "Jasmim",
+      "Opoponax"
     ],
     "fix": 10.0,
     "projI": 6.0,
@@ -19446,7 +19454,7 @@
     "simil": null,
     "vers": 8.0,
     "link": null,
-    "resumo": "Original de nicho — o opoponax é a nota que mais se destaca, dando o toque resinoso-quente sobre a baunilha planifolia, sobre um acorde ambarado predominante. Melhor em clima frio a ameno, para social/noite.",
+    "resumo": "Original de nicho (2023, coleção L'Art & La Matière, Delphine Jelk e Thierry Wasser) — a baunilha planifolia de Madagascar domina o coração, macerada 21 dias em álcool (daí o nome), sobre uma abertura especiada de pimenta rosa e coentro, fechando num fundo resinoso de opoponax e âmbar com rosa e jasmim discretos. Extrait a 30% de concentração. Reviews divididas — de \"a baunilha mais exquisita que já senti\" a \"cheira a cravo com álcool\". Melhor em clima ameno, para social/noite.",
     "genero": "Compartilhável",
     "prioridade": null,
     "calibradoEm": null,
@@ -19841,7 +19849,7 @@
     "exp": "Blind Buy",
     "nota": 6.25,
     "score": 7.59,
-    "rankDNA": 3,
+    "rankDNA": 4,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
@@ -45695,19 +45703,19 @@
     ],
     "origem": "Designer",
     "status": "Em Avaliação",
-    "veredito": "",
-    "compat": 9,
-    "preco": 500,
-    "exp": "Blind Buy",
-    "nota": 8.8,
-    "score": 8.33,
+    "veredito": "Compatibilidade alta (8/10) — cítrico-amendoado-vetiver bate bem no seu eixo. Duplicata corrigida nesta sessão (fundia com id 943, que tinha a pirâmide mais completa e correta: faltavam Musk e Vetiver no registro antigo).",
+    "compat": 8,
+    "preco": 650,
+    "exp": "Sample First",
+    "nota": 7.67,
+    "score": 8.03,
     "rankDNA": null,
     "flagDNA": null,
     "melhorNac": null,
     "melhorAr": null,
-    "sdt": 7.2,
-    "gpf": 6.0,
-    "conc": "EDP",
+    "sdt": 8.57,
+    "gpf": 5.33,
+    "conc": "EDT",
     "clima": [
       "Ameno",
       "Calor"
@@ -45723,25 +45731,28 @@
     ],
     "fam": "Fresh",
     "acordes": [
-      "Cítricos",
+      "Cítrico",
       "Amendoado",
+      "Aromático",
       "Almíscar"
     ],
     "notas": [
-      "Grapefruit",
+      "Toranja",
       "Bergamota",
+      "Neroli",
       "Amêndoa Verde",
-      "Néroli"
+      "Vetiver",
+      "Almíscar"
     ],
     "fix": 8,
-    "projI": 8,
-    "projD": 8,
-    "qual": 10,
-    "cb": 8,
+    "projI": 7,
+    "projD": 5,
+    "qual": 8.5,
+    "cb": 6,
     "simil": null,
     "vers": 8,
     "link": null,
-    "resumo": "Original designer — a amêndoa verde é a nota que mais se destaca, dando o toque gourmand incomum sobre o grapefruit de abertura, sobre um acorde amendoado predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
+    "resumo": "Original designer (2023, Delphine Jelk) — a amêndoa verde é a nota que mais se destaca no coração, dando o toque gourmand-amaretto sobre a bergamota e toranja de abertura, fechando num fundo de vetiver e almíscar limpo. Reviews elogiam a versatilidade (\"beautiful citrus blend\") e comparam ao Imagination (LV). Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
     "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
@@ -60085,72 +60096,6 @@
     "calibradoContra": null
   },
   {
-    "id": 943,
-    "nome": "L'Homme Idéal Platine Privé (Guerlain)",
-    "dna": "L'Homme Idéal Platine Privé (Guerlain)",
-    "cat": "Fresh Sofisticado",
-    "ocasiao": [
-      "Trabalho",
-      "Assinatura/Casual"
-    ],
-    "origem": "Nicho",
-    "status": "Curiosidade",
-    "veredito": "",
-    "compat": 7,
-    "preco": 800,
-    "exp": "Sample First",
-    "nota": 6.67,
-    "score": 7.3,
-    "rankDNA": null,
-    "flagDNA": false,
-    "melhorNac": false,
-    "melhorAr": false,
-    "sdt": 7.07,
-    "gpf": 5.33,
-    "conc": "Extrait",
-    "clima": [
-      "Ameno",
-      "Calor"
-    ],
-    "periodo": [
-      "Dia",
-      "Versátil"
-    ],
-    "perfil": [
-      "Cítrico",
-      "Floral",
-      "Amadeirado"
-    ],
-    "fam": "Fresh",
-    "acordes": [
-      "Cítrico",
-      "Floral",
-      "Amadeirado",
-      "Almíscar"
-    ],
-    "notas": [
-      "Toranja",
-      "Bergamota",
-      "Neroli",
-      "Amêndoa",
-      "Vetiver",
-      "Almíscar"
-    ],
-    "fix": 6,
-    "projI": 6,
-    "projD": 4,
-    "qual": 8.5,
-    "cb": 4,
-    "simil": null,
-    "vers": 7,
-    "link": null,
-    "resumo": "Flanker exclusivo de nicho, Guerlain — versão mais rara e refinada do L'Homme Idéal, toranja e bergamota cítricas sobre neroli e amêndoa cremosa, fundo de vetiver e almíscar limpo.",
-    "genero": "Masculino",
-    "prioridade": null,
-    "calibradoEm": null,
-    "calibradoContra": null
-  },
-  {
     "id": 944,
     "nome": "Stronger With You (Giorgio Armani)",
     "dna": "Stronger With You (Giorgio Armani)",
@@ -64972,89 +64917,232 @@
     "fotoPerfume": null
   },
   {
-    "id": 1017,
-    "nome": "Atlas (Lattafa)",
-    "dna": "Megamare (Orto Parisi)",
-    "cat": "Fresh Expansivo",
-    "ocasiao": [
-      "Assinatura/Casual"
-    ],
-    "origem": "Árabe",
-    "status": "Em Avaliação",
-    "veredito": "Sua coleção não tem nada salgado/marinho hoje — lacuna real. Mas DNA oceânico tradicional é zona de alerta explícita no seu mapa de preferência (risco de enjoo); a suavização por íris ajuda, mas não elimina o caráter polarizador. Sample first, não blind buy.",
-    "compat": 6,
-    "preco": 309,
-    "exp": "Sample First",
-    "nota": 6.9,
-    "score": 7.38,
-    "rankDNA": null,
-    "flagDNA": false,
-    "melhorNac": false,
-    "melhorAr": false,
-    "sdt": 9.87,
-    "gpf": 9.33,
-    "conc": "EDP",
-    "clima": [
-      "Calor",
-      "Ameno"
-    ],
-    "periodo": [
-      "Dia"
-    ],
-    "perfil": [
-      "Aquático Salgado"
-    ],
-    "fam": "Fresh",
-    "acordes": [
-      "Salgado",
-      "Marinho",
-      "Amadeirado",
-      "Almiscarado"
-    ],
-    "notas": [
-      "Sal",
-      "Notas Marinhas",
-      "Limão",
-      "Davana",
-      "Íris",
-      "Âmbar Cinzento"
-    ],
-    "fix": 8,
-    "projI": 10,
-    "projD": 6,
-    "qual": 8,
-    "cb": 8,
-    "simil": 6,
-    "vers": 4,
-    "link": "https://lattafa.com/product/atlas/",
-    "resumo": "Contratipo de Megamare (Orto Parisi), clássico marinho de nicho italiano. O sal é a nota que mais se destaca, dando a sensação de maresia crua na abertura, sobre um acorde salgado-marinho predominante que se funde a um fundo amadeirado-almiscarado. A versão Lattafa suaviza o original com íris e davana no coração, ficando mais cremosa e menos árida — e reviews independentes apontam fixação igual ou superior à do original. Melhor em clima calor a ameno, para assinatura/casual.",
-    "genero": "Compartilhável",
-    "prioridade": null,
-    "calibradoEm": null,
-    "calibradoContra": null
-  },
-  {
-    "id": 1018,
-    "nome": "Atlas Canyon (Lattafa)",
-    "dna": "Atlas Canyon (Lattafa)",
-    "cat": "Fresh Executivo",
+    "id": 1019,
+    "nome": "Fahad (Lattafa)",
+    "dna": "Fahad (Lattafa)",
+    "cat": "Aromático Refinado",
     "ocasiao": [
       "Trabalho",
-      "Assinatura/Casual"
+      "Social/Noite"
     ],
     "origem": "Árabe",
+    "genero": "Masculino",
     "status": "Em Avaliação",
-    "veredito": "Versão domesticada do Atlas — a abertura cítrica conversa melhor com seu arquétipo (Terre d'Hermès Eau Très Fraîche) e reduz o risco de enjoo do DNA oceânico. É o único dos três que recomendaria pro seu contexto executivo. Performance ainda não confirmada de forma independente — sample first.",
+    "resumo": "Original árabe (2026, Lattafa, assinado por dois perfumistas Givaudan — Gaël Montero e Christophe Raynaud, credito raro pra marca). O abacaxi se destaca na abertura, dando um contraste frutado-tropical sobre mandarina e pimenta preta, evoluindo pra um coração aromático de lavanda e artemísia, fechando num fundo defumado de incenso, patchouli, cedro e ambroxan. Reviews elogiam a execução (\"impressively well executed\", \"old-school masculine designer scent\") mas notam performance discreta — fica mais rente à pele do que o esperado. Melhor em clima ameno a frio, para trabalho ou social/noite.",
+    "veredito": "Compatibilidade alta (7/10): abertura cítrico-especiada e fundo amadeirado-resinoso batem no seu eixo; o abacaxi tropical é o único ponto fora da curva. Craft de dois perfumistas Givaudan é um diferencial raro pra Lattafa nesse preço.",
     "compat": 7,
-    "preco": null,
+    "preco": 220,
     "exp": "Sample First",
-    "nota": 6.4,
+    "nota": 7.33,
     "score": 7.22,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": 8.93,
+    "sdt": 8.0,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Oriental",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Oriental",
+      "Aromático",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "notas": [
+      "Abacaxi",
+      "Pimenta Preta",
+      "Lavanda",
+      "Artemísia",
+      "Patchouli",
+      "Ambroxan"
+    ],
+    "fix": 6,
+    "projI": 7,
+    "projD": 4,
+    "qual": 8,
+    "cb": 8,
+    "simil": null,
+    "vers": 6,
+    "link": "https://lattafa.com/product/lattafa-fahad-80-ml/",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1020,
+    "nome": "Cosmic Tonka (French Avenue)",
+    "dna": "Arabians Tonka (Montale)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Árabe",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Arabians Tonka (Montale) — o açafrão se destaca na abertura, dando o toque quente-especiado sobre a bergamota, evoluindo pra um coração de oud e rosa búlgara, fechando num fundo cremoso de fava tonka, âmbar, almíscar branco e musgo de carvalho. Reviews da comunidade (Fragrantica/Parfumo) são enfáticas: \"practically 1 to 1\", \"smells undoubtedly like Arabians Tonka\", \"even slightly better\". Melhor em clima frio a ameno, para social/noite ou evento formal.",
+    "veredito": "Compatibilidade moderada (6/10) — oriental-doce-especiado foge parcialmente do eixo cítrico-amadeirado-frio, mas fidelidade excepcional (confirmada por múltiplas fontes independentes) e custo-benefício imbatível frente ao nicho Montale.",
+    "compat": 6,
+    "preco": 180,
+    "exp": "Blind Buy",
+    "nota": 8.0,
+    "score": 7.62,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.07,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Oriental",
+      "Amadeirado",
+      "Floral",
+      "Especiado"
+    ],
+    "notas": [
+      "Açafrão",
+      "Bergamota",
+      "Rosa Búlgara",
+      "Oud",
+      "Fava Tonka",
+      "Musgo de Carvalho"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 4,
+    "qual": 8,
+    "cb": 8,
+    "simil": 9,
+    "vers": 7,
+    "link": "https://www.french-avenue-parfum.com/en/product-2/fragrance-cosmic-tonka-french-avenue/",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1021,
+    "nome": "Wild Vetiver (Creed)",
+    "dna": "Wild Vetiver (Creed)",
+    "cat": "Aromático Natural",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Original de nicho (Creed, 2026) — a bergamota e a pimenta timur abrem com frescor cítrico-especiado, evoluindo pra um coração floral-frutado de rosa e groselha preta, fechando num fundo de vetiver, cedro e âmbar-madeira. Lançamento recente e polarizador: reviews vão de \"absurdamente bom\" a \"doce, sintético e sem equilíbrio\", com quem relata o coração floral-frutado dominando demais o vetiver de base. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
+    "veredito": "Correção nesta sessão: as notas anteriores estavam erradas (dado de outro Creed). Compatibilidade moderada (6/10) — abertura cítrica bate no seu eixo, mas coração floral-frutado (rosa/groselha) é mais feminino-adjacente do que seu padrão. Reviews muito divididas — Sample First obrigatório.",
+    "compat": 6,
+    "preco": 1000,
+    "exp": "Sample First",
+    "nota": 5.2,
+    "score": 6.36,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.57,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Frutado",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Frutado",
+      "Floral",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Pimenta Timur",
+      "Rosa",
+      "Groselha Preta",
+      "Vetiver",
+      "Cedro"
+    ],
+    "fix": 6,
+    "projI": 7,
+    "projD": 5,
+    "qual": 6,
+    "cb": 3,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1022,
+    "nome": "Club de Nuit Elite (Armaf)",
+    "dna": "Wild Vetiver (Creed)",
+    "cat": "Aromático Natural",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Lançamento árabe (2026, Armaf) — a pimenta-do-sichuan e o chá verde abrem com frescor cítrico-aromático sobre bergamota e maçã, evoluindo pra um coração de rosa maio e groselha preta, fechando num fundo de vetiver, cedro, cashmeran e âmbar. A imprensa especializada (ifragranceofficial) e a comunidade relatam que é \"rumored to be the house's interpretation of Creed's Wild Vetiver\" — reviews confirmam \"Wild Vetiver vibes\" e \"dry downs almost indistinguishable\". ⚠️ Confiança Média — não há declaração oficial da Armaf, mas com as notas reais do Wild Vetiver confirmadas nesta sessão, o overlap é muito forte (pimenta/rosa/groselha preta/vetiver/cedro/âmbar batem quase 1:1). Melhor em clima ameno, para trabalho ou assinatura/casual.",
+    "veredito": "Compatibilidade moderada (6/10), mesma leitura do Wild Vetiver original. Custo-benefício excelente frente ao nicho Creed (\"1/10 do preço\" segundo reviews). Mapeamento de DNA com confiança média — vale reavaliar se você encontrar fonte mais direta.",
+    "compat": 6,
+    "preco": 140,
+    "exp": "Sample First",
+    "nota": 7.55,
+    "score": 6.7,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.43,
     "gpf": 4.67,
     "conc": "EDP",
     "clima": [
@@ -65062,56 +65150,195 @@
       "Calor"
     ],
     "periodo": [
-      "Dia"
+      "Dia",
+      "Versátil"
     ],
     "perfil": [
-      "Cítrico Aquático"
-    ],
-    "fam": "Fresh",
-    "acordes": [
-      "Cítrico",
-      "Marinho",
       "Amadeirado",
-      "Almiscarado"
+      "Cítrico",
+      "Aromático"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Amadeirado",
+      "Cítrico",
+      "Aromático",
+      "Verde"
     ],
     "notas": [
+      "Pimenta do Sichuan",
       "Bergamota",
-      "Gengibre",
-      "Limão",
-      "Lírio-do-Vale",
-      "Notas Marinhas",
-      "Patchouli"
+      "Chá Verde",
+      "Maçã",
+      "Rosa Maio",
+      "Vetiver"
     ],
     "fix": 6,
-    "projI": 8,
-    "projD": 6,
-    "qual": 6,
-    "cb": 6,
-    "simil": null,
-    "vers": 8,
-    "link": "https://lattafa.com/product/atlas-canyon/",
-    "resumo": "Extensão original da linha Atlas (Lattafa, 2026), sem contratipo declarado. O gengibre é a nota que mais se destaca, dando um toque apimentado à abertura cítrica, sobre um acorde marinho-amadeirado predominante que soa mais limpo e convencional que o Atlas original. Lançamento muito recente, ainda com poucos reviews independentes de performance. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
-    "genero": "Compartilhável",
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 9,
+    "simil": 8,
+    "vers": 7,
+    "link": "https://www.fragrantica.com/perfume/Armaf/Club-De-Nuit-Elite-139792.html",
     "prioridade": null,
     "calibradoEm": null,
-    "calibradoContra": null
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
   },
   {
-    "id": 1019,
-    "nome": "Atlas Glacial Valley (Lattafa)",
-    "dna": "Atlas Glacial Valley (Lattafa)",
-    "cat": "Oriental Confortável",
+    "id": 1023,
+    "nome": "Replica By the Fireplace (Maison Margiela)",
+    "dna": "Replica By the Fireplace (Maison Margiela)",
+    "cat": "Gourmand Natural",
     "ocasiao": [
-      "Social/Noite"
+      "Assinatura/Casual"
     ],
-    "origem": "Árabe",
+    "origem": "Designer",
+    "genero": "Compartilhável",
     "status": "Em Avaliação",
-    "veredito": "O mais distante do seu arquétipo entre os três — fruta doce e baunilha fogem do perfil cítrico-madeirado que você prioriza, e o fundo quente ainda reduz a leitura 'marinha'. Preencheria uma lacuna estética, mas com compatibilidade mais baixa. Sample first, não blind buy.",
-    "compat": 5,
-    "preco": null,
+    "resumo": "Original designer (2015, coleção Replica, perfumista Marie Salamagne) — o cravo e a pimenta rosa abrem com um toque especiado-defumado, evoluindo pra um coração de castanha assada e madeira de guaiaco com zimbro, fechando num fundo doce de baunilha, bálsamo do Peru e cashmeran. Evoca a sensação de estar perto de uma lareira no inverno. Performance muito boa (8-10h, projeção moderada-forte). Melhor em clima frio, para assinatura/casual.",
+    "veredito": "Compatibilidade baixa (3/10): gourmand-defumado-doce cai na zona de alerta do arquétipo pessoal (evita doce/gourmand pesado), e é um perfil bem sazonal (só inverno). Preço designer alto pra um uso tão restrito — Sample First.",
+    "compat": 3,
+    "preco": 850,
     "exp": "Sample First",
-    "nota": 6,
-    "score": 6.52,
+    "nota": 6.73,
+    "score": 5.64,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.93,
+    "gpf": 4.67,
+    "conc": "EDT",
+    "clima": [
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Especiado",
+      "Doce"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Amadeirado",
+      "Especiado",
+      "Baunilha",
+      "Doce"
+    ],
+    "notas": [
+      "Cravo",
+      "Pimenta Rosa",
+      "Flor de Laranjeira",
+      "Castanha",
+      "Baunilha",
+      "Cashmeran"
+    ],
+    "fix": 8,
+    "projI": 6,
+    "projD": 4,
+    "qual": 9,
+    "cb": 4,
+    "simil": null,
+    "vers": 5,
+    "link": "https://www.maisonmargiela.com/en-us/replica-by-the-fireplace-eau-de-toilette-|-maison-margiela-S33YX0024S11331961.html",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1024,
+    "nome": "Sign Your Attitude (Mercedes-Benz)",
+    "dna": "Sign Your Attitude (Mercedes-Benz)",
+    "cat": "Aromático Confortável",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Original designer (2022, perfumista Fabrice Pellegrin) — o gengibre se destaca na abertura, dando o toque picante sobre mandarina e bergamota, evoluindo pra um coração aromático de cipreste e lavanda com canela e noz-moscada, fechando num fundo ambarado com cetalox. Reviews divergem bastante — de \"ótima performance\" a \"cheira a limpador\". Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
+    "veredito": "Compatibilidade alta (7/10): cítrico-especiado-ambarado bate bem no seu eixo. Reviews polarizadas — Sample First antes de decidir. Preço muito acessível pra um designer (~US$35-45).",
+    "compat": 7,
+    "preco": 220,
+    "exp": "Sample First",
+    "nota": 6.87,
+    "score": 7.1,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.57,
+    "gpf": 5.33,
+    "conc": "EDT",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Ambarado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Especiado",
+      "Ambarado"
+    ],
+    "notas": [
+      "Mandarina",
+      "Bergamota",
+      "Gengibre",
+      "Cipreste",
+      "Canela",
+      "Âmbar"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 5,
+    "qual": 6,
+    "cb": 8,
+    "simil": null,
+    "vers": 7,
+    "link": "https://parfums.mercedes-benz.com/en/products/sign-your-attitude",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1025,
+    "nome": "L'Homme Idéal Cologne Forte (Guerlain)",
+    "dna": "L'Homme Idéal Cologne Forte (Guerlain)",
+    "cat": "Gourmand Natural",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Original designer (2025, edição limitada, perfumista Delphine Jelk) — a toranja se destaca na abertura, dando frescor cítrico-gelado sobre limão siciliano e bergamota, evoluindo pra um coração de amêndoa e canela (o acorde amaretto característico da linha), fechando num fundo amadeirado-defumado com vetiver e incenso. Editorial da Fragrantica nota semelhança de frescor com o Imagination (Louis Vuitton). Reviews de lote divergem (\"corrigiram um problema do primeiro lote\"). Melhor em clima ameno a frio, para trabalho ou assinatura/casual.",
+    "veredito": "Compatibilidade alta (7/10): cítrico-amadeirado-defumado bate bem no seu eixo; a amêndoa-canela é o único elemento mais doce/gourmand. Reviews de lote divergentes — vale checar qual lote antes de comprar.",
+    "compat": 7,
+    "preco": 700,
+    "exp": "Sample First",
+    "nota": 7.27,
+    "score": 7.71,
     "rankDNA": null,
     "flagDNA": false,
     "melhorNac": false,
@@ -65124,38 +65351,513 @@
       "Frio"
     ],
     "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Cítrico",
+      "Gourmand",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "notas": [
+      "Toranja",
+      "Bergamota",
+      "Amêndoa",
+      "Canela",
+      "Vetiver",
+      "Incenso"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 5,
+    "qual": 8,
+    "cb": 6,
+    "simil": null,
+    "vers": 7,
+    "link": "https://www.guerlain.com/us/en-us/p/l%E2%80%99homme-ideal-de-guerlain-paris-cologne-forte---eau-de-parfum-P062413.html",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1026,
+    "nome": "Vanille (JA Essence)",
+    "dna": "Vanille Planifolia 21 (Guerlain)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Vanille Planifolia Extrait 21 (Guerlain) — a baunilha domina o coração sobre uma abertura de especiarias e pimenta rosa, fechando num fundo ambarado-almiscarado. ⚠️ Confiança Baixa — não encontrei review independente (YouTube, Fragrantica, TikTok) avaliando especificamente este item; a pirâmide foi inferida por comparação com o DNA declarado, não confirmada por fonte terceira. Melhor em clima ameno a frio, para trabalho, social/noite ou assinatura/casual.",
+    "veredito": "Compatibilidade baixa (3/10): baunilha-especiado-ambarado cai na zona de alerta do arquétipo pessoal (evita doce/gourmand pesado). Custo-benefício potencialmente excelente frente ao original nicho (R$3.500), mas a Confiança Baixa pede Sample First antes de qualquer decisão — não recomendo Blind Buy aqui.",
+    "compat": 3,
+    "preco": 180,
+    "exp": "Sample First",
+    "nota": 7.7,
+    "score": 6.15,
+    "rankDNA": 2,
+    "flagDNA": true,
+    "melhorNac": true,
+    "melhorAr": false,
+    "sdt": 6.23,
+    "gpf": 3.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Dia",
       "Noite"
     ],
     "perfil": [
-      "Frutado Ambarado"
-    ],
-    "fam": "Oriental",
-    "acordes": [
-      "Frutado",
-      "Floral",
-      "Marinho",
+      "Baunilha",
+      "Especiado",
       "Ambarado"
     ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Baunilha",
+      "Especiado",
+      "Ambarado",
+      "Almíscar"
+    ],
     "notas": [
-      "Abacaxi",
-      "Figo",
-      "Hortelã",
-      "Jasmim",
-      "Sal",
-      "Baunilha"
+      "Baunilha",
+      "Especiarias",
+      "Pimenta Rosa",
+      "Rosa",
+      "Âmbar",
+      "Almíscar"
+    ],
+    "fix": 8,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7,
+    "cb": 10,
+    "simil": 7,
+    "vers": 7,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1027,
+    "nome": "Oriana (Parfums de Marly)",
+    "dna": "Oriana (Parfums de Marly)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Assinatura/Casual",
+      "Social/Noite"
+    ],
+    "origem": "Nicho",
+    "genero": "Feminino",
+    "status": "Em Avaliação",
+    "resumo": "Original de nicho (2021, perfumistas Nathalie Lorson e Hamid Merati-Kashani) — a groselha preta e a framboesa se destacam no coração, dando o toque frutado-suculento sobre mandarina, bergamota e toranja de abertura e flor de laranjeira, fechando num fundo gourmand de marshmallow, chantilly, almíscar e ambreta. Um dos perfumes mais virais do momento — \"cheiro de patricinha\" nas redes brasileiras. Reviews divididas entre \"favorito absoluto da PDM\" e \"bubblegum artificial enjoativo\". Melhor em clima calor a ameno, para assinatura/casual ou social/noite.",
+    "veredito": "Compatibilidade muito baixa (2/10): gourmand-doce-frutado é exatamente a zona de alerta do seu arquétipo pessoal. Preço de nicho alto (R$3.000) pra um perfil que a própria comunidade considera irregular por lote. Serve principalmente como referência de DNA pro contratipo (Orian, JA Essence).",
+    "compat": 2,
+    "preco": 2999.9,
+    "exp": "Sample First",
+    "nota": 5.73,
+    "score": 5.79,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.13,
+    "gpf": 5.67,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Gourmand",
+      "Frutado",
+      "Floral"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Gourmand",
+      "Frutado",
+      "Floral",
+      "Cítrico"
+    ],
+    "notas": [
+      "Mandarina",
+      "Toranja",
+      "Flor de Laranjeira",
+      "Framboesa",
+      "Groselha Preta",
+      "Marshmallow"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7,
+    "cb": 3,
+    "simil": null,
+    "vers": 6,
+    "link": "https://parfums-de-marly.com/products/oriana",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1028,
+    "nome": "Orian (JA Essence)",
+    "dna": "Oriana (Parfums de Marly)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Assinatura/Casual",
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "genero": "Feminino",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Oriana (Parfums de Marly), confirmado pela própria página do produto. Mesma pirâmide-base: mandarina/bergamota/toranja no topo, flor de laranjeira/framboesa/groselha preta no coração, marshmallow/chantilly/almíscar/ambreta no fundo. Não encontrei review independente detalhada de fixação/projeção deste item específico. Melhor em clima calor a ameno, para assinatura/casual ou social/noite.",
+    "veredito": "Compatibilidade muito baixa (2/10) pra você pessoalmente — mesmo perfil gourmand-doce do original. Mas essa é exatamente a linha que costuma vender bem no negócio de decants (DNA viral, alto apelo pro público jovem). Custo-benefício excelente frente ao nicho. Confiança Média — dado de notas vem da própria loja, sem confirmação de fidelidade por review terceiro.",
+    "compat": 2,
+    "preco": 130,
+    "exp": "Sample First",
+    "nota": 7.15,
+    "score": 6.14,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Gourmand",
+      "Frutado",
+      "Floral"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Gourmand",
+      "Frutado",
+      "Floral",
+      "Cítrico"
+    ],
+    "notas": [
+      "Mandarina",
+      "Toranja",
+      "Flor de Laranjeira",
+      "Framboesa",
+      "Groselha Preta",
+      "Marshmallow"
     ],
     "fix": 6,
     "projI": 6,
-    "projD": 6,
-    "qual": 6,
-    "cb": 6,
-    "simil": null,
+    "projD": 4,
+    "qual": 7,
+    "cb": 9,
+    "simil": 7,
     "vers": 6,
-    "link": "https://lattafa.com/product/atlas-glacial-valley/",
-    "resumo": "Extensão original da linha Atlas (Lattafa, 2026), sem contratipo declarado. O sal marinho é a nota que mais se destaca no coração, contrastando com um fundo inesperadamente quente de baunilha e âmbar para um nome 'glacial' — dissonância já apontada por reviewers. Acorde frutado (abacaxi, figo) predomina na abertura. Lançamento muito recente, poucos reviews independentes. Melhor em clima ameno a frio, para social/noite.",
-    "genero": "Compartilhável",
+    "link": "https://www.jaessencedelavie.com.br/orian-perfume-inspirado-em-oriana-parfums-de-marly-feminino/",
     "prioridade": null,
     "calibradoEm": null,
-    "calibradoContra": null
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1029,
+    "nome": "Vetiver W (JA Essence)",
+    "dna": "Wild Vetiver (Creed)",
+    "cat": "Aromático Natural",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Wild Vetiver (Creed, 2026) — a bergamota e a pimenta abrem com frescor cítrico-especiado, evoluindo pra um coração floral-frutado, fechando num fundo de vetiver e cedro. ⚠️ Confiança Baixa — não encontrei review independente específica deste item; notas inferidas do DNA declarado.",
+    "veredito": "Compatibilidade moderada (6/10), mesma leitura do original. Fica em 2º lugar num grupo pequeno (só 3 opções conhecidas do DNA) — o Club de Nuit Elite (Armaf) é hoje a melhor opção do grupo. Bom custo-benefício e sem redundância direta, mas vale confirmar fidelidade antes de decidir entre os dois.",
+    "compat": 6,
+    "preco": 180,
+    "exp": "Sample First",
+    "nota": 6.6,
+    "score": 6.85,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.57,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Frutado",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Frutado",
+      "Floral",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Pimenta Timur",
+      "Rosa",
+      "Groselha Preta",
+      "Vetiver",
+      "Cedro"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6,
+    "cb": 9,
+    "simil": 6,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1030,
+    "nome": "Chic Confort (JA Essence)",
+    "dna": "Cedar Chic (Carolina Herrera)",
+    "cat": "Fresh Confortável",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Cedar Chic (Carolina Herrera) — aldeídos e bergamota abrem com o efeito \"sabonete\"/roupa passada, evoluindo pra flor de laranjeira no coração, fechando num fundo de cedro e almíscar branco. ⚠️ Confiança Baixa — não encontrei review independente específica deste item nem confirmação de que o produto já está no catálogo atual da marca; notas inferidas do DNA declarado.",
+    "veredito": "Compatibilidade moderada (6/10) — mesma leitura dos outros do grupo. Fica em 5º de 5 conhecidos do DNA (atrás de Cedrus Blanc, do próprio original CH, do Velvet Cedar e do Cloud 9). Não recomendo comprar sem confirmar antes se o produto existe e qual a fidelidade real — pelo seu próprio critério, evite.",
+    "compat": 6,
+    "preco": 160,
+    "exp": "Sample First",
+    "nota": 6.4,
+    "score": 6.87,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Fresh",
+      "Floral",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Aldeídico",
+      "Floral",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Aldeídos",
+      "Bergamota",
+      "Flor de Laranjeira",
+      "Cedro",
+      "Almíscar Branco"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6,
+    "cb": 8,
+    "simil": 6,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1031,
+    "nome": "Vittoro (Porto Aroma)",
+    "dna": "Naxos (Xerjoff)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Nacional",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Naxos (Xerjoff, coleção 1861) — a lavanda aromática abre sobre a bergamota, evoluindo pra um coração de mel envolvente e tabaco com floral discreto, fechando num fundo cremoso de baunilha, madeiras e âmbar de alta fixação. Confirmado por MÚLTIPLAS fontes independentes: blog Macho Moda chama de \"SURREAL a similaridade\" e \"MONSTRUOSO de projeção\", com fixação 10h+ confirmada; vídeo do Matheus Ueta (canal grande de resenhas) também elogia muito. Melhor em clima ameno a frio, para social/noite ou evento formal.",
+    "veredito": "🏆 MELHOR do grupo Naxos — nota final (8,55) supera até o próprio Xerjoff original (8,53)! Fidelidade e performance confirmadas por múltiplas fontes independentes, não só a loja. Custo-benefício soberbo — R$215 vs R$2.500+ do nicho. Único porém: perfil mel-tabaco-baunilha é mais oriental-doce que seu eixo cítrico-amadeirado-frio padrão (compat moderado), mas a qualidade objetiva do contratipo é inquestionável pelos critérios que você definiu.",
+    "compat": 5,
+    "preco": 215,
+    "exp": "Blind Buy",
+    "nota": 8.55,
+    "score": 7.56,
+    "rankDNA": 1,
+    "flagDNA": true,
+    "melhorNac": true,
+    "melhorAr": false,
+    "sdt": 8.07,
+    "gpf": 5.33,
+    "conc": "Parfum",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Gourmand",
+      "Aromático"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Aromático",
+      "Gourmand",
+      "Amadeirado",
+      "Doce"
+    ],
+    "notas": [
+      "Lavanda",
+      "Bergamota",
+      "Mel",
+      "Tabaco",
+      "Baunilha",
+      "Âmbar"
+    ],
+    "fix": 10,
+    "projI": 9,
+    "projD": 7,
+    "qual": 8,
+    "cb": 10,
+    "simil": 9,
+    "vers": 6,
+    "link": "https://www.portoaroma.com.br/perfumes-de-nicho/perfume-vittoro-100ml-nicho-inspirado-no-naxos",
+    "prioridade": true,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1032,
+    "nome": "Regent (Porto Aroma)",
+    "dna": "Layton (Parfums de Marly)",
+    "cat": "Oriental Refinado",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Nacional",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Layton (Parfums de Marly) — lançamento oficial confirmado (imagem do produto datada de 04/09/2026, mesma \"Nova Linha de Nicho\" do Vittoro). A maçã e a lavanda abrem sobre bergamota e mandarina, evoluindo pra um coração floral de gerânio, violeta e jasmim, fechando num fundo de baunilha, cardamomo, sândalo, patchouli e madeira guaiac — pirâmide bem completa e alinhada com a descrição oficial do próprio Layton (\"maçã + lavanda + patchouli\"). 30% de concentração, R$229. ⚠️ Não encontrei NENHUMA review de influencer/usuário ainda — é cedo demais (produto com poucos dias de mercado). Melhor em clima ameno a frio, para social/noite ou evento formal.",
+    "veredito": "Impossível avaliar com confiança se é \"um dos melhores do DNA\" ainda — não há dado de performance real, só a ficha da própria loja. Sinal indireto positivo: é da mesma leva que o Vittoro, que performou muito acima do esperado e virou o melhor do grupo Naxos. Mas isso não é garantia — cada perfume tem sua própria química. Recomendo esperar as primeiras reviews (costuma sair em 2-4 semanas) antes de decidir, dado seu próprio critério de só comprar se for competitivo no DNA.",
+    "compat": 6,
+    "preco": 229,
+    "exp": "Sample First",
+    "nota": 6.8,
+    "score": 7.08,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.8,
+    "gpf": 4.0,
+    "conc": "Parfum",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Floral",
+      "Especiado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Oriental",
+      "Floral",
+      "Especiado",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Maçã",
+      "Lavanda",
+      "Gerânio",
+      "Violeta",
+      "Cardamomo",
+      "Madeira Guaiac"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7,
+    "cb": 8,
+    "simil": 6,
+    "vers": 6,
+    "link": "https://www.portoaroma.com.br/perfumes-masculinos/perfume-regent-100ml-nicho-inspirado-no-layton",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
   }
 ]
