@@ -49570,7 +49570,7 @@
       "Casual"
     ],
     "origem": "Árabe",
-    "status": "Forte Interesse",
+    "status": "Possui",
     "veredito": "Alta fidelidade confirmada — ótima porta de entrada barata pro DNA Cedar Chic.",
     "compat": 6,
     "preco": 130,
@@ -63223,7 +63223,7 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Curiosidade",
+    "status": "Possui",
     "veredito": "Cítrico-amadeirado-aromático, excelente encaixe pro seu perfil — forte candidato.",
     "compat": 8,
     "preco": 130,
@@ -65737,7 +65737,7 @@
     ],
     "origem": "Nacional",
     "genero": "Masculino",
-    "status": "Em Avaliação",
+    "status": "Possui",
     "resumo": "Contratipo de Naxos (Xerjoff, coleção 1861) — a lavanda aromática abre sobre a bergamota, evoluindo pra um coração de mel envolvente e tabaco com floral discreto, fechando num fundo cremoso de baunilha, madeiras e âmbar de alta fixação. Confirmado por MÚLTIPLAS fontes independentes: blog Macho Moda chama de \"SURREAL a similaridade\" e \"MONSTRUOSO de projeção\", com fixação 10h+ confirmada; vídeo do Matheus Ueta (canal grande de resenhas) também elogia muito. Melhor em clima ameno a frio, para social/noite ou evento formal.",
     "veredito": "🏆 MELHOR do grupo Naxos — nota final (8,55) supera até o próprio Xerjoff original (8,53)! Fidelidade e performance confirmadas por múltiplas fontes independentes, não só a loja. Custo-benefício soberbo — R$215 vs R$2.500+ do nicho. Único porém: perfil mel-tabaco-baunilha é mais oriental-doce que seu eixo cítrico-amadeirado-frio padrão (compat moderado), mas a qualidade objetiva do contratipo é inquestionável pelos critérios que você definiu.",
     "compat": 5,
@@ -65804,7 +65804,7 @@
     ],
     "origem": "Nacional",
     "genero": "Masculino",
-    "status": "Em Avaliação",
+    "status": "Possui",
     "resumo": "Contratipo de Layton (Parfums de Marly) — lançamento oficial confirmado (imagem do produto datada de 04/09/2026, mesma \"Nova Linha de Nicho\" do Vittoro). A maçã e a lavanda abrem sobre bergamota e mandarina, evoluindo pra um coração floral de gerânio, violeta e jasmim, fechando num fundo de baunilha, cardamomo, sândalo, patchouli e madeira guaiac — pirâmide bem completa e alinhada com a descrição oficial do próprio Layton (\"maçã + lavanda + patchouli\"). 30% de concentração, R$229. ⚠️ Não encontrei NENHUMA review de influencer/usuário ainda — é cedo demais (produto com poucos dias de mercado). Melhor em clima ameno a frio, para social/noite ou evento formal.",
     "veredito": "Impossível avaliar com confiança se é \"um dos melhores do DNA\" ainda — não há dado de performance real, só a ficha da própria loja. Sinal indireto positivo: é da mesma leva que o Vittoro, que performou muito acima do esperado e virou o melhor do grupo Naxos. Mas isso não é garantia — cada perfume tem sua própria química. Recomendo esperar as primeiras reviews (costuma sair em 2-4 semanas) antes de decidir, dado seu próprio critério de só comprar se for competitivo no DNA.",
     "compat": 6,
@@ -65854,6 +65854,542 @@
     "simil": 6,
     "vers": 6,
     "link": "https://www.portoaroma.com.br/perfumes-masculinos/perfume-regent-100ml-nicho-inspirado-no-layton",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1033,
+    "nome": "Milk Way (Sapientiae Niche)",
+    "dna": "Milk Way (Sapientiae Niche)",
+    "cat": "Amadeirado Confortável",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Original de nicho brasileiro (Sapientiae Niche, 2025, perfumista Sanderson Santana) — a manga se destaca na abertura, dando o toque frutado-tropical sobre bergamota e laranja, evoluindo pra um coração cremoso-lactônico de figo, lichia e cedro, fechando num fundo chypre de musgo de carvalho, âmbar cinzento e cumarina. Reviews internacionais divergem: \"elegante e caro\" vs \"nada impressionante... típico dessa casa\" — há um sinal recorrente de fixação fraca associado à marca. Melhor em clima frio a ameno, pra social/noite.",
+    "veredito": "Compatibilidade baixa (4/10): frutado-lactônico-gourmand foge do seu eixo cítrico-amadeirado-especiado-frio. Sinal de alerta sobre performance (review específico menciona fixação fraca típica da casa) — Sample First obrigatório antes de qualquer bottle.",
+    "compat": 4,
+    "preco": 320,
+    "exp": "Sample First",
+    "nota": 5.67,
+    "score": 5.95,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.87,
+    "gpf": 4.33,
+    "conc": "Extrait de Parfum",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Frutado",
+      "Amadeirado",
+      "Gourmand"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Chypre",
+      "Frutado",
+      "Amadeirado",
+      "Gourmand"
+    ],
+    "notas": [
+      "Manga",
+      "Figo",
+      "Lichia",
+      "Musgo de Carvalho",
+      "Âmbar Cinzento",
+      "Cumarina"
+    ],
+    "fix": 5,
+    "projI": 6,
+    "projD": 3,
+    "qual": 6,
+    "cb": 6,
+    "simil": null,
+    "vers": 5,
+    "link": "https://www.sapientiaeniche.com.br/produtos/perfume-milk-way-extrait-parfum/",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1034,
+    "nome": "Above All (Sapientiae Niche)",
+    "dna": "Above All (Sapientiae Niche)",
+    "cat": "Amadeirado Refinado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Original de nicho brasileiro (Sapientiae Niche, 2019, perfumista Sanderson Santana) — a bergamota e a pimenta rosa abrem com frescor levemente especiado, evoluindo pra um coração simples de cedro, fechando num fundo amadeirado-resinoso de âmbar cinzento, oud laosiano e fava tonka. Fragrantica registra longevidade e sillage moderadas (3,72/5 e 2,20/4). Marca posiciona como \"perfume para todos os usos, do quente ao frio, do dia à noite\". Melhor em clima ameno a frio, versátil pro dia todo.",
+    "veredito": "Compatibilidade alta (7/10) — bergamota/pimenta rosa/cedro/oud/fava tonka bate bem no seu eixo cítrico-amadeirado-especiado-frio. Performance moderada, não excepcional, mas consistente com o preço. Dos três Sapientiae avaliados, é o segundo melhor encaixe pro seu perfil.",
+    "compat": 7,
+    "preco": 297,
+    "exp": "Sample First",
+    "nota": 6.2,
+    "score": 6.67,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.2,
+    "gpf": 6.0,
+    "conc": "Extrait de Parfum",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Dia",
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Especiado",
+      "Ambarado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Amadeirado",
+      "Aromático",
+      "Ambarado",
+      "Especiado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Pimenta Rosa",
+      "Cedro",
+      "Âmbar Cinzento",
+      "Oud Laosiano",
+      "Fava Tonka"
+    ],
+    "fix": 6,
+    "projI": 5,
+    "projD": 3,
+    "qual": 6,
+    "cb": 6,
+    "simil": null,
+    "vers": 7,
+    "link": "https://www.sapientiaeniche.com.br/produtos/perfume-above-all-extrait-parfum/",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1035,
+    "nome": "Caos (Sapientiae Niche)",
+    "dna": "Caos (Sapientiae Niche)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Original de nicho brasileiro (Sapientiae Niche, 2025, perfumista Sanderson Santana) — a cidra e a laranja siciliana abrem com um cítrico amargo e vibrante sobre pimenta rosa e bergamota, evoluindo pra um coração de neroli e gengibre picante com cedro, fechando num fundo limpo de ambroxan e olíbano. Conceito: \"tudo é entropia, entropia se traduz em caos\" — harmonia emergindo da desordem. Reação inicial da comunidade (fórum Fragrantica) é entusiasmada: \"cítrico de respeito, meio amargo, especiado bem picante\". Melhor em clima ameno a calor, versátil pro dia todo.",
+    "veredito": "Compatibilidade alta (8/10) — o MELHOR encaixe dos três Sapientiae avaliados. Cidra/pimenta rosa/bergamota/neroli/gengibre/cedro/ambroxan é praticamente um resumo do seu arquétipo cítrico-amadeirado-especiado-frio. Reação inicial da comunidade é positiva. Vale priorizar frente aos outros dois desta leva.",
+    "compat": 8,
+    "preco": 329,
+    "exp": "Sample First",
+    "nota": 6.6,
+    "score": 6.89,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.5,
+    "gpf": 5.0,
+    "conc": "Extrait de Parfum",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Especiado",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Especiado",
+      "Amadeirado",
+      "Ambarado"
+    ],
+    "notas": [
+      "Cidra",
+      "Pimenta Rosa",
+      "Laranja Siciliana",
+      "Gengibre",
+      "Ambroxan",
+      "Olíbano"
+    ],
+    "fix": 6,
+    "projI": 7,
+    "projD": 4,
+    "qual": 7,
+    "cb": 6,
+    "simil": null,
+    "vers": 7,
+    "link": "https://www.sapientiaeniche.com.br/produtos/perfume-caos-extrait-parfum/",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1036,
+    "nome": "Hook Blue (Assaf)",
+    "dna": "La Nuit de L'Homme (Yves Saint Laurent - YSL)",
+    "cat": "Oriental Refinado",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de La Nuit de l'Homme (YSL) — o cardamomo se destaca na abertura, dando o toque especiado-fresco sobre bergamota e pera (mais frutado que o original), evoluindo pra um coração de lavanda, patchouli e cominho, fechando num fundo de vetiver, cedro e sândalo. Reviews Fragrantica confirmam: \"it's la nuit de l'homme but more fruity in the opening and fresher overall... best deal you can purchase\". ⚠️ Nota: um retailer egípcio descreve como inspirado no Bleu Électrique especificamente, mas as notas reais (cominho, patchouli, pera, sândalo) batem muito mais com o La Nuit de l'Homme clássico (que tem essas notas) do que com o Bleu Électrique (que é mais simples: só cardamomo/gengibre/bergamota/lavanda/gerânio/cedro/vetiver, sem patchouli nem cominho). Melhor em clima frio a ameno, pra social/noite ou assinatura/casual.",
+    "veredito": "Compatibilidade alta (8/10) — cardamomo/bergamota/lavanda/cedro/vetiver/patchouli é praticamente seu arquétipo cítrico-amadeirado-especiado-frio. Ficaria em 4º de 4 do grupo por Nota Final, mas ainda assim competitivo — R$150 (200ml) vs original notoriamente fraco em performance.",
+    "compat": 8,
+    "preco": 150,
+    "exp": "Blind Buy",
+    "nota": 7.3,
+    "score": 7.31,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Especiado",
+      "Aromático"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Amadeirado",
+      "Especiado",
+      "Aromático",
+      "Frutado"
+    ],
+    "notas": [
+      "Cardamomo",
+      "Pera",
+      "Lavanda",
+      "Patchouli",
+      "Cominho",
+      "Vetiver"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6,
+    "cb": 10,
+    "simil": 8,
+    "vers": 6,
+    "link": "https://www.fragrantica.com/perfume/Assaf/Hook-Blue-138758.html",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1037,
+    "nome": "Swimming in Summer (Assaf)",
+    "dna": "Swimming in Summer (Assaf)",
+    "cat": "Aromático Confortável",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "⚠️ ACHADO: não encontrei nenhuma fonte ligando este perfume à Dior — parece ser composição própria da Assaf (2024), sem DNA de referência declarado. O limão se destaca na abertura, dando frescor cítrico-picante sobre mandarina e pimenta preta, evoluindo pra notas florais e madeira guaiac, fechando num fundo de musgo de carvalho, couro e almíscar com patchouli. Reviews divergem bastante (uma nota 4,8/5, outra 3,0/5). Existe uma leve semelhança temática com o Dior Homme Cologne 2007 (mandarina/couro/patchouli em comum), mas nada confirmado — trate como especulação, não fato. Melhor em clima calor a ameno, versátil.",
+    "veredito": "Registrado como original próprio, não como dupe — corrija se você tiver fonte confirmando inspiração específica. Compatibilidade moderada (6/10): cítrico-amadeirado-almiscarado tem afinidade real com seu eixo. Reviews divergentes sugerem variação de lote — Sample First.",
+    "compat": 6,
+    "preco": 140,
+    "exp": "Sample First",
+    "nota": 6.27,
+    "score": 5.86,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.07,
+    "gpf": 5.33,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Especiado",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Limão",
+      "Mandarina",
+      "Pimenta Preta",
+      "Madeira Guaiac",
+      "Musgo de Carvalho",
+      "Couro"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6,
+    "cb": 7,
+    "simil": null,
+    "vers": 6,
+    "link": "https://assaf.ae/products/swimming-in-summer",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1038,
+    "nome": "Afternoon (Assaf)",
+    "dna": "Afternoon Swim (Louis Vuitton)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Afternoon Swim (Louis Vuitton) — provavelmente o item que você tinha em mente ao pesquisar \"Swimming in Summer/Dior\" (nomes muito parecidos, fácil de confundir). Comunidade Fragrantica confirma: \"smells 1:1 to me... best if you love orangey citrus scents or if you've smelt afternoon swim\". Pirâmide inferida do DNA declarado: laranja, bergamota e mandarina num acorde cítrico-aquático-âmbar. ⚠️ Não achei a lista de notas própria do produto Assaf, só a comparação direta da comunidade. Melhor em clima calor, pra trabalho ou assinatura/casual.",
+    "veredito": "Compatibilidade muito alta (9/10) — mesmo território do original, que já tem compat=10 registrado na base. Fidelidade \"1:1\" confirmada por review independente. US$35/100ml vs ~R$2.600 do LV — um dos melhores custo-benefício que você pode considerar nesse DNA. Muito competitivo dentro do grupo (Nota Final 8,0, quase empatando com o próprio original em 8,1).",
+    "compat": 9,
+    "preco": 140,
+    "exp": "Blind Buy",
+    "nota": 8.0,
+    "score": 7.32,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.3,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Calor"
+    ],
+    "periodo": [
+      "Dia"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aquático",
+      "Ambarado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Aquático",
+      "Âmbar"
+    ],
+    "notas": [
+      "Laranja",
+      "Bergamota",
+      "Mandarina"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 10,
+    "simil": 9,
+    "vers": 7,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1039,
+    "nome": "Carmina (Creed)",
+    "dna": "Carmina (Creed)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Nicho",
+    "genero": "Feminino",
+    "status": "Em Avaliação",
+    "resumo": "Original de nicho (Creed) — a cereja preta se destaca na abertura, dando o toque frutado-doce sobre açafrão e pimenta rosa, evoluindo pra um coração floral de rosa maio, peônia e violeta com madeira de cashmere, fechando num fundo de almíscar, ambroxan, mirra e olíbano. Melhor em clima ameno a frio, pra social/noite ou evento formal.",
+    "veredito": "Compatibilidade baixa (3/10): frutado-floral-doce-âmbar foge do seu eixo cítrico-amadeirado-especiado-frio. Preço de nicho alto. Serve principalmente como referência de DNA correta pro contratipo (Venti Charisma, Fragrance World).",
+    "compat": 3,
+    "preco": 1400,
+    "exp": "Sample First",
+    "nota": 6.13,
+    "score": 6.05,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.63,
+    "gpf": 5.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Floral",
+      "Ambarado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Frutado",
+      "Especiado",
+      "Floral",
+      "Ambarado"
+    ],
+    "notas": [
+      "Cereja Preta",
+      "Açafrão",
+      "Rosa Maio",
+      "Peônia",
+      "Almíscar",
+      "Mirra"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 8,
+    "cb": 3,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1040,
+    "nome": "Venti Charisma (Fragrance World)",
+    "dna": "Carmina (Creed)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Árabe",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "RESPOSTA À SUA PERGUNTA: Venti Charisma (Fragrance World) é contratipo confirmado do **Carmina (Creed)** — declarado explicitamente por múltiplos retailers (\"Inspired by Creed Carmina\"). Cereja preta, açafrão e pimenta rosa abrem, dando um contraste frutado-picante, evoluindo pra rosa maio, peônia, violeta e madeira de cashmere no coração, fechando num fundo de almíscar, ambroxan, mirra e olíbano. Marca como \"principalmente feminino\", mas vendido como unissex por vários retailers. Longevidade 6-8h, sillage moderada. Melhor em clima ameno a frio, pra social/noite ou evento formal.",
+    "veredito": "Compatibilidade baixa (3/10) pra você — mesmo perfil frutado-floral-doce fora do seu eixo. Mas é um DNA popular no público feminino/unissex, pode fazer sentido pro negócio de decants. Custo-benefício excelente frente ao nicho Creed.",
+    "compat": 3,
+    "preco": 130,
+    "exp": "Sample First",
+    "nota": 7.15,
+    "score": 6.26,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Floral",
+      "Ambarado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Frutado",
+      "Especiado",
+      "Floral",
+      "Ambarado"
+    ],
+    "notas": [
+      "Cereja Preta",
+      "Açafrão",
+      "Rosa Maio",
+      "Peônia",
+      "Almíscar",
+      "Mirra"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 9,
+    "simil": 7,
+    "vers": 6,
+    "link": "https://thefragrancestores.com/products/venti-charisma",
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null,
