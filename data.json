@@ -66976,5 +66976,641 @@
     "calibradoContra": null,
     "fotoInspiracao": null,
     "fotoPerfume": null
+  },
+  {
+    "id": 1055,
+    "nome": "Boss Bottled (Hugo Boss)",
+    "dna": "Boss Bottled (Hugo Boss)",
+    "cat": "Fresh Confortável",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Original designer clássico (1998, Annick Menardo) — a maçã e o limão abrem frutado-cítricos sobre ameixa, bergamota e musgo de carvalho, evoluindo pra um coração de canela, mogno e cravo, fechando num fundo de baunilha, sândalo, cedro e vetiver. Reviews elogiam o caráter icônico mas criticam performance fraca (\"weak is when I'm having trouble finding it\"). Melhor em clima ameno, versátil pro dia.",
+    "veredito": "Compatibilidade moderada (5/10) dentro da família Boss Bottled.",
+    "compat": 5,
+    "preco": 250,
+    "exp": "Sample First",
+    "nota": 6.67,
+    "score": 5.77,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.93,
+    "gpf": 4.67,
+    "conc": "EDT",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Especiado",
+      "Baunilha"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Frutado",
+      "Especiado",
+      "Baunilha",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Maçã",
+      "Canela",
+      "Baunilha",
+      "Sândalo",
+      "Cedro",
+      "Vetiver"
+    ],
+    "fix": 4,
+    "projI": 4,
+    "projD": 2,
+    "qual": 7,
+    "cb": 8,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1056,
+    "nome": "Boss Bottled Night (Hugo Boss)",
+    "dna": "Boss Bottled Night (Hugo Boss)",
+    "cat": "Aromático Confortável",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Flanker designer (2013) — o mais diferente da família segundo a comunidade. Lavanda e violeta dominam sobre um fundo de bétula, sem maçã nem canela do original. \"Night is Violet heavy\" — mais aromático-amadeirado e menos frutado-doce. Melhor em clima frio, pra noite.",
+    "veredito": "Compatibilidade moderada (6/10) dentro da família Boss Bottled.",
+    "compat": 6,
+    "preco": 260,
+    "exp": "Sample First",
+    "nota": 6.2,
+    "score": 5.9,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.93,
+    "gpf": 4.67,
+    "conc": "EDT",
+    "clima": [
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Aromático",
+      "Floral",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Aromático",
+      "Floral",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Lavanda",
+      "Violeta"
+    ],
+    "fix": 5,
+    "projI": 5,
+    "projD": 3,
+    "qual": 6,
+    "cb": 8,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1057,
+    "nome": "Boss Bottled Intense (Hugo Boss)",
+    "dna": "Boss Bottled Intense (Hugo Boss)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Flanker designer (2015) — versão mais densa e doce do original, \"vibe de torta de maçã\". Reviews: \"loved it at the time, but too sweet now\". Melhor em clima frio, pra noite.",
+    "veredito": "Compatibilidade baixa (4/10) dentro da família Boss Bottled.",
+    "compat": 4,
+    "preco": 280,
+    "exp": "Sample First",
+    "nota": 6.33,
+    "score": 5.57,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.0,
+    "gpf": 5.0,
+    "conc": "EDT",
+    "clima": [
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Frutado",
+      "Especiado",
+      "Baunilha"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Frutado",
+      "Especiado",
+      "Baunilha",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Maçã",
+      "Canela",
+      "Baunilha",
+      "Sândalo"
+    ],
+    "fix": 6,
+    "projI": 5,
+    "projD": 4,
+    "qual": 6,
+    "cb": 8,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1058,
+    "nome": "Boss Bottled Infinite (Hugo Boss)",
+    "dna": "Boss Bottled Infinite (Hugo Boss)",
+    "cat": "Aromático Refinado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Flanker designer (2015) — lavanda e alecrim dão um caráter sabonete-herbal, \"lembra First Instinct Blue (A&F)\". Doçura reduzida frente ao original e ao Intense. Melhor em clima ameno a frio, versátil.",
+    "veredito": "Compatibilidade alta (7/10) dentro da família Boss Bottled.",
+    "compat": 7,
+    "preco": 270,
+    "exp": "Sample First",
+    "nota": 6.87,
+    "score": 6.46,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.43,
+    "gpf": 4.67,
+    "conc": "EDT",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Aromático",
+      "Verde"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Aromático",
+      "Verde"
+    ],
+    "notas": [
+      "Lavanda",
+      "Alecrim"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 7,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1059,
+    "nome": "Boss Bottled Unlimited (Hugo Boss)",
+    "dna": "Boss Bottled Unlimited (Hugo Boss)",
+    "cat": "Fresh Confortável",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Flanker designer (2010) — hortelã e toranja abrem frescos, evoluindo pra um coração inesperado de rosa e abacaxi com canela, fechando num fundo de sândalo e almíscar branco leve. Perfil incomum na linha, \"não é nada pesado\". Melhor em clima calor a ameno, versátil.",
+    "veredito": "Compatibilidade moderada (5/10) dentro da família Boss Bottled.",
+    "compat": 5,
+    "preco": 260,
+    "exp": "Sample First",
+    "nota": 6.13,
+    "score": 6.3,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 8.43,
+    "gpf": 4.67,
+    "conc": "EDT",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Frutado",
+      "Floral",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Frutado",
+      "Floral",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Hortelã",
+      "Toranja",
+      "Rosa",
+      "Abacaxi",
+      "Canela",
+      "Sândalo"
+    ],
+    "fix": 5,
+    "projI": 5,
+    "projD": 3,
+    "qual": 6,
+    "cb": 7,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1060,
+    "nome": "Boss Bottled Tonic (Hugo Boss)",
+    "dna": "Boss Bottled Tonic (Hugo Boss)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Flanker designer (2016) — descrito como \"BB misturado com refrigerante de gengibre\", uma versão \"lite\"/mais leve e fresca do original. Melhor em clima calor, versátil dia todo.",
+    "veredito": "Compatibilidade moderada (6/10) dentro da família Boss Bottled.",
+    "compat": 6,
+    "preco": 250,
+    "exp": "Sample First",
+    "nota": 6.2,
+    "score": 5.78,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.43,
+    "gpf": 4.67,
+    "conc": "EDT",
+    "clima": [
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Aromático"
+    ],
+    "notas": [
+      "Hortelã",
+      "Gengibre",
+      "Maçã"
+    ],
+    "fix": 4,
+    "projI": 4,
+    "projD": 2,
+    "qual": 6,
+    "cb": 7,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1061,
+    "nome": "Boss Bottled United (Hugo Boss)",
+    "dna": "Boss Bottled United (Hugo Boss)",
+    "cat": "Aromático Natural",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Flanker designer (2018, tema esportivo) — laranja sanguínea e buchu (planta sul-africana) abrem cítricos sobre notas ozônicas, evoluindo pra hortelã e íris, fechando num fundo amadeirado de vetiver, patchouli, cashmeran e almíscar branco. Reviews divergem: \"nada especial\" a \"muito subestimado, 8.5/10\" — performance é o ponto fraco recorrente. Melhor em clima calor a ameno, versátil.",
+    "veredito": "Compatibilidade alta (7/10) dentro da família Boss Bottled.",
+    "compat": 7,
+    "preco": 230,
+    "exp": "Sample First",
+    "nota": 6.0,
+    "score": 6.53,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.93,
+    "gpf": 4.67,
+    "conc": "EDT",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado",
+      "Verde"
+    ],
+    "notas": [
+      "Laranja Sanguínea",
+      "Hortelã",
+      "Íris",
+      "Vetiver",
+      "Patchouli",
+      "Almíscar Branco"
+    ],
+    "fix": 4,
+    "projI": 4,
+    "projD": 2,
+    "qual": 6,
+    "cb": 7,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1062,
+    "nome": "Boss Bottled Parfum (Hugo Boss)",
+    "dna": "Boss Bottled Parfum (Hugo Boss)",
+    "cat": "Couro Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Flanker designer (2022, Suzy Le Helley e Annick Menardo) — olíbano e mandarina abrem, evoluindo pra um coração de figueira e íris, fechando num fundo de cedro e couro. Reviews: \"8/10, sólido\", visto como \"precursor\" dos flankers Elixir e Absolu, mais opaco/indefinido em comparação a eles. Melhor em clima frio a ameno, pra social/noite.",
+    "veredito": "Compatibilidade moderada (6/10) dentro da família Boss Bottled.",
+    "compat": 6,
+    "preco": 450,
+    "exp": "Sample First",
+    "nota": 6.4,
+    "score": 5.64,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 4.0,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Especiado",
+      "Atalcado",
+      "Amadeirado"
+    ],
+    "fam": "Couro",
+    "acordes": [
+      "Especiado",
+      "Atalcado",
+      "Amadeirado",
+      "Couro"
+    ],
+    "notas": [
+      "Mandarina",
+      "Íris",
+      "Cedro",
+      "Couro"
+    ],
+    "fix": 6,
+    "projI": 5,
+    "projD": 4,
+    "qual": 7,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1063,
+    "nome": "Boss Bottled Elixir Parfum (Hugo Boss)",
+    "dna": "Boss Bottled Elixir Parfum (Hugo Boss)",
+    "cat": "Couro Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Flanker designer (2023) — \"o membro confiante e ousado da família\": o olíbano do Parfum é amplificado ao extremo, tornando-se um dos designers mais aclamados do ano de lançamento. Mais oriental, pesado e encorpado que qualquer outro da linha. Melhor em clima frio, pra noites intensas.",
+    "veredito": "Compatibilidade moderada (5/10) dentro da família Boss Bottled.",
+    "compat": 5,
+    "preco": 480,
+    "exp": "Sample First",
+    "nota": 6.87,
+    "score": 6.31,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.43,
+    "gpf": 4.67,
+    "conc": "Parfum",
+    "clima": [
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Especiado",
+      "Amadeirado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Oriental",
+      "Especiado",
+      "Amadeirado",
+      "Couro"
+    ],
+    "notas": [
+      "Olíbano",
+      "Íris",
+      "Cedro",
+      "Couro"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 5,
+    "qual": 8,
+    "cb": 6,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1064,
+    "nome": "Boss Bottled Beyond (Hugo Boss)",
+    "dna": "Boss Bottled Beyond (Hugo Boss)",
+    "cat": "Couro Refinado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Flanker designer mais recente (2025, Daphné Bugey, Frank Voelkl, Bruno Jovanovic) — construído em torno da dualidade gengibre-couro em vez da pirâmide tradicional. Extração CO2 pro gengibre, tecnologia de fixação à base de açúcar. Comparado a \"uma mistura entre o Green Irish Tweed da Creed e o L'Homme da Prada\". Melhor em clima ameno a frio, versátil.",
+    "veredito": "Compatibilidade alta (7/10) dentro da família Boss Bottled.",
+    "compat": 7,
+    "preco": 420,
+    "exp": "Sample First",
+    "nota": 6.27,
+    "score": 5.57,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 2.5,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Especiado",
+      "Couro",
+      "Amadeirado"
+    ],
+    "fam": "Couro",
+    "acordes": [
+      "Especiado",
+      "Couro",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Gengibre",
+      "Couro",
+      "Cedro"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7,
+    "cb": 5,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
   }
 ]
