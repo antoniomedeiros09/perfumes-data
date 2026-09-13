@@ -66519,5 +66519,462 @@
     "calibradoContra": null,
     "fotoInspiracao": null,
     "fotoPerfume": null
+  },
+  {
+    "id": 1048,
+    "nome": "Elegantly Tokyo Elixir (Zara)",
+    "dna": "Elegantly Tokyo Elixir (Zara)",
+    "cat": "Floral Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Original próprio da Zara (2026, colaboração Jo Malone CBE) — versão Elixir, mais concentrada do Elegantly Tokyo original. Flor de cerejeira e jasmim dão o toque floral-branco luminoso, bambu adiciona um verde crocante, fechando num fundo de akigalawood mais profundo que a versão EDP. Reviews muito positivas (8,1-8,9/10), \"genuine gem\", boa performance (~8h) e versatilidade (9,6/10). Melhor em clima ameno, versátil dia/noite.",
+    "veredito": "Compatibilidade baixa (3/10): floral-branco-amadeirado é território feminino/compartilhável, fora do seu eixo cítrico-amadeirado-especiado. Qualidade objetivamente muito boa pelo preço — mais um candidato pro negócio de decants (apelo feminino/jovem) do que pra sua coleção pessoal.",
+    "compat": 3,
+    "preco": 350,
+    "exp": "Blind Buy",
+    "nota": 7.67,
+    "score": 6.93,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 9.0,
+    "gpf": 5.0,
+    "conc": "Parfum",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Floral",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Floral",
+      "Amadeirado",
+      "Verde"
+    ],
+    "notas": [
+      "Jasmim",
+      "Bambu",
+      "Akigalawood",
+      "Flor de Cerejeira"
+    ],
+    "fix": 8,
+    "projI": 6,
+    "projD": 5,
+    "qual": 8,
+    "cb": 6,
+    "simil": null,
+    "vers": 9,
+    "link": "https://www.zara.com/us/en/elegantly-tokyo-elixir-100-ml--3-4-fl--oz--p20210294.html",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1049,
+    "nome": "212 Men (Carolina Herrera)",
+    "dna": "212 Men (Carolina Herrera)",
+    "cat": "Fresh Confortável",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Original designer clássico (1999, Alberto Morillas) — notas verdes e toranja abrem sobre bergamota, lavanda e petitgrain, evoluindo pra um coração de gengibre, violeta, gardênia e sálvia, fechando num fundo amadeirado-resinoso de sândalo, vetiver, madeira guaiac, incenso e labdanum. Comunidade chama de \"stone cold classic\" — versátil, mass-appealing, boa performance (5-12h dependendo da fonte/lote). Melhor em clima ameno a calor, versátil dia todo.",
+    "veredito": "🏆 MELHOR encaixe da linha 212 pro seu perfil (6/10) — a dobradinha toranja-bergamota-vetiver-guaiac wood-sândalo tem afinidade real com seu eixo cítrico-amadeirado. Clássico, acessível, sem redundância direta na sua coleção.",
+    "compat": 6,
+    "preco": 280,
+    "exp": "Blind Buy",
+    "nota": 7.87,
+    "score": 6.73,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.5,
+    "gpf": 5.0,
+    "conc": "EDT",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "notas": [
+      "Toranja",
+      "Bergamota",
+      "Violeta",
+      "Sálvia",
+      "Vetiver",
+      "Sândalo"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 8,
+    "cb": 8,
+    "simil": null,
+    "vers": 8,
+    "link": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Men-297.html",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1050,
+    "nome": "212 VIP Men (Carolina Herrera)",
+    "dna": "212 VIP Men (Carolina Herrera)",
+    "cat": "Oriental Confortável",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Flanker designer (2011) — tema \"festa VIP nova-iorquina\". Gin, vodka, gengibre e pimenta preta abrem boozy, evoluindo pra um coração de fruta-do-conde e especiarias, fechando num fundo de couro e âmbar. Reviews mistas — \"grande decepção\" a \"ok pra clube\". Melhor em clima frio a ameno, pra social/noite.",
+    "veredito": "Compatibilidade baixa (4/10): perfil boozy-frutado-âmbar foge do seu eixo cítrico-frio. O mais fraco encaixe da linha 212 pro seu perfil.",
+    "compat": 4,
+    "preco": 300,
+    "exp": "Sample First",
+    "nota": 6.07,
+    "score": 5.22,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.0,
+    "gpf": 5.0,
+    "conc": "EDT",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Especiado",
+      "Ambarado",
+      "Amadeirado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Cítrico",
+      "Especiado",
+      "Ambarado",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Gengibre",
+      "Pimenta Preta",
+      "Couro",
+      "Âmbar"
+    ],
+    "fix": 6,
+    "projI": 5,
+    "projD": 4,
+    "qual": 6,
+    "cb": 7,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1051,
+    "nome": "212 VIP Black (Carolina Herrera)",
+    "dna": "212 VIP Black (Carolina Herrera)",
+    "cat": "Aromático Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Flanker designer (2017, Carlos Benaïm e Anne Flipo) — absinto, anis e erva-doce abrem com um boozy verde-aromático, sobre um coração de lavanda, fechando num fundo doce de baunilha negra e almíscar. Fougère oriental. Reviews divididas — \"party scent sólido\" a \"performance medíocre\". Melhor em clima frio a ameno, pra social/noite ou evento formal.",
+    "veredito": "Compatibilidade moderada (5/10): a lavanda aromática tem afinidade com seu eixo, mas o fundo baunilha-almíscar puxa pro gourmand-doce. Nem o melhor nem o pior da linha pro seu perfil.",
+    "compat": 5,
+    "preco": 320,
+    "exp": "Sample First",
+    "nota": 6.93,
+    "score": 6.06,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Aromático",
+      "Especiado",
+      "Baunilha"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Aromático",
+      "Especiado",
+      "Baunilha",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Absinto",
+      "Anis",
+      "Erva-doce",
+      "Lavanda",
+      "Baunilha",
+      "Almíscar"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 8,
+    "simil": null,
+    "vers": 6,
+    "link": "https://www.carolinaherrera.com/us/en/p-fragrance/212-vip-black",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1052,
+    "nome": "212 VIP Black Elixir (Carolina Herrera)",
+    "dna": "212 VIP Black Elixir (Carolina Herrera)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Flanker designer (2025) — versão Elixir mais rica do 212 VIP Black. Lavanda negra abre com frescor aromático (com toques de toranja e zimbro), evoluindo pra alcaçuz negro no coração, fechando num fundo de baunilha negra. Reviews positivas (9,25/10 num review) mas também \"cheiro doce barato\" em outra. Melhor em clima frio, pra noites intensas.",
+    "veredito": "Compatibilidade baixa-moderada (4/10): a lavanda de abertura tem afinidade, mas alcaçuz-baunilha é bem gourmand-doce, na sua zona de alerta.",
+    "compat": 4,
+    "preco": 350,
+    "exp": "Sample First",
+    "nota": 6.6,
+    "score": 5.76,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.0,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Aromático",
+      "Especiado",
+      "Baunilha"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Aromático",
+      "Especiado",
+      "Baunilha",
+      "Ambarado"
+    ],
+    "notas": [
+      "Lavanda",
+      "Alcaçuz",
+      "Baunilha"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7,
+    "cb": 7,
+    "simil": null,
+    "vers": 5,
+    "link": "https://www.carolinaherrera.com/us/en/p-fragrance/212-vip-black-elixir",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1053,
+    "nome": "212 Heroes (Carolina Herrera)",
+    "dna": "212 Heroes (Carolina Herrera)",
+    "cat": "Fresh Confortável",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Flanker designer (2021, linha vegana, frasco formato skate) — flanker da linha 212 Men clássica, não da VIP. Abertura cítrica-doce com gengibre e um acorde de \"Lemon Haze\" (cannabis), fechando num fundo amadeirado-almiscarado com cedro. ⚠️ Confiança Baixa — não encontrei a pirâmide oficial completa, só descrições parciais. Melhor em clima ameno a calor, versátil.",
+    "veredito": "Compatibilidade moderada (6/10, estimativa cautelosa): abertura cítrico-gengibre tem afinidade real com seu eixo, mas faltam dados completos pra confirmar. Vale pesquisar mais antes de decidir.",
+    "compat": 6,
+    "preco": 300,
+    "exp": "Sample First",
+    "nota": 6.13,
+    "score": 4.7,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 1.0,
+    "gpf": 5.0,
+    "conc": "EDT",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Especiado",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Especiado",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Gengibre",
+      "Limão",
+      "Cedro",
+      "Almíscar"
+    ],
+    "fix": 5,
+    "projI": 5,
+    "projD": 4,
+    "qual": 6,
+    "cb": 7,
+    "simil": null,
+    "vers": 6,
+    "link": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Heroes-65988.html",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1054,
+    "nome": "Armani Code Eau de Parfum (Giorgio Armani)",
+    "dna": "Armani Code Eau de Parfum (Giorgio Armani)",
+    "cat": "Oriental Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Original designer — versão EDP da linha Code, distinta do \"Code Parfum\" (2022). Lavanda e limão/bergamota (com toque de mandarina verde) abrem, evoluindo pra um coração dominado por fava tonka, fechando num fundo de baunilha, camurça, almíscar e madeira de cedro. Perfil mais quente/doce/âmbar que o Parfum. Melhor em clima frio a ameno, pra social/noite ou assinatura/casual.",
+    "veredito": "Compatibilidade moderada (6/10). Ver comparação detalhada com o Armani Code Parfum abaixo.",
+    "compat": 6,
+    "preco": 450,
+    "exp": "Sample First",
+    "nota": 6.53,
+    "score": 5.89,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 4.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Aromático",
+      "Baunilha",
+      "Amadeirado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Baunilha",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Lavanda",
+      "Limão",
+      "Bergamota",
+      "Fava Tonka",
+      "Baunilha",
+      "Camurça"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": "https://www.giorgioarmanibeauty-usa.com/fragrances/armani-code-eau-de-parfum/ww-00857-arm.html",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
   }
 ]
