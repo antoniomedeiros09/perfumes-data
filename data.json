@@ -63223,7 +63223,7 @@
       "Social/Noite"
     ],
     "origem": "Árabe",
-    "status": "Possui",
+    "status": "Curiosidade",
     "veredito": "Cítrico-amadeirado-aromático, excelente encaixe pro seu perfil — forte candidato.",
     "compat": 8,
     "preco": 130,
@@ -66390,6 +66390,472 @@
     "simil": 7,
     "vers": 6,
     "link": "https://thefragrancestores.com/products/venti-charisma",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1041,
+    "nome": "Italica (Xerjoff)",
+    "dna": "Italica (Xerjoff)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nicho",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Original de nicho (coleção Casamorati 1888) — a amêndoa e o leite abrem cremosos, aquecidos pelo açafrão, evoluindo pra um coração doce de baunilha bourbon e toffee, fechando num fundo de sândalo, cedro e almíscar branco. Extremamente polarizador: parte da comunidade chama de \"obra-prima gourmand\" (9/10 em múltiplas plataformas), outra reclama de \"borracha queimada e leite estragado\". Melhor em clima frio a ameno, pra social/noite ou assinatura/casual.",
+    "veredito": "Compatibilidade muito baixa (2/10): gourmand-doce-amendoado é exatamente sua zona de alerta. Preço de nicho alto pra um perfil tão polarizador — nunca faça blind buy disso.",
+    "compat": 2,
+    "preco": 1800,
+    "exp": "Sample First",
+    "nota": 6.2,
+    "score": 5.55,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Gourmand",
+      "Especiado",
+      "Baunilha"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Gourmand",
+      "Especiado",
+      "Baunilha",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Amêndoa",
+      "Açafrão",
+      "Toffee",
+      "Baunilha Bourbon",
+      "Almíscar Branco",
+      "Sândalo"
+    ],
+    "fix": 9,
+    "projI": 8,
+    "projD": 6,
+    "qual": 8,
+    "cb": 3,
+    "simil": null,
+    "vers": 5,
+    "link": "https://www.xerjoff.com/en-us/products/italica-au-de-parfum",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1042,
+    "nome": "Itália (JA Essence)",
+    "dna": "Italica (Xerjoff)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Italica (Xerjoff) — amêndoa, leite e açafrão na abertura, toffee e baunilha bourbon no coração, sândalo e almíscar branco no fundo. ⚠️ Não achei review independente específica de fidelidade deste item. Melhor em clima frio a ameno, pra social/noite ou assinatura/casual.",
+    "veredito": "Compatibilidade muito baixa (2/10) — mesma leitura do original. Custo-benefício ótimo (~R$150 vs R$1.800), mas o próprio perfil já não combina com você independente do preço.",
+    "compat": 2,
+    "preco": 150,
+    "exp": "Sample First",
+    "nota": 6.7,
+    "score": 5.33,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.53,
+    "gpf": 2.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Gourmand",
+      "Especiado",
+      "Baunilha"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Gourmand",
+      "Especiado",
+      "Baunilha",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Amêndoa",
+      "Açafrão",
+      "Toffee",
+      "Baunilha Bourbon",
+      "Almíscar Branco",
+      "Sândalo"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6,
+    "cb": 9,
+    "simil": 7,
+    "vers": 5,
+    "link": "https://www.primedecants.com.br/produtos/italia-italica-xerjoff-ja-essence-de-la-vie-de-2-ml-a-34-ml/",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1043,
+    "nome": "The Most Wanted Eau de Parfum Intense (Azzaro)",
+    "dna": "The Most Wanted Eau de Parfum Intense (Azzaro)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Original designer (2021) — o cardamomo abre especiado, evoluindo pra um coração de toffee (baunilha, açúcar queimado e notas lácteas), fechando num fundo de madeira de âmbar. Linear e intenso — reviews chamam de \"favorito da linha Wanted\" com projeção que \"enche a sala\". Distinto do \"The Most Wanted Parfum\" já mapeado na base (esse tem gengibre/madeira/baunilha bourbon). Melhor em clima frio, pra social/noite.",
+    "veredito": "Compatibilidade baixa (3/10): oriental-doce-especiado foge do seu eixo cítrico-amadeirado-frio. Serve principalmente como referência de DNA correta pro contratipo (Omega, Nuancielo).",
+    "compat": 3,
+    "preco": 650,
+    "exp": "Sample First",
+    "nota": 6.4,
+    "score": 5.12,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 4.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Especiado",
+      "Baunilha"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Oriental",
+      "Especiado",
+      "Baunilha",
+      "Ambarado"
+    ],
+    "notas": [
+      "Cardamomo",
+      "Baunilha",
+      "Açúcar Queimado",
+      "Notas Lácteas",
+      "Madeira de Âmbar"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 6,
+    "simil": null,
+    "vers": 6,
+    "link": "https://www.azzaro.com/en/fragrances/azzaro-the-most-wanted/eau-de-parfum-intense",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1044,
+    "nome": "Omega (Nuancielo)",
+    "dna": "The Most Wanted Eau de Parfum Intense (Azzaro)",
+    "cat": "Oriental Sedutor",
+    "ocasiao": [
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de The Most Wanted EDP Intense (Azzaro) — cardamomo na abertura, toffee (baunilha, açúcar queimado, notas lácteas) no corpo, madeira de âmbar no fundo. Artigo dedicado (sutilezaperfumada.com.br) testou e confirma: \"dá um baile no The Most Wanted\" — bem feito, agrada fácil, sem ser enjoativo, embora simples/linear. Melhor em clima frio, pra social/noite ou inverno.",
+    "veredito": "Compatibilidade baixa (3/10) — mesma leitura do original. Fidelidade e qualidade confirmadas por review dedicada independente. Custo-benefício excelente: R$159,90 vs R$560-750 do Azzaro original.",
+    "compat": 3,
+    "preco": 159.9,
+    "exp": "Blind Buy",
+    "nota": 7.55,
+    "score": 5.63,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.13,
+    "gpf": 5.67,
+    "conc": "Deo Parfum",
+    "clima": [
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Especiado",
+      "Baunilha"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Oriental",
+      "Especiado",
+      "Baunilha",
+      "Ambarado"
+    ],
+    "notas": [
+      "Cardamomo",
+      "Baunilha",
+      "Açúcar Queimado",
+      "Notas Lácteas",
+      "Madeira de Âmbar"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7,
+    "cb": 10,
+    "simil": 8,
+    "vers": 5,
+    "link": "https://www.sutilezaperfumada.com.br/omega-nuancielo-contratipo-the-most-wanted-azzaro/",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1045,
+    "nome": "Vestige (Porto Aroma)",
+    "dna": "Versace Pour Homme (Versace)",
+    "cat": "Aromático Refinado",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Versace Pour Homme — limão siciliano, néroli e bergamota abrem luminosos, evoluindo pra um coração aromático de jacinto, sálvia esclaréia, cedro e gerânio, fechando num fundo macio de fava tonka, almíscar e âmbar. Ficha oficial da Porto Aroma (30% Parfum). Sem review independente encontrada ainda para este item específico. Melhor em clima ameno a calor, versátil pra rotina.",
+    "veredito": "Compatibilidade alta (8/10) — praticamente seu arquétipo cítrico-amadeirado-especiado-frio em forma de perfume. Sem redundância na sua coleção. Um dos melhores encaixes desta leva inteira.",
+    "compat": 8,
+    "preco": 174.9,
+    "exp": "Sample First",
+    "nota": 6.75,
+    "score": 7.16,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.0,
+    "gpf": 10,
+    "conc": "Parfum",
+    "clima": [
+      "Ameno",
+      "Calor"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Floral",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Limão Siciliano",
+      "Néroli",
+      "Bergamota",
+      "Rosa de Maio",
+      "Jacinto",
+      "Cedro"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7,
+    "cb": 7,
+    "simil": 6,
+    "vers": 7,
+    "link": "https://www.portoaroma.com.br/perfumes-masculinos/perfume-vestige-no35",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1046,
+    "nome": "Inspiration (Porto Aroma)",
+    "dna": "Imagination (Louis Vuitton)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Imagination (Louis Vuitton) — bergamota, limão siciliano e gengibre abrem energizantes, evoluindo pra um coração de chá preto, neroli e cedro, fechando num fundo limpo de ambroxan, incenso e almíscar. Ficha oficial da Porto Aroma confirma concentração Parfum (30%), fixação 6-10h. Melhor em clima calor a ameno, pra trabalho ou rotina.",
+    "veredito": "⚠️ REDUNDÂNCIA: você já possui Dream On Infinite (Nuancielo) — exatamente esse mesmo DNA, com Nota Final 9,1, muito acima da estimativa de 7,3 do Inspiration (gap de quase 2 pontos). Pelo seu próprio critério de compra (só levar quando for competitivo no DNA), este é um caso claro de EVITAR — você já tem uma opção bem melhor do mesmo perfil na coleção.",
+    "compat": 9,
+    "preco": 174.9,
+    "exp": "Sample First",
+    "nota": 7.3,
+    "score": 6.69,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 3.13,
+    "gpf": 5.67,
+    "conc": "Parfum",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Fresh",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Bergamota",
+      "Limão Siciliano",
+      "Gengibre",
+      "Chá Preto",
+      "Neroli",
+      "Cedro"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 5,
+    "qual": 7,
+    "cb": 9,
+    "simil": 6,
+    "vers": 8,
+    "link": "https://www.portoaroma.com.br/perfumes-masculinos/perfume-inspiration-no45",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1047,
+    "nome": "Nocturno (Rayhaan)",
+    "dna": "Sauvage (Dior)",
+    "cat": "Aromático Refinado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "genero": "Masculino",
+    "status": "Possui",
+    "resumo": "Contratipo de Sauvage (Dior) — a bergamota e a pimenta abrem com frescor cítrico-especiado, evoluindo pra um coração de lavanda, pimenta rosa e gerânio, fechando num fundo de cedro e madeira de âmbar (ambroxan). Comunidade chama de \"Sauvage Clone\" em múltiplas fontes (título de review no YouTube, comparação direta no Parfumo, \"one for one copy\" no TikTok) — não há declaração oficial da Rayhaan, mas o consenso é forte. Reviews elogiam versatilidade dia/noite e vibe \"clean\"/sabonete. Melhor em clima ameno a frio, versátil.",
+    "veredito": "Compatibilidade muito alta (9/10) — praticamente o seu arquétipo cítrico-amadeirado-especiado-frio. Nota Final (7,4) fica entre o Urban Man Elixir (Armaf, 9,1, melhor do grupo) e o próprio Sauvage original (7,33) — boa posição. Confiança Média no DNA (consenso de comunidade, não declaração oficial).",
+    "compat": 9,
+    "preco": 130,
+    "exp": "Blind Buy",
+    "nota": 7.4,
+    "score": 8.87,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 3.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Pimenta",
+      "Lavanda",
+      "Pimenta Rosa",
+      "Gerânio",
+      "Cedro"
+    ],
+    "fix": 7,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7,
+    "cb": 9,
+    "simil": 7,
+    "vers": 7,
+    "link": "https://rayhaanperfumes.com/products/nocturno",
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null,
