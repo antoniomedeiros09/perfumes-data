@@ -550,7 +550,6 @@
     "calibradoContra": [
       "623",
       "699",
-      "82",
       "707",
       "737"
     ]
@@ -3050,72 +3049,6 @@
     "fotoInspiracao": null
   },
   {
-    "id": 50,
-    "nome": "L'Eau d'Issey Pour Homme (Issey Miyake)",
-    "dna": "L'Eau d'Issey Pour Homme (Issey Miyake)",
-    "cat": "Fresh Sofisticado",
-    "ocasiao": [
-      "Trabalho",
-      "Assinatura/Casual"
-    ],
-    "origem": "Designer",
-    "status": "Curiosidade",
-    "veredito": "",
-    "compat": 8.0,
-    "preco": null,
-    "exp": "Blind Buy",
-    "nota": 7.73,
-    "score": 8.06,
-    "rankDNA": 1,
-    "flagDNA": true,
-    "melhorNac": false,
-    "melhorAr": false,
-    "sdt": 5.83,
-    "gpf": 6.67,
-    "conc": "EDP",
-    "clima": [
-      "Ameno",
-      "Calor"
-    ],
-    "periodo": [
-      "Dia",
-      "Versátil"
-    ],
-    "perfil": [
-      "Fresh",
-      "Aromático",
-      "Amadeirado",
-      "Clean"
-    ],
-    "fam": "Fresh",
-    "acordes": [
-      "Madeira",
-      "Aromático",
-      "Cítricos",
-      "Almíscar"
-    ],
-    "notas": [
-      "Limão",
-      "Madeira",
-      "Cardamomo",
-      "Vetiver"
-    ],
-    "fix": 10.0,
-    "projI": 6.0,
-    "projD": 8.0,
-    "qual": 8.0,
-    "cb": 6.0,
-    "simil": null,
-    "vers": 8.0,
-    "link": "https://www.isseymiyake.com",
-    "resumo": "Original designer clássico — o cardamomo é a nota que mais se destaca, dando o calor especiado sobre o limão de abertura, sobre um acorde aromático predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
-    "genero": "Masculino",
-    "prioridade": null,
-    "calibradoEm": null,
-    "calibradoContra": null,
-    "fotoInspiracao": null
-  },
-  {
     "id": 51,
     "nome": "The One for Men (Dolce & Gabbana)",
     "dna": "The One for Men (Dolce & Gabbana)",
@@ -5196,80 +5129,6 @@
       "161"
     ],
     "fotoInspiracao": "fotos/76.jpg"
-  },
-  {
-    "id": 82,
-    "nome": "Venti Charisma (Fragrance World)",
-    "dna": "Torino 21 (Xerjoff)",
-    "cat": "Fresh Sofisticado",
-    "ocasiao": [
-      "Trabalho",
-      "Social/Noite",
-      "Assinatura/Casual",
-      "Evento Formal"
-    ],
-    "origem": "Árabe",
-    "status": "Forte Interesse",
-    "veredito": "",
-    "compat": 10.0,
-    "preco": null,
-    "exp": "Blind Buy",
-    "nota": 8.9,
-    "score": 10,
-    "rankDNA": 1,
-    "flagDNA": true,
-    "melhorNac": false,
-    "melhorAr": true,
-    "sdt": 9.2,
-    "gpf": 6.0,
-    "conc": "EDP",
-    "clima": [
-      "Ameno",
-      "Calor"
-    ],
-    "periodo": [
-      "Dia",
-      "Versátil"
-    ],
-    "perfil": [
-      "Fresh",
-      "Aromático",
-      "Verde",
-      "Clean"
-    ],
-    "fam": "Fresh",
-    "acordes": [
-      "Hortelã",
-      "Cítricos",
-      "Almíscar",
-      "Notas Verdes"
-    ],
-    "notas": [
-      "Hortelã",
-      "Limão",
-      "Manjericão",
-      "Almíscar"
-    ],
-    "fix": 10.0,
-    "projI": 6.0,
-    "projD": 6.0,
-    "qual": 8.0,
-    "cb": 10.0,
-    "simil": 8.0,
-    "vers": 10.0,
-    "link": "https://fragranceworld.ae",
-    "resumo": "Contratipo de Torino 21 (Xerjoff) — a hortelã é a nota que mais se destaca, dando o frescor gelado à abertura cítrica, sobre um acorde cítrico predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
-    "genero": "Feminino",
-    "prioridade": null,
-    "calibradoEm": "2026-08-05",
-    "calibradoContra": [
-      "10",
-      "623",
-      "699",
-      "707",
-      "737"
-    ],
-    "fotoInspiracao": "fotos/75.jpg"
   },
   {
     "id": 83,
@@ -28384,72 +28243,6 @@
     "fotoInspiracao": "fotos/62.jpg"
   },
   {
-    "id": 463,
-    "nome": "Caos (Sapientiae Niche)",
-    "dna": "Caos (Sapientiae Niche)",
-    "cat": "Fresh Sofisticado",
-    "ocasiao": [
-      "Trabalho",
-      "Social/Noite",
-      "Assinatura/Casual"
-    ],
-    "origem": "Nicho",
-    "status": "Curiosidade",
-    "veredito": "",
-    "compat": 7.0,
-    "preco": 290.0,
-    "exp": "Sample First",
-    "nota": 6.53,
-    "score": 7.74,
-    "rankDNA": 1,
-    "flagDNA": true,
-    "melhorNac": false,
-    "melhorAr": false,
-    "sdt": 8.8,
-    "gpf": 4.0,
-    "conc": "Extrait",
-    "clima": [
-      "Ameno",
-      "Calor"
-    ],
-    "periodo": [
-      "Dia",
-      "Versátil"
-    ],
-    "perfil": [
-      "Citrico Ambarado"
-    ],
-    "fam": "Fresh",
-    "acordes": [
-      "Citrico",
-      "Especiado",
-      "Ambarado",
-      "Amadeirado"
-    ],
-    "notas": [
-      "Bergamota",
-      "Laranja",
-      "Gengibre",
-      "Cedro",
-      "Amber",
-      "Sandalo"
-    ],
-    "fix": 7.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 7.0,
-    "cb": 6.0,
-    "simil": null,
-    "vers": 6.0,
-    "link": null,
-    "resumo": "Original de nicho — o gengibre é a nota que mais se destaca, dando o toque picante sobre a laranja de abertura, sobre um acorde ambarado predominante. Melhor em clima ameno a calor, para trabalho ou assinatura/casual.",
-    "genero": "Masculino",
-    "prioridade": null,
-    "calibradoEm": null,
-    "calibradoContra": null,
-    "fotoInspiracao": null
-  },
-  {
     "id": 464,
     "nome": "Amber Noir (Orientica Premium)",
     "dna": "Santal 33 (Le Labo)",
@@ -33303,70 +33096,6 @@
     "link": "https://www.fragrantica.com/perfume/Loewe/Earth-76065.html",
     "resumo": "Original designer — a mimosa é a nota que mais se destaca, dando o toque floral-polvoroso sobre as notas aquáticas, sobre um acorde aquático predominante. Melhor em clima ameno, para trabalho ou assinatura/casual.",
     "genero": "Compartilhável",
-    "prioridade": null,
-    "calibradoEm": null,
-    "calibradoContra": null,
-    "fotoInspiracao": null
-  },
-  {
-    "id": 536,
-    "nome": "7 Cobalt (Loewe)",
-    "dna": "7 Cobalt (Loewe)",
-    "cat": "Amadeirado Sofisticado",
-    "ocasiao": [
-      "Social/Noite"
-    ],
-    "origem": "Designer",
-    "status": "Interesse",
-    "veredito": "",
-    "compat": 7.0,
-    "preco": null,
-    "exp": "Sample First",
-    "nota": 5.9,
-    "score": 7.98,
-    "rankDNA": 1,
-    "flagDNA": true,
-    "melhorNac": false,
-    "melhorAr": false,
-    "sdt": 9.07,
-    "gpf": 5.33,
-    "conc": "EDP",
-    "clima": [
-      "Ameno",
-      "Frio"
-    ],
-    "periodo": [
-      "Noite",
-      "Versátil"
-    ],
-    "perfil": [
-      "Amadeirado Aromatico"
-    ],
-    "fam": "Amadeirado",
-    "acordes": [
-      "Cedro",
-      "Incenso",
-      "Violeta",
-      "Almiscar"
-    ],
-    "notas": [
-      "Toranja",
-      "Cedro",
-      "Incenso",
-      "Violeta",
-      "Almiscar",
-      "Ambar"
-    ],
-    "fix": 6.0,
-    "projI": 6.0,
-    "projD": 4.0,
-    "qual": 7.0,
-    "cb": 4.0,
-    "simil": 6.0,
-    "vers": 6.0,
-    "link": "https://www.fragrantica.com/perfume/Loewe/Loewe-7-Cobalt-66229.html",
-    "resumo": "Original designer — o incenso é a nota que mais se destaca, dando o toque resinoso sobre a toranja de abertura, sobre um acorde de violeta predominante. Melhor em clima ameno a frio, para social/noite ou evento formal.",
-    "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null,
@@ -39300,7 +39029,6 @@
     "calibradoContra": [
       "10",
       "699",
-      "82",
       "707",
       "737"
     ],
@@ -40466,73 +40194,6 @@
     "link": null,
     "resumo": "Original de nicho — a lima é a nota que mais se destaca, dando o frescor cítrico sobre o limão de abertura, sobre um acorde cítrico predominante. Melhor em clima calor, para trabalho ou assinatura/casual.",
     "genero": "Compartilhável",
-    "prioridade": null,
-    "calibradoEm": null,
-    "calibradoContra": null
-  },
-  {
-    "id": 641,
-    "nome": "Armani Code Parfum (Giorgio Armani)",
-    "dna": "Armani Code Parfum (Giorgio Armani)",
-    "cat": "Oriental Confortável",
-    "ocasiao": [
-      "Social/Noite",
-      "Evento Formal"
-    ],
-    "origem": "Designer",
-    "status": "Em Avaliação",
-    "veredito": "",
-    "compat": 7.0,
-    "preco": null,
-    "exp": "Sample First",
-    "nota": 6.93,
-    "score": 7.18,
-    "rankDNA": 2,
-    "flagDNA": false,
-    "melhorNac": false,
-    "melhorAr": false,
-    "sdt": 8.0,
-    "gpf": 5.0,
-    "conc": "EDP",
-    "clima": [
-      "Ameno",
-      "Frio"
-    ],
-    "periodo": [
-      "Noite"
-    ],
-    "perfil": [
-      "Oriental",
-      "Amadeirado",
-      "Especiado",
-      "Sensual"
-    ],
-    "fam": "Oriental",
-    "acordes": [
-      "Cítricos",
-      "Olíbano",
-      "Couro",
-      "Âmbar",
-      "Tonka"
-    ],
-    "notas": [
-      "Bergamota",
-      "Limão",
-      "Olíbano",
-      "Couro",
-      "Fava Tonka",
-      "Âmbar"
-    ],
-    "fix": 7.0,
-    "projI": 5.0,
-    "projD": 4.0,
-    "qual": 8.0,
-    "cb": 6.0,
-    "simil": null,
-    "vers": 6.0,
-    "link": null,
-    "resumo": "Original designer — o olíbano é a nota que mais se destaca, dando o toque resinoso sobre o couro de fundo, sobre um acorde de couro predominante. Melhor em clima frio a ameno, para social/noite ou evento formal.",
-    "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null
@@ -43781,7 +43442,6 @@
       "10",
       "623",
       "699",
-      "82",
       "737"
     ],
     "ind": 10.0,
@@ -46691,7 +46351,6 @@
     "calibradoContra": [
       "10",
       "623",
-      "82",
       "707",
       "737"
     ]
@@ -46826,7 +46485,6 @@
       "10",
       "623",
       "699",
-      "82",
       "707"
     ],
     "ind": 7.5,
@@ -61871,17 +61529,17 @@
     "fam": "Amadeirado",
     "acordes": [
       "Cítrico",
-      "Amadeirado",
+      "Aromático",
       "Atalcado",
-      "Doce"
+      "Amadeirado"
     ],
     "notas": [
-      "Limão Siciliano",
-      "Cardamomo",
-      "Baunilha",
-      "Fava Tonka",
+      "Bergamota",
+      "Sálvia Esclareia",
       "Íris",
-      "Sândalo"
+      "Aldeídos",
+      "Fava Tonka",
+      "Cedro"
     ],
     "fix": 7,
     "projI": 6,
@@ -61891,7 +61549,7 @@
     "simil": null,
     "vers": 7,
     "link": null,
-    "resumo": "Flanker designer (2022), Giorgio Armani — limão siciliano e cardamomo abrem sobre baunilha e tonka, fundo de íris atalcada e sândalo. Reviews elogiam versatilidade e elegância discreta, ótimo pro escritório.",
+    "resumo": "Original designer (2022, Antoine Maisondieu) — a bergamota abre sobre folha de bergamota, evoluindo pra um coração de íris, aldeídos e sálvia esclareia (\"reinventa a assinatura do Armani Code original\"), fechando num fundo de fava tonka e cedro. Reviews: performance discreta (3-4h), mas textura sedosa e cremosa muito elogiada — \"deveria ser item permanente na coleção de qualquer um\".",
     "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
