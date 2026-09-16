@@ -43521,18 +43521,18 @@
     ],
     "origem": "Designer",
     "status": "Interesse",
-    "veredito": "",
+    "veredito": "Compatibilidade muito alta (9/10) — cítrico-aromático-amadeirado é quase seu arquétipo ideal. Qualidade percebida excelente e preço muito baixo pro nível de execução (\"niche quality\" por preço de designer). O único porém real é a performance fraca — em clima quente vira skin scent em pouco mais de 1h. Ainda assim, com esse custo-benefício e compatibilidade, é Blind Buy seguro — só ajuste a expectativa de duração.",
     "compat": 9,
     "preco": 400,
     "exp": "Blind Buy",
     "nota": 7.47,
-    "score": 7.27,
+    "score": 7.11,
     "rankDNA": null,
     "flagDNA": null,
     "melhorNac": null,
     "melhorAr": null,
-    "sdt": 6.43,
-    "gpf": 4.67,
+    "sdt": 5.8,
+    "gpf": 4.0,
     "conc": "EDT",
     "clima": [
       "Ameno",
@@ -43548,16 +43548,20 @@
     ],
     "fam": "Fresh",
     "acordes": [
-      "Cítricos",
+      "Cítrico",
       "Aromático",
       "Amadeirado",
-      "Almíscar"
+      "Atalcado"
     ],
     "notas": [
+      "Limão",
       "Bergamota",
-      "Tomilho",
+      "Mandarina",
+      "Manjerona",
       "Petitgrain",
-      "Gengibre"
+      "Gengibre",
+      "Íris",
+      "Âmbar"
     ],
     "fix": 4,
     "projI": 6,
@@ -43567,7 +43571,7 @@
     "simil": null,
     "vers": 8,
     "link": null,
-    "resumo": "Original designer — o tomilho é a nota que mais se destaca, dando o toque herbal-seco sobre a bergamota de abertura, sobre um acorde aromático predominante. Melhor em clima calor a ameno, para trabalho ou assinatura/casual.",
+    "resumo": "Original designer (2017, Rodrigo Flores-Roux, edição limitada) — inspirado nas colinas de Xalapa, no México, com suas plantações de café e cítricos. Limão, bergamota, mandarina e clementina abrem luminosos sobre tomilho e manjerona, evoluindo pra um coração de petitgrain e gengibre (\"três tipos diferentes de petitgrain\", segundo a marca), fechando num fundo de madeiras, íris, âmbar e almíscar. Reviews muito positivas (8/10), \"cheira a niche\", \"parece duas vezes mais caro do que é\" — mas performance é o ponto fraco unânime: 1-1,5h no calor antes de virar skin scent.",
     "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": null,
@@ -67605,6 +67609,603 @@
     "qual": 7,
     "cb": 5,
     "simil": null,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1065,
+    "nome": "24 Rue de l'Université (Yves Saint Laurent - YSL)",
+    "dna": "24 Rue de l'Université (Yves Saint Laurent - YSL)",
+    "cat": "Couro Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Original de nicho (coleção Le Vestiaire des Parfums, 2017, Fabrice Pellegrin) — homenagem ao atelier histórico da YSL em Paris. Incenso e cipriol abrem, evoluindo pra um acorde de camurça (suede) sobre cedro, fechando num fundo cremoso de sândalo. Reviews muito elogiosas (\"um dos melhores sandalwoods já criados\"), mas caro e com quem prefira Encre Noir/Santal 33 por menos. Melhor em clima ameno a frio, versátil dia/noite.",
+    "veredito": "Compatibilidade moderada (7/10) — sândalo-cedro-incenso tem boa afinidade amadeirada, mas é mais quente/couro que seu núcleo cítrico-frio.",
+    "compat": 7,
+    "preco": 2200,
+    "exp": "Sample First",
+    "nota": 6.93,
+    "score": 6.68,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.0,
+    "gpf": 5.0,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Dia",
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Amadeirado",
+      "Couro",
+      "Atalcado"
+    ],
+    "fam": "Amadeirado",
+    "acordes": [
+      "Amadeirado",
+      "Couro",
+      "Atalcado"
+    ],
+    "notas": [
+      "Incenso",
+      "Cipriol",
+      "Cedro",
+      "Camurça",
+      "Sândalo"
+    ],
+    "fix": 7,
+    "projI": 5,
+    "projD": 4,
+    "qual": 8,
+    "cb": 6,
+    "simil": null,
+    "vers": 8,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1066,
+    "nome": "Elixir 1870 (Granado)",
+    "dna": "Elixir 1870 (Granado)",
+    "cat": "Aromático Natural",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Original nacional (2020, coleção Vintage, perfumista Benjamin Belizon) — limão siciliano, manjericão e laranja abrem cítrico-vivos, evoluindo pra um coração aromático de alecrim, mirtilo e cardamomo, fechando num fundo de pinho, lavandina e cedro. Reviews internacionais elogiam muito: \"isso é o que eu queria que o H24 (Hermès) fosse\", projeção forte na primeira hora, 9-10h na pele. Melhor em clima ameno a frio, versátil.",
+    "veredito": "🏆 Excelente encaixe (8/10) — cítrico-aromático-amadeirado-frio é praticamente seu arquétipo, com o bônus de ser 100% nacional e muito bem avaliado internacionalmente.",
+    "compat": 8,
+    "preco": 280,
+    "exp": "Sample First",
+    "nota": 7.73,
+    "score": 7.39,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Cítrico",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Limão Siciliano",
+      "Manjericão",
+      "Alecrim",
+      "Cardamomo",
+      "Lavanda",
+      "Cedro"
+    ],
+    "fix": 8,
+    "projI": 9,
+    "projD": 6,
+    "qual": 8,
+    "cb": 8,
+    "simil": null,
+    "vers": 8,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1067,
+    "nome": "Jardim Real (Granado)",
+    "dna": "Jardim Real (Granado)",
+    "cat": "Floral Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "genero": "Feminino",
+    "status": "Em Avaliação",
+    "resumo": "Original nacional (2022, coleção Vintage, perfumista Lisa Montes) — bergamota, mandarina e pimenta rosa abrem cítrico-luminosos, evoluindo pra um coração floral de flor de laranjeira, jasmim sambac e magnólia, fechando num fundo de sândalo, almíscar e patchouli. Reviews brasileiras muito entusiasmadas: \"nem precisa de importado, cheira a perfume francês\". Melhor em clima ameno, versátil dia/noite.",
+    "veredito": "Compatibilidade moderada (6/10): a abertura bergamota-mandarina tem afinidade, mas o coração floral-branco é território feminino, fora do seu eixo principal.",
+    "compat": 6,
+    "preco": 250,
+    "exp": "Sample First",
+    "nota": 6.8,
+    "score": 6.36,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Floral",
+      "Cítrico",
+      "Amadeirado"
+    ],
+    "fam": "Floral",
+    "acordes": [
+      "Floral",
+      "Cítrico",
+      "Amadeirado"
+    ],
+    "notas": [
+      "Bergamota",
+      "Mandarina",
+      "Pimenta Rosa",
+      "Flor de Laranjeira",
+      "Sândalo",
+      "Patchouli"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 6,
+    "qual": 7,
+    "cb": 7,
+    "simil": null,
+    "vers": 7,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1068,
+    "nome": "Turath (The Spirit of Dubai)",
+    "dna": "Turath (The Spirit of Dubai)",
+    "cat": "Oriental Impactante",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Árabe",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Original de nicho árabe (2019) — pirâmide maximalista (40+ notas declaradas). Frutas secas, rosa damascena e frutas cristalizadas abrem, evoluindo pra oud, rosa, açafrão e madeiras no coração, fechando num fundo denso de fumaça, incenso, baunilha, couro, âmbar cinzento e almíscar. Inspirado na cultura e herança de Dubai. Melhor em clima frio, pra noites de inverno.",
+    "veredito": "Compatibilidade baixa (3/10): oriental-doce-âmbar-oud maximalista é bem distante do seu eixo cítrico-frio. Item de curiosidade/colecionismo mais que de uso pessoal.",
+    "compat": 3,
+    "preco": 700,
+    "exp": "Sample First",
+    "nota": 6.13,
+    "score": 5.98,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Amadeirado",
+      "Doce"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Oriental",
+      "Amadeirado",
+      "Doce",
+      "Couro"
+    ],
+    "notas": [
+      "Rosa",
+      "Oud",
+      "Baunilha",
+      "Couro",
+      "Âmbar",
+      "Almíscar"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 5,
+    "qual": 7,
+    "cb": 4,
+    "simil": null,
+    "vers": 4,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1069,
+    "nome": "Zafar (LAB8)",
+    "dna": "Turath (The Spirit of Dubai)",
+    "cat": "Oriental Impactante",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Nacional",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Turath (The Spirit of Dubai) — rosa, oud e baunilha no coração, sobre um fundo de couro, âmbar e almíscar. ⚠️ Pirâmide original tem 40+ notas — fidelidade exata difícil de confirmar sem review dedicada. Melhor em clima frio, pra noites de inverno.",
+    "veredito": "Compatibilidade baixa (3/10) — mesma leitura do original. Bom custo-benefício frente ao nicho, mas fora do seu perfil principal.",
+    "compat": 3,
+    "preco": 170,
+    "exp": "Sample First",
+    "nota": 6.6,
+    "score": 5.88,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.67,
+    "gpf": 3.33,
+    "conc": "EDP",
+    "clima": [
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Amadeirado",
+      "Doce"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Oriental",
+      "Amadeirado",
+      "Doce",
+      "Couro"
+    ],
+    "notas": [
+      "Rosa",
+      "Oud",
+      "Baunilha",
+      "Couro",
+      "Âmbar",
+      "Almíscar"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6,
+    "cb": 9,
+    "simil": 6,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1070,
+    "nome": "Vanilla | 28 (Kayali Fragrances)",
+    "dna": "Vanilla | 28 (Kayali Fragrances)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Assinatura/Casual",
+      "Social/Noite"
+    ],
+    "origem": "Designer",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Original designer (2018, Gabriela Chelariu) — jasmim cremoso e orquídea de baunilha malgaxe abrem, evoluindo pra açúcar mascavo e fava tonka no coração, fechando num fundo de âmbar, madeira de âmbar, almíscar e patchouli. Um dos gourmands mais populares/viciantes do mercado — \"blind buy safe\" segundo a comunidade. Melhor em clima frio a ameno, versátil.",
+    "veredito": "Compatibilidade muito baixa (2/10): gourmand-baunilhado-doce é sua zona de alerta clássica. Item de catálogo pro negócio de decants (altíssimo apelo comercial) mais que pra coleção pessoal.",
+    "compat": 2,
+    "preco": 650,
+    "exp": "Sample First",
+    "nota": 6.0,
+    "score": 5.33,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Baunilha",
+      "Gourmand",
+      "Ambarado"
+    ],
+    "fam": "Baunilha",
+    "acordes": [
+      "Baunilha",
+      "Gourmand",
+      "Ambarado"
+    ],
+    "notas": [
+      "Baunilha",
+      "Jasmim",
+      "Fava Tonka",
+      "Âmbar",
+      "Almíscar",
+      "Patchouli"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 4,
+    "simil": null,
+    "vers": 8,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1071,
+    "nome": "Vanilla (LAB8)",
+    "dna": "Vanilla | 28 (Kayali Fragrances)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Assinatura/Casual",
+      "Social/Noite"
+    ],
+    "origem": "Nacional",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Vanilla | 28 (Kayali) — jasmim e baunilha orquídea abrem, evoluindo pra açúcar mascavo e fava tonka, fechando num fundo de âmbar, almíscar e patchouli. ⚠️ Sem review independente de fidelidade encontrada. Melhor em clima frio a ameno, versátil.",
+    "veredito": "Compatibilidade muito baixa (2/10) — mesma leitura do original. Ótimo CB (R$180 vs R$650), mas fora do seu eixo pessoal. Forte candidato pro negócio de decants — Kayali Vanilla 28 é viral.",
+    "compat": 2,
+    "preco": 180,
+    "exp": "Sample First",
+    "nota": 7.25,
+    "score": 5.77,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.93,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Baunilha",
+      "Gourmand",
+      "Ambarado"
+    ],
+    "fam": "Baunilha",
+    "acordes": [
+      "Baunilha",
+      "Gourmand",
+      "Ambarado"
+    ],
+    "notas": [
+      "Baunilha",
+      "Jasmim",
+      "Fava Tonka",
+      "Âmbar",
+      "Almíscar",
+      "Patchouli"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 9,
+    "simil": 7,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1072,
+    "nome": "Jubilation 40 (Amouage)",
+    "dna": "Jubilation 40 (Amouage)",
+    "cat": "Oriental Impactante",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Nicho",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Original de nicho (2023, Bertrand Duchaufour, coleção Exceptional Extraits, 40% concentração, macerado 10 semanas) — reinterpretação do clássico Jubilation XXV. Amora preta, groselha preta e alecrim abrem frutado-herbais, evoluindo pra giesta, incenso, canela e cravo no coração, fechando num fundo denso de patchouli, mirra, cedro, oud e âmbar cinzento. Reviews muito polarizadas — de \"obra-prima, 10/10\" a \"guerra de gangues de fedor\". Melhor em clima frio, pra evento formal.",
+    "veredito": "Compatibilidade baixa (4/10): oriental-resinoso-incenso pesado é distante do seu eixo cítrico-frio, mas é objetivamente um dos nichos mais aclamados/polarizadores do momento.",
+    "compat": 4,
+    "preco": 2800,
+    "exp": "Sample First",
+    "nota": 6.27,
+    "score": 6.28,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.93,
+    "gpf": 4.67,
+    "conc": "Extrait de Parfum",
+    "clima": [
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Oriental",
+      "Amadeirado",
+      "Especiado",
+      "Couro"
+    ],
+    "notas": [
+      "Amora Preta",
+      "Incenso",
+      "Canela",
+      "Oud",
+      "Mirra",
+      "Âmbar Cinzento"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 5,
+    "qual": 8,
+    "cb": 3,
+    "simil": null,
+    "vers": 4,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1073,
+    "nome": "Al Zahabi (LAB8)",
+    "dna": "Jubilation 40 (Amouage)",
+    "cat": "Oriental Impactante",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "origem": "Nacional",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Jubilation 40 (Amouage) — amora preta e incenso abrem, evoluindo pra canela sobre um fundo de oud, mirra e âmbar cinzento. ⚠️ Sem review independente de fidelidade encontrada; original é notoriamente complexo (17+ notas declaradas), fidelidade total é difícil pra qualquer dupe. Melhor em clima frio, pra evento formal.",
+    "veredito": "Compatibilidade baixa (4/10) — mesma leitura do original. Excelente CB (R$220 vs R$2.800), mas o perfil oriental-resinoso pesado não é o seu.",
+    "compat": 4,
+    "preco": 220,
+    "exp": "Sample First",
+    "nota": 7.25,
+    "score": 6.49,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 7.8,
+    "gpf": 4.0,
+    "conc": "EDP",
+    "clima": [
+      "Frio"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "perfil": [
+      "Oriental",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "fam": "Oriental",
+    "acordes": [
+      "Oriental",
+      "Amadeirado",
+      "Especiado",
+      "Couro"
+    ],
+    "notas": [
+      "Amora Preta",
+      "Incenso",
+      "Canela",
+      "Oud",
+      "Mirra",
+      "Âmbar Cinzento"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 9,
+    "simil": 7,
     "vers": 6,
     "link": null,
     "prioridade": null,
