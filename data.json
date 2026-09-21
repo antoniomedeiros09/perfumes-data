@@ -2468,16 +2468,18 @@
     ],
     "fam": "Luxury Clean",
     "acordes": [
-      "Almíscar",
-      "Madeira",
-      "Âmbar",
-      "Especiado"
+      "Cítrico",
+      "Frutado",
+      "Especiado",
+      "Ambarado",
+      "Almíscar"
     ],
     "notas": [
-      "Juniper",
+      "Bergamota",
+      "Frutas Vermelhas",
+      "Noz-moscada",
+      "Abacaxi",
       "Coentro",
-      "Almíscar",
-      "Ambroxan",
       "Baunilha"
     ],
     "fix": 10,
@@ -2488,7 +2490,7 @@
     "simil": null,
     "vers": 10,
     "link": "https://www.franciskurkdjian.com/int-en/p/gentle-fluidity-silver-edition---eau-de-parfum-RA122921.html",
-    "resumo": "Original de nicho (2019) — o ambroxan é a nota que mais se destaca, dando o caráter almiscarado-mineral característico da linha Gentle Fluidity, sobre um acorde ambarado predominante. Melhor em clima ameno a versátil, para trabalho, social/noite ou assinatura/casual.",
+    "resumo": "Original de nicho (2019, Maison Francis Kurkdjian) — bergamota, frutas vermelhas, abacaxi e noz-moscada abrem numa dobradinha cítrico-frutada incomum, com coentro no coração, fechando num fundo de madeira ambarada, cedro, almíscar e baunilha. Perfil aromático-especiado, \"fluidez\" e leveza são a assinatura da coleção. Melhor em clima ameno a calor, versátil.",
     "genero": "Compartilhável",
     "prioridade": null,
     "calibradoEm": null,
@@ -2497,8 +2499,8 @@
   {
     "id": 42,
     "nome": "Aether Extrait (Fragrance World)",
-    "dna": "Gentle Fluidity Silver (Maison Francis Kurkdjian)",
-    "cat": "Luxury Clean Impactante",
+    "dna": "Greenley (Parfums de Marly)",
+    "cat": "Fresh Confortável",
     "ocasiao": [
       "Trabalho",
       "Social/Noite",
@@ -2506,19 +2508,19 @@
       "Evento Formal"
     ],
     "origem": "Árabe",
-    "status": "Em Avaliação",
-    "veredito": "Vale muito a pena: nota máxima em quase tudo — compatibilidade, C-B, fidelidade, versatilidade e fixação (>10h) — cobrindo um DNA de nicho (Gentle Fluidity Silver, MFK) ausente da coleção. Um dos casos mais sólidos do lote.",
-    "compat": 10,
+    "status": "Interesse",
+    "veredito": "Com o Sherif já na coleção, o Aether continua fazendo sentido como Interesse — eles NÃO são redundantes. Reviews diretas comparando os dois: Sherif é \"mais doce, mais frutado, mais simples, sabonete\" (cedro e musgo quase imperceptíveis), enquanto Aether tem \"madeira e cítrico mais fortes\", mais fiel ao equilíbrio do Greenley original. São duas leituras diferentes do mesmo DNA — Sherif pro dia a dia descontraído, Aether pra quando você quer o lado mais sério/amadeirado do perfume. Vale ter os dois.",
+    "compat": 9,
     "preco": null,
     "exp": "Blind Buy",
-    "nota": 9.4,
+    "nota": 9.3,
     "score": 10,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": false,
     "melhorAr": true,
-    "sdt": 7.1,
-    "gpf": 8,
+    "sdt": 8.1,
+    "gpf": 8.0,
     "conc": "Extrait",
     "clima": [
       "Ameno",
@@ -2530,36 +2532,35 @@
       "Versátil"
     ],
     "perfil": [
-      "Clean",
-      "Aromático",
-      "Ambarado",
-      "Fresh",
+      "Frutas",
+      "Notas Verdes",
       "Amadeirado"
     ],
-    "fam": "Luxury Clean",
+    "fam": "Amadeirado",
     "acordes": [
-      "Almíscar",
+      "Frutas",
+      "Notas Verdes",
+      "Cítricos",
       "Madeira",
-      "Âmbar",
-      "Especiado",
-      "Aromático"
+      "Almíscar"
     ],
     "notas": [
-      "Juniper",
-      "Coentro",
-      "Almíscar",
-      "Ambroxan",
-      "Madeira Ambarada"
+      "Maçã Verde",
+      "Bergamota",
+      "Petitgrain",
+      "Cashmeran",
+      "Cedro",
+      "Musgo de Carvalho"
     ],
     "fix": 10,
     "projI": 6,
     "projD": 10,
-    "qual": 8,
+    "qual": 9,
     "cb": 10,
-    "simil": 10,
-    "vers": 10,
+    "simil": 9,
+    "vers": 9,
     "link": null,
-    "resumo": "Contratipo de Gentle Fluidity Silver (Maison Francis Kurkdjian) — a madeira ambarada é a nota que mais se destaca, dando corpo à base almiscarada, sobre um acorde ambarado predominante. Melhor em clima ameno a versátil, para trabalho ou social/noite.",
+    "resumo": "Contratipo de Greenley (Parfums de Marly), NÃO do Gentle Fluidity Silver (correção nesta sessão — mapeamento anterior estava errado). Maçã verde, bergamota e petitgrain abrem numa explosão frutado-cítrica bem realista, evoluindo pra um coração de cashmeran cremoso com violeta, fechando num fundo de cedro e musgo de carvalho. Consenso forte da comunidade (Reddit/Fragrantica/TikTok/YouTube, incluindo artigo dedicado ScentClones): \"o clone mais próximo do Greenley disponível hoje\", \"90-95% da experiência de luxo por 1/6-1/8 do preço\". Mais equilibrado e amadeirado-cítrico que o Sherif, que puxa mais pro lado frutado-doce-sabonete. Melhor em clima ameno a calor, versátil.",
     "genero": "Compartilhável",
     "prioridade": null,
     "calibradoEm": null,
@@ -38078,17 +38079,17 @@
     ],
     "origem": "Nacional",
     "status": "Em Avaliação",
-    "veredito": "",
+    "veredito": "Compatibilidade alta (9/10). SDT recalculado caiu de 8,87 para 4,87 (Score 8,23→7,23) porque, com bergamota agora corretamente incluída, o acorde cítrico já está bem saturado na sua Coleção Real (5+ ocorrências) — a novidade real desse contratipo é menor do que o registro anterior sugeria. Ainda assim, é o melhor representante Nacional do grupo (rankDNA 3, mas único nacional).",
     "compat": 9.0,
     "preco": null,
     "exp": "Blind Buy",
     "nota": 7.6,
-    "score": 8.23,
+    "score": 7.23,
     "rankDNA": 3,
     "flagDNA": false,
     "melhorNac": true,
     "melhorAr": false,
-    "sdt": 8.87,
+    "sdt": 4.87,
     "gpf": 4.33,
     "conc": "EDP",
     "clima": [
@@ -38101,22 +38102,21 @@
       "Versátil"
     ],
     "perfil": [
-      "Aromático",
+      "Cítrico",
       "Especiado",
-      "Fresco",
-      "Almiscarado"
+      "Amadeirado"
     ],
     "fam": "Aromático",
     "acordes": [
-      "Zimbro",
-      "Especiarias",
-      "Madeira",
-      "Almíscar",
-      "Baunilha"
+      "Cítrico",
+      "Especiado",
+      "Amadeirado",
+      "Almíscar"
     ],
     "notas": [
       "Bagas de Zimbro",
-      "Noz-Moscada",
+      "Bergamota",
+      "Noz-moscada",
       "Coentro",
       "Almíscar",
       "Baunilha"
@@ -38129,7 +38129,7 @@
     "simil": 8.0,
     "vers": 8.0,
     "link": null,
-    "resumo": "Contratipo de Gentle Fluidity Silver (Maison Francis Kurkdjian) — as bagas de zimbro são a nota que mais se destaca, dando o toque gin-like sobre a noz-moscada, sobre um acorde de zimbro predominante. Melhor em clima ameno a frio, para trabalho ou social/noite.",
+    "resumo": "Contratipo de Gentle Fluidity Silver (Maison Francis Kurkdjian) — bagas de zimbro e bergamota abrem aromático-cítricas, evoluindo pra um coração de noz-moscada e coentro, fechando num fundo de almíscar e baunilha. Revalidado nesta sessão após correção da pirâmide do original (que só tinha 5 notas genéricas registradas antes). Melhor em clima ameno a frio, para trabalho ou social/noite.",
     "genero": "Compartilhável",
     "prioridade": null,
     "calibradoEm": null,
@@ -45651,7 +45651,7 @@
       "Assinatura/Casual"
     ],
     "origem": "Designer",
-    "status": "Descartado",
+    "status": "Interesse",
     "veredito": "",
     "compat": 6,
     "preco": 300,
@@ -68310,6 +68310,406 @@
     "simil": 7,
     "vers": 6,
     "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1074,
+    "nome": "Lazuli (Al Wataniah)",
+    "dna": "Neroli Portofino (Tom Ford)",
+    "cat": "Fresh Luminoso",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo de Neroli Portofino (Tom Ford) — limão, bergamota, mandarina e laranja amarga abrem cítricos, evoluindo pra um coração de neroli e flor de laranjeira africana, fechando num fundo de âmbar. Comunidade confirma alta fidelidade: \"95% similar, retornei meu frasco do TF depois de comparar\", \"perfeito clone\". Melhor em clima calor a ameno, versátil dia todo.",
+    "veredito": "Compatibilidade alta (8/10) — cítrico-neroli-âmbar bate muito bem no seu eixo. Fidelidade confirmada por múltiplas fontes independentes (\"pretty much a perfect clone\"). Ótimo custo-benefício frente ao Tom Ford.",
+    "compat": 8,
+    "preco": 170,
+    "exp": "Sample First",
+    "nota": 6.6,
+    "score": 6.75,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.77,
+    "gpf": 1.33,
+    "conc": "EDP",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Floral",
+      "Ambarado"
+    ],
+    "fam": "Cítrico",
+    "acordes": [
+      "Cítrico",
+      "Floral",
+      "Ambarado"
+    ],
+    "notas": [
+      "Limão",
+      "Bergamota",
+      "Mandarina",
+      "Laranja Amarga",
+      "Neroli",
+      "Âmbar"
+    ],
+    "fix": 4,
+    "projI": 5,
+    "projD": 3,
+    "qual": 6,
+    "cb": 8,
+    "simil": 9,
+    "vers": 7,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1075,
+    "nome": "Kayan Midnight (Al Wataniah)",
+    "dna": "Bleu de Chanel L'Exclusif (Chanel)",
+    "cat": "Aromático Refinado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite"
+    ],
+    "origem": "Árabe",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Lançamento árabe (2026, coleção Eternal) — declarado explicitamente pela loja como \"Inspired by Bleu de Chanel L'Exclusif\". Toranja, limão, hortelã e pimenta rosa abrem cítrico-picantes, evoluindo pra um coração de gengibre, noz-moscada e jasmim, fechando num fundo amadeirado-defumado de incenso, vetiver, cedro, sândalo, patchouli e almíscar branco. Alta concentração, 9-11h de duração. Melhor em clima ameno a frio, versátil dia/noite.",
+    "veredito": "Compatibilidade alta (7/10) — cítrico-especiado-amadeirado bate bem no seu eixo. DNA já representado na base (Nocturno Pour Homme Elixir, id 1005, status Curiosidade) — vale comparar os dois antes de decidir qual priorizar.",
+    "compat": 7,
+    "preco": 180,
+    "exp": "Sample First",
+    "nota": 6.95,
+    "score": 6.59,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.43,
+    "gpf": 4.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Dia",
+      "Noite",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Cítrico",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "notas": [
+      "Toranja",
+      "Limão",
+      "Hortelã",
+      "Pimenta Rosa",
+      "Gengibre",
+      "Vetiver",
+      "Cedro",
+      "Sândalo"
+    ],
+    "fix": 7,
+    "projI": 6,
+    "projD": 4,
+    "qual": 7,
+    "cb": 8,
+    "simil": 6,
+    "vers": 7,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1076,
+    "nome": "Ekos Fava (Natura)",
+    "dna": "Ekos Fava (Natura)",
+    "cat": "Gourmand Confortável",
+    "ocasiao": [
+      "Assinatura/Casual"
+    ],
+    "origem": "Nacional",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Original nacional (2026, coleção Ekos, perfumistas Verônica Kato, Christophe Raynaud e Antoine Maisondieu — colaboração rara de peso pra uma marca de massa brasileira). Conceito de tripla baunilha: bourbon, madagascar e bahiana, celebrando as florestas do Brasil e Madagascar. Reviews divididas — de \"adorei\" a \"cheira a potpourri\". Melhor em clima ameno, versátil.",
+    "veredito": "Compatibilidade muito baixa (2/10): baunilha pura é sua zona de alerta clássica. Time de perfumistas impressionante pro segmento, mas o perfil não é o seu — mais um candidato de catálogo/presente que de coleção pessoal.",
+    "compat": 2,
+    "preco": 390,
+    "exp": "Sample First",
+    "nota": 6.33,
+    "score": 5.28,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.87,
+    "gpf": 4.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Gourmand",
+      "Baunilha"
+    ],
+    "fam": "Gourmand",
+    "acordes": [
+      "Gourmand",
+      "Baunilha"
+    ],
+    "notas": [
+      "Baunilha Bourbon",
+      "Baunilha Madagascar",
+      "Baunilha Bahiana"
+    ],
+    "fix": 6,
+    "projI": 4,
+    "projD": 3,
+    "qual": 8,
+    "cb": 5,
+    "simil": null,
+    "vers": 5,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1077,
+    "nome": "Higher Energy (Dior)",
+    "dna": "Higher Energy (Dior)",
+    "cat": "Aromático Natural",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "genero": "Masculino",
+    "status": "Em Avaliação",
+    "resumo": "Original designer (2003, Nathalie Gracia-Cetto e Carlos Viñals) — zimbro, abacaxi, toranja, melão e hortelã abrem numa explosão cítrico-frutada energética, evoluindo pra um coração de pimenta, noz-moscada e incenso, fechando num fundo amadeirado-chipre de cedro, vetiver, musgo de carvalho, sândalo, almíscar e labdanum. Considerado \"um Dior pouco conhecido que nunca foi um grande sucesso\", mas tecnicamente sólido — \"perfume cítrico com base amadeirada-labdânica-chipre\". Melhor em clima calor a ameno, versátil.",
+    "veredito": "Compatibilidade alta (7/10) — a estrutura cítrico-especiado-amadeirado-chipre bate bem no seu eixo, apesar da abertura frutada (abacaxi/melão) ser um pouco mais doce que seu padrão. Preço acessível (~US$115) pra um Dior descontinuado/pouco procurado.",
+    "compat": 7,
+    "preco": 600,
+    "exp": "Sample First",
+    "nota": 6.27,
+    "score": 6.33,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 5.93,
+    "gpf": 4.67,
+    "conc": "EDT",
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado"
+    ],
+    "fam": "Cítrico",
+    "acordes": [
+      "Cítrico",
+      "Aromático",
+      "Amadeirado",
+      "Especiado"
+    ],
+    "notas": [
+      "Zimbro",
+      "Toranja",
+      "Pimenta",
+      "Noz-moscada",
+      "Cedro",
+      "Vetiver"
+    ],
+    "fix": 6,
+    "projI": 6,
+    "projD": 4,
+    "qual": 6,
+    "cb": 7,
+    "simil": null,
+    "vers": 6,
+    "link": null,
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1078,
+    "nome": "Varakh Silver (Fragrance World)",
+    "dna": "Gentle Fluidity Silver (Maison Francis Kurkdjian)",
+    "cat": "Aromático Confortável",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "origem": "Árabe",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo declarado oficialmente ('Inspired by Gentle Fluidity Silver MFK', 2024) — zimbro e folha de coentro abrem aromático-verde, evoluindo pra um coração de noz-moscada, fechando num fundo de almíscar, âmbar e baunilha. Reviews divergem bastante: \"sente como gin-tônica\", \"cheira sintético\", \"não vale mais que US$25\" vs \"pode ser sim um Gentle Fluidity válido\". Performance fraca é queixa recorrente (~6h pele, só 1h de projeção). Mesma casa (Fragrance World) do seu Aether Extrait. Melhor em clima ameno, pra trabalho ou assinatura/casual.",
+    "veredito": "Compatibilidade moderada (6/10) — aromático-especiado-ambarado tem afinidade real, mas reviews são bem divididas sobre qualidade/performance (\"sintético\" é queixa comum). Diferente do Aether Extrait (que é excelente e sem contestação), este pede Sample First antes de qualquer decisão — não é Blind Buy seguro.",
+    "compat": 6,
+    "preco": 130,
+    "exp": "Sample First",
+    "nota": 5.5,
+    "score": 5.31,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 6.83,
+    "gpf": 3.67,
+    "conc": "EDP",
+    "clima": [
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia",
+      "Versátil"
+    ],
+    "perfil": [
+      "Aromático",
+      "Especiado",
+      "Ambarado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Aromático",
+      "Especiado",
+      "Ambarado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Zimbro",
+      "Coentro",
+      "Noz-moscada",
+      "Almíscar",
+      "Âmbar",
+      "Baunilha"
+    ],
+    "fix": 5,
+    "projI": 4,
+    "projD": 2,
+    "qual": 5,
+    "cb": 8,
+    "simil": 6,
+    "vers": 6,
+    "link": "https://arabianscents.net/product/eau-de-parfum-varakh-silver-by-fragrance-world-unisex-100-ml/",
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null
+  },
+  {
+    "id": 1079,
+    "nome": "Silver Fluid (DUA Fragrances)",
+    "dna": "Gentle Fluidity Silver (Maison Francis Kurkdjian)",
+    "cat": "Aromático Sofisticado",
+    "ocasiao": [
+      "Trabalho",
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "origem": "Designer",
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "resumo": "Contratipo americano (DUA Fragrances) — noz-moscada indonésia e bagas de zimbro macedônias abrem, evoluindo pra um coração de coentro, fechando num fundo de madeiras ambaradas e baunilha sobre almíscar. O dupe mais citado e mais bem avaliado da comunidade internacional: \"95-98% idêntico, nem precisei comparar lado a lado\", \"favorito entre meus 20 DUAs\". Diferença apontada: DUA tem mais fixação/projeção que o MFK original, que é mais leve e aéreo. Melhor em clima ameno a frio, versátil.",
+    "veredito": "Compatibilidade alta (9/10) — mesmo perfil do Fluidité, mas com fidelidade muito mais bem documentada e consistente (reviews unânimes, ao contrário do Varakh Silver que diverge muito). ⚠️ DUA é marca de venda direta americana — fora do seu circuito BR/Paraguai, mas útil como referência de qualidade/fidelidade real do DNA.",
+    "compat": 9,
+    "preco": 200,
+    "exp": "Blind Buy",
+    "nota": 8.55,
+    "score": 7.87,
+    "rankDNA": null,
+    "flagDNA": false,
+    "melhorNac": false,
+    "melhorAr": false,
+    "sdt": 4.87,
+    "gpf": 4.33,
+    "conc": "EDP",
+    "clima": [
+      "Ameno",
+      "Frio"
+    ],
+    "periodo": [
+      "Versátil"
+    ],
+    "perfil": [
+      "Cítrico",
+      "Especiado",
+      "Amadeirado"
+    ],
+    "fam": "Aromático",
+    "acordes": [
+      "Cítrico",
+      "Especiado",
+      "Amadeirado",
+      "Almíscar"
+    ],
+    "notas": [
+      "Noz-moscada",
+      "Bagas de Zimbro",
+      "Coentro",
+      "Madeira Ambarada",
+      "Baunilha",
+      "Almíscar"
+    ],
+    "fix": 8,
+    "projI": 7,
+    "projD": 6,
+    "qual": 9,
+    "cb": 8,
+    "simil": 9,
+    "vers": 8,
+    "link": "https://theduabrand.com/products/silver-fluid",
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null,
