@@ -69608,25 +69608,25 @@
     "id": 1076,
     "nome": "Ekos Fava (Natura)",
     "dna": "Ekos Fava (Natura)",
-    "cat": "Gourmand Confortável",
+    "cat": "Oriental Confortável",
     "ocasiao": [
       "Assinatura/Casual"
     ],
     "origem": "Nacional",
     "genero": "Compartilhável",
     "status": "Em Avaliação",
-    "resumo": "Original nacional (2026, coleção Ekos, perfumistas Verônica Kato, Christophe Raynaud e Antoine Maisondieu — colaboração rara de peso pra uma marca de massa brasileira). Conceito de tripla baunilha: bourbon, madagascar e bahiana, celebrando as florestas do Brasil e Madagascar. Reviews divididas — de \"adorei\" a \"cheira a potpourri\". Melhor em clima ameno, versátil.",
-    "veredito": "Compatibilidade muito baixa (2/10): baunilha pura é sua zona de alerta clássica. Time de perfumistas impressionante pro segmento, mas o perfil não é o seu — mais um candidato de catálogo/presente que de coleção pessoal.",
-    "compat": 2,
+    "resumo": "Original nacional (2026, coleção Ekos, perfumistas Verônica Kato, Christophe Raynaud e Antoine Maisondieu). Pirâmide sem camadas (fonte: Fragrantica/site oficial) — é o encontro de três baunilhas: Bahiana, Bourbon e Madagascar, sobre acordes de pó, doçura e resinoso/balsâmico. Classificação oficial: Oriental Vanilla. Reviews divididas — de \"adorei\" a \"cheira a potpourri\". Melhor em clima ameno, versátil.",
+    "veredito": "Compatibilidade moderada-alta (7/10), CORRIGIDO: baunilha não é zona de alerta (isso é Oud dominante) — é seu 3º eixo confirmado (oriental-doce-quente, como Khamrah Qahwa). Perde pontos por ser baunilha pura, sem especiaria/café, mais simples que suas referências de ocasião especial.",
+    "compat": 7,
     "preco": 390,
     "exp": "Sample First",
-    "nota": 6.6,
-    "score": 4.56,
+    "nota": 7.4,
+    "score": 6.96,
     "rankDNA": 1,
     "flagDNA": true,
     "melhorNac": true,
     "melhorAr": false,
-    "sdt": 2.8,
+    "sdt": 6.3,
     "gpf": 4.0,
     "conc": "EDP",
     "clima": [
@@ -69636,25 +69636,29 @@
       "Versátil"
     ],
     "perfil": [
-      "Gourmand",
+      "Oriental",
       "Baunilha"
     ],
-    "fam": "Gourmand",
+    "fam": "Oriental",
     "acordes": [
-      "Gourmand",
-      "Baunilha"
+      "Baunilha",
+      "Atalcado",
+      "Doce",
+      "Resinoso"
     ],
     "notas": [
-      "Baunilha"
+      "Baunilha Bahiana",
+      "Baunilha Bourbon",
+      "Baunilha Madagascar"
     ],
     "fix": 8.0,
     "projI": 8.0,
     "projD": 6.0,
     "qual": 8,
-    "cb": 5,
+    "cb": 8,
     "simil": null,
     "vers": 5,
-    "link": null,
+    "link": "https://www.fragrantica.com/perfume/Natura/Ekos-Fava-138819.html",
     "prioridade": null,
     "calibradoEm": null,
     "calibradoContra": null,
