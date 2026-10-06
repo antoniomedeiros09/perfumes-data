@@ -8443,7 +8443,7 @@
     "exp": "Blind Buy",
     "nota": 7.9,
     "score": 8.0,
-    "rankDNA": 5,
+    "rankDNA": 4,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
@@ -12680,17 +12680,17 @@
     ],
     "origem": "Árabe",
     "status": "Interesse",
-    "veredito": "Fresh-cítrico com gengibre e âmbar cinzento — achado: pirâmide oficial não confirma perfil marinho (sem notas aquáticas), acorde corrigido para cítrico-especiado. Fora dos arquétipos centrais.",
-    "compat": 10.0,
+    "veredito": "Compat 7/10 (antes 10): cítrico-gengibre-vetiver toca o eixo 1, mas sem a madeira seca nem a pimenta fria do TdH ETF; a pirâmide não tem notas marinhas. Slot cítrico já saturado (Aquatica, Terre d'Hermès). Poucos reviews (3 no Parfumo).",
+    "compat": 7,
     "preco": 290.0,
     "exp": "Blind Buy",
     "nota": 8.1,
-    "score": 8.29,
-    "rankDNA": 4,
+    "score": 7.67,
+    "rankDNA": 6,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
-    "sdt": 3.83,
+    "sdt": 4.33,
     "gpf": 6.67,
     "conc": "EDP",
     "clima": [
@@ -12701,7 +12701,9 @@
       "Dia"
     ],
     "perfil": [
-      "Cítrico Aromático"
+      "Cítrico",
+      "Especiado Fresco",
+      "Aromático"
     ],
     "fam": "Fresh",
     "acordes": [
@@ -12711,10 +12713,13 @@
       "Almíscar"
     ],
     "notas": [
-      "Laranja",
       "Mandarina",
       "Bergamota",
+      "Laranja",
       "Gengibre",
+      "Neroli",
+      "Pimenta Rosa",
+      "Vetiver",
       "Âmbar Cinzento",
       "Almíscar"
     ],
@@ -12726,7 +12731,7 @@
     "simil": 7,
     "vers": 8,
     "link": "https://www.thekingofparfums.com.br/produtos/rayhaan-adonis-icarus-edp-100ml/",
-    "resumo": "Contratipo de Afternoon Swim (Louis Vuitton) — o gengibre traz o toque picante sobre os cítricos brilhantes da abertura, coração de néroli, gengibre e pimenta rosa, fundo de âmbar cinzento, almíscar e vetiver, sobre acorde cítrico-especiado predominante (pirâmide: Fragrantica). Melhor em clima Calor, para Assinatura/Casual.",
+    "resumo": "Contratipo árabe (Rayhaan, 2025) do Afternoon Swim (LV); revendedores também citam Eros Energy (Versace) e uma mistura com Imagination. Mandarina, bergamota e laranja dominam a abertura, sobre gengibre, neroli e pimenta rosa no coração. Fundo de vetiver, âmbar cinzento e almíscar. Parfumo: cheiro 8,5, fixação e projeção 6,5 (só 3 notas). Melhor em clima Calor e Ameno, para Trabalho e Assinatura/Casual.",
     "genero": "Masculino",
     "prioridade": null,
     "calibradoEm": "2026-08-05",
@@ -12742,7 +12747,7 @@
       "680"
     ],
     "fotoInspiracao": "fotos/132_insp.jpg",
-    "confianca": "Alta"
+    "confianca": "Média"
   },
   {
     "id": 205,
@@ -41557,7 +41562,7 @@
     "exp": "Blind Buy",
     "nota": 7.98,
     "score": 7.83,
-    "rankDNA": 6,
+    "rankDNA": 5,
     "flagDNA": false,
     "melhorNac": false,
     "melhorAr": false,
@@ -75180,5 +75185,232 @@
     "sdt": 5.5,
     "nota": 7.73,
     "score": 7.03
+  },
+  {
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null,
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "exp": "Sample First",
+    "melhorNac": false,
+    "melhorAr": true,
+    "rankDNA": 1,
+    "flagDNA": true,
+    "link": null,
+    "possuiDesde": null,
+    "possuiDesdeEstimado": null,
+    "possuiDesdeConfianca": null,
+    "nota_destaque": "Íris",
+    "simil": null,
+    "id": 1155,
+    "nome": "Black Exposed (Lattafa)",
+    "dna": "Black Exposed (Lattafa)",
+    "origem": "Árabe",
+    "cat": "Oriental Sedutor",
+    "fam": "Oriental",
+    "ocasiao": [
+      "Social/Noite",
+      "Assinatura/Casual"
+    ],
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "conc": "EDP",
+    "perfil": [
+      "Resinoso",
+      "Doce",
+      "Atalcado"
+    ],
+    "acordes": [
+      "Âmbar",
+      "Doce",
+      "Atalcado",
+      "Resinoso"
+    ],
+    "notas": [
+      "Olíbano",
+      "Toffee",
+      "Pimenta Rosa",
+      "Íris",
+      "Cacau",
+      "Healingwood",
+      "Baunilha",
+      "Edenolide",
+      "Ládano"
+    ],
+    "compat": 8,
+    "qual": 7,
+    "cb": 9,
+    "vers": 6,
+    "fix": 8,
+    "projI": 8,
+    "projD": 6,
+    "preco": 240,
+    "confianca": "Baixa",
+    "resumo": "Original árabe (Lattafa, linha Badee Al Oud). O olíbano com toffee abre defumado e doce, sobre pimenta rosa; a íris com cacau domina o coração, com healingwood. Fundo de baunilha, edenolide e ládano. Apesar do nome, a pirâmide não lista oud. Um revendedor compara ao Sugar Blast (Initio), mas as pirâmides não batem; tratei como criação própria. Melhor em clima Frio e Ameno, para Social/Noite e Assinatura/Casual.",
+    "veredito": "Compat 8/10: íris com cacau, baunilha e ládano cruza o eixo Prada L'Homme (íris) com o eixo noturno (cacau, baunilha, resina). Sem oud na pirâmide. Fonte única (revendedor): Confiança Baixa; sample antes de comprar.",
+    "gpf": 4.67,
+    "sdt": 6.43,
+    "nota": 7.47,
+    "score": 7.32
+  },
+  {
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null,
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "exp": "Sample First",
+    "melhorNac": false,
+    "melhorAr": true,
+    "rankDNA": 1,
+    "flagDNA": true,
+    "link": null,
+    "possuiDesde": null,
+    "possuiDesdeEstimado": null,
+    "possuiDesdeConfianca": null,
+    "nota_destaque": null,
+    "simil": null,
+    "id": 1156,
+    "nome": "Gold Noir (Maison Asrar)",
+    "dna": "Gold Noir (Maison Asrar)",
+    "origem": "Árabe",
+    "cat": "Oriental Sofisticado",
+    "fam": "Oriental",
+    "ocasiao": [
+      "Social/Noite",
+      "Evento Formal"
+    ],
+    "clima": [
+      "Frio",
+      "Ameno"
+    ],
+    "periodo": [
+      "Noite"
+    ],
+    "conc": "EDP",
+    "perfil": [
+      "Defumado",
+      "Amadeirado",
+      "Floral"
+    ],
+    "acordes": [
+      "Amadeirado",
+      "Defumado",
+      "Âmbar",
+      "Floral"
+    ],
+    "notas": [
+      "Toranja",
+      "Especiarias",
+      "Fumaça",
+      "Rosa",
+      "Cashmeran",
+      "Âmbar",
+      "Musgo",
+      "Vetiver",
+      "Almíscar"
+    ],
+    "compat": 5,
+    "qual": 7,
+    "cb": 9,
+    "vers": 5,
+    "fix": 8,
+    "projI": 7,
+    "projD": 6,
+    "preco": 200,
+    "confianca": "Média",
+    "resumo": "Original árabe (Maison Asrar, 2024; o Parfumo o lista na \"Cartier Collection\"), oriental-amadeirado defumado. A toranja com especiarias abre; fumaça, rosa e cashmeran formam o coração. Fundo de âmbar, musgo, vetiver, almíscar e notas doces. Não identifiquei o perfume Cartier de origem, então tratei como criação própria. Melhor em clima Frio e Ameno, para Social/Noite e Evento Formal.",
+    "veredito": "Compat 5/10: toranja e vetiver tocam o eixo 1, mas o coração de fumaça com rosa é território novo, e a fumaça pode lembrar cigarro (seu veto). Preço estimado a partir de AED 145. Sample obrigatório.",
+    "gpf": 5.0,
+    "sdt": 7.5,
+    "nota": 7.27,
+    "score": 6.72
+  },
+  {
+    "prioridade": null,
+    "calibradoEm": null,
+    "calibradoContra": null,
+    "fotoInspiracao": null,
+    "fotoPerfume": null,
+    "genero": "Compartilhável",
+    "status": "Em Avaliação",
+    "exp": "Sample First",
+    "melhorNac": false,
+    "melhorAr": false,
+    "rankDNA": 10,
+    "flagDNA": false,
+    "link": null,
+    "possuiDesde": null,
+    "possuiDesdeEstimado": null,
+    "possuiDesdeConfianca": null,
+    "nota_destaque": null,
+    "simil": 5,
+    "id": 1157,
+    "nome": "Fresh and Senses (In The Box)",
+    "dna": "Pacific Chill (Louis Vuitton)",
+    "origem": "Nacional",
+    "cat": "Fresh Luminoso",
+    "fam": "Fresh",
+    "ocasiao": [
+      "Trabalho",
+      "Assinatura/Casual"
+    ],
+    "clima": [
+      "Calor",
+      "Ameno"
+    ],
+    "periodo": [
+      "Dia"
+    ],
+    "conc": "EDT",
+    "perfil": [
+      "Cítrico",
+      "Frutado",
+      "Aromático"
+    ],
+    "acordes": [
+      "Cítrico",
+      "Frutado",
+      "Aromático",
+      "Atalcado"
+    ],
+    "notas": [
+      "Cidra",
+      "Limão",
+      "Laranja",
+      "Coentro",
+      "Semente de Cenoura",
+      "Rosa",
+      "Damasco",
+      "Manjericão",
+      "Tâmaras",
+      "Ambrette",
+      "Figo"
+    ],
+    "compat": 6,
+    "qual": 6,
+    "cb": 9,
+    "vers": 6,
+    "fix": 6,
+    "projI": 6,
+    "projD": 5,
+    "preco": 180,
+    "confianca": "Média",
+    "resumo": "Contratipo nacional (In The Box, 2025, EDT) do Pacific Chill (LV). Cidra, limão, laranja e coentro abrem; semente de cenoura, rosa, damasco e manjericão no coração; fundo de tâmaras, ambrette e figo, quase idêntico à pirâmide do original. Fonte única (ScentVerdict): fixação 4-6h, projeção moderada, perfil \"divisivo\". Melhor em clima Calor e Ameno, para Trabalho e Assinatura/Casual.",
+    "veredito": "Compat 6/10 (antes 8, sem fonte): damasco, rosa e fruta seca doce afastam do eixo 1, e a fonte o chama de divisivo e meio estranho. Pirâmide confirmada, mas só por uma fonte. Sample First, nunca blind buy.",
+    "gpf": 6.33,
+    "sdt": 5.27,
+    "nota": 6.35,
+    "score": 5.94
   }
 ]
